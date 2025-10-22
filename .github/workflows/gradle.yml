@@ -93,7 +93,7 @@ jobs:
         with:
           tag_name: ${{ steps.vars.outputs.hash }}
           name: Release ${{ steps.vars.outputs.hash }}
-          files: dist/dist.zip
+          files: dist/rel/*
           generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
