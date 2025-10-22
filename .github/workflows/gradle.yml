@@ -1,0 +1,98 @@
+name: Build Client
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+  pull_request:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: recursive
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          cache-read-only: false
+
+      - name: Create Gradle wrapper
+        run: gradle wrapper
+
+      - name: Make Gradle wrapper executable
+        run: chmod +x gradlew
+
+      - name: Make JavaScript build script executable
+        run: chmod +x CompileJS.sh
+        working-directory: target_teavm_javascript
+        
+      - name: Make WASM build scripts executable
+        run: chmod +x CompileBootstrapJS.sh MakeWASMClientBundle.sh
+        working-directory: target_teavm_wasm_gc
+
+      - name: Build JavaScript client
+        run: ./CompileJS.sh
+        working-directory: target_teavm_javascript
+
+      - name: Build WASM-GC client
+        run: |
+          ./CompileBootstrapJS.sh
+          ./MakeWASMClientBundle.sh
+        working-directory: target_teavm_wasm_gc
+
+      - name: Package artifacts
+        run: |
+          mkdir -p dist
+          cp target_teavm_javascript/javascript/classes.js dist/classes.js
+          cp target_teavm_javascript/javascript/assets.epk dist/assets.epk
+          cp target_teavm_wasm_gc/javascript_dist/bootstrap.js dist/bootstrap.js
+          cp target_teavm_wasm_gc/javascript_dist/assets.epw dist/assets.epw
+          zip -r dist/dist.zip dist
+
+      - name: Upload build
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ github.sha }}
+          path: dist/dist.zip
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Create Release
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.sha }}
+          name: Release ${{ github.sha }}
+          files: dist/dist.zip
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy GitHub Pages
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: target_teavm_wasm_gc/javascript_dist
+          publish_branch: gh-pages
+          keep_files: false
