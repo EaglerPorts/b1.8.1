@@ -7,13 +7,12 @@ import java.io.InputStreamReader;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-import net.lax1dude.eaglercraft.EagRuntime;
 import net.lax1dude.eaglercraft.internal.vfs2.VFile2;
 import net.lax1dude.eaglercraft.opengl.ImageData;
 import net.minecraft.client.Minecraft;
 import org.lwjgl.opengl.GL11;
 
-import dev.colbster937.eaglercraft.ScuffedUtils;
+import dev.colbster937.eaglercraft.utils.ScuffedUtils;
 
 public class TexturePackCustom extends TexturePackBase {
 	private ZipFile texturePackZipFile;
