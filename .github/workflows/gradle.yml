@@ -62,6 +62,10 @@ jobs:
           ./MakeWASMClientBundle.sh
         working-directory: target_teavm_wasm_gc
 
+      - name: Get short commit hash
+        id: vars
+        run: echo "hash=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+
       - name: Package artifacts
         run: |
           mkdir -p dist
@@ -73,18 +77,14 @@ jobs:
           cp target_teavm_wasm_gc/javascript_dist/EaglercraftX_1.8_WASM-GC_Offline_Download.html dist/Eaglercraft_Offline_WASM.html
           zip -r dist/dist.zip dist
           mkdir -p dist/rel
-          cp dist/dist.zip dist/rel/dist.zip
+          cp dist/dist.zip dist/rel/dist_${{ steps.vars.outputs.hash }}.zip
           cp dist/Eaglercraft_Offline_JS.html dist/rel/Eaglercraft_Offline_JS.html
           cp dist/Eaglercraft_Offline_WASM.html dist/rel/Eaglercraft_Offline_WASM.html
-
-      - name: Get short commit hash
-        id: vars
-        run: echo "hash=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
       - name: Upload build
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ steps.vars.outputs.hash }}
+          name: dist_${{ steps.vars.outputs.hash }}
           path: dist/dist.zip
 
       - name: Create Release
