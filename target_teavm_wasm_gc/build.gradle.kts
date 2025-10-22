@@ -55,7 +55,7 @@ teavm.wasmGC {
 	mainClass = "net.lax1dude.eaglercraft.internal.wasm_gc_teavm.MainClass"
 	outputDir = file(wasmFolder)
 	properties = mapOf("java.util.TimeZone.autodetect" to "true")
-	debugInformation = false
+	debugInformation = true
 	debugInfoLocation = WasmDebugInfoLocation.EXTERNAL;
 	debugInfoLevel = WasmDebugInfoLevel.DEOBFUSCATION;
 	minDirectBuffersSize = 32
