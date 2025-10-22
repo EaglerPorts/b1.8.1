@@ -42,8 +42,8 @@ jobs:
       - name: Make Gradle wrapper executable
         run: chmod +x gradlew
 
-      - name: Make JavaScript build script executable
-        run: chmod +x CompileJS.sh
+      - name: Make JavaScript build scripts executable
+        run: chmod +x CompileJS.sh MakeOfflineDownload.sh
         working-directory: target_teavm_javascript
         
       - name: Make WASM build scripts executable
@@ -51,7 +51,9 @@ jobs:
         working-directory: target_teavm_wasm_gc
 
       - name: Build JavaScript client
-        run: ./CompileJS.sh
+        run: |
+          ./CompileJS.sh
+          ./MakeOfflineDownload.sh
         working-directory: target_teavm_javascript
 
       - name: Build WASM-GC client
@@ -65,31 +67,39 @@ jobs:
           mkdir -p dist
           cp target_teavm_javascript/javascript/classes.js dist/classes.js
           cp target_teavm_javascript/javascript/assets.epk dist/assets.epk
+          cp target_teavm_javascript/javascript/EaglercraftX_1.8_Offline_International.html dist/Eaglercraft_Offline_JS.html
           cp target_teavm_wasm_gc/javascript_dist/bootstrap.js dist/bootstrap.js
           cp target_teavm_wasm_gc/javascript_dist/assets.epw dist/assets.epw
+          cp target_teavm_wasm_gc/javascript_dist/EaglercraftX_1.8_WASM-GC_Offline_Download.html dist/Eaglercraft_Offline_WASM.html
           zip -r dist/dist.zip dist
+          mkdir -p dist/rel
+          cp dist/dist.zip dist/rel/dist.zip
+          cp dist/Eaglercraft_Offline_JS.html dist/rel/Eaglercraft_Offline_JS.html
+          cp dist/Eaglercraft_Offline_WASM.html dist/rel/Eaglercraft_Offline_WASM.html
+
+      - name: Get short commit hash
+        id: vars
+        run: echo "hash=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
       - name: Upload build
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ github.sha }}
+          name: ${{ steps.vars.outputs.hash }}
           path: dist/dist.zip
-          if-no-files-found: error
-          retention-days: 14
 
       - name: Create Release
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.sha }}
-          name: Release ${{ github.sha }}
+          tag_name: ${{ steps.vars.outputs.hash }}
+          name: Release ${{ steps.vars.outputs.hash }}
           files: dist/dist.zip
           generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy GitHub Pages
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.event_name == 'push'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
