@@ -3,9 +3,10 @@
 **/.gradle/**
 **/.vscode/**
 **/gradle/wrapper/
-**/gradlew
-**/gradlew.bat
+**/gradlew*
 **/build/
 **/.idea/
+**/mcp/**
 !**/gradle/local-libs/**
 !**/gradle/libs.versions.toml
+!**/mcp/decompile.*
