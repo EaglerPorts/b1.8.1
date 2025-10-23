@@ -25,7 +25,7 @@ import org.teavm.jso.indexeddb.IDBDatabase;
 import org.teavm.jso.typedarrays.ArrayBuffer;
 import org.teavm.jso.typedarrays.Uint8Array;
 
-import net.lax1dude.eaglercraft.EaglercraftVersion;
+import dev.colbster937.eaglercraft.EaglercraftVersion;
 import net.lax1dude.eaglercraft.internal.IEaglerFilesystem;
 import net.lax1dude.eaglercraft.internal.PlatformRuntime;
 import net.lax1dude.eaglercraft.internal.VFSFilenameIterator;
@@ -38,7 +38,7 @@ import net.lax1dude.eaglercraft.internal.vfs2.EaglerFileSystemException;
 public class IndexedDBFilesystem implements IEaglerFilesystem {
 
 	public static IEaglerFilesystem createFilesystem(String dbName) {
-		String filesystemDB = EaglercraftVersion.localStorageNamespace + dbName;
+		String filesystemDB = EaglercraftVersion.STORAGE_KEY + dbName;
 		JSDatabaseOpen dbOpen = openDB(BetterJSStringConverter.stringToJS(filesystemDB));
 
 		if(dbOpen.getFailedLocked()) {

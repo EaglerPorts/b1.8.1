@@ -45,8 +45,8 @@ val jsFolder = "javascript"
 val jsFileName = "classes.js"
 
 teavm.js {
-	obfuscated = true
-	sourceMap = false
+	obfuscated = false
+	sourceMap = true
 	targetFileName = "../$jsFileName"
 	optimization = OptimizationLevel.AGGRESSIVE // Change to "AGGRESSIVE" for release
 	outOfProcess = false
@@ -56,7 +56,7 @@ teavm.js {
 	mainClass = "net.lax1dude.eaglercraft.internal.teavm.MainClass"
 	outputDir = file(jsFolder)
 	properties = mapOf("java.util.TimeZone.autodetect" to "true")
-	debugInformation = false
+	debugInformation = true
 }
 
 tasks.withType<JavaCompile> {

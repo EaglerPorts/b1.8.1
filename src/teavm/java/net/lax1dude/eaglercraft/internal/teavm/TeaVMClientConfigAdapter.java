@@ -1,9 +1,8 @@
 package net.lax1dude.eaglercraft.internal.teavm;
 
-import net.lax1dude.eaglercraft.EaglercraftVersion;
-
 import org.teavm.jso.JSObject;
 
+import dev.colbster937.eaglercraft.EaglercraftVersion;
 import net.lax1dude.eaglercraft.internal.IClientConfigAdapter;
 import net.lax1dude.eaglercraft.internal.IClientConfigAdapterHooks;
 import net.lax1dude.eaglercraft.internal.teavm.opts.JSEaglercraftXOptsHooks;
@@ -56,7 +55,7 @@ public class TeaVMClientConfigAdapter implements IClientConfigAdapter {
 		worldsDB = eaglercraftXOpts.getWorldsDB("worlds");
 		resourcePacksDB = eaglercraftXOpts.getResourcePacksDB("resourcePacks");
 		checkGLErrors = eaglercraftXOpts.getCheckGLErrors(false);
-		localStorageNamespace = eaglercraftXOpts.getLocalStorageNamespace(EaglercraftVersion.localStorageNamespace);
+		localStorageNamespace = eaglercraftXOpts.getLocalStorageNamespace(EaglercraftVersion.STORAGE_KEY);
 		forceWebGL1 = eaglercraftXOpts.getForceWebGL1(false);
 		forceWebGL2 = eaglercraftXOpts.getForceWebGL2(false);
 		allowExperimentalWebGL1 = eaglercraftXOpts.getAllowExperimentalWebGL1(true);

@@ -21,7 +21,7 @@ import org.teavm.jso.indexeddb.IDBVersionChangeEvent;
 import org.teavm.jso.typedarrays.ArrayBuffer;
 import org.teavm.jso.typedarrays.Int8Array;
 
-import net.lax1dude.eaglercraft.EaglercraftVersion;
+import dev.colbster937.eaglercraft.EaglercraftVersion;
 import net.lax1dude.eaglercraft.internal.IEaglerFilesystem;
 import net.lax1dude.eaglercraft.internal.PlatformFilesystem.FilesystemDatabaseInitializationException;
 import net.lax1dude.eaglercraft.internal.PlatformFilesystem.FilesystemDatabaseLockedException;
@@ -50,7 +50,7 @@ import net.lax1dude.eaglercraft.internal.vfs2.VFSIterator2;
 public class IndexedDBFilesystem implements IEaglerFilesystem {
 
 	public static IEaglerFilesystem createFilesystem(String dbName) {
-		String filesystemDB = EaglercraftVersion.localStorageNamespace + dbName;
+		String filesystemDB = EaglercraftVersion.STORAGE_KEY + dbName;
 		System.out.println(filesystemDB);
 		DatabaseOpen dbOpen = AsyncHandlers.openDB(filesystemDB);
 		

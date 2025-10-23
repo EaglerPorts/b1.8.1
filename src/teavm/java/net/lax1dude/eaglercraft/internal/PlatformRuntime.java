@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.function.Consumer;
@@ -15,9 +14,7 @@ import java.util.function.Consumer;
 import net.lax1dude.eaglercraft.EagRuntime;
 import net.lax1dude.eaglercraft.EagUtils;
 import net.lax1dude.eaglercraft.EaglercraftUUID;
-import net.lax1dude.eaglercraft.EaglercraftVersion;
 import net.lax1dude.eaglercraft.Filesystem;
-import net.lax1dude.eaglercraft.KeyboardConstants;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -36,9 +33,7 @@ import org.teavm.jso.dom.events.MessageEvent;
 import org.teavm.jso.dom.html.HTMLCanvasElement;
 import org.teavm.jso.dom.html.HTMLDocument;
 import org.teavm.jso.dom.html.HTMLElement;
-import org.teavm.jso.dom.xml.Element;
 import org.teavm.jso.dom.xml.Node;
-import org.teavm.jso.dom.xml.NodeList;
 import org.teavm.jso.typedarrays.ArrayBuffer;
 import org.teavm.jso.webgl.WebGLFramebuffer;
 import org.teavm.platform.Platform;
@@ -73,7 +68,6 @@ import net.lax1dude.eaglercraft.internal.teavm.VisualViewport;
 import net.lax1dude.eaglercraft.internal.teavm.WebGL2RenderingContext;
 import net.lax1dude.eaglercraft.internal.teavm.WebGLBackBuffer;
 import net.lax1dude.eaglercraft.internal.vfs2.VFile2;
-import net.lax1dude.eaglercraft.opengl.EaglercraftGPU;
 import net.lax1dude.eaglercraft.opengl.RealOpenGLEnums;
 
 /**

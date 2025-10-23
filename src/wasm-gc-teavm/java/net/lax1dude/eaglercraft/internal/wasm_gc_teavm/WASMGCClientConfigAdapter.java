@@ -20,8 +20,10 @@ import net.lax1dude.eaglercraft.internal.IClientConfigAdapter;
 import net.lax1dude.eaglercraft.internal.IClientConfigAdapterHooks;
 import net.lax1dude.eaglercraft.internal.wasm_gc_teavm.opts.JSEaglercraftXOptsHooks;
 import net.lax1dude.eaglercraft.internal.wasm_gc_teavm.opts.JSEaglercraftXOptsRoot;
-import net.lax1dude.eaglercraft.EaglercraftVersion;
+
 import org.teavm.jso.JSObject;
+
+import dev.colbster937.eaglercraft.EaglercraftVersion;
 
 public class WASMGCClientConfigAdapter implements IClientConfigAdapter {
 
@@ -55,7 +57,7 @@ public class WASMGCClientConfigAdapter implements IClientConfigAdapter {
 		worldsDB = eaglercraftXOpts.getWorldsDB("worlds");
 		resourcePacksDB = eaglercraftXOpts.getResourcePacksDB("resourcePacks");
 		checkGLErrors = eaglercraftXOpts.getCheckGLErrors(false);
-		localStorageNamespace = eaglercraftXOpts.getLocalStorageNamespace(EaglercraftVersion.localStorageNamespace);
+		localStorageNamespace = eaglercraftXOpts.getLocalStorageNamespace(EaglercraftVersion.STORAGE_KEY);
 		autoFixLegacyStyleAttr = eaglercraftXOpts.getAutoFixLegacyStyleAttr(true);
 		forceWebGL1 = eaglercraftXOpts.getForceWebGL1(false);
 		forceWebGL2 = eaglercraftXOpts.getForceWebGL2(false);

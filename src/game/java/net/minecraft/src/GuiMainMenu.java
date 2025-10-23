@@ -10,11 +10,11 @@ import java.util.Random;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.util.glu.GLU;
 
+import dev.colbster937.eaglercraft.EaglercraftVersion;
 import dev.colbster937.eaglercraft.gui.GuiScreenInfo;
 import dev.colbster937.eaglercraft.gui.GuiScreenInfo.TextLine;
 import dev.colbster937.eaglercraft.gui.GuiScreenYap;
 import net.lax1dude.eaglercraft.EagRuntime;
-import net.lax1dude.eaglercraft.EaglercraftVersion;
 import net.lax1dude.eaglercraft.opengl.ImageData;
 
 public class GuiMainMenu extends GuiScreen {
@@ -25,7 +25,7 @@ public class GuiMainMenu extends GuiScreen {
 	private int field_35357_f = 0;
 	private int field_35358_g;
 
-	private String credit = "Made by Colbster937";
+	String[] ts = EaglercraftVersion.getTitleString();
 
 	public GuiMainMenu() {
 		try {
@@ -275,7 +275,7 @@ public class GuiMainMenu extends GuiScreen {
 		GL11.glScalef(var8, var8, var8);
 		this.drawCenteredString(this.fontRenderer, this.splashText, 0, -8, 16776960);
 		GL11.glPopMatrix();
-		int w = this.fontRenderer.getStringWidth(credit) * 3 / 4;
+		int w = this.fontRenderer.getStringWidth(ts[1]) * 3 / 4;
 		int bw = w + 6;
 		if (var1 >= this.width - bw && var1 <= this.width && var2 >= 0 && var2 <= 9) {
 			drawRect(this.width - bw, 0, this.width, 10, 0x55000099);
@@ -284,9 +284,9 @@ public class GuiMainMenu extends GuiScreen {
 		}
 		GL11.glPushMatrix();
 		GL11.glScalef(0.75f, 0.75f, 0.75f);
-		this.drawString(this.fontRenderer, credit, (int) ((this.width - w - 3) / 0.75f), 3, 16777215);
+		this.drawString(this.fontRenderer, ts[1], (int) ((this.width - w - 3) / 0.75f), 3, 16777215);
 		GL11.glPopMatrix();
-		this.drawString(this.fontRenderer, "Eaglercraft " + EaglercraftVersion.versionName + " [" + EagRuntime.getPlatformType() + "]", 2, this.height - 10, 16777215);
+		this.drawString(this.fontRenderer, ts[0], 2, this.height - 10, 16777215);
 		this.drawString(this.fontRenderer, "Minecraft Beta 1.8.1", 2, this.height - 20, 16777215);
 		String var9 = "Copyright Mojang AB. Do not distribute!";
 		this.drawString(this.fontRenderer, var9, this.width - this.fontRenderer.getStringWidth(var9) - 2, this.height - 10, 16777215);
@@ -295,7 +295,7 @@ public class GuiMainMenu extends GuiScreen {
 	
 	protected void mouseClicked(int par1, int par2, int par3) {
 		if (par3 == 0) {
-			int w = (fontRenderer.getStringWidth(credit) * 3 / 4) + 6;
+			int w = (fontRenderer.getStringWidth(ts[1]) * 3 / 4) + 6;
 			if (par1 >= this.width - w && par1 <= this.width && par2 >= 0 && par2 <= 9) {
 				showAck(true, true);
 				return;

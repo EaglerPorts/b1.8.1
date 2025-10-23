@@ -23,10 +23,8 @@ import org.teavm.jso.dom.html.HTMLDocument;
 import org.teavm.jso.dom.html.HTMLElement;
 import org.teavm.jso.webgl.WebGLRenderingContext;
 
-import net.lax1dude.eaglercraft.Display;
+import dev.colbster937.eaglercraft.EaglercraftVersion;
 import net.lax1dude.eaglercraft.EagRuntime;
-import net.lax1dude.eaglercraft.EaglercraftVersion;
-import net.lax1dude.eaglercraft.internal.PlatformApplication;
 import net.lax1dude.eaglercraft.internal.PlatformIncompatibleException;
 import net.lax1dude.eaglercraft.internal.PlatformInput;
 import net.lax1dude.eaglercraft.internal.PlatformOpenGL;
@@ -302,9 +300,9 @@ public class ClientMain {
 		}
 
 		StringBuilder str = new StringBuilder();
-		str.append("eaglercraft.version = \"").append("Beta 1.1_02").append("\"\n");
-		str.append("eaglercraft.minecraft = \"0.30\"\n");
-		str.append("eaglercraft.brand = \"" + "eaglercraft" + "\"\n");
+		str.append("eaglercraft.version = \"").append(EaglercraftVersion.EAGLER_VERSION).append("\"\n");
+		str.append("eaglercraft.minecraft = \"").append(EaglercraftVersion.MINECRAFT_VERSION).append("\"\n");
+		str.append("eaglercraft.brand = \"").append(EaglercraftVersion.PROJECT_BRAND).append("\"\n");
 		str.append('\n');
 		str.append(addWebGLToCrash());
 		str.append('\n');

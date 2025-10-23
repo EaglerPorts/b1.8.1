@@ -1,12 +1,10 @@
 **/.DS_Store
-**/gradle/**
 **/.gradle/**
 **/.vscode/**
 **/gradle/wrapper/
-**/gradlew*
+**/gradlew
+**/gradlew.bat
 **/build/
 **/.idea/
-**/mcp/**
 !**/gradle/local-libs/**
 !**/gradle/libs.versions.toml
-!**/mcp/decompile.*

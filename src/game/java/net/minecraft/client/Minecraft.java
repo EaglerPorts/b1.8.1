@@ -160,7 +160,6 @@ public class Minecraft implements Runnable {
 
 	public void updateDisplay() {
 		if (Display.isVSyncSupported()) Display.setVSync(true);
-		Display.update(0);
 		if (Display.wasResized()) this.resize(Display.getWidth(), Display.getHeight());
 	}
 
