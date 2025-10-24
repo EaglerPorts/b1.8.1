@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html style="width: 100%; height: 100%"">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Eaglercraft</title>
+    <style>
+      body {
+        margin: 0px;
+        overflow: hidden;
+        background-color: #fff;
+        color: #000;
+        width: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      body.loading,
+      #status {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+
+      body.loading {
+        height: 100vh;
+      }
+
+      body.game {
+        height: 100%;
+      }
+
+      #status {
+        gap: 12px;
+      }
+
+      .title {
+        font-size: 20px;
+        font-weight: bold;
+      }
+
+      .bar {
+        width: 200px;
+        height: 20px;
+        border: #000 2px solid;
+        padding: 2px;
+      }
+
+      .bar .inner {
+        width: 100%;
+        height: 100%;
+        background-color: #da5151;
+        transition: 0.1s;
+      }
+    </style>
+    <script>
+      async function fetchResource(url, label, elm = null) {
+        const res = await fetch(url);
+        const type =
+          res.headers.get('Content-Type') || 'application/octet-stream';
+        const len = parseInt(res.headers.get('Content-Length') || '0', 10);
+        const reader = res.body.getReader();
+        const chunks = [];
+        const status = document.getElementById(elm);
+        const title = `${label} ${url} ({pct}%)`;
+        if (status) setPct(status, 0, title);
+        let recvd = 0,
+          pct = 0,
+          lastTick = 0;
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          chunks.push(value);
+          recvd += value.byteLength;
+          if (len) {
+            const now = performance.now();
+            if (now - lastTick > 50) {
+              pct = (recvd / len) * 100;
+              setPct(status, pct, title);
+              lastTick = now;
+            }
+          } else {
+            const x = (performance.now() / 8) % 100;
+            setPct(status, x, title);
+          }
+        }
+        setPct(status, 100, title);
+        return URL.createObjectURL(new Blob(chunks, { type }));
+      }
+
+      function setPct(e, x, l) {
+        e.querySelector('.title').innerHTML = l.replaceAll(
+          '{pct}',
+          Math.round(x * 10) / 10
+        );
+        e.querySelector('.bar .inner').style.width = `${x}%`;
+      }
+
+      window.eaglercraftXOpts = {
+        enableMinceraft: false,
+        allowUpdateSvc: false,
+        allowUpdateDL: false,
+        checkRelaysForUpdates: false,
+        allowFNAWSkins: false,
+        autoFixLegacyStyleAttr: true,
+        allowBootMenu: false,
+        forceProfanityFilter: true,
+        noInitialModGui: true,
+        enableEPKVersionCheck: true,
+        allowServerRedirects: false,
+        container: 'game_frame',
+        localesURI: 'lang/',
+        worldsDB: 'worlds',
+        servers: [
+          {
+            addr: 'wss://play.webmc.fun',
+            name: 'WebMC',
+            hideAddr: true,
+          },
+        ],
+        relays: [],
+      };
+    </script>
+    <script>
+      const wasm =
+        typeof WebAssembly !== 'undefined' &&
+        typeof WebAssembly.Suspending !== 'undefined';
+
+      window.addEventListener('load', () => {
+        async function startGame() {
+          const js = await fetchResource(
+            `${wasm ? 'bootstrap' : 'classes'}.js`,
+            'Downloading',
+            'status'
+          );
+          const assets = await fetchResource(
+            `assets.ep${wasm ? 'w' : 'k'}`,
+            'Downloading',
+            'status'
+          );
+          const script = document.createElement('script');
+          window.eaglercraftXOpts.assetsURI = assets;
+          script.src = js;
+          document.head.appendChild(script);
+          script.onload = () => {
+            document.body.innerHTML = '';
+            document.body.classList.remove('loading');
+            document.body.classList.add('game');
+            document.body.id = 'game_frame';
+            main();
+          };
+        }
+        startGame();
+      });
+    </script>
+  </head>
+  <body class="loading">
+    <div id="status">
+      <span class="title"></span>
+      <div class="bar">
+        <div class="inner"></div>
+      </div>
+    </div>
+  </body>
+</html>

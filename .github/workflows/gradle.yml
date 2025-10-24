@@ -75,11 +75,19 @@ jobs:
           cp target_teavm_wasm_gc/javascript_dist/bootstrap.js dist/bootstrap.js
           cp target_teavm_wasm_gc/javascript_dist/assets.epw dist/assets.epw
           cp target_teavm_wasm_gc/javascript_dist/EaglercraftX_1.8_WASM-GC_Offline_Download.html dist/Eaglercraft_Offline_WASM.html
+          cp src/web/index.html dist/index.html
           zip -r dist/dist.zip dist
           mkdir -p dist/rel
           cp dist/dist.zip dist/rel/dist_${{ steps.vars.outputs.hash }}.zip
+          cp dist/index.html dist/web/index.html
           cp dist/Eaglercraft_Offline_JS.html dist/rel/Eaglercraft_Offline_JS.html
           cp dist/Eaglercraft_Offline_WASM.html dist/rel/Eaglercraft_Offline_WASM.html
+          mkdir -p dist/web
+          cp dist/index.html dist/web/index.html
+          cp dist/classes.js dist/web/classes.js
+          cp dist/assets.epk dist/web/assets.epk
+          cp dist/bootstrap.js dist/web/bootstrap.js
+          cp dist/assets.epw dist/web/assets.epw
 
       - name: Upload build
         uses: actions/upload-artifact@v4
@@ -103,6 +111,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: target_teavm_wasm_gc/javascript_dist
+          publish_dir: dist/web
           publish_branch: gh-pages
           keep_files: false
