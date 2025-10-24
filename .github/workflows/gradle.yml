@@ -78,7 +78,7 @@ jobs:
           cp src/web/index.html dist/index.html
           zip -r dist/dist.zip dist
           mkdir -p dist/rel
-          cp dist/dist.zip dist/rel/dist_${{ steps.vars.outputs.hash }}.zip\
+          cp dist/dist.zip dist/rel/dist_${{ steps.vars.outputs.hash }}.zip
           cp dist/Eaglercraft_Offline_JS.html dist/rel/Eaglercraft_Offline_JS.html
           cp dist/Eaglercraft_Offline_WASM.html dist/rel/Eaglercraft_Offline_WASM.html
           mkdir -p dist/web
