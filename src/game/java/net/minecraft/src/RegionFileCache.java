@@ -36,6 +36,12 @@ public class RegionFileCache {
 	}
 
 	public static synchronized void clearRegionFileReferences() {
+		saveRegionFiles();
+
+		regionsByFilename.clear();
+	}
+
+	public static synchronized void saveRegionFiles() {
 		Iterator var0 = regionsByFilename.values().iterator();
 
 		while(var0.hasNext()) {
@@ -50,8 +56,6 @@ public class RegionFileCache {
 				var3.printStackTrace();
 			}
 		}
-
-		regionsByFilename.clear();
 	}
 
 	public static int getSizeDelta(VFile2 var0, int var1, int var2) {

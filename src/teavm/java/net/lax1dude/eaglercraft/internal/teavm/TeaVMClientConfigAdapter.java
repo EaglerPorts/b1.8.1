@@ -1,12 +1,17 @@
 package net.lax1dude.eaglercraft.internal.teavm;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.teavm.jso.JSObject;
+import org.teavm.jso.core.JSArrayReader;
 
 import dev.colbster937.eaglercraft.EaglercraftVersion;
 import net.lax1dude.eaglercraft.internal.IClientConfigAdapter;
 import net.lax1dude.eaglercraft.internal.IClientConfigAdapterHooks;
 import net.lax1dude.eaglercraft.internal.teavm.opts.JSEaglercraftXOptsHooks;
 import net.lax1dude.eaglercraft.internal.teavm.opts.JSEaglercraftXOptsRoot;
+import net.lax1dude.eaglercraft.internal.teavm.opts.JSEaglercraftXOptsServer;
 
 /**
  * Copyright (c) 2022-2024 lax1dude. All Rights Reserved.
@@ -49,6 +54,9 @@ public class TeaVMClientConfigAdapter implements IClientConfigAdapter {
 	private boolean keepAliveHack = true;
 	private boolean finishOnSwap = true;
 
+	private boolean demoMode = false;
+	private List<DefaultServer> defaultServers = new ArrayList<>();
+
 	public void loadNative(JSObject jsObject) {
 		JSEaglercraftXOptsRoot eaglercraftXOpts = (JSEaglercraftXOptsRoot)jsObject;
 		
@@ -71,6 +79,20 @@ public class TeaVMClientConfigAdapter implements IClientConfigAdapter {
 		enableEPKVersionCheck = eaglercraftXOpts.getEnableEPKVersionCheck(true);
 		keepAliveHack = eaglercraftXOpts.getKeepAliveHack(true);
 		finishOnSwap = eaglercraftXOpts.getFinishOnSwap(true);
+		demoMode = eaglercraftXOpts.getDemoMode(false);
+		defaultServers.clear();
+		JSArrayReader<JSEaglercraftXOptsServer> serversArray = eaglercraftXOpts.getServers();
+		if(serversArray != null) {
+			for(int i = 0, l = serversArray.getLength(); i < l; ++i) {
+				JSEaglercraftXOptsServer serverEntry = serversArray.get(i);
+				boolean hideAddr = serverEntry.getHideAddr(false);
+				String serverAddr = serverEntry.getAddr();
+				if(serverAddr != null) {
+					String serverName = serverEntry.getName("Default Server #" + i);
+					defaultServers.add(new DefaultServer(serverName, serverAddr, hideAddr));
+				}
+			}
+		}
 		JSEaglercraftXOptsHooks hooksObj = eaglercraftXOpts.getHooks();
 		if(hooksObj != null) {
 			hooks.loadHooks(hooksObj);
@@ -167,5 +189,15 @@ public class TeaVMClientConfigAdapter implements IClientConfigAdapter {
 	
 	public boolean isFinishOnSwapTeaVM() {
 		return finishOnSwap;
+	}
+
+	@Override
+	public List<DefaultServer> getDefaultServerList() {
+		return defaultServers;
+	}
+
+	@Override
+	public boolean isDemo() {
+		return demoMode;
 	}
 }

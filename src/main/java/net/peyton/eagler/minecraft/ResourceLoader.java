@@ -8,7 +8,6 @@ import net.lax1dude.eaglercraft.EagRuntime;
 import net.lax1dude.eaglercraft.internal.EnumPlatformType;
 
 public class ResourceLoader {
-	
 	private static final ObjectArrayList<String> sounds = new ObjectArrayList<>();
 	private static final ObjectArrayList<String> music = new ObjectArrayList<>();
 	
@@ -49,7 +48,7 @@ public class ResourceLoader {
 	}
 	
 	static {
-		resources.add(new Resource("newsound/", "ogg", sounds));
-		resources.add(new Resource("newmusic/", "ogg", music));
+		resources.add(new Resource("sound/", "ogg", sounds));
+		resources.add(new Resource("music/", "ogg", music));
 	}
 }

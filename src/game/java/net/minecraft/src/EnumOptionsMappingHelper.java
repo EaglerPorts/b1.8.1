@@ -29,5 +29,15 @@ class EnumOptionsMappingHelper {
 		} catch (NoSuchFieldError var1) {
 		}
 
+		try {
+			enumOptionsMappingHelperArray[EnumOptions.SHOW_FRAMERATE.ordinal()] = 6;
+		} catch (NoSuchFieldError var1) {
+		}
+
+		try {
+			enumOptionsMappingHelperArray[EnumOptions.SHOW_COORDS.ordinal()] = 7;
+		} catch (NoSuchFieldError var1) {
+		}
+
 	}
 }

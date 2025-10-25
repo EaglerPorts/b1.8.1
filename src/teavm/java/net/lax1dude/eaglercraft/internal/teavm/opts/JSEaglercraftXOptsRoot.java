@@ -93,4 +93,10 @@ public abstract class JSEaglercraftXOptsRoot implements JSObject {
 	@JSBody(params = { "def" }, script = "return (typeof this.finishOnSwap === \"boolean\") ? this.finishOnSwap : def;")
 	public native boolean getFinishOnSwap(boolean finishOnSwap);
 
+	@JSBody(params = { "def" }, script = "return (typeof this.demoMode === \"boolean\") ? this.demoMode : def;")
+	public native boolean getDemoMode(boolean defaultValue);
+
+	@JSBody(script = "return (typeof this.servers === \"object\") ? this.servers : null;")
+	public native JSArrayReader<JSEaglercraftXOptsServer> getServers();
+
 }

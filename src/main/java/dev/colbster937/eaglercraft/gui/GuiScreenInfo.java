@@ -22,11 +22,13 @@ public class GuiScreenInfo extends GuiScreen {
     this(null, lines);
   }
 
+  @Override
   public void initGui() {
     controlList.add(new GuiButton(0, (width - 200) / 2, height / 4 + 132,
         translate.translateKey(this.mm ? "gui.toMenu" : "gui.done")));
   }
 
+  @Override
   public void drawScreen(int mx, int my, float f) {
     drawDefaultBackground();
     for (int i = 0; i < lines.length; i++) {
@@ -37,6 +39,7 @@ public class GuiScreenInfo extends GuiScreen {
     super.drawScreen(mx, my, f);
   }
 
+  @Override
   protected void actionPerformed(GuiButton var1) {
     if (var1.id == 0) {
       if (this.parent == null)

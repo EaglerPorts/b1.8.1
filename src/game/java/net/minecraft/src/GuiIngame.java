@@ -282,7 +282,9 @@ public class GuiIngame extends Gui {
 			this.drawString(var8, "Seed: " + this.mc.theWorld.getRandomSeed(), 2, 104, 14737632);
 			GL11.glPopMatrix();
 		} else {
-			var8.drawStringWithShadow("Minecraft Beta 1.8.1", 2, 2, 16777215);
+			if (this.mc.gameSettings.showFramerate) var8.drawStringWithShadow("Minecraft Beta 1.8.1 (" + this.mc.fps + " fps)", 2, 2, 16777215);
+			else var8.drawStringWithShadow("Minecraft Beta 1.8.1", 2, 2, 16777215);
+			if (this.mc.gameSettings.showCoords) var8.drawStringWithShadow("x: " + (int) Math.floor(this.mc.thePlayer.posX) + ", y: " + (int) Math.floor(this.mc.thePlayer.posY) + ", z: " + (int) Math.floor(this.mc.thePlayer.posZ), 2, 12, 16777215);
 		}
 
 		if(this.recordPlayingUpFor > 0) {

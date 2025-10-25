@@ -1,6 +1,7 @@
 package net.minecraft.client;
 
 import net.lax1dude.eaglercraft.EagRuntime;
+import net.lax1dude.eaglercraft.internal.PlatformRuntime;
 import net.lax1dude.eaglercraft.internal.vfs2.VFile2;
 import net.minecraft.src.AchievementList;
 import net.minecraft.src.AxisAlignedBB;
@@ -64,6 +65,7 @@ import net.minecraft.src.SoundManager;
 import net.minecraft.src.StatFileWriter;
 import net.minecraft.src.StatList;
 import net.minecraft.src.StatStringFormatKeyInv;
+import net.minecraft.src.StringTranslate;
 import net.minecraft.src.Teleporter;
 import net.minecraft.src.Tessellator;
 import net.minecraft.src.TextureCompassFX;
@@ -88,6 +90,9 @@ import org.lwjgl.input.Mouse;
 import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.util.glu.GLU;
+
+import dev.colbster937.eaglercraft.utils.SaveUtils;
+import dev.colbster937.eaglercraft.utils.StringPrintStream;
 
 public class Minecraft implements Runnable {
 	public static byte[] field_28006_b = new byte[10485760];
@@ -130,19 +135,20 @@ public class Minecraft implements Runnable {
 	public static long hasPaidCheckTime = 0L;
 	private int field_35001_ab = 0;
 	public StatFileWriter statFileWriter;
-	private String serverName;
-	private int serverPort;
 	private TextureWaterFX textureWaterFX = new TextureWaterFX();
 	private TextureLavaFX textureLavaFX = new TextureLavaFX();
 	private static VFile2 minecraftDir = null;
 	public volatile boolean running = true;
 	public String debug = "";
+	public int fps = 0;
 	boolean isTakingScreenshot = false;
 	long prevFrameTime = -1L;
 	public boolean inGameHasFocus = false;
 	public boolean isRaining = false;
 	long systemTime = System.currentTimeMillis();
 	private int joinPlayerCounter = 0;
+
+	private String serverIP;
 
 	public Minecraft() {
 		StatList.func_27360_a();
@@ -169,12 +175,14 @@ public class Minecraft implements Runnable {
 	}
 
 	public void displayUnexpectedThrowable(UnexpectedThrowable var1) {
+		StringPrintStream log = new StringPrintStream();
 		var1.exception.printStackTrace();
+		var1.exception.printStackTrace(log);
+		PlatformRuntime.writeCrashReport(log.toString());
 	}
 
-	public void setServer(String var1, int var2) {
-		this.serverName = var1;
-		this.serverPort = var2;
+	public void setServer(String var1) {
+		this.serverIP = var1;
 	}
 
 	public void startGame() throws LWJGLException {
@@ -226,13 +234,14 @@ public class Minecraft implements Runnable {
 
 		this.checkGLError("Post startup");
 		this.ingameGUI = new GuiIngame(this);
-		if(this.serverName != null) {
-			this.displayGuiScreen(new GuiConnecting(this, this.serverName, this.serverPort));
+		if(this.serverIP != null) {
+			this.displayGuiScreen(new GuiConnecting(this, new GuiMainMenu(), this.serverIP));
 		} else {
 			this.displayGuiScreen(new GuiMainMenu());
 		}
 
 		this.loadingScreen = new LoadingScreenRenderer(this);
+		SaveUtils.setProgressUpdate(this.loadingScreen);
 	}
 
 	private void loadScreen() throws LWJGLException {
@@ -470,8 +479,10 @@ public class Minecraft implements Runnable {
 
 					for(this.isGamePaused = !this.isMultiplayerWorld() && this.currentScreen != null && this.currentScreen.doesGuiPauseGame(); System.currentTimeMillis() >= var1 + 1000L; var3 = 0) {
 						this.debug = var3 + " fps, " + WorldRenderer.chunksUpdated + " chunk updates";
+						this.fps = var3;
 						WorldRenderer.chunksUpdated = 0;
 						var1 += 1000L;
+						// System.out.println(Minecraft.getMinecraft().currentScreen);
 					}
 				} catch (MinecraftException var18) {
 					this.theWorld = null;
@@ -743,6 +754,9 @@ public class Minecraft implements Runnable {
 		
 	}
 
+	private int noticeTimer = 0;
+	private boolean displayedNotice = false;
+
 	public void runTick() {
 		if(this.field_35001_ab > 0) {
 			--this.field_35001_ab;
@@ -767,7 +781,19 @@ public class Minecraft implements Runnable {
 		}
 
 		if(!this.isGamePaused && this.theWorld != null) {
-			this.playerController.updateController();
+			playerController.updateController();
+			if (!this.displayedNotice) {
+				if(++noticeTimer >= 150) {
+					if (thePlayer != null) {
+						this.displayedNotice = true;
+						if (!isMultiplayerWorld()) {
+							StringTranslate translate = StringTranslate.getInstance();
+							ingameGUI.addChatMessage("§c" + translate.translateKey("eaglercraft.lagNotice1"));
+							ingameGUI.addChatMessage("§c" + translate.translateKey("eaglercraft.lagNotice2"));
+						}
+					}
+				}
+			}
 		}
 
 		GL11.glBindTexture(GL11.GL_TEXTURE_2D, this.renderEngine.getTexture("/terrain.png"));

@@ -55,7 +55,9 @@ class GuiSlotServer extends GuiSlot {
 		this.field_35410_a.drawString(this.field_35410_a.fontRenderer, var6.field_35795_a, var2 + 2, var3 + 1, 16777215);
 		this.field_35410_a.drawString(this.field_35410_a.fontRenderer, var6.field_35791_d, var2 + 2, var3 + 12, 8421504);
 		this.field_35410_a.drawString(this.field_35410_a.fontRenderer, var6.field_35794_c, var2 + 215 - this.field_35410_a.fontRenderer.getStringWidth(var6.field_35794_c), var3 + 12, 8421504);
-		this.field_35410_a.drawString(this.field_35410_a.fontRenderer, var6.field_35793_b, var2 + 2, var3 + 12 + 11, 3158064);
+		String addr = var6.field_35793_b;
+		if (var6.hideAddress) addr = StringTranslate.getInstance().translateKey("eaglercraft.selectServer.hiddenAddress");
+		this.field_35410_a.drawString(this.field_35410_a.fontRenderer, addr, var2 + 2, var3 + 12 + 11, 3158064);
 		GL11.glColor4f(1.0F, 1.0F, 1.0F, 1.0F);
 		this.field_35410_a.mc.renderEngine.bindTexture(this.field_35410_a.mc.renderEngine.getTexture("/gui/icons.png"));
 		boolean var12 = false;

@@ -297,6 +297,7 @@ public class GuiMainMenu extends GuiScreen {
 		if (par3 == 0) {
 			int w = (fontRenderer.getStringWidth(ts[1]) * 3 / 4) + 6;
 			if (par1 >= this.width - w && par1 <= this.width && par2 >= 0 && par2 <= 9) {
+				this.mc.sndManager.playSoundFX("random.click", 1.0F, 1.0F);
 				showAck(true, true);
 				return;
 			}

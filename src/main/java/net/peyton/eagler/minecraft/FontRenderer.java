@@ -214,6 +214,7 @@ public class FontRenderer {
 	 * Draws the specified string.
 	 */
 	public int drawString(String text, float x, float y, int color, boolean dropShadow) {
+		
 		GlStateManager.enableAlpha();
 		int i;
 		if (dropShadow) {

@@ -4,7 +4,7 @@ public class GuiOptions extends GuiScreen {
 	private GuiScreen parentScreen;
 	protected String screenTitle = "Options";
 	private GameSettings options;
-	private static EnumOptions[] relevantOptions = new EnumOptions[]{EnumOptions.MUSIC, EnumOptions.SOUND, EnumOptions.INVERT_MOUSE, EnumOptions.SENSITIVITY, EnumOptions.FOV, EnumOptions.DIFFICULTY};
+	private static EnumOptions[] relevantOptions = new EnumOptions[]{EnumOptions.MUSIC, EnumOptions.SOUND, EnumOptions.INVERT_MOUSE, EnumOptions.SENSITIVITY, EnumOptions.FOV, EnumOptions.DIFFICULTY, EnumOptions.SHOW_FRAMERATE, EnumOptions.SHOW_COORDS};
 
 	public GuiOptions(GuiScreen var1, GameSettings var2) {
 		this.parentScreen = var1;
@@ -28,7 +28,7 @@ public class GuiOptions extends GuiScreen {
 			}
 			this.controlList.add(b);
 
-			if (var5 == 0 || var5 == 1) b.enabled = false;
+			if (var5 == 0) b.enabled = false;
 
 			++var2;
 		}

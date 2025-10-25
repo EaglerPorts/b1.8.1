@@ -9,6 +9,8 @@ import java.util.ArrayList;
 import java.util.List;
 import org.lwjgl.input.Keyboard;
 
+import net.lax1dude.eaglercraft.EagRuntime;
+import net.lax1dude.eaglercraft.internal.IClientConfigAdapter.DefaultServer;
 import net.lax1dude.eaglercraft.internal.vfs2.VFile2;
 
 public class GuiMultiplayer extends GuiScreen {
@@ -45,12 +47,19 @@ public class GuiMultiplayer extends GuiScreen {
 
 	private void func_35324_p() {
 		try {
-			NBTTagCompound var1 = CompressedStreamTools.func_35622_a(new VFile2(this.mc.mcDataDir, "servers.dat"));
-			NBTTagList var2 = var1.getTagList("servers");
 			this.field_35340_f.clear();
+			for (DefaultServer srv : EagRuntime.getConfiguration().getDefaultServerList()) {
+				ServerNBTStorage dat = new ServerNBTStorage(srv.name, srv.addr, srv.hideAddress);
+				dat.isDefault = true;
+				this.field_35340_f.add(dat);
+			}
+			NBTTagCompound var1 = CompressedStreamTools.func_35622_a(new VFile2(this.mc.mcDataDir, "servers.dat"));
+			if (var1 != null) {
+				NBTTagList var2 = var1.getTagList("servers");
 
-			for(int var3 = 0; var3 < var2.tagCount(); ++var3) {
-				this.field_35340_f.add(ServerNBTStorage.func_35788_a((NBTTagCompound)var2.tagAt(var3)));
+				for(int var3 = 0; var3 < var2.tagCount(); ++var3) {
+					this.field_35340_f.add(ServerNBTStorage.func_35788_a((NBTTagCompound)var2.tagAt(var3)));
+				}
 			}
 		} catch (Exception var4) {
 			var4.printStackTrace();
@@ -63,7 +72,8 @@ public class GuiMultiplayer extends GuiScreen {
 			NBTTagList var1 = new NBTTagList();
 
 			for(int var2 = 0; var2 < this.field_35340_f.size(); ++var2) {
-				var1.setTag(((ServerNBTStorage)this.field_35340_f.get(var2)).func_35789_a());
+				ServerNBTStorage srv = (ServerNBTStorage) this.field_35340_f.get(var2);
+				if (!srv.isDefault) var1.setTag((srv).func_35789_a());
 			}
 
 			NBTTagCompound var4 = new NBTTagCompound();
@@ -119,7 +129,7 @@ public class GuiMultiplayer extends GuiScreen {
 			} else if(var1.id == 7) {
 				this.field_35352_t = true;
 				ServerNBTStorage var9 = (ServerNBTStorage)this.field_35340_f.get(this.field_35341_g);
-				this.mc.displayGuiScreen(new GuiScreenAddServer(this, this.field_35349_w = new ServerNBTStorage(var9.field_35795_a, var9.field_35793_b)));
+				this.mc.displayGuiScreen(new GuiScreenAddServer(this, this.field_35349_w = new ServerNBTStorage(var9.field_35795_a, var9.field_35793_b, var9.hideAddress)));
 			} else if(var1.id == 0) {
 				this.mc.displayGuiScreen(this.parentScreen);
 			} else if(var1.id == 8) {
@@ -161,6 +171,7 @@ public class GuiMultiplayer extends GuiScreen {
 				ServerNBTStorage var3 = (ServerNBTStorage)this.field_35340_f.get(this.field_35341_g);
 				var3.field_35795_a = this.field_35349_w.field_35795_a;
 				var3.field_35793_b = this.field_35349_w.field_35793_b;
+				var3.hideAddress = this.field_35349_w.hideAddress;
 				this.func_35323_q();
 			}
 
@@ -226,7 +237,7 @@ public class GuiMultiplayer extends GuiScreen {
 			var3 = new String[]{var2};
 		}
 
-		this.mc.displayGuiScreen(new GuiConnecting(this.mc, var3[0], var3.length > 1 ? this.parseIntWithDefault(var3[1], 25565) : 25565));
+		this.mc.displayGuiScreen(new GuiConnecting(this.mc, this, var3[0]));
 	}
 
 	private void func_35328_b(ServerNBTStorage var1) throws IOException {

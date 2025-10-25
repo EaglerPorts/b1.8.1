@@ -9,6 +9,7 @@ import java.util.Map;
 
 import net.lax1dude.eaglercraft.EagUtils;
 import net.lax1dude.eaglercraft.internal.vfs2.VFile2;
+import net.minecraft.client.Minecraft;
 
 public class StatsSyncher {
 	private volatile boolean isBusy = false;

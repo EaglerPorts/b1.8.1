@@ -2,11 +2,16 @@ package net.minecraft.src;
 
 import org.lwjgl.input.Keyboard;
 
+import net.lax1dude.eaglercraft.EagRuntime;
+
 public class GuiScreenAddServer extends GuiScreen {
 	private GuiScreen field_35362_a;
 	private GuiTextField field_35360_b;
 	private GuiTextField field_35361_c;
 	private ServerNBTStorage field_35359_d;
+
+	private StringTranslate translate = StringTranslate.getInstance();
+	private GuiButton hideAddress;
 
 	public GuiScreenAddServer(GuiScreen var1, ServerNBTStorage var2) {
 		this.field_35362_a = var1;
@@ -22,13 +27,24 @@ public class GuiScreenAddServer extends GuiScreen {
 		StringTranslate var1 = StringTranslate.getInstance();
 		Keyboard.enableRepeatEvents(true);
 		this.controlList.clear();
-		this.controlList.add(new GuiButton(0, this.width / 2 - 100, this.height / 4 + 96 + 12, var1.translateKey("addServer.add")));
-		this.controlList.add(new GuiButton(1, this.width / 2 - 100, this.height / 4 + 120 + 12, var1.translateKey("gui.cancel")));
+		GuiButton done;
+		GuiButton cancel;
+		this.controlList.add(done = new GuiButton(0, this.width / 2 - 100, this.height / 4 + 96 + 12, var1.translateKey("addServer.add")));
+		this.controlList.add(cancel = new GuiButton(1, this.width / 2 - 100, this.height / 4 + 120 + 12, var1.translateKey("gui.cancel")));
+		if (EagRuntime.requireSSL()) {
+			done.yPosition = cancel.yPosition;
+			done.width = (done.width / 2) - 2;
+			cancel.width = (cancel.width / 2) - 2;
+			done.xPosition += cancel.width + 4;
+		}
 		this.field_35361_c = new GuiTextField(this, this.fontRenderer, this.width / 2 - 100, 76, 200, 20, this.field_35359_d.field_35795_a);
 		this.field_35361_c.isFocused = true;
 		this.field_35361_c.setMaxStringLength(32);
 		this.field_35360_b = new GuiTextField(this, this.fontRenderer, this.width / 2 - 100, 116, 200, 20, this.field_35359_d.field_35793_b);
 		this.field_35360_b.setMaxStringLength(128);
+		this.controlList.add(this.hideAddress = new GuiButton(2, this.width / 2 - 100, 148, 200, 20,
+				translate.translateKey("eaglercraft.addServer.hideAddress") + ": "
+						+ translate.translateKey(this.field_35359_d.hideAddress ? "gui.yes" : "gui.no")));
 		((GuiButton)this.controlList.get(0)).enabled = this.field_35360_b.getText().length() > 0 && this.field_35361_c.getText().length() > 0;
 	}
 
@@ -44,6 +60,11 @@ public class GuiScreenAddServer extends GuiScreen {
 				this.field_35359_d.field_35795_a = this.field_35361_c.getText();
 				this.field_35359_d.field_35793_b = this.field_35360_b.getText();
 				this.field_35362_a.deleteWorld(true, 0);
+			} else if(var1.id == 2) {
+				this.field_35359_d.hideAddress = !this.field_35359_d.hideAddress;
+				this.hideAddress.displayString = translate
+						.translateKey( "eaglercraft.addServer.hideAddress")
+						+ ": " + translate.translateKey(this.field_35359_d.hideAddress ? "gui.yes" : "gui.no");
 			}
 
 		}
@@ -67,13 +88,6 @@ public class GuiScreenAddServer extends GuiScreen {
 		}
 
 		((GuiButton)this.controlList.get(0)).enabled = this.field_35360_b.getText().length() > 0 && this.field_35361_c.getText().length() > 0;
-		if(((GuiButton)this.controlList.get(0)).enabled) {
-			String var3 = this.field_35360_b.getText().trim();
-			String[] var4 = var3.split(":");
-			if(var4.length > 2) {
-				((GuiButton)this.controlList.get(0)).enabled = false;
-			}
-		}
 
 	}
 
@@ -89,6 +103,12 @@ public class GuiScreenAddServer extends GuiScreen {
 		this.drawCenteredString(this.fontRenderer, var4.translateKey("addServer.title"), this.width / 2, this.height / 4 - 60 + 20, 16777215);
 		this.drawString(this.fontRenderer, var4.translateKey("addServer.enterName"), this.width / 2 - 100, 63, 10526880);
 		this.drawString(this.fontRenderer, var4.translateKey("addServer.enterIp"), this.width / 2 - 100, 104, 10526880);
+		if (EagRuntime.requireSSL()) {
+			this.drawCenteredString(this.fontRenderer, translate.translateKey("eaglercraft.addServer.SSLWarn1"), this.width / 2, 174,
+					0xccccff);
+			this.drawCenteredString(this.fontRenderer, translate.translateKey("eaglercraft.addServer.SSLWarn2"), this.width / 2, 186,
+					0xccccff);
+		}
 		this.field_35361_c.drawTextBox();
 		this.field_35360_b.drawTextBox();
 		super.drawScreen(var1, var2, var3);

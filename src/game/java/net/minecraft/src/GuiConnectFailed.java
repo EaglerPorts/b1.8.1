@@ -3,14 +3,17 @@ package net.minecraft.src;
 public class GuiConnectFailed extends GuiScreen {
 	private String errorMessage;
 	private String errorDetail;
+	
+	private GuiScreen parent;
 
-	public GuiConnectFailed(String var1, String var2, Object... var3) {
-		StringTranslate var4 = StringTranslate.getInstance();
-		this.errorMessage = var4.translateKey(var1);
-		if(var3 != null) {
-			this.errorDetail = var4.translateKeyFormat(var2, var3);
+	public GuiConnectFailed(GuiScreen var1, String var2, String var3, Object... var4) {
+		this.parent = var1;
+		StringTranslate var5 = StringTranslate.getInstance();
+		this.errorMessage = var5.translateKey(var2);
+		if(var4 != null) {
+			this.errorDetail = var5.translateKeyFormat(var3, var4);
 		} else {
-			this.errorDetail = var4.translateKey(var2);
+			this.errorDetail = var5.translateKey(var3);
 		}
 
 	}
@@ -24,12 +27,12 @@ public class GuiConnectFailed extends GuiScreen {
 	public void initGui() {
 		StringTranslate var1 = StringTranslate.getInstance();
 		this.controlList.clear();
-		this.controlList.add(new GuiButton(0, this.width / 2 - 100, this.height / 4 + 120 + 12, var1.translateKey("gui.toMenu")));
+		this.controlList.add(new GuiButton(0, this.width / 2 - 100, this.height / 4 + 120 + 12, var1.translateKey("gui.done")));
 	}
 
 	protected void actionPerformed(GuiButton var1) {
 		if(var1.id == 0) {
-			this.mc.displayGuiScreen(new GuiMainMenu());
+			this.mc.displayGuiScreen(parent);
 		}
 
 	}

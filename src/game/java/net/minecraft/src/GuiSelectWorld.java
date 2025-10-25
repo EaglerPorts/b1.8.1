@@ -5,6 +5,10 @@ import java.text.SimpleDateFormat;
 import java.util.Collections;
 import java.util.List;
 
+import dev.colbster937.eaglercraft.utils.SaveUtils;
+import net.lax1dude.eaglercraft.EagRuntime;
+import net.lax1dude.eaglercraft.internal.PlatformApplication;
+
 public class GuiSelectWorld extends GuiScreen {
 	private final DateFormat dateFormatter = new SimpleDateFormat();
 	protected GuiScreen parentScreen;
@@ -20,6 +24,7 @@ public class GuiSelectWorld extends GuiScreen {
 	private GuiButton buttonRename;
 	private GuiButton buttonSelect;
 	private GuiButton buttonDelete;
+	private GuiButton buttonExport;
 
 	public GuiSelectWorld(GuiScreen var1) {
 		this.parentScreen = var1;
@@ -64,11 +69,13 @@ public class GuiSelectWorld extends GuiScreen {
 		this.controlList.add(this.buttonSelect = new GuiButton(1, this.width / 2 - 154, this.height - 52, 150, 20, var1.translateKey("selectWorld.select")));
 		this.controlList.add(this.buttonRename = new GuiButton(6, this.width / 2 - 154, this.height - 28, 70, 20, var1.translateKey("selectWorld.rename")));
 		this.controlList.add(this.buttonDelete = new GuiButton(2, this.width / 2 - 74, this.height - 28, 70, 20, var1.translateKey("selectWorld.delete")));
+		this.controlList.add(this.buttonExport = new GuiButton(4, this.width / 2 + 4, this.height - 28, 70, 20, var1.translateKey("eaglercraft.selectWorld.export")));
 		this.controlList.add(new GuiButton(3, this.width / 2 + 4, this.height - 52, 150, 20, var1.translateKey("selectWorld.create")));
-		this.controlList.add(new GuiButton(0, this.width / 2 + 4, this.height - 28, 150, 20, var1.translateKey("gui.cancel")));
+		this.controlList.add(new GuiButton(0, this.width / 2 + 84, this.height - 28, 70, 20, var1.translateKey("gui.cancel")));
 		this.buttonSelect.enabled = false;
 		this.buttonRename.enabled = false;
 		this.buttonDelete.enabled = false;
+		this.buttonExport.enabled = false;
 	}
 
 	protected void actionPerformed(GuiButton var1) {
@@ -93,6 +100,13 @@ public class GuiSelectWorld extends GuiScreen {
 				this.mc.displayGuiScreen(new GuiRenameWorld(this, this.getSaveFileName(this.selectedWorld)));
 			} else if(var1.id == 0) {
 				this.mc.displayGuiScreen(this.parentScreen);
+			} else if(var1.id == 4) {
+				String fileName = this.getSaveFileName(this.selectedWorld);
+				ISaveFormat saveFormat = this.mc.getSaveLoader();
+				WorldInfo worldInfo = saveFormat.getWorldInfo(fileName);
+				String worldName = worldInfo.getWorldName();
+
+				PlatformApplication.downloadFileWithName(worldName + ".zip", SaveUtils.exportWorld(fileName));
 			} else {
 				this.worldSlotContainer.actionPerformed(var1);
 			}
@@ -164,6 +178,10 @@ public class GuiSelectWorld extends GuiScreen {
 
 	static GuiButton getDeleteButton(GuiSelectWorld var0) {
 		return var0.buttonDelete;
+	}
+
+	static GuiButton getExportButton(GuiSelectWorld var0) {
+		return var0.buttonExport;
 	}
 
 	static String func_22087_f(GuiSelectWorld var0) {

@@ -1,5 +1,7 @@
 package net.lax1dude.eaglercraft.internal;
 
+import java.util.List;
+
 /**
  * Copyright (c) 2022-2024 lax1dude. All Rights Reserved.
  * 
@@ -17,6 +19,19 @@ package net.lax1dude.eaglercraft.internal;
  * 
  */
 public interface IClientConfigAdapter {
+	public static class DefaultServer {
+		public final String name;
+		public final String addr;
+		public final boolean hideAddress;
+
+		public DefaultServer(String name, String addr, boolean hideAddress) {
+			this.name = name;
+			this.addr = addr;
+			this.hideAddress = hideAddress;
+		}
+	}
+
+	List<DefaultServer> getDefaultServerList();
 
 	String getWorldsDB();
 
@@ -33,5 +48,7 @@ public interface IClientConfigAdapter {
 	boolean isEnforceVSync();
 
 	IClientConfigAdapterHooks getHooks();
+
+	boolean isDemo();
 
 }

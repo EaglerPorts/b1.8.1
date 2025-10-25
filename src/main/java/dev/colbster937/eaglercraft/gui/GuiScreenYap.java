@@ -15,8 +15,8 @@ public class GuiScreenYap extends GuiScreen {
   private static final int wrapWidth = 312;
   private static final TextureLocation ackbk = new TextureLocation("/eagler/demo_bg.png");
   private static final TextureLocation beaconx = new TextureLocation("/eagler/beacon.png");
-  private GuiScreen parentScreen;
-  private Boolean renderParent;
+  private GuiScreen parent;
+  private boolean renderParent;
   private String txtFile;
   private ArrayList<String> ackLines;
   private int scrollPosition = 0;
@@ -24,12 +24,13 @@ public class GuiScreenYap extends GuiScreen {
   private int dragstartI = -1;
   private int mousey = 0;
 
-  public GuiScreenYap(GuiScreen parentScreen, Boolean renderParent, String txtFile) {
-    this.parentScreen = parentScreen;
+  public GuiScreenYap(GuiScreen parent, boolean renderParent, String txtFile) {
+    this.parent = parent;
     this.renderParent = renderParent;
     this.txtFile = txtFile;
   }
 
+  @Override
   public void initGui() {
     List<String> lines = EagRuntime.getRequiredResourceLines(this.txtFile);
 
@@ -76,10 +77,11 @@ public class GuiScreenYap extends GuiScreen {
     }
   }
 
+  @Override
   public void drawScreen(int var1, int var2, float var3) {
     mousey = var2;
     if (this.renderParent) {
-      this.parentScreen.drawScreen(0, 0, var3);
+      this.parent.drawScreen(0, 0, var3);
       this.drawGradientRect(0, 0, this.width, this.height, -1072689136, -804253680);
     } else {
       this.drawDefaultBackground();
@@ -99,19 +101,17 @@ public class GuiScreenYap extends GuiScreen {
       scrollPosition = 0;
     if (scrollPosition + visibleLines > lines)
       scrollPosition = lines - visibleLines;
-    for (int i = 0; i < visibleLines; ++i) {
+    for (int i = 0; i < visibleLines; ++i)
       this.fontRenderer.drawString(this.ackLines.get(scrollPosition + i), x + 10, y + 10 + (i * 10), 0x404060);
-    }
     int trackHeight = 193;
     int offset = trackHeight * scrollPosition / lines;
     drawRect(x + 326, y + 27, x + 334, y + 220, 0x33000020);
     drawRect(x + 326, y + 27 + offset, x + 334, y + 27 + (visibleLines * trackHeight / lines) + offset + 1, 0x66000000);
   }
 
+  @Override
   public void updateScreen() {
-    if (this.renderParent) {
-      this.parentScreen.updateScreen();
-    }
+    if (this.renderParent) this.parent.updateScreen();
     if (Mouse.isButtonDown(0) && dragstart > 0) {
       int trackHeight = 193;
       scrollPosition = (mousey - dragstart) * this.ackLines.size() / trackHeight + dragstartI;
@@ -124,12 +124,13 @@ public class GuiScreenYap extends GuiScreen {
     }
   }
 
+  @Override
   protected void mouseClicked(int par1, int par2, int par3) {
     int x = (this.width - 345) / 2;
     int y = (this.height - 230) / 2;
     if (par1 >= (x + 323) && par1 <= (x + 323 + 13) && par2 >= (y + 7) && par2 <= (y + 7 + 13)) {
       this.mc.sndManager.playSoundFX("random.click", 1.0F, 1.0F);
-      this.mc.displayGuiScreen(this.parentScreen);
+      this.mc.displayGuiScreen(this.parent);
     }
     int trackHeight = 193;
     int offset = trackHeight * scrollPosition / this.ackLines.size();
@@ -140,14 +141,13 @@ public class GuiScreenYap extends GuiScreen {
     }
   }
 
+  @Override
   public void handleMouseInput() {
     super.handleMouseInput();
     int var1 = Mouse.getEventDWheel();
-    if (var1 < 0) {
+    if (var1 < 0)
       scrollPosition += 3;
-    }
-    if (var1 > 0) {
+    if (var1 > 0)
       scrollPosition -= 3;
-    }
   }
 }

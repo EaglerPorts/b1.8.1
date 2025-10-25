@@ -156,6 +156,8 @@ public class ChunkProvider implements IChunkProvider {
 			this.chunkLoader.saveExtraData();
 		}
 
+		RegionFileCache.saveRegionFiles();
+
 		return true;
 	}
 

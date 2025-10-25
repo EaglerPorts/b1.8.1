@@ -22,8 +22,8 @@ public class GameSettings {
 	public boolean viewBobbing = true;
 	public boolean anaglyph = false;
 	public boolean advancedOpengl = false;
-	public int limitFramerate = 1;
-	public boolean fancyGraphics = true;
+	public int limitFramerate = 0;
+	public boolean fancyGraphics = false;
 	public boolean ambientOcclusion = true;
 	public String skin = "Default";
 	public KeyBinding keyBindForward = new KeyBinding("key.forward", 17);
@@ -56,6 +56,9 @@ public class GameSettings {
 	public float field_35379_L = 0.0F;
 	public float field_35380_M = 0.0F;
 	public int guiScale = 0;
+
+	public boolean showFramerate = true;
+	public boolean showCoords = true;
 	public boolean seenAck = false;
 
 	public GameSettings(Minecraft var1, VFile2 var2) {
@@ -152,6 +155,14 @@ public class GameSettings {
 			this.mc.renderGlobal.loadRenderers();
 		}
 
+		if(var1 == EnumOptions.SHOW_FRAMERATE) {
+			this.showFramerate = !this.showFramerate;
+		}
+
+		if(var1 == EnumOptions.SHOW_COORDS) {
+			this.showCoords = !this.showCoords;
+		}
+
 		this.saveOptions();
 	}
 
@@ -171,6 +182,10 @@ public class GameSettings {
 			return this.advancedOpengl;
 		case 5:
 			return this.ambientOcclusion;
+		case 6:
+			return this.showFramerate;
+		case 7:
+			return this.showCoords;
 		default:
 			return false;
 		}
@@ -281,6 +296,14 @@ public class GameSettings {
 						this.seenAck = Boolean.parseBoolean(var3[1]);
 					}
 
+					if(var3[0].equals("showFramerate")) {
+						this.showFramerate = Boolean.parseBoolean(var3[1]);
+					}
+
+					if(var3[0].equals("showCoords")) {
+						this.showCoords = Boolean.parseBoolean(var3[1]);
+					}
+
 					for(int var4 = 0; var4 < this.keyBindings.length; ++var4) {
 						if(var3[0].equals("key_" + this.keyBindings[var4].keyDescription)) {
 							this.keyBindings[var4].keyCode = Integer.parseInt(var3[1]);
@@ -322,6 +345,8 @@ public class GameSettings {
 			var1.println("skin:" + this.skin);
 			var1.println("lastServer:" + this.lastServer);
 			var1.println("seenAck:" + this.seenAck);
+			var1.println("showFramerate:" + this.showFramerate);
+			var1.println("showCoords:" + this.showCoords);
 
 			for(int var2 = 0; var2 < this.keyBindings.length; ++var2) {
 				var1.println("key_" + this.keyBindings[var2].keyDescription + ":" + this.keyBindings[var2].keyCode);
