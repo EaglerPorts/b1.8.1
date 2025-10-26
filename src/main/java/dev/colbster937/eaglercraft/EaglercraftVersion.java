@@ -4,7 +4,7 @@ import net.lax1dude.eaglercraft.EagRuntime;
 
 public class EaglercraftVersion {
 	public static final String STORAGE_KEY = "_dev_colbster937_eaglercraft_b1.8.1_";
-	public static final String EAGLER_VERSION = "25w44a";
+	public static final String EAGLER_VERSION = "25w44b";
 	public static final String MINECRAFT_VERSION = "b1.8.1";
 	public static final String PROJECT_GITHUB = "https://github.com/EaglerPorts/b1.8.1/";
 	public static final String PROJECT_AUTHOR = "Colbster937";
