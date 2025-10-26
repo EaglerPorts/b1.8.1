@@ -1,7 +1,7 @@
 package net.minecraft.src;
 
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class ComponentMineshaftStairs extends StructureComponent {
 	public ComponentMineshaftStairs(int var1, Random var2, StructureBoundingBox var3, int var4) {

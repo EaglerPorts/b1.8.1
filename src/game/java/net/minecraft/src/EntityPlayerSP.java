@@ -1,5 +1,6 @@
 package net.minecraft.src;
 
+import dev.colbster937.eaglercraft.SingleplayerCommands;
 import net.lax1dude.eaglercraft.profile.EaglerProfile;
 import net.lax1dude.eaglercraft.profile.GuiScreenEditProfile;
 import net.minecraft.client.Minecraft;
@@ -241,6 +242,7 @@ public class EntityPlayerSP extends EntityPlayer {
 	}
 
 	public void sendChatMessage(String var1) {
+		SingleplayerCommands.sendDummyChat(var1);
 	}
 
 	public boolean isSneaking() {

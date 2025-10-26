@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class BlockCake extends Block {
 	protected BlockCake(int var1, int var2) {

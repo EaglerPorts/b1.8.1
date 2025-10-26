@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class BlockDoor extends Block {
 	protected BlockDoor(int var1, Material var2) {

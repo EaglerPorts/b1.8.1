@@ -2,7 +2,7 @@ package net.minecraft.src;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 import org.lwjgl.opengl.GL11;
 
 public class EffectRenderer {

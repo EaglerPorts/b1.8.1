@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class BlockFlower extends Block {
 	protected BlockFlower(int var1, int var2) {

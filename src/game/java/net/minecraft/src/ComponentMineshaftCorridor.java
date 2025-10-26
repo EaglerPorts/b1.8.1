@@ -1,7 +1,7 @@
 package net.minecraft.src;
 
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class ComponentMineshaftCorridor extends StructureComponent {
 	private final boolean field_35070_a;

@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class BlockStep extends Block {
 	public static final String[] field_22037_a = new String[]{"stone", "sand", "wood", "cobble", "brick", "smoothStoneBrick"};

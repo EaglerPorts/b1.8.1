@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class BlockBookshelf extends Block {
 	public BlockBookshelf(int var1, int var2) {

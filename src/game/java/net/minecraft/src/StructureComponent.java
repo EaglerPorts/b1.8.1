@@ -2,7 +2,7 @@ package net.minecraft.src;
 
 import java.util.Iterator;
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public abstract class StructureComponent {
 	protected StructureBoundingBox field_35024_g;

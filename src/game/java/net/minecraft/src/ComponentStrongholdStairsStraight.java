@@ -1,7 +1,7 @@
 package net.minecraft.src;
 
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class ComponentStrongholdStairsStraight extends ComponentStronghold {
 	private final EnumDoor field_35054_a;

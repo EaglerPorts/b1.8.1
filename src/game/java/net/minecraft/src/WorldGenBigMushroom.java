@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class WorldGenBigMushroom extends WorldGenerator {
 	private int field_35266_a = -1;

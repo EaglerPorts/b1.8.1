@@ -2,7 +2,7 @@ package net.minecraft.src;
 
 import java.util.Collection;
 import java.util.Iterator;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class WeightedRandom {
 	public static int func_35736_a(Collection var0) {

@@ -1,7 +1,7 @@
 package net.minecraft.src;
 
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 import net.lax1dude.eaglercraft.EagUtils;
 import net.lax1dude.eaglercraft.internal.buffer.FloatBuffer;

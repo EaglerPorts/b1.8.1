@@ -92,6 +92,7 @@ import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.util.glu.GLU;
 
+import dev.colbster937.eaglercraft.SingleplayerCommands;
 import dev.colbster937.eaglercraft.utils.SaveUtils;
 import dev.colbster937.eaglercraft.utils.StringPrintStream;
 
@@ -876,7 +877,7 @@ public class Minecraft implements Runnable {
 								this.thePlayer.dropCurrentItem();
 							}
 
-							while(this.isMultiplayerWorld() && this.gameSettings.keyBindChat.func_35962_c()) {
+							while(this.gameSettings.keyBindChat.func_35962_c()) {
 								this.displayGuiScreen(new GuiChat());
 							}
 
@@ -1329,9 +1330,10 @@ public class Minecraft implements Runnable {
 	}
 
 	public boolean lineIsCommand(String var1) {
-		if(var1.startsWith("/")) {
+		if (!this.isMultiplayerWorld() && var1.startsWith("/")) {
+			SingleplayerCommands.processCommand(var1);
+			return true;
 		}
-
 		return false;
 	}
 

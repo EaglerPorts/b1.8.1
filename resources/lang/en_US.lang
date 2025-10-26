@@ -723,6 +723,7 @@ death.thrown=%1$s was pummeled by %2$s
 eaglercraft.key.zoom=Zoom
 eaglercraft.noMultiplayer=Multiplayer has not been added yet.
 eaglercraft.willAdd=It will be implemented soon, be patient you eagler!
+eaglercraft.chat.exit=Exit Chat
 eaglercraft.menu.editProfile=Edit Profile
 eaglercraft.profile.title=Edit Profile
 eaglercraft.profile.screenname=Username
@@ -738,3 +739,7 @@ eaglercraft.options.showFramerate=Show FPS
 eaglercraft.options.showCoords=Show Coordinates
 eaglercraft.lagNotice1=NOTE: The game can lag while chunks are generating,
 eaglercraft.lagNotice2=hold still for a few moments and the lag will stop.
+
+eaglercraft.command.usage=Usage: %s %s
+eaglercraft.command.unknown=Unknown Command
+eaglercraft.command.teleported=Teleported to %s, %s, %s

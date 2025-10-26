@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 import net.lax1dude.eaglercraft.EagRuntime;
+import net.lax1dude.eaglercraft.HString;
 
 public class StringTranslate {
 	private static StringTranslate instance = new StringTranslate();
@@ -29,7 +30,7 @@ public class StringTranslate {
 
 	public String translateKeyFormat(String var1, Object... var2) {
 		String var3 = this.translateTable.getProperty(var1, var1);
-		return String.format(var3, var2);
+		return HString.format(var3, var2);
 	}
 
 	public String translateNamedKey(String var1) {

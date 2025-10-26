@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class BlockFurnace extends BlockContainer {
 	private Random furnaceRand = new Random();

@@ -3,7 +3,7 @@ package net.minecraft.src;
 import net.peyton.java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public abstract class BiomeGenBase {
 	public static final BiomeGenBase[] field_35486_a = new BiomeGenBase[256];

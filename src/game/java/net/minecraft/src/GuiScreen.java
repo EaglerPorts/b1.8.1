@@ -28,7 +28,7 @@ public class GuiScreen extends Gui {
 	}
 
 	protected void keyTyped(char var1, int var2) {
-		if(var2 == 1 || var2 == Keyboard.KEY_GRAVE) {
+		if(var2 == 1 || (var2 == Keyboard.KEY_GRAVE && !(this instanceof GuiChat))) {
 			this.mc.displayGuiScreen((GuiScreen)null);
 			this.mc.setIngameFocus();
 		}

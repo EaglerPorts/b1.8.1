@@ -2,7 +2,7 @@ package net.minecraft.src;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 class StructureVillageStart extends StructureStart {
 	private boolean field_35718_c = false;

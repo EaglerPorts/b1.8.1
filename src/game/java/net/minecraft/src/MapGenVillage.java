@@ -2,7 +2,7 @@ package net.minecraft.src;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class MapGenVillage extends MapGenStructure {
 	public static List field_35635_a = Arrays.asList(new BiomeGenBase[]{BiomeGenBase.field_35485_c, BiomeGenBase.desert});

@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class BlockGlass extends BlockBreakable {
 	public BlockGlass(int var1, int var2, Material var3, boolean var4) {

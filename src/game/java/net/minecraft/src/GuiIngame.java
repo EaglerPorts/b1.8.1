@@ -3,7 +3,7 @@ package net.minecraft.src;
 import net.peyton.java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 import net.lax1dude.eaglercraft.EagRuntime;
 import net.minecraft.client.Minecraft;

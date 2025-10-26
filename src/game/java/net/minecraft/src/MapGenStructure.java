@@ -2,7 +2,7 @@ package net.minecraft.src;
 
 import java.util.HashMap;
 import java.util.Iterator;
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public abstract class MapGenStructure extends MapGenBase {
 	protected HashMap field_35631_e = new HashMap();

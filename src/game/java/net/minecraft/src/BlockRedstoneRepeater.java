@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 public class BlockRedstoneRepeater extends Block {
 	public static final double[] repeaterTorchOffset = new double[]{-0.0625D, 1.0D / 16.0D, 0.1875D, 0.3125D};

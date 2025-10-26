@@ -9,6 +9,7 @@ public class GuiChat extends GuiScreen {
 
 	public void initGui() {
 		Keyboard.enableRepeatEvents(true);
+		if (!(this instanceof GuiSleepMP)) this.controlList.add(new GuiButton(0, this.width - 100, 3, 97, 20, StringTranslate.getInstance().translateKey("eaglercraft.chat.exit")));
 	}
 
 	public void onGuiClosed() {
@@ -67,5 +68,16 @@ public class GuiChat extends GuiScreen {
 			}
 		}
 
+	}
+
+	protected void actionPerformed(GuiButton var1) {
+		if (var1.id == 0) {
+			this.mc.displayGuiScreen(null);
+			this.mc.setIngameFocus();
+		}
+	}
+
+	public boolean doesGuiPauseGame() {
+		return false;
 	}
 }

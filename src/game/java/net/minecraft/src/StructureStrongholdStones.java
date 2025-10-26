@@ -1,6 +1,6 @@
 package net.minecraft.src;
 
-import java.util.Random;
+import net.lax1dude.eaglercraft.Random;
 
 class StructureStrongholdStones extends StructurePieceBlockSelector {
 	private StructureStrongholdStones() {
