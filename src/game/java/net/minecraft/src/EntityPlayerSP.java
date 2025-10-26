@@ -1,5 +1,7 @@
 package net.minecraft.src;
 
+import net.lax1dude.eaglercraft.profile.EaglerProfile;
+import net.lax1dude.eaglercraft.profile.GuiScreenEditProfile;
 import net.minecraft.client.Minecraft;
 
 public class EntityPlayerSP extends EntityPlayer {
@@ -19,11 +21,12 @@ public class EntityPlayerSP extends EntityPlayer {
 		super(var2);
 		this.mc = var1;
 		this.dimension = var4;
-		if(var3 != null && var3.username != null && var3.username.length() > 0) {
-			this.skinUrl = "http://s3.amazonaws.com/MinecraftSkins/" + var3.username + ".png";
-		}
-
 		this.username = var3.username;
+		this.texture = GuiScreenEditProfile.defaultOptionsTextures[EaglerProfile.presetSkinId].getTextureName();
+	}
+
+	public void setSkin(String skin) {
+		this.texture = skin;
 	}
 
 	public void moveEntity(double var1, double var3, double var5) {

@@ -35,7 +35,7 @@ public class ResourceLoader {
 			if (fileName.contains(resource.dir) && fileName.endsWith(resource.ext)) {
 				i = j;
 				
-				System.out.println("Resource loaded: " + fileName);
+				// System.out.println("Resource loaded: " + fileName);
 				if (resource.hasList) {
 					resource.getList().add(filePath);
 				}

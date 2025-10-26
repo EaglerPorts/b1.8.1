@@ -11,11 +11,10 @@ import org.lwjgl.opengl.GL11;
 import org.lwjgl.util.glu.GLU;
 
 import dev.colbster937.eaglercraft.EaglercraftVersion;
-import dev.colbster937.eaglercraft.gui.GuiScreenInfo;
-import dev.colbster937.eaglercraft.gui.GuiScreenInfo.TextLine;
 import dev.colbster937.eaglercraft.gui.GuiScreenYap;
 import net.lax1dude.eaglercraft.EagRuntime;
 import net.lax1dude.eaglercraft.opengl.ImageData;
+import net.lax1dude.eaglercraft.profile.GuiScreenEditProfile;
 
 public class GuiMainMenu extends GuiScreen {
 	private static final Random rand = new Random();
@@ -83,11 +82,11 @@ public class GuiMainMenu extends GuiScreen {
 		this.controlList.add(new GuiButton(1, this.width / 2 - 100, var4, var2.translateKey("menu.singleplayer")));
 		this.controlList.add(this.multiplayerButton = new GuiButton(2, this.width / 2 - 100, var4 + 24, var2.translateKey("menu.multiplayer")));
 		this.controlList.add(new GuiButton(3, this.width / 2 - 100, var4 + 48, var2.translateKey("menu.mods")));
-		if(true) {
+		if(false) {
 			this.controlList.add(new GuiButton(0, this.width / 2 - 100, var4 + 72, var2.translateKey("menu.options")));
 		} else {
 			this.controlList.add(new GuiButton(0, this.width / 2 - 100, var4 + 72 + 12, 98, 20, var2.translateKey("menu.options")));
-			this.controlList.add(new GuiButton(4, this.width / 2 + 2, var4 + 72 + 12, 98, 20, var2.translateKey("menu.editProfile")));
+			this.controlList.add(new GuiButton(4, this.width / 2 + 2, var4 + 72 + 12, 98, 20, var2.translateKey("eaglercraft.menu.editProfile")));
 		}
 
 		if(this.mc.session == null) {
@@ -108,8 +107,7 @@ public class GuiMainMenu extends GuiScreen {
 		}
 
 		if(var1.id == 2) {
-			this.mc.displayGuiScreen(new GuiScreenInfo(this, new TextLine("eaglercraft.noMultiplayer", 0xFFCCCC), new TextLine(""), new TextLine("eaglercraft.willAdd", 0x888888)));
-			// this.mc.displayGuiScreen(new GuiMultiplayer(this));
+			this.mc.displayGuiScreen(new GuiMultiplayer(this));
 		}
 
 		if(var1.id == 3) {
@@ -117,7 +115,7 @@ public class GuiMainMenu extends GuiScreen {
 		}
 
 		if(var1.id == 4) {
-			
+			this.mc.displayGuiScreen(new GuiScreenEditProfile(this));
 			// this.mc.shutdown();
 		}
 

@@ -34,6 +34,10 @@ public class TextureLocation {
 		}
 	}
 	
+	public String getTextureName() {
+		return textureName;
+	}
+
 	public int getTextureID() {
 		if(textureID == -1) {
 			textureID = Minecraft.getMinecraft().renderEngine.getTexture(textureName);

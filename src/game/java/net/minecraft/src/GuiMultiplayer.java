@@ -9,6 +9,8 @@ import java.util.ArrayList;
 import java.util.List;
 import org.lwjgl.input.Keyboard;
 
+import dev.colbster937.eaglercraft.gui.GuiScreenInfo;
+import dev.colbster937.eaglercraft.gui.GuiScreenInfo.TextLine;
 import net.lax1dude.eaglercraft.EagRuntime;
 import net.lax1dude.eaglercraft.internal.IClientConfigAdapter.DefaultServer;
 import net.lax1dude.eaglercraft.internal.vfs2.VFile2;
@@ -237,7 +239,8 @@ public class GuiMultiplayer extends GuiScreen {
 			var3 = new String[]{var2};
 		}
 
-		this.mc.displayGuiScreen(new GuiConnecting(this.mc, this, var3[0]));
+		// this.mc.displayGuiScreen(new GuiConnecting(this.mc, this, var3[0]));
+		this.mc.displayGuiScreen(new GuiScreenInfo(this, new TextLine("eaglercraft.noMultiplayer", 0xFFCCCC), new TextLine(""), new TextLine("eaglercraft.willAdd", 0x888888)));
 	}
 
 	private void func_35328_b(ServerNBTStorage var1) throws IOException {

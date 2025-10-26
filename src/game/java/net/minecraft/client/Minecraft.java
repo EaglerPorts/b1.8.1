@@ -3,6 +3,7 @@ package net.minecraft.client;
 import net.lax1dude.eaglercraft.EagRuntime;
 import net.lax1dude.eaglercraft.internal.PlatformRuntime;
 import net.lax1dude.eaglercraft.internal.vfs2.VFile2;
+import net.lax1dude.eaglercraft.profile.GuiScreenEditProfile;
 import net.minecraft.src.AchievementList;
 import net.minecraft.src.AxisAlignedBB;
 import net.minecraft.src.Block;
@@ -235,9 +236,9 @@ public class Minecraft implements Runnable {
 		this.checkGLError("Post startup");
 		this.ingameGUI = new GuiIngame(this);
 		if(this.serverIP != null) {
-			this.displayGuiScreen(new GuiConnecting(this, new GuiMainMenu(), this.serverIP));
+			this.displayGuiScreen(new GuiScreenEditProfile(new GuiConnecting(this, new GuiMainMenu(), this.serverIP)));
 		} else {
-			this.displayGuiScreen(new GuiMainMenu());
+			this.displayGuiScreen(new GuiScreenEditProfile(new GuiMainMenu()));
 		}
 
 		this.loadingScreen = new LoadingScreenRenderer(this);

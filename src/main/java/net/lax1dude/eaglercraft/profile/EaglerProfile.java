@@ -17,17 +17,63 @@
 package net.lax1dude.eaglercraft.profile;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
 import net.lax1dude.eaglercraft.EagRuntime;
 import net.lax1dude.eaglercraft.EaglerInputStream;
 import net.lax1dude.eaglercraft.EaglerOutputStream;
+import net.lax1dude.eaglercraft.HString;
+import net.lax1dude.eaglercraft.Random;
+import net.lax1dude.eaglercraft.opengl.ImageData;
 import net.minecraft.client.Minecraft;
 import net.minecraft.src.CompressedStreamTools;
 import net.minecraft.src.NBTTagCompound;
 
 public class EaglerProfile {
 
-	private static String username;
+	private static String username = getDefaultUsername();
+
+	public static int presetSkinId;
+	public static int customSkinId;
+	public static ArrayList<EaglerProfileSkin> skins = new ArrayList<>();
+
+	public static class EaglerProfileSkin {
+		public String name;
+		public byte[] data;
+		public int glTex;
+		public EaglerProfileSkin(String name, byte[] data, int glTex) {
+			this.name = name;
+			this.data = data;
+			this.glTex = glTex;
+		}
+	}
+
+	public static int addSkin(String name, byte[] data) {
+		int i = -1;
+		for (int j = 0, l = skins.size(); j < l; ++j) {
+			if (skins.get(j).name.equalsIgnoreCase(name)) {
+				i = j;
+				break;
+			}
+		}
+		
+		int im = Minecraft.getMinecraft().renderEngine.allocateAndSetupTexture(ImageData.loadImageFile(data));
+		if (i == -1) {
+			i = skins.size();
+			skins.add(new EaglerProfileSkin(name, data, im));
+		} else {
+			skins.get(i).glTex = im;
+			skins.get(i).data = data;
+		}
+		return i;
+	}
+
+	public static String[] concatArrays(String[] a, String[] b) {
+		String[] r = new String[a.length + b.length];
+		System.arraycopy(a, 0, r, 0, a.length);
+		System.arraycopy(b, 0, r, a.length, b.length);
+		return r;
+	}
 	
 	public static String getName() {
 		return username;
@@ -62,15 +108,21 @@ public class EaglerProfile {
 		}
 
 		String loadUsername = profile.getString("username").trim();
+		int loadPresetSkin = profile.getInteger("presetSkin");
 
 		if(!loadUsername.isEmpty()) {
 			username = loadUsername.replaceAll("[^A-Za-z0-9]", "_");
+		}
+
+		if(loadPresetSkin > 0) {
+			presetSkinId = loadPresetSkin;
 		}
 	}
 
 	public static byte[] write() {
 		NBTTagCompound profile = new NBTTagCompound();
 		profile.setString("username", username);
+		profile.setInteger("presetSkin", presetSkinId);
 		EaglerOutputStream bao = new EaglerOutputStream();
 		try {
 			CompressedStreamTools.writeGzippedCompoundToOutputStream(profile, bao);
@@ -91,8 +143,29 @@ public class EaglerProfile {
 		read();
 	}
 
+	public static String getDefaultUsername() {
+		String[] defaultNames = new String[] {
+			"Yeeish", "Yeeish", "Yee", "Yee", "Yeer", "Yeeler", "Eagler", "Eagl",
+			"Darver", "Darvler", "Vool", "Vigg", "Vigg", "Deev", "Yigg", "Yeeg"
+		};
+		
+		Random rand = new Random();
+
+		String name;
+
+		do {
+			name = HString.format("%s%s%04d", defaultNames[rand.nextInt(defaultNames.length)], defaultNames[rand.nextInt(defaultNames.length)], rand.nextInt(10000));
+		} while (name.length() > 16);
+
+		return name;
+	}
+
 	public static boolean isDefaultUsername(String str) {
 		return str.toLowerCase().matches("^(yeeish|yee|yeer|yeeler|eagler|eagl|darver|darvler|vool|vigg|deev|yigg|yeeg){2}\\d{2,4}$");
+	}
+
+	static {
+		read();
 	}
 
 }
