@@ -593,9 +593,9 @@ public class EntityRenderer {
 
 				if(this.mc.gameSettings.limitFramerate == 2) {
 					var8 = (this.renderEndNanoTime + (long)(1000000000 / var7) - System.nanoTime()) / 1000000L;
-					if(var8 > 0L && var8 < 500L) {
+					/* if(var8 > 0L && var8 < 500L) {
 						EagUtils.sleep(var8);
-					}
+					} */
 				}
 
 				this.renderEndNanoTime = System.nanoTime();
@@ -615,9 +615,9 @@ public class EntityRenderer {
 						var8 += 10L;
 					}
 
-					if(var8 > 0L && var8 < 500L) {
+					/* if(var8 > 0L && var8 < 500L) {
 						EagUtils.sleep(var8);
-					}
+					} */
 				}
 
 				this.renderEndNanoTime = System.nanoTime();

@@ -3,10 +3,13 @@ package net.minecraft.src;
 import org.lwjgl.opengl.GL11;
 
 class GuiSlotServer extends GuiSlot {
+	private final StringTranslate translate;
+
 	final GuiMultiplayer field_35410_a;
 
 	public GuiSlotServer(GuiMultiplayer var1) {
 		super(var1.mc, var1.width, var1.height, 32, var1.height - 64, 36);
+		this.translate = StringTranslate.getInstance();
 		this.field_35410_a = var1;
 	}
 
@@ -17,9 +20,16 @@ class GuiSlotServer extends GuiSlot {
 	protected void elementClicked(int var1, boolean var2) {
 		GuiMultiplayer.func_35326_a(this.field_35410_a, var1);
 		boolean var3 = GuiMultiplayer.func_35333_b(this.field_35410_a) >= 0 && GuiMultiplayer.func_35333_b(this.field_35410_a) < this.getSize();
-		GuiMultiplayer.func_35329_c(this.field_35410_a).enabled = var3;
-		GuiMultiplayer.func_35334_d(this.field_35410_a).enabled = var3;
-		GuiMultiplayer.func_35339_e(this.field_35410_a).enabled = var3;
+		if (var3) {
+			ServerNBTStorage server = (ServerNBTStorage) GuiMultiplayer.func_35320_a(field_35410_a).get(var1);
+			GuiMultiplayer.func_35329_c(this.field_35410_a).enabled = var3;
+			GuiMultiplayer.func_35334_d(this.field_35410_a).enabled = var3 && !server.isDefault;
+			GuiMultiplayer.func_35339_e(this.field_35410_a).enabled = var3 && !server.isDefault;
+		} else {
+			GuiMultiplayer.func_35329_c(this.field_35410_a).enabled = var3;
+			GuiMultiplayer.func_35334_d(this.field_35410_a).enabled = var3;
+			GuiMultiplayer.func_35339_e(this.field_35410_a).enabled = var3;
+		}
 		if(var2 && var3) {
 			GuiMultiplayer.func_35332_b(this.field_35410_a, var1);
 		}
@@ -48,7 +58,6 @@ class GuiSlotServer extends GuiSlot {
 				var6.field_35791_d = "";
 				var6.field_35794_c = "";
 				GuiMultiplayer.func_35331_n();
-				// B1.8 TODO: (new ThreadPollServers(this, var6)).start();
 			}
 		}
 
@@ -56,7 +65,7 @@ class GuiSlotServer extends GuiSlot {
 		this.field_35410_a.drawString(this.field_35410_a.fontRenderer, var6.field_35791_d, var2 + 2, var3 + 12, 8421504);
 		this.field_35410_a.drawString(this.field_35410_a.fontRenderer, var6.field_35794_c, var2 + 215 - this.field_35410_a.fontRenderer.getStringWidth(var6.field_35794_c), var3 + 12, 8421504);
 		String addr = var6.field_35793_b;
-		if (var6.hideAddress) addr = StringTranslate.getInstance().translateKey("eaglercraft.selectServer.hiddenAddress");
+		if (var6.hideAddress) addr = translate.translateKey("eaglercraft.selectServer.hiddenAddress");
 		this.field_35410_a.drawString(this.field_35410_a.fontRenderer, addr, var2 + 2, var3 + 12 + 11, 3158064);
 		GL11.glColor4f(1.0F, 1.0F, 1.0F, 1.0F);
 		this.field_35410_a.mc.renderEngine.bindTexture(this.field_35410_a.mc.renderEngine.getTexture("/gui/icons.png"));
@@ -83,7 +92,7 @@ class GuiSlotServer extends GuiSlot {
 			}
 
 			if(var6.field_35792_e < 0L) {
-				var9 = "(no connection)";
+				var9 = translate.translateKey("eaglercraft.noConnection");
 			} else {
 				var9 = var6.field_35792_e + "ms";
 			}

@@ -1,5 +1,9 @@
 package net.minecraft.src;
 
+import java.util.ArrayList;
+
+import net.lax1dude.eaglercraft.EagRuntime;
+
 public class GuiOptions extends GuiScreen {
 	private GuiScreen parentScreen;
 	protected String screenTitle = "Options";
@@ -33,9 +37,18 @@ public class GuiOptions extends GuiScreen {
 			++var2;
 		}
 
+		ArrayList<GuiButton> extraOpts = new ArrayList<>();
 		this.controlList.add(new GuiButton(101, this.width / 2 - 100, this.height / 6 + 96 + 12, var1.translateKey("options.video")));
 		this.controlList.add(new GuiButton(100, this.width / 2 - 100, this.height / 6 + 120 + 12, var1.translateKey("options.controls")));
+		// this.controlList.add(new GuiButton(102, 0, 0, var1.translateKey("eaglercraft.openDebugConsole")));
+
 		this.controlList.add(new GuiButton(200, this.width / 2 - 100, this.height / 6 + 168, var1.translateKey("gui.done")));
+
+		/* for (GuiButton extraOpt : extraOpts) {
+			GuiButton opt = new GuiSmallButton(extraOpt.id, this.width / 2 - 155 + var2 % 2 * 160, this.height / 6 + 24 * (var2 >> 1), extraOpt.displayString);
+			this.controlList.add(opt);
+			var2++;
+		} */
 	}
 
 	protected void actionPerformed(GuiButton var1) {
@@ -53,6 +66,10 @@ public class GuiOptions extends GuiScreen {
 			if(var1.id == 100) {
 				this.mc.gameSettings.saveOptions();
 				this.mc.displayGuiScreen(new GuiControls(this, this.options));
+			}
+
+			if(var1.id == 102) {
+				EagRuntime.showDebugConsole();
 			}
 
 			if(var1.id == 200) {

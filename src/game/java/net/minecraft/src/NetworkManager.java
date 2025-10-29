@@ -7,9 +7,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-
 import net.lax1dude.eaglercraft.EaglerOutputStream;
 import net.lax1dude.eaglercraft.internal.EnumEaglerConnectionState;
 import net.lax1dude.eaglercraft.internal.IWebSocketClient;
@@ -28,8 +25,6 @@ public class NetworkManager {
 	public int chunkDataSendCounter = 0;
 	
 	public IWebSocketClient webSocket;
-	
-	private static Logger LOGGER = LogManager.getLogger();
 
 	public NetworkManager(NetHandler var3) {
 		this.netHandler = var3;
@@ -58,7 +53,7 @@ public class NetworkManager {
 	}
 
 	private void onNetworkError(Exception var1) {
-		LOGGER.error(var1);
+		var1.printStackTrace();
 		this.networkShutdown("disconnect.genericReason", new Object[]{"Internal exception: " + var1.toString()});
 	}
 
@@ -73,15 +68,16 @@ public class NetworkManager {
 		if(isOpen()) {
 			try {
 				this.webSocket.close();
+				this.webSocket = null;
 			}catch(Exception e) {
 			}
-			this.webSocket = null;
 		}
 	}
 	
 	public void readPacket() {
+		if (this.webSocket == null) return;
 		IWebSocketFrame frame;
-		while((frame = webSocket.getNextBinaryFrame()) != null) {
+		while((frame = this.webSocket.getNextBinaryFrame()) != null) {
 			byte[] arr = frame.getByteArray();
 			if(arr != null) {
 				try(ByteArrayInputStream bais = new ByteArrayInputStream(arr); DataInputStream packetStream = new DataInputStream(bais)) {

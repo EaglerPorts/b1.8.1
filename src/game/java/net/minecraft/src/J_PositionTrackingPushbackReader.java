@@ -1,8 +1,9 @@
 package net.minecraft.src;
 
 import java.io.IOException;
-import java.io.PushbackReader;
 import java.io.Reader;
+
+import net.peyton.java.io.PushbackReader;
 
 final class J_PositionTrackingPushbackReader implements J_ThingWithPosition {
 	private final PushbackReader field_27338_a;

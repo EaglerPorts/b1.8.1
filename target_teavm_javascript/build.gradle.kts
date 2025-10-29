@@ -39,6 +39,7 @@ dependencies {
 	compileOnly("org.teavm:teavm-core:0.9.2") // workaround for a few hacks
 	implementation(libs.jorbis)
 	implementation(libs.bundles.common)
+	implementation(fileTree("../gradle/jars") { include("*.jar") })
 }
 
 val jsFolder = "javascript"

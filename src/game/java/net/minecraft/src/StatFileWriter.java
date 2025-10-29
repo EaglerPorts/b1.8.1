@@ -92,8 +92,7 @@ public class StatFileWriter {
 	}
 
 	public static Map func_27177_a(String var0) {
-		return new HashMap<>();
-		/* B1.8 TODO: HashMap var1 = new HashMap();
+		HashMap var1 = new HashMap();
 
 		try {
 			String var2 = "local";
@@ -128,12 +127,11 @@ public class StatFileWriter {
 			var13.printStackTrace();
 		}
 
-		return var1; */
+		return var1;
 	}
 
 	public static String func_27185_a(String var0, String var1, Map var2) {
-		return "{\"stats-change\":[],\"checksum\":\"0\"}";
-		/* B1.8 TODO: StringBuilder var3 = new StringBuilder();
+		StringBuilder var3 = new StringBuilder();
 		StringBuilder var4 = new StringBuilder();
 		boolean var5 = true;
 		var3.append("{\r\n");
@@ -168,7 +166,7 @@ public class StatFileWriter {
 		var3.append("\r\n  ],\r\n");
 		var3.append("  \"checksum\":\"").append(var8.func_27369_a(var4.toString())).append("\"\r\n");
 		var3.append("}");
-		return var3.toString(); */
+		return var3.toString();
 	}
 
 	public boolean hasAchievementUnlocked(Achievement var1) {

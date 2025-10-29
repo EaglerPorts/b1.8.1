@@ -735,8 +735,11 @@ eaglercraft.selectServer.hiddenAddress=(Address Hidden)
 eaglercraft.addServer.hideAddress=Hide Address
 eaglercraft.addServer.SSLWarn1=you are on an https: page!
 eaglercraft.addServer.SSLWarn2=html5 will only allow wss://
+eaglercraft.noConnection=(no connection)
+eaglercraft.cantReachServer=Can't reach server
 eaglercraft.options.showFramerate=Show FPS
 eaglercraft.options.showCoords=Show Coordinates
+eaglercraft.openDebugConsole=Open Debug Console
 eaglercraft.lagNotice1=NOTE: The game can lag while chunks are generating,
 eaglercraft.lagNotice2=hold still for a few moments and the lag will stop.
 

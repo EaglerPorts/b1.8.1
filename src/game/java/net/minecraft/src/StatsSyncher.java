@@ -145,7 +145,7 @@ public class StatsSyncher {
 				break;
 			}
 
-			EagUtils.sleep(100L);
+			// EagUtils.sleep(100L);
 		}
 
 		this.isBusy = true;

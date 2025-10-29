@@ -1,14 +1,18 @@
 package net.minecraft.src;
 
+import dev.colbster937.eaglercraft.socket.ServerMOTDDispatcher;
+
 public class ServerNBTStorage {
 	public String field_35795_a;
 	public String field_35793_b;
 	public String field_35794_c;
 	public String field_35791_d;
 	public long field_35792_e;
+	public long pingSentTime;
 	public boolean field_35790_f = false;
 	public boolean isDefault = false;
 	public boolean hideAddress = false;
+	public ServerMOTDDispatcher motdDispatcher;
 
 	public ServerNBTStorage(String var1, String var2, boolean var3) {
 		this.field_35795_a = var1;
