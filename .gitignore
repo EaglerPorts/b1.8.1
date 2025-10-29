@@ -8,6 +8,7 @@
 **/build/
 **/bin/
 **/mcp/*
+**/_list.json
 !**/mcp/decompile.*
 !**/gradle/local-libs/**
 !**/gradle/jars/**
