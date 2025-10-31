@@ -13,7 +13,6 @@ public class GameSettings {
 	private static final String[] RENDER_DISTANCES = new String[]{"options.renderDistance.far", "options.renderDistance.normal", "options.renderDistance.short", "options.renderDistance.tiny"};
 	private static final String[] DIFFICULTIES = new String[]{"options.difficulty.peaceful", "options.difficulty.easy", "options.difficulty.normal", "options.difficulty.hard"};
 	private static final String[] GUISCALES = new String[]{"options.guiScale.auto", "options.guiScale.small", "options.guiScale.normal", "options.guiScale.large"};
-	private static final String[] LIMIT_FRAMERATES = new String[]{"performance.max", "performance.balanced", "performance.powersaver"};
 	public float musicVolume = 1.0F;
 	public float soundVolume = 1.0F;
 	public float mouseSensitivity = 0.5F;
@@ -21,10 +20,9 @@ public class GameSettings {
 	public int renderDistance = 1;
 	public boolean viewBobbing = true;
 	public boolean anaglyph = false;
-	public boolean advancedOpengl = false;
-	public int limitFramerate = 0;
 	public boolean fancyGraphics = false;
 	public boolean ambientOcclusion = true;
+	public boolean vsync = true;
 	public String skin = "Default";
 	public KeyBinding keyBindForward = new KeyBinding("key.forward", 17);
 	public KeyBinding keyBindLeft = new KeyBinding("key.left", 30);
@@ -34,12 +32,13 @@ public class GameSettings {
 	public KeyBinding keyBindInventory = new KeyBinding("key.inventory", 18);
 	public KeyBinding keyBindDrop = new KeyBinding("key.drop", 16);
 	public KeyBinding keyBindChat = new KeyBinding("key.chat", 20);
+	public KeyBinding keyBindCommand = new KeyBinding("key.command", Keyboard.KEY_SLASH);
 	public KeyBinding keyBindSneak = new KeyBinding("key.sneak", 42);
 	public KeyBinding field_35382_v = new KeyBinding("key.attack", -100);
 	public KeyBinding field_35381_w = new KeyBinding("key.use", -99);
 	public KeyBinding field_35384_x = new KeyBinding("key.playerlist", 15);
 	public KeyBinding field_35383_y = new KeyBinding("key.pickItem", -98);
-	public KeyBinding keyBindZoom = new KeyBinding("eaglercraft.key.zoom", 46);
+	public KeyBinding keyBindZoom = new KeyBinding("eaglercraft.key.zoom", Keyboard.KEY_C);
 	public KeyBinding[] keyBindings = new KeyBinding[]{this.field_35382_v, this.field_35381_w, this.keyBindForward, this.keyBindLeft, this.keyBindBack, this.keyBindRight, this.keyBindJump, this.keyBindSneak, this.keyBindDrop, this.keyBindInventory, this.keyBindChat, this.field_35384_x, this.field_35383_y, this.keyBindZoom};
 	protected Minecraft mc;
 	private VFile2 optionsFile;
@@ -127,18 +126,9 @@ public class GameSettings {
 			this.viewBobbing = !this.viewBobbing;
 		}
 
-		if(var1 == EnumOptions.ADVANCED_OPENGL) {
-			this.advancedOpengl = !this.advancedOpengl;
-			this.mc.renderGlobal.loadRenderers();
-		}
-
 		if(var1 == EnumOptions.ANAGLYPH) {
 			this.anaglyph = !this.anaglyph;
 			this.mc.renderEngine.refreshTextures();
-		}
-
-		if(var1 == EnumOptions.FRAMERATE_LIMIT) {
-			this.limitFramerate = (this.limitFramerate + var2 + 3) % 3;
 		}
 
 		if(var1 == EnumOptions.DIFFICULTY) {
@@ -163,6 +153,10 @@ public class GameSettings {
 			this.showCoords = !this.showCoords;
 		}
 
+		if(var1 == EnumOptions.VSYNC) {
+			this.vsync = !this.vsync;
+		}
+
 		this.saveOptions();
 	}
 
@@ -179,13 +173,13 @@ public class GameSettings {
 		case 3:
 			return this.anaglyph;
 		case 4:
-			return this.advancedOpengl;
-		case 5:
 			return this.ambientOcclusion;
-		case 6:
+		case 5:
 			return this.showFramerate;
-		case 7:
+		case 6:
 			return this.showCoords;
+		case 7:
+			return this.vsync;
 		default:
 			return false;
 		}
@@ -201,7 +195,7 @@ public class GameSettings {
 			boolean var4 = this.getOptionOrdinalValue(var1);
 			return var4 ? var3 + var2.translateKey("options.on") : var3 + var2.translateKey("options.off");
 		} else {
-			return var1 == EnumOptions.RENDER_DISTANCE ? var3 + var2.translateKey(RENDER_DISTANCES[this.renderDistance]) : (var1 == EnumOptions.DIFFICULTY ? var3 + var2.translateKey(DIFFICULTIES[this.difficulty]) : (var1 == EnumOptions.GUI_SCALE ? var3 + var2.translateKey(GUISCALES[this.guiScale]) : (var1 == EnumOptions.FRAMERATE_LIMIT ? var3 + StatCollector.translateToLocal(LIMIT_FRAMERATES[this.limitFramerate]) : (var1 == EnumOptions.GRAPHICS ? (this.fancyGraphics ? var3 + var2.translateKey("options.graphics.fancy") : var3 + var2.translateKey("options.graphics.fast")) : var3))));
+			return var1 == EnumOptions.RENDER_DISTANCE ? var3 + var2.translateKey(RENDER_DISTANCES[this.renderDistance]) : (var1 == EnumOptions.DIFFICULTY ? var3 + var2.translateKey(DIFFICULTIES[this.difficulty]) : (var1 == EnumOptions.GUI_SCALE ? var3 + var2.translateKey(GUISCALES[this.guiScale]) : (var1 == EnumOptions.GRAPHICS ? (this.fancyGraphics ? var3 + var2.translateKey("options.graphics.fancy") : var3 + var2.translateKey("options.graphics.fast")) : var3)));
 		}
 	}
 
@@ -264,14 +258,6 @@ public class GameSettings {
 						this.anaglyph = var3[1].equals("true");
 					}
 
-					if(var3[0].equals("advancedOpengl")) {
-						this.advancedOpengl = var3[1].equals("true");
-					}
-
-					if(var3[0].equals("fpsLimit")) {
-						this.limitFramerate = Integer.parseInt(var3[1]);
-					}
-
 					if(var3[0].equals("difficulty")) {
 						this.difficulty = Integer.parseInt(var3[1]);
 					}
@@ -302,6 +288,10 @@ public class GameSettings {
 
 					if(var3[0].equals("showCoords")) {
 						this.showCoords = Boolean.parseBoolean(var3[1]);
+					}
+
+					if(var3[0].equals("vsync")) {
+						this.vsync = Boolean.parseBoolean(var3[1]);
 					}
 
 					for(int var4 = 0; var4 < this.keyBindings.length; ++var4) {
@@ -337,8 +327,6 @@ public class GameSettings {
 			var1.println("guiScale:" + this.guiScale);
 			var1.println("bobView:" + this.viewBobbing);
 			var1.println("anaglyph3d:" + this.anaglyph);
-			var1.println("advancedOpengl:" + this.advancedOpengl);
-			var1.println("fpsLimit:" + this.limitFramerate);
 			var1.println("difficulty:" + this.difficulty);
 			var1.println("fancyGraphics:" + this.fancyGraphics);
 			var1.println("ao:" + this.ambientOcclusion);
@@ -347,6 +335,7 @@ public class GameSettings {
 			var1.println("seenAck:" + this.seenAck);
 			var1.println("showFramerate:" + this.showFramerate);
 			var1.println("showCoords:" + this.showCoords);
+			var1.println("vsync:" + this.vsync);
 
 			for(int var2 = 0; var2 < this.keyBindings.length; ++var2) {
 				var1.println("key_" + this.keyBindings[var2].keyDescription + ":" + this.keyBindings[var2].keyCode);
