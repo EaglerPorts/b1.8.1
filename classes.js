@@ -47312,13 +47312,13 @@
         "otci_Base46_decodeLong", "decodeLong", "otcit_CachedDateTimeZone__clinit_", "otcit_CachedDateTimeZone__init_", "otcit_DateTimeZoneBuilder$Recurrence__init_", "otcit_DateTimeZoneBuilder_getGMT", "getGMT", "ju_GregorianCalendar__init_3", "otcit_DateTimeZoneBuilder$RuleSet__clinit_", "otcit_StorableDateTimeZone_readUnsignedTime", "readUnsignedTime", "otcit_DateTimeZoneBuilder$OfYear__init_", "jl_Character_obtainClasses$$create", "obtainClasses$$create", "ju_Arrays_copyOf", "otciu_UnicodeHelper_decodeByte",
         "decodeByte", "ju_Arrays_copyOf1", "otciu_UnicodeHelper$Range__init_0", "ju_TimeZone_getTimeZone", "ju_Calendar_get", "otci_Base46_decodeUnsignedLong", "decodeUnsignedLong", "jlr_Array_newInstance", "newInstance", "ju_TimeZone_formatTimeZoneName", "formatTimeZoneName", "ju_TimeZone_parseNumber", "parseNumber", "jlr_Array_newInstanceImpl", "newInstanceImpl", "jl_StringBuilder_insert0", "nle_EagRuntime$getStackTrace0$lambda$_29_0_accept", "jl_StringBuilder_insert3", "nleit_TeaVMClientConfigAdapter_getWorldsDB",
         "nleib_EaglerArrayByteBuffer_asIntBuffer", "nleib_EaglerArrayByteBuffer_get", "nleib_EaglerArrayByteBuffer_putFloat", "nleib_EaglerArrayByteBuffer_flip", "nleib_EaglerArrayByteBuffer_asFloatBuffer", "nlei_OpenGLObjects$ShaderGL_free", "free", "cjj_InflaterInputStream_read", "cjj_InflaterInputStream_read0", "cjj_InflaterInputStream_skip", "cjj_InflaterInputStream_close", "ju_HashMap_get", "ju_HashMap_put", "nleit_TeaVMClientConfigAdapter_isRamdiskMode", "nleit_TeaVMBlobURLManager$HandleFakeBlobURL_toExternalForm",
-        "nleit_TeaVMBlobURLManager$HandleRealBlobURL_toExternalForm", "nleo_SoftGLVertexArray_setBit", "nlei_OpenGLObjects$VertexArrayGL_setBit", "ju_Arrays$ArrayAsList_size", "ju_Arrays$ArrayAsList_get", "ju_Arrays$ArrayAsList_set", "ju_GenericEnumSet_add", "ju_Comparator$NaturalOrder_compare", "nleib_EaglerArrayIntBuffer_put0", "nleib_EaglerArrayIntBuffer_flip", "nms_BlockBed_isOpaqueCube", "nms_BlockRail_isOpaqueCube", "nms_BlockPistonBase_isOpaqueCube", "nms_BlockWeb_isOpaqueCube", "nms_BlockPistonExtension_isOpaqueCube",
-        "nms_BlockFlower_isOpaqueCube", "nms_BlockStep_isOpaqueCube", "nms_BlockFarmland_isOpaqueCube", "nms_BlockDoor_isOpaqueCube", "nms_BlockReed_isOpaqueCube", "nms_BlockTrapDoor_isOpaqueCube", "jl_Object$monitorExit$lambda$_8_0_run", "nleib_EaglerArrayFloatBuffer_put0", "nleib_EaglerArrayFloatBuffer_flip", "nms_BlockSandStone_getBlockTextureFromSide", "nms_BlockStep_getBlockTextureFromSide", "nms_BlockTNT_getBlockTextureFromSide", "nms_BlockOreStorage_getBlockTextureFromSide", "nms_BlockChest_isOpaqueCube",
-        "nms_BlockPistonMoving_isOpaqueCube", "nms_BlockSign_isOpaqueCube", "jur_JointSet_processSecondPass", "jur_SingleSet_processSecondPass", "jur_QuantifierSet_first", "nms_RecipeSorter_compare", "jur_CompositeRangeSet_setNext", "jur_SupplRangeSet_setNext", "jur_HangulDecomposedCharSet_setNext", "jur_DecomposedCharSet_setNext", "ju_IANATimeZone_clone", "jur_LowSurrogateCharSet_setNext", "jur_HighSurrogateCharSet_setNext", "nleit_IndexedDBFilesystem_isRamdisk", "nms_BlockLadder_isOpaqueCube", "nms_BlockBreakable_isOpaqueCube",
-        "nms_BlockCake_isOpaqueCube", "nms_BlockFluid_isOpaqueCube", "nms_BlockRedstoneRepeater_isOpaqueCube", "nms_BlockSnow_isOpaqueCube", "nms_BlockMobSpawner_isOpaqueCube", "nms_BlockFence_isOpaqueCube", "nms_BlockCactus_isOpaqueCube", "nms_BlockButton_isOpaqueCube", "nms_BlockPortal_isOpaqueCube", "nms_BlockFenceGate_isOpaqueCube", "nms_BlockVine_isOpaqueCube", "nms_BlockPressurePlate_isOpaqueCube", "nms_BlockFire_isOpaqueCube", "nms_BlockLeaves_isOpaqueCube", "nms_BlockTorch_isOpaqueCube", "nms_BlockLever_isOpaqueCube",
-        "nms_BlockRedstoneWire_isOpaqueCube", "nms_BlockStairs_isOpaqueCube", "nms_BlockPane_isOpaqueCube", "nms_BlockFire_initializeBlock", "nms_BlockNote_getBlockTextureFromSide", "nms_BlockFurnace_getBlockTextureFromSide", "nms_BlockFluid_getBlockTextureFromSide", "nms_BlockCactus_getBlockTextureFromSide", "nms_BlockWorkbench_getBlockTextureFromSide", "nms_BlockBookshelf_getBlockTextureFromSide", "nms_BlockDispenser_getBlockTextureFromSide", "nms_BlockStairs_getBlockTextureFromSide", "nms_BlockLockedChest_getBlockTextureFromSide",
-        "nms_BlockPumpkin_getBlockTextureFromSide", "nms_BlockChest_getBlockTextureFromSide", "nms_BlockRedstoneRepeater_getBlockTextureFromSide", "nms_BlockJukeBox_getBlockTextureFromSide", "nms_BlockMelon_getBlockTextureFromSide", "nms_BlockCake_getBlockTextureFromSide", "jur_HighSurrogateCharSet_first", "jur_HangulDecomposedCharSet_first", "jur_LowSurrogateCharSet_first", "jur_SupplCharSet_first", "jur_DecomposedCharSet_first", "jur_CharSet_first", "jur_AltQuantifierSet_setNext", "jur_AltGroupQuantifierSet_setNext",
-        "jur_PosAltGroupQuantifierSet_setNext", "jur_JointSet_setNext", "jur_AtomicJointSet_setNext", "jur_CIBackReferenceSet_setNext", "jur_DotSet_setNext", "jur_DotAllSet_setNext", "jur_DotSet_getType", "jur_DotAllSet_getType", "jur_SequenceSet_first", "jur_JointSet_first", "jur_BackReferenceSet_first", "jur_SupplRangeSet_first", "jur_CompositeRangeSet_first", "jur_SingleSet_first", "jur_RangeSet_first", "jl_StringBuilder_insert5", "otjb_Window_get", "otjb_Window_addEventListener", "addEventListener", "otjb_Window_removeEventListener",
+        "nleit_TeaVMBlobURLManager$HandleRealBlobURL_toExternalForm", "nlei_OpenGLObjects$VertexArrayGL_setBit", "nleo_SoftGLVertexArray_setBit", "ju_Arrays$ArrayAsList_size", "ju_Arrays$ArrayAsList_get", "ju_Arrays$ArrayAsList_set", "ju_GenericEnumSet_add", "ju_Comparator$NaturalOrder_compare", "nleib_EaglerArrayIntBuffer_put0", "nleib_EaglerArrayIntBuffer_flip", "nms_BlockBed_isOpaqueCube", "nms_BlockRail_isOpaqueCube", "nms_BlockPistonBase_isOpaqueCube", "nms_BlockWeb_isOpaqueCube", "nms_BlockPistonExtension_isOpaqueCube",
+        "nms_BlockFlower_isOpaqueCube", "nms_BlockStep_isOpaqueCube", "nms_BlockFarmland_isOpaqueCube", "nms_BlockDoor_isOpaqueCube", "nms_BlockReed_isOpaqueCube", "nms_BlockTrapDoor_isOpaqueCube", "jl_Object$monitorExit$lambda$_8_0_run", "nleib_EaglerArrayFloatBuffer_put0", "nleib_EaglerArrayFloatBuffer_flip", "nms_BlockTNT_getBlockTextureFromSide", "nms_BlockOreStorage_getBlockTextureFromSide", "nms_BlockSandStone_getBlockTextureFromSide", "nms_BlockStep_getBlockTextureFromSide", "nms_BlockChest_isOpaqueCube",
+        "nms_BlockPistonMoving_isOpaqueCube", "nms_BlockSign_isOpaqueCube", "jur_JointSet_processSecondPass", "jur_SingleSet_processSecondPass", "jur_QuantifierSet_first", "nms_RecipeSorter_compare", "jur_CompositeRangeSet_setNext", "jur_SupplRangeSet_setNext", "jur_HangulDecomposedCharSet_setNext", "jur_DecomposedCharSet_setNext", "ju_IANATimeZone_clone", "jur_LowSurrogateCharSet_setNext", "jur_HighSurrogateCharSet_setNext", "nleit_IndexedDBFilesystem_isRamdisk", "nms_BlockBreakable_isOpaqueCube", "nms_BlockCake_isOpaqueCube",
+        "nms_BlockFluid_isOpaqueCube", "nms_BlockRedstoneRepeater_isOpaqueCube", "nms_BlockSnow_isOpaqueCube", "nms_BlockMobSpawner_isOpaqueCube", "nms_BlockFence_isOpaqueCube", "nms_BlockCactus_isOpaqueCube", "nms_BlockButton_isOpaqueCube", "nms_BlockPortal_isOpaqueCube", "nms_BlockFenceGate_isOpaqueCube", "nms_BlockVine_isOpaqueCube", "nms_BlockPressurePlate_isOpaqueCube", "nms_BlockFire_isOpaqueCube", "nms_BlockLeaves_isOpaqueCube", "nms_BlockTorch_isOpaqueCube", "nms_BlockLever_isOpaqueCube", "nms_BlockRedstoneWire_isOpaqueCube",
+        "nms_BlockStairs_isOpaqueCube", "nms_BlockPane_isOpaqueCube", "nms_BlockLadder_isOpaqueCube", "nms_BlockFire_initializeBlock", "nms_BlockNote_getBlockTextureFromSide", "nms_BlockFurnace_getBlockTextureFromSide", "nms_BlockFluid_getBlockTextureFromSide", "nms_BlockCactus_getBlockTextureFromSide", "nms_BlockWorkbench_getBlockTextureFromSide", "nms_BlockBookshelf_getBlockTextureFromSide", "nms_BlockDispenser_getBlockTextureFromSide", "nms_BlockStairs_getBlockTextureFromSide", "nms_BlockLockedChest_getBlockTextureFromSide",
+        "nms_BlockPumpkin_getBlockTextureFromSide", "nms_BlockChest_getBlockTextureFromSide", "nms_BlockRedstoneRepeater_getBlockTextureFromSide", "nms_BlockJukeBox_getBlockTextureFromSide", "nms_BlockMelon_getBlockTextureFromSide", "nms_BlockCake_getBlockTextureFromSide", "jur_CharSet_first", "jur_DecomposedCharSet_first", "jur_LowSurrogateCharSet_first", "jur_SupplCharSet_first", "jur_HighSurrogateCharSet_first", "jur_HangulDecomposedCharSet_first", "jur_PosAltGroupQuantifierSet_setNext", "jur_AltQuantifierSet_setNext",
+        "jur_AltGroupQuantifierSet_setNext", "jur_AtomicJointSet_setNext", "jur_JointSet_setNext", "jur_CIBackReferenceSet_setNext", "jur_DotAllSet_setNext", "jur_DotSet_setNext", "jur_DotAllSet_getType", "jur_DotSet_getType", "jur_SequenceSet_first", "jur_JointSet_first", "jur_CompositeRangeSet_first", "jur_SupplRangeSet_first", "jur_RangeSet_first", "jur_BackReferenceSet_first", "jur_SingleSet_first", "jl_StringBuilder_insert5", "otjb_Window_get", "otjb_Window_addEventListener", "addEventListener", "otjb_Window_removeEventListener",
         "removeEventListener", "otjb_Window_removeEventListener0", "otjb_Window_dispatchEvent", "dispatchEvent", "otjb_Window_getLength", "otjb_Window_addEventListener0", "ju_LinkedList_size", "ju_AbstractSequentialList_iterator", "nleit_TeaVMClientConfigAdapter_getHooks", "ju_HashMap_isEmpty", "ju_HashMap_size", "ju_HashMap_clear", "nlei_RamdiskFilesystemImpl_isRamdisk", "cch_IntObjectHashMap_get", "cch_IntObjectHashMap_put", "nle_EagRuntime$debugPrintStackTraceToSTDERR0$lambda$_25_0_accept", "ju_AbstractList_iterator",
         "nleit_TeaVMClientConfigAdapter_getLocalStorageNamespace", "nleo_EaglercraftGPU$3_create", "ju_LinkedList_clear", "nleit_ArrayBufferInputStream_read", "nleit_ArrayBufferInputStream_read0", "nleit_ArrayBufferInputStream_skip", "nlei_PlatformRuntime$DumbSleepHandler_run", "jl_StringBuilder_insert6", "ju_ArrayList_remove", "oall_Level_values", "nlei_EnumPlatformAgent_values", "nlei_EnumPlatformOS_values", "nlei_EnumPlatformANGLE_values", "nms_EnumOS1_values", "nms_EnumMobType_values", "nlei_EnumPlatformType_values",
         "nms_EnumToolMaterial_values", "otjc_JSArray_get", "otjc_JSArray_getLength", "ju_AbstractCollection_addAll", "nle_BaseNCodec$CodecPolicy_values", "ju_AbstractCollection_toArray", "toArray", "ju_ArrayList_set", "jm_RoundingMode_values", "jl_String_subSequence", "jur_CharClass_hasUCI", "ju_GregorianCalendar_setFirstDayOfWeek", "ju_GregorianCalendar_setMinimalDaysInFirstWeek", "jur_CharClass_getInstance", "otcit_FixedDateTimeZone_getStandardOffset", "ju_HashSet_remove", "ju_HashMap_remove", "ju_HashMap_containsKey",
@@ -47331,7 +47331,7 @@
         "jl_Math_max", "max", "nleo_SoftGLVertexArray$Attrib_equalsExplicit", "equalsExplicit", "nleo_EaglercraftGPU_bindEmulatedVAOIndexBuffer", "bindEmulatedVAOIndexBuffer", "ju_GenericEnumSet_add0", "jl_Comparable_compareTo", "compareTo", "jnc_Charset_newDecoder", "newDecoder", "jnc_CharsetDecoder_onMalformedInput", "onMalformedInput", "jnc_CharsetDecoder_onUnmappableCharacter", "onUnmappableCharacter", "jnc_CharsetDecoder_decode", "jl_AssertionError__init_", "jl_String_startsWith", "nleit_TeaVMUtils_unwrapArrayBufferView",
         "unwrapArrayBufferView", "nle_EaglercraftUUID_digits", "digits", "jl_Object_lambda$monitorExit$2", "lambda$monitorExit$2", "jl_Object_deleteMonitor", "deleteMonitor", "jl_Throwable_getLocalizedMessage", "getLocalizedMessage", "jl_IndexOutOfBoundsException__init_1", "nleit_TeaVMUtils_unwrapArrayBufferView0", "nms_Block_getBlockName", "getBlockName", "nms_BlockStep_getBlockTextureFromSideAndMetadata", "getBlockTextureFromSideAndMetadata", "nms_Block_getBlockTextureFromSideAndMetadata", "jur_Pattern_split0",
         "ju_Properties_getProperty", "nle_HString_format", "jur_AbstractSet_processBackRefReplacement", "processBackRefReplacement", "ju_ArrayList_remove0", "ju_AbstractList_remove", "ju_ArrayList_add0", "ju_AbstractList_add0", "nms_RecipeSorter_compareRecipes", "compareRecipes", "ju_IANATimeZone_clone0", "ju_MissingResourceException__init_", "jl_String_lastIndexOf0", "ju_ArrayList_ensureCapacity", "nms_Item_getItemName", "getItemName", "nms_BlockFire_setBurnRate", "setBurnRate", "nms_BlockRedstoneRepeater_getBlockTextureFromSideAndMetadata",
-        "jur_HangulDecomposedCharSet_getDecomposedChar", "getDecomposedChar", "jur_SupplCharSet_getCodePoint", "getCodePoint", "jur_SupplRangeSet_contains", "jur_DecomposedCharSet_getDecomposedChar", "jur_CharSet_getChar", "getChar", "jur_RangeSet_accepts", "accepts", "jur_LeafSet_accepts", "jur_AbstractCharClass_intersects", "intersects", "jur_AbstractCharClass_intersects0", "jur_RangeSet_getChars", "getChars", "jur_SupplRangeSet_getChars", "jl_StringIndexOutOfBoundsException__init_", "otp_Platform_getName",
+        "jur_CharSet_getChar", "getChar", "jur_RangeSet_accepts", "accepts", "jur_LeafSet_accepts", "jur_SupplRangeSet_contains", "jur_DecomposedCharSet_getDecomposedChar", "getDecomposedChar", "jur_SupplCharSet_getCodePoint", "getCodePoint", "jur_HangulDecomposedCharSet_getDecomposedChar", "jur_AbstractCharClass_intersects", "intersects", "jur_AbstractCharClass_intersects0", "jur_RangeSet_getChars", "getChars", "jur_SupplRangeSet_getChars", "jl_StringIndexOutOfBoundsException__init_", "otp_Platform_getName",
         "otp_Platform_isPrimitive", "otp_Platform_isInstance", "jl_StringBuilder_insert7", "nmc_Minecraft_shutdownMinecraftApplet", "shutdownMinecraftApplet", "nms_AxisAlignedBB_clearBoundingBoxPool", "clearBoundingBoxPool", "nms_Vec3D_initialize", "nle_Display_isCloseRequested", "isCloseRequested", "nmc_Minecraft_shutdown", "shutdown", "nms_Timer_updateTimer", "updateTimer", "nmc_Minecraft_checkGLError", "checkGLError", "nms_SoundManager_func_338_a", "func_338_a", "olo_GL11_glEnable", "glEnable", "nms_World_updatingLighting",
         "updatingLighting", "nms_EntityPlayer_isEntityInsideOpaqueBlock", "isEntityInsideOpaqueBlock", "nms_Entity_isEntityInsideOpaqueBlock", "nle_Display_isActive", "isActive", "nms_EntityRenderer_updateCameraAndRender", "updateCameraAndRender", "nms_PlayerController_setPartialTime", "setPartialTime", "nmc_Minecraft_toggleFullscreen", "toggleFullscreen", "nmc_Minecraft_displayDebugInfo", "displayDebugInfo", "nms_GuiAchievement_updateAchievementWindow", "updateAchievementWindow", "nmc_Minecraft_screenshotListener",
         "screenshotListener", "nmc_Minecraft_updateDisplay", "updateDisplay", "nmc_Minecraft_isMultiplayerWorld", "isMultiplayerWorld", "nms_GuiScreen_doesGuiPauseGame", "doesGuiPauseGame", "nmc_Minecraft_startGame", "startGame", "nms_UnexpectedThrowable__init_0", "nmc_Minecraft_onMinecraftCrash", "onMinecraftCrash", "nmc_Minecraft_runTick", "runTick", "nmc_Minecraft_changeWorld1", "changeWorld1", "nms_GuiConflictWarning__init_0", "nmc_Minecraft_displayGuiScreen", "displayGuiScreen", "nmc_Minecraft_func_28002_e",
@@ -47366,39 +47366,39 @@
         "nleit_TeaVMClientConfigAdapterHooks_callCrashReportHook", "nleit_TeaVMClientConfigAdapterHooks_callLocalStorageLoadHook", "nleit_TeaVMClientConfigAdapterHooks_callLocalStorageSavedHook", "jl_Enum_compareTo0", "nms_BlockGrass_getBlockTextureFromSideAndMetadata", "nms_BlockSapling_getBlockTextureFromSideAndMetadata", "nms_BlockLog_getBlockTextureFromSideAndMetadata", "nms_BlockLeaves_getBlockTextureFromSideAndMetadata", "nms_BlockBed_getBlockTextureFromSideAndMetadata", "nms_BlockRail_getBlockTextureFromSideAndMetadata",
         "nms_BlockPistonBase_getBlockTextureFromSideAndMetadata", "nms_BlockTallGrass_getBlockTextureFromSideAndMetadata", "nms_BlockDeadBush_getBlockTextureFromSideAndMetadata", "nms_BlockPistonExtension_getBlockTextureFromSideAndMetadata", "nms_BlockCloth_getBlockTextureFromSideAndMetadata", "nms_BlockStairs_getBlockTextureFromSideAndMetadata", "nms_BlockRedstoneWire_getBlockTextureFromSideAndMetadata", "nms_BlockCrops_getBlockTextureFromSideAndMetadata", "nms_BlockFarmland_getBlockTextureFromSideAndMetadata",
         "nms_BlockDoor_getBlockTextureFromSideAndMetadata", "nms_BlockRedstoneTorch_getBlockTextureFromSideAndMetadata", "nms_BlockPumpkin_getBlockTextureFromSideAndMetadata", "nms_BlockCake_getBlockTextureFromSideAndMetadata", "nms_BlockSilverfish_getBlockTextureFromSideAndMetadata", "nms_BlockStoneBrick_getBlockTextureFromSideAndMetadata", "nms_BlockMushroomCap_getBlockTextureFromSideAndMetadata", "nms_BlockMelon_getBlockTextureFromSideAndMetadata", "nms_BlockStem_getBlockTextureFromSideAndMetadata", "nms_ItemFood_setItemName",
-        "jur_Quantifier_toString", "jl_StringBuffer_insert", "jur_CharClass_contains", "otcit_CachedDateTimeZone_getStandardOffset", "otcit_AliasDateTimeZone_getStandardOffset", "otcit_DateTimeZoneBuilder$DSTZone_getStandardOffset", "otcit_DateTimeZoneBuilder$PrecalculatedZone_getStandardOffset", "otcit_DateTimeZoneBuilder$RuleBasedZone_getStandardOffset", "otcit_CachedDateTimeZone_previousTransition", "otcit_AliasDateTimeZone_previousTransition", "otcit_DateTimeZoneBuilder$DSTZone_previousTransition", "otcit_DateTimeZoneBuilder$PrecalculatedZone_previousTransition",
-        "otcit_DateTimeZoneBuilder$RuleBasedZone_previousTransition", "otcit_FixedDateTimeZone_previousTransition", "otcit_CachedDateTimeZone_getOffset", "otcit_AliasDateTimeZone_getOffset", "otcit_DateTimeZoneBuilder$DSTZone_getOffset", "otcit_DateTimeZoneBuilder$PrecalculatedZone_getOffset", "otcit_DateTimeZoneBuilder$RuleBasedZone_getOffset", "otcit_FixedDateTimeZone_getOffset", "nle_EaglerInputStream_close", "jl_String_compareTo0", "jl_Object$monitorEnterWait$lambda$_6_0_run", "nms_MaterialTransparent_getCanBlockGrass",
-        "nms_MaterialLogic_getCanBlockGrass", "jnci_Iso8859Charset_newDecoder", "jnci_UTF16Charset_newDecoder", "jnci_AsciiCharset_newDecoder", "nms_MaterialPortal_getCanBlockGrass", "ju_ArrayList_clear", "ju_PriorityQueue_size", "jnci_UTF8Charset_newDecoder", "jur_LowHighSurrogateRangeSet_setNext", "nms_ItemBlock_getItemName", "jt_SimpleDateFormat_format", "ju_LinkedList_listIterator0", "ju_HashMap_putAll", "nleo_EaglercraftGPU$3_invalidate", "ju_ArrayDeque_addLast", "addLast", "jl_Integer_hashCode", "nle_Base64_isInAlphabet",
-        "jl_Character_hashCode", "jur_CharClass_getLowHighSurrogates", "jur_AbstractCharClass$1_contains", "jur_AbstractCharClass$2_contains", "jur_CharClass$18_contains", "ju_PriorityQueue_offer", "offer", "ju_PriorityQueue_poll", "poll", "otcit_DateTimeZoneProvider$detectTimezone$lambda$_4_0_apply", "jl_Long_hashCode", "nlei_OpenGLObjects$BufferGL_hashCode", "jl_StringBuilder_insert4", "jl_StringBuilder_append8", "nleit_TeaVMBlobURLManager$HandleFakeBlobURL_release", "nleit_TeaVMBlobURLManager$HandleRealBlobURL_release",
-        "jl_StringBuffer_append1", "jnci_UTF8Charset_newEncoder", "jl_StringBuilder_ensureCapacity", "nleib_EaglerArrayByteBuffer_remaining", "nleib_EaglerArrayByteBuffer_put", "nleo_VertexFormat_values", "jl_Integer_bitCount", "bitCount", "ju_GenericEnumSet$1__init_", "ju_AbstractList$1_checkConcurrentModification", "checkConcurrentModification", "ju_HashMap$2__init_", "jur_BackReferencedSingleSet__init_", "jur_AbstractCharClass$LazyCharClass_computeValue", "computeValue", "jl_AbstractStringBuilder_append9",
-        "nleit_TeaVMClientConfigAdapterHooks$callCrashReportHook$lambda$_4_0__init_", "nleit_TeaVMClientConfigAdapterHooks_callHookSafeSync0", "callHookSafeSync", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageLoadHook$lambda$_2_0__init_", "nleit_TeaVMClientConfigAdapterHooks_callHookSafeWithReturn0", "callHookSafeWithReturn", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageSavedHook$lambda$_1_0__init_", "nleit_TeaVMClientConfigAdapterHooks_callHookSafe", "callHookSafe", "jl_Enum_compareTo", "nms_BlockBed_getDirectionFromMetadata",
-        "getDirectionFromMetadata", "nms_BlockBed_isBlockFootOfBed", "isBlockFootOfBed", "nms_BlockPistonBase_getOrientation", "getOrientation", "nms_BlockPistonBase_isExtended", "isExtended", "nms_BlockPistonExtension_func_31050_c", "func_31050_c", "nms_BlockDoor_getState", "getState", "jl_StringBuffer_insert0", "ju_BitSet_get", "otcit_CachedDateTimeZone_getInfo", "getInfo", "otcit_CachedDateTimeZone$Info_getStandardOffset", "ju_Arrays_binarySearch", "binarySearch", "otcit_DateTimeZoneBuilder$RuleBasedZone_initZone",
-        "initZone", "otcit_DateTimeZoneBuilder$Recurrence_getSaveMillis", "getSaveMillis", "otcit_DateTimeZoneBuilder$Recurrence_previous", "previous", "otcit_CachedDateTimeZone$Info_getOffset", "otcit_DateTimeZoneBuilder$DSTZone_findMatchingRecurrence", "findMatchingRecurrence", "jn_Buffer_position0", "jn_Buffer_clear", "nleo_WorldRenderer_begin", "begin", "npem_Tessellator_setColorOpaque", "setColorOpaque", "nleo_VertexFormat_needsUpdate", "needsUpdate", "nleo_WorldRenderer_pos", "pos", "nleo_WorldRenderer_tex",
-        "tex", "nleo_WorldRenderer_setColorRGBA", "setColorRGBA", "nleo_WorldRenderer_endVertex", "endVertex", "nleo_WorldRenderer_normal", "normal", "nleo_WorldRenderer_finishDrawing", "finishDrawing", "nleo_WorldVertexBufferUploader_func_181679_a", "func_181679_a", "nleo_VertexFormat_reset", "jl_String_compareTo", "jl_Object_lambda$monitorEnterWait$0", "lambda$monitorEnterWait$0", "jnci_Iso8859Decoder__init_", "jnci_UTF16Decoder__init_", "jnci_AsciiDecoder__init_", "nleito_JSEaglercraftXOptsHooks_getLocalStorageSavedHook$js_body$_1",
-        "getLocalStorageSavedHook$js_body$_1", "nleito_JSEaglercraftXOptsHooks_getLocalStorageLoadedHook$js_body$_2", "getLocalStorageLoadedHook$js_body$_2", "nleito_JSEaglercraftXOptsHooks_getCrashReportHook$js_body$_3", "getCrashReportHook$js_body$_3", "nleito_JSEaglercraftXOptsHooks_getScreenChangedHook$js_body$_4", "getScreenChangedHook$js_body$_4", "oall_ILogRedirector_log", "ju_Date_setTime", "setTime", "oall_Level_getPrintStream", "getPrintStream", "oall_Logger_formatParams", "formatParams", "oall_Logger_logExcp",
-        "logExcp", "cjj_Inflate_inflate", "cjj_ZStream_setInput", "setInput", "cjj_Inflater_finished", "finished", "cjj_ZStream_finished", "ji_EOFException__init_0", "cjj_Inflate_inflateEnd", "inflateEnd", "jnci_UTF8Decoder__init_", "jur_Pattern_matcher", "matcher", "jur_Matcher_find", "find", "jur_Matcher_start", "start", "jur_Matcher_end", "ju_Hashtable_get", "ju_Properties_getProperty0", "ju_ArrayList_checkIndexForAdd", "checkIndexForAdd", "nms_IRecipe_getRecipeSize", "getRecipeSize", "jl_Throwable_printStackTrace0",
-        "nms_StatFileWriter_func_27175_b", "func_27175_b", "nms_StatFileWriter_syncStats", "syncStats", "nms_GLAllocation_deleteTexturesAndDisplayLists", "deleteTexturesAndDisplayLists", "nms_SoundManager_closeMinecraft", "closeMinecraft", "nle_EagRuntime_exit", "exit", "nlei_PlatformAudio_setListener", "setListener", "nle_Display_toggleFullscreen", "nms_GuiAchievement_updateAchievementWindowScale", "updateAchievementWindowScale", "olo_GL11_glDepthMask", "glDepthMask", "nms_RenderEngine_getTexture", "getTexture",
-        "olo_GL11_glColor4f", "glColor4f", "olo_GL11_glBindTexture", "glBindTexture", "nms_Gui_drawTexturedModalRect", "drawTexturedModalRect", "npem_FontRenderer_drawString", "drawString", "npem_FontRenderer_drawSplitString", "drawSplitString", "olo_GL11_glPushMatrix", "glPushMatrix", "olo_GL11_glRotatef", "glRotatef", "nms_RenderHelper_enableStandardItemLighting", "enableStandardItemLighting", "olo_GL11_glPopMatrix", "glPopMatrix", "nms_RenderItem_renderItemIntoGUI", "renderItemIntoGUI", "nle_Display_isVSyncSupported",
-        "isVSyncSupported", "nle_Display_update", "nle_Display_wasResized", "wasResized", "nle_Display_setVSync", "setVSync", "nmc_Minecraft_resize", "resize", "nle_Display_setTitle", "setTitle", "nmc_Minecraft_getMinecraftDir", "getMinecraftDir", "nleiv_VFile2__init_0", "nms_SaveConverterMcRegion__init_", "nms_GameSettings__init_", "nms_TexturePackList__init_", "nms_RenderEngine__init_", "nmc_Minecraft_loadScreen", "loadScreen", "nms_FontRenderer__init_", "nms_RenderEngine_getTextureContents", "getTextureContents",
-        "nms_ColorizerWater_func_28182_a", "func_28182_a", "nms_ColorizerGrass_func_28181_a", "func_28181_a", "nms_ColorizerFoliage_func_28152_a", "func_28152_a", "nms_EntityRenderer__init_0", "nms_ItemRenderer__init_0", "nms_StatFileWriter__init_", "nms_StatStringFormatKeyInv__init_", "nms_Achievement_setStatStringFormatter", "setStatStringFormatter", "nms_MouseHelper__init_0", "olo_GL11_glShadeModel", "glShadeModel", "olo_GL11_glClearDepth", "glClearDepth", "olo_GL11_glDepthFunc", "glDepthFunc", "olo_GL11_glAlphaFunc",
-        "glAlphaFunc", "olo_GL11_glCullFace", "glCullFace", "nms_SoundManager_loadSoundSettings", "loadSoundSettings", "nms_RenderEngine_registerTextureFX", "registerTextureFX", "nms_TexturePortalFX__init_0", "nms_TextureCompassFX__init_", "nms_TextureWatchFX__init_", "nms_TextureWaterFlowFX__init_0", "nms_TextureLavaFlowFX__init_0", "nms_TextureFlamesFX__init_0", "nms_RenderGlobal__init_0", "olo_GL11_glViewport", "glViewport", "nms_EffectRenderer__init_0", "nms_GuiIngame__init_0", "nms_GuiMainMenu__init_0",
-        "nlep_GuiScreenEditProfile__init_", "nms_GuiConnecting__init_", "nms_LoadingScreenRenderer__init_0", "dceu_SaveUtils_setProgressUpdate", "setProgressUpdate", "nmc_Minecraft_displayUnexpectedThrowable", "displayUnexpectedThrowable", "nms_StatFileWriter_func_27178_d", "func_27178_d", "nms_GuiIngame_updateTick", "updateTick", "nms_EntityRenderer_getMouseOver", "getMouseOver", "nmc_Minecraft_func_28001_B", "func_28001_B", "nms_World_getIChunkProvider", "getIChunkProvider", "nms_MathHelper_floor_float", "floor_float",
-        "nms_ChunkProviderLoadOrGenerate_setCurrentChunkOver", "setCurrentChunkOver", "nms_PlayerController_updateController", "updateController", "dceu_I18n_format", "nms_RenderEngine_updateDynamicTextures", "updateDynamicTextures", "nms_EntityPlayer_isPlayerSleeping", "isPlayerSleeping", "nms_EntityLiving_isPlayerSleeping", "nms_GuiScreen_handleInput", "handleInput", "nms_GuiParticle_update", "nms_GuiScreen_updateScreen", "updateScreen", "nle_Mouse_next", "nle_Mouse_getEventButton", "getEventButton", "nle_Mouse_getEventButtonState",
-        "getEventButtonState", "nms_KeyBinding_func_35963_a", "func_35963_a", "nms_KeyBinding_func_35960_a", "func_35960_a", "nle_Mouse_getEventDWheel", "getEventDWheel", "nms_InventoryPlayer_changeCurrentItem", "changeCurrentItem", "nmc_Minecraft_setIngameFocus", "setIngameFocus", "nms_GuiScreen_handleMouseInput", "handleMouseInput", "nle_Keyboard_next", "nle_Keyboard_getEventKey", "getEventKey", "nle_Keyboard_getEventKeyState", "getEventKeyState", "nms_KeyBinding_func_35962_c", "func_35962_c", "nms_GuiInventory__init_0",
-        "nms_EntityPlayer_dropCurrentItem", "dropCurrentItem", "nms_GuiChat__init_0", "nms_EntityPlayer_func_35196_Z", "func_35196_Z", "nms_GuiChat_setMessage", "setMessage", "nms_PlayerController_func_35638_c", "func_35638_c", "nmc_Minecraft_clickMouse", "clickMouse", "nmc_Minecraft_sendClickBlockToController", "sendClickBlockToController", "nms_World_joinEntityInSurroundings", "joinEntityInSurroundings", "nms_EntityRenderer_updateRenderer", "updateRenderer", "nms_RenderGlobal_updateClouds", "updateClouds",
-        "nms_World_updateEntities", "updateEntities", "nms_World_setAllowedMobSpawns", "setAllowedMobSpawns", "nms_World_tick", "tick", "nms_MathHelper_floor_double", "floor_double", "nms_World_randomDisplayUpdates", "randomDisplayUpdates", "nms_EffectRenderer_updateEffects", "updateEffects", "nmc_Minecraft_clickMiddleMouseButton", "clickMiddleMouseButton", "nms_GuiScreen_handleKeyboardInput", "handleKeyboardInput", "nmc_Minecraft_displayInGameMenu", "displayInGameMenu", "nmc_Minecraft_forceReload", "forceReload",
-        "nms_GameSettings_setOptionValue", "setOptionValue", "nms_GuiSleepMP__init_0", "nmc_Minecraft_changeWorld2", "changeWorld2", "nms_GuiScreen_onGuiClosed", "onGuiClosed", "nms_GuiIngame_clearChatMessages", "clearChatMessages", "nmc_Minecraft_setIngameNotInFocus", "setIngameNotInFocus", "nms_ScaledResolution__init_0", "nms_ScaledResolution_getScaledWidth", "getScaledWidth", "nms_ScaledResolution_getScaledHeight", "getScaledHeight", "nms_GuiScreen_setWorldAndResolution", "setWorldAndResolution", "nms_GuiGameOver__init_",
-        "nms_RenderGlobal_func_28137_f", "func_28137_f", "nms_AxisAlignedBB_clearBoundingBoxes", "clearBoundingBoxes", "nms_Vec3D_clearVectorList", "clearVectorList", "ju_Calendar_setTime", "ju_Calendar_getTimeZone", "jt_DateFormatElement_format", "ju_LinkedList$SequentialListIterator__init_0", "ju_HashMap_putAllImpl", "putAllImpl", "cch_BitMixer_mixPhi", "mixPhi", "cch_IntObjectHashMap_size", "cch_HashContainers_nextBufferSize", "nextBufferSize", "jnc_CharsetEncoder_encode0", "nle_BaseNCodec$Context__init_",
-        "nle_BaseNCodec_decode1", "nle_BaseNCodec_readResults", "readResults", "nleo_EaglercraftGPU$3_invalidate0", "ju_ArrayDeque_size", "ju_ArrayDeque_ensureCapacity", "ju_ArrayDeque_modInc", "modInc", "nlei_PlatformRuntime_handleWindowMessage", "handleWindowMessage", "jl_Integer_hashCode0", "jl_Integer_compareUnsigned", "compareUnsigned", "jl_Integer_divideUnsigned", "divideUnsigned", "jl_Integer_remainderUnsigned", "remainderUnsigned", "nlei_PlatformInput_handleWindowFocus", "handleWindowFocus", "nlei_PlatformInput_tryGrabCursorHook",
-        "tryGrabCursorHook", "nlei_PlatformInput_getOffsetX$js_body$_15", "getOffsetX$js_body$_15", "nlei_PlatformInput_getOffsetY$js_body$_16", "getOffsetY$js_body$_16", "ju_List_remove", "nlei_PlatformInput$VMouseEvent__init_0", "nlei_PlatformInput_hasCodeVar$js_body$_12", "hasCodeVar$js_body$_12", "nlei_PlatformInput_getWhich$js_body$_17", "getWhich$js_body$_17", "nlei_PlatformInput_getLocationSafe$js_body$_18", "getLocationSafe$js_body$_18", "nlei_PlatformInput_processFunctionKeys", "processFunctionKeys",
-        "nlei_PlatformInput_toggleFullscreen", "nle_KeyboardConstants_getEaglerKeyFromBrowser", "getEaglerKeyFromBrowser", "nlei_PlatformInput_getCharOrNull$js_body$_41", "getCharOrNull$js_body$_41", "nlei_PlatformInput_keyToAsciiLegacy", "keyToAsciiLegacy", "nlei_PlatformInput$VKeyEvent__init_0", "nleit_LegacyKeycodeTranslator_getCodeFromLayoutChar", "getCodeFromLayoutChar", "nleit_LegacyKeycodeTranslator$LegacyKeycode_equals", "otp_Platform_getEnclosingClass", "jl_Runnable_run", "cch_HashContainers_expandAtCount",
+        "jur_Quantifier_toString", "jl_StringBuffer_insert", "jur_CharClass_contains", "otcit_DateTimeZoneBuilder$DSTZone_getStandardOffset", "otcit_DateTimeZoneBuilder$PrecalculatedZone_getStandardOffset", "otcit_DateTimeZoneBuilder$RuleBasedZone_getStandardOffset", "otcit_CachedDateTimeZone_getStandardOffset", "otcit_AliasDateTimeZone_getStandardOffset", "otcit_DateTimeZoneBuilder$DSTZone_previousTransition", "otcit_DateTimeZoneBuilder$PrecalculatedZone_previousTransition", "otcit_DateTimeZoneBuilder$RuleBasedZone_previousTransition",
+        "otcit_FixedDateTimeZone_previousTransition", "otcit_CachedDateTimeZone_previousTransition", "otcit_AliasDateTimeZone_previousTransition", "otcit_DateTimeZoneBuilder$DSTZone_getOffset", "otcit_DateTimeZoneBuilder$PrecalculatedZone_getOffset", "otcit_DateTimeZoneBuilder$RuleBasedZone_getOffset", "otcit_FixedDateTimeZone_getOffset", "otcit_CachedDateTimeZone_getOffset", "otcit_AliasDateTimeZone_getOffset", "nle_EaglerInputStream_close", "jl_String_compareTo0", "jl_Object$monitorEnterWait$lambda$_6_0_run",
+        "nms_MaterialTransparent_getCanBlockGrass", "nms_MaterialLogic_getCanBlockGrass", "jnci_UTF16Charset_newDecoder", "jnci_Iso8859Charset_newDecoder", "jnci_AsciiCharset_newDecoder", "nms_MaterialPortal_getCanBlockGrass", "ju_ArrayList_clear", "ju_PriorityQueue_size", "jnci_UTF8Charset_newDecoder", "jur_LowHighSurrogateRangeSet_setNext", "nms_ItemBlock_getItemName", "jt_SimpleDateFormat_format", "ju_LinkedList_listIterator0", "ju_HashMap_putAll", "nleo_EaglercraftGPU$3_invalidate", "ju_ArrayDeque_addLast",
+        "addLast", "jl_Integer_hashCode", "nle_Base64_isInAlphabet", "jl_Character_hashCode", "jur_CharClass_getLowHighSurrogates", "jur_AbstractCharClass$1_contains", "jur_AbstractCharClass$2_contains", "jur_CharClass$18_contains", "ju_PriorityQueue_offer", "offer", "ju_PriorityQueue_poll", "poll", "otcit_DateTimeZoneProvider$detectTimezone$lambda$_4_0_apply", "jl_Long_hashCode", "nlei_OpenGLObjects$BufferGL_hashCode", "jl_StringBuilder_insert4", "jl_StringBuilder_append8", "nleit_TeaVMBlobURLManager$HandleFakeBlobURL_release",
+        "nleit_TeaVMBlobURLManager$HandleRealBlobURL_release", "jl_StringBuffer_append1", "jnci_UTF8Charset_newEncoder", "jl_StringBuilder_ensureCapacity", "nleib_EaglerArrayByteBuffer_remaining", "nleib_EaglerArrayByteBuffer_put", "nleo_VertexFormat_values", "jl_Integer_bitCount", "bitCount", "ju_GenericEnumSet$1__init_", "ju_AbstractList$1_checkConcurrentModification", "checkConcurrentModification", "ju_HashMap$2__init_", "jur_BackReferencedSingleSet__init_", "jur_AbstractCharClass$LazyCharClass_computeValue",
+        "computeValue", "jl_AbstractStringBuilder_append9", "nleit_TeaVMClientConfigAdapterHooks$callCrashReportHook$lambda$_4_0__init_", "nleit_TeaVMClientConfigAdapterHooks_callHookSafeSync0", "callHookSafeSync", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageLoadHook$lambda$_2_0__init_", "nleit_TeaVMClientConfigAdapterHooks_callHookSafeWithReturn0", "callHookSafeWithReturn", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageSavedHook$lambda$_1_0__init_", "nleit_TeaVMClientConfigAdapterHooks_callHookSafe",
+        "callHookSafe", "jl_Enum_compareTo", "nms_BlockBed_getDirectionFromMetadata", "getDirectionFromMetadata", "nms_BlockBed_isBlockFootOfBed", "isBlockFootOfBed", "nms_BlockPistonBase_getOrientation", "getOrientation", "nms_BlockPistonBase_isExtended", "isExtended", "nms_BlockPistonExtension_func_31050_c", "func_31050_c", "nms_BlockDoor_getState", "getState", "jl_StringBuffer_insert0", "ju_BitSet_get", "ju_Arrays_binarySearch", "binarySearch", "otcit_DateTimeZoneBuilder$RuleBasedZone_initZone", "initZone",
+        "otcit_CachedDateTimeZone_getInfo", "getInfo", "otcit_CachedDateTimeZone$Info_getStandardOffset", "otcit_DateTimeZoneBuilder$Recurrence_getSaveMillis", "getSaveMillis", "otcit_DateTimeZoneBuilder$Recurrence_previous", "previous", "otcit_DateTimeZoneBuilder$DSTZone_findMatchingRecurrence", "findMatchingRecurrence", "otcit_CachedDateTimeZone$Info_getOffset", "jn_Buffer_position0", "jn_Buffer_clear", "nleo_WorldRenderer_begin", "begin", "npem_Tessellator_setColorOpaque", "setColorOpaque", "nleo_VertexFormat_needsUpdate",
+        "needsUpdate", "nleo_WorldRenderer_pos", "pos", "nleo_WorldRenderer_tex", "tex", "nleo_WorldRenderer_setColorRGBA", "setColorRGBA", "nleo_WorldRenderer_endVertex", "endVertex", "nleo_WorldRenderer_normal", "normal", "nleo_WorldRenderer_finishDrawing", "finishDrawing", "nleo_WorldVertexBufferUploader_func_181679_a", "func_181679_a", "nleo_VertexFormat_reset", "jl_String_compareTo", "jl_Object_lambda$monitorEnterWait$0", "lambda$monitorEnterWait$0", "jnci_UTF16Decoder__init_", "jnci_Iso8859Decoder__init_",
+        "jnci_AsciiDecoder__init_", "nleito_JSEaglercraftXOptsHooks_getLocalStorageSavedHook$js_body$_1", "getLocalStorageSavedHook$js_body$_1", "nleito_JSEaglercraftXOptsHooks_getLocalStorageLoadedHook$js_body$_2", "getLocalStorageLoadedHook$js_body$_2", "nleito_JSEaglercraftXOptsHooks_getCrashReportHook$js_body$_3", "getCrashReportHook$js_body$_3", "nleito_JSEaglercraftXOptsHooks_getScreenChangedHook$js_body$_4", "getScreenChangedHook$js_body$_4", "oall_ILogRedirector_log", "ju_Date_setTime", "setTime", "oall_Level_getPrintStream",
+        "getPrintStream", "oall_Logger_formatParams", "formatParams", "oall_Logger_logExcp", "logExcp", "cjj_Inflate_inflate", "cjj_ZStream_setInput", "setInput", "cjj_Inflater_finished", "finished", "cjj_ZStream_finished", "ji_EOFException__init_0", "cjj_Inflate_inflateEnd", "inflateEnd", "jnci_UTF8Decoder__init_", "jur_Pattern_matcher", "matcher", "jur_Matcher_find", "find", "jur_Matcher_start", "start", "jur_Matcher_end", "ju_Hashtable_get", "ju_Properties_getProperty0", "ju_ArrayList_checkIndexForAdd", "checkIndexForAdd",
+        "nms_IRecipe_getRecipeSize", "getRecipeSize", "jl_Throwable_printStackTrace0", "nms_StatFileWriter_func_27175_b", "func_27175_b", "nms_StatFileWriter_syncStats", "syncStats", "nms_GLAllocation_deleteTexturesAndDisplayLists", "deleteTexturesAndDisplayLists", "nms_SoundManager_closeMinecraft", "closeMinecraft", "nle_EagRuntime_exit", "exit", "nlei_PlatformAudio_setListener", "setListener", "nle_Display_toggleFullscreen", "nms_GuiAchievement_updateAchievementWindowScale", "updateAchievementWindowScale",
+        "olo_GL11_glDepthMask", "glDepthMask", "nms_RenderEngine_getTexture", "getTexture", "olo_GL11_glColor4f", "glColor4f", "olo_GL11_glBindTexture", "glBindTexture", "nms_Gui_drawTexturedModalRect", "drawTexturedModalRect", "npem_FontRenderer_drawString", "drawString", "npem_FontRenderer_drawSplitString", "drawSplitString", "olo_GL11_glPushMatrix", "glPushMatrix", "olo_GL11_glRotatef", "glRotatef", "nms_RenderHelper_enableStandardItemLighting", "enableStandardItemLighting", "olo_GL11_glPopMatrix", "glPopMatrix",
+        "nms_RenderItem_renderItemIntoGUI", "renderItemIntoGUI", "nle_Display_isVSyncSupported", "isVSyncSupported", "nle_Display_update", "nle_Display_wasResized", "wasResized", "nle_Display_setVSync", "setVSync", "nmc_Minecraft_resize", "resize", "nle_Display_setTitle", "setTitle", "nmc_Minecraft_getMinecraftDir", "getMinecraftDir", "nleiv_VFile2__init_0", "nms_SaveConverterMcRegion__init_", "nms_GameSettings__init_", "nms_TexturePackList__init_", "nms_RenderEngine__init_", "nmc_Minecraft_loadScreen", "loadScreen",
+        "nms_FontRenderer__init_", "nms_RenderEngine_getTextureContents", "getTextureContents", "nms_ColorizerWater_func_28182_a", "func_28182_a", "nms_ColorizerGrass_func_28181_a", "func_28181_a", "nms_ColorizerFoliage_func_28152_a", "func_28152_a", "nms_EntityRenderer__init_0", "nms_ItemRenderer__init_0", "nms_StatFileWriter__init_", "nms_StatStringFormatKeyInv__init_", "nms_Achievement_setStatStringFormatter", "setStatStringFormatter", "nms_MouseHelper__init_0", "olo_GL11_glShadeModel", "glShadeModel", "olo_GL11_glClearDepth",
+        "glClearDepth", "olo_GL11_glDepthFunc", "glDepthFunc", "olo_GL11_glAlphaFunc", "glAlphaFunc", "olo_GL11_glCullFace", "glCullFace", "nms_SoundManager_loadSoundSettings", "loadSoundSettings", "nms_RenderEngine_registerTextureFX", "registerTextureFX", "nms_TexturePortalFX__init_0", "nms_TextureCompassFX__init_", "nms_TextureWatchFX__init_", "nms_TextureWaterFlowFX__init_0", "nms_TextureLavaFlowFX__init_0", "nms_TextureFlamesFX__init_0", "nms_RenderGlobal__init_0", "olo_GL11_glViewport", "glViewport", "nms_EffectRenderer__init_0",
+        "nms_GuiIngame__init_0", "nms_GuiMainMenu__init_0", "nlep_GuiScreenEditProfile__init_", "nms_GuiConnecting__init_", "nms_LoadingScreenRenderer__init_0", "dceu_SaveUtils_setProgressUpdate", "setProgressUpdate", "nmc_Minecraft_displayUnexpectedThrowable", "displayUnexpectedThrowable", "nms_StatFileWriter_func_27178_d", "func_27178_d", "nms_GuiIngame_updateTick", "updateTick", "nms_EntityRenderer_getMouseOver", "getMouseOver", "nmc_Minecraft_func_28001_B", "func_28001_B", "nms_World_getIChunkProvider",
+        "getIChunkProvider", "nms_MathHelper_floor_float", "floor_float", "nms_ChunkProviderLoadOrGenerate_setCurrentChunkOver", "setCurrentChunkOver", "nms_PlayerController_updateController", "updateController", "dceu_I18n_format", "nms_RenderEngine_updateDynamicTextures", "updateDynamicTextures", "nms_EntityPlayer_isPlayerSleeping", "isPlayerSleeping", "nms_EntityLiving_isPlayerSleeping", "nms_GuiScreen_handleInput", "handleInput", "nms_GuiParticle_update", "nms_GuiScreen_updateScreen", "updateScreen", "nle_Mouse_next",
+        "nle_Mouse_getEventButton", "getEventButton", "nle_Mouse_getEventButtonState", "getEventButtonState", "nms_KeyBinding_func_35963_a", "func_35963_a", "nms_KeyBinding_func_35960_a", "func_35960_a", "nle_Mouse_getEventDWheel", "getEventDWheel", "nms_InventoryPlayer_changeCurrentItem", "changeCurrentItem", "nmc_Minecraft_setIngameFocus", "setIngameFocus", "nms_GuiScreen_handleMouseInput", "handleMouseInput", "nle_Keyboard_next", "nle_Keyboard_getEventKey", "getEventKey", "nle_Keyboard_getEventKeyState",
+        "getEventKeyState", "nms_KeyBinding_func_35962_c", "func_35962_c", "nms_GuiInventory__init_0", "nms_EntityPlayer_dropCurrentItem", "dropCurrentItem", "nms_GuiChat__init_0", "nms_EntityPlayer_func_35196_Z", "func_35196_Z", "nms_GuiChat_setMessage", "setMessage", "nms_PlayerController_func_35638_c", "func_35638_c", "nmc_Minecraft_clickMouse", "clickMouse", "nmc_Minecraft_sendClickBlockToController", "sendClickBlockToController", "nms_World_joinEntityInSurroundings", "joinEntityInSurroundings", "nms_EntityRenderer_updateRenderer",
+        "updateRenderer", "nms_RenderGlobal_updateClouds", "updateClouds", "nms_World_updateEntities", "updateEntities", "nms_World_setAllowedMobSpawns", "setAllowedMobSpawns", "nms_World_tick", "tick", "nms_MathHelper_floor_double", "floor_double", "nms_World_randomDisplayUpdates", "randomDisplayUpdates", "nms_EffectRenderer_updateEffects", "updateEffects", "nmc_Minecraft_clickMiddleMouseButton", "clickMiddleMouseButton", "nms_GuiScreen_handleKeyboardInput", "handleKeyboardInput", "nmc_Minecraft_displayInGameMenu",
+        "displayInGameMenu", "nmc_Minecraft_forceReload", "forceReload", "nms_GameSettings_setOptionValue", "setOptionValue", "nms_GuiSleepMP__init_0", "nmc_Minecraft_changeWorld2", "changeWorld2", "nms_GuiScreen_onGuiClosed", "onGuiClosed", "nms_GuiIngame_clearChatMessages", "clearChatMessages", "nmc_Minecraft_setIngameNotInFocus", "setIngameNotInFocus", "nms_ScaledResolution__init_0", "nms_ScaledResolution_getScaledWidth", "getScaledWidth", "nms_ScaledResolution_getScaledHeight", "getScaledHeight", "nms_GuiScreen_setWorldAndResolution",
+        "setWorldAndResolution", "nms_GuiGameOver__init_", "nms_RenderGlobal_func_28137_f", "func_28137_f", "nms_AxisAlignedBB_clearBoundingBoxes", "clearBoundingBoxes", "nms_Vec3D_clearVectorList", "clearVectorList", "ju_Calendar_setTime", "ju_Calendar_getTimeZone", "jt_DateFormatElement_format", "ju_LinkedList$SequentialListIterator__init_0", "ju_HashMap_putAllImpl", "putAllImpl", "cch_BitMixer_mixPhi", "mixPhi", "cch_IntObjectHashMap_size", "cch_HashContainers_nextBufferSize", "nextBufferSize", "jnc_CharsetEncoder_encode0",
+        "nle_BaseNCodec$Context__init_", "nle_BaseNCodec_decode1", "nle_BaseNCodec_readResults", "readResults", "nleo_EaglercraftGPU$3_invalidate0", "ju_ArrayDeque_size", "ju_ArrayDeque_ensureCapacity", "ju_ArrayDeque_modInc", "modInc", "nlei_PlatformRuntime_handleWindowMessage", "handleWindowMessage", "jl_Integer_hashCode0", "jl_Integer_compareUnsigned", "compareUnsigned", "jl_Integer_divideUnsigned", "divideUnsigned", "jl_Integer_remainderUnsigned", "remainderUnsigned", "nlei_PlatformInput_handleWindowFocus",
+        "handleWindowFocus", "nlei_PlatformInput_tryGrabCursorHook", "tryGrabCursorHook", "nlei_PlatformInput_getOffsetX$js_body$_15", "getOffsetX$js_body$_15", "nlei_PlatformInput_getOffsetY$js_body$_16", "getOffsetY$js_body$_16", "ju_List_remove", "nlei_PlatformInput$VMouseEvent__init_0", "nlei_PlatformInput_hasCodeVar$js_body$_12", "hasCodeVar$js_body$_12", "nlei_PlatformInput_getWhich$js_body$_17", "getWhich$js_body$_17", "nlei_PlatformInput_getLocationSafe$js_body$_18", "getLocationSafe$js_body$_18", "nlei_PlatformInput_processFunctionKeys",
+        "processFunctionKeys", "nlei_PlatformInput_toggleFullscreen", "nle_KeyboardConstants_getEaglerKeyFromBrowser", "getEaglerKeyFromBrowser", "nlei_PlatformInput_getCharOrNull$js_body$_41", "getCharOrNull$js_body$_41", "nlei_PlatformInput_keyToAsciiLegacy", "keyToAsciiLegacy", "nlei_PlatformInput$VKeyEvent__init_0", "nleit_LegacyKeycodeTranslator_getCodeFromLayoutChar", "getCodeFromLayoutChar", "nleit_LegacyKeycodeTranslator$LegacyKeycode_equals", "otp_Platform_getEnclosingClass", "jl_Runnable_run", "cch_HashContainers_expandAtCount",
         "expandAtCount", "cch_HashContainers_checkPowerOfTwo", "checkPowerOfTwo", "ju_HashMap$1__init_", "ju_Objects_equals", "jt_DecimalFormatParser_parseText", "parseText", "jt_DecimalFormatParser_parseNumber", "jt_DecimalFormat$MinusField__init_", "jt_DecimalFormat_setGroupingSize", "setGroupingSize", "jt_NumberFormat_setGroupingUsed", "setGroupingUsed", "jt_NumberFormat_setMinimumIntegerDigits", "setMinimumIntegerDigits", "jt_NumberFormat_setMaximumIntegerDigits", "setMaximumIntegerDigits", "jt_DecimalFormat_setMultiplier",
         "setMultiplier", "nle_BaseNCodec_encode1", "cjj_InfBlocks__init_", "cjj_Inflate_inflateReset", "inflateReset", "cjj_InfBlocks_free", "ju_Hashtable$Entry_equalsKey", "equalsKey", "ju_Hashtable_rehash", "ju_Hashtable_newEntry", "newEntry", "ji_BufferedInputStream_fillbuf", "fillbuf", "jl_Integer_rotateLeft", "rotateLeft", "ju_BitSet_recalculateLength", "recalculateLength", "ju_BitSet_ensureCapacity", "otji_IDBObjectStoreParameters_create$js_body$_1", "create$js_body$_1", "otji_IDBObjectStoreParameters_keyPath$static",
         "keyPath$static", "ju_Calendar_computeTime", "computeTime", "ju_Calendar_computeFields", "computeFields", "nms_ShapelessRecipes__init_", "jl_Character_hashCode0", "jl_Integer_numberOfTrailingZeros", "numberOfTrailingZeros", "ju_PriorityQueue_ensureCapacity", "ju_PriorityQueue_removeAt", "removeAt", "ju_HashMap_areEqualKeys", "areEqualKeys", "otcit_DateTimeZoneProvider$detectTimezone$lambda$_4_0_apply0", "ju_BitSet_trailingOneBits", "trailingOneBits", "ju_BitSet_trailingZeroBits", "trailingZeroBits",
         "jl_Long_hashCode0", "ju_HashMap_rehash0", "nle_HFormatter_format0", "ji_Closeable_close", "jl_StringBuilder_insert9", "nms_PositionTextureVertex__init_2", "jl_StringBuilder_append12", "jt_SimpleDatePatternParser_parseQuoted", "parseQuoted", "jt_SimpleDatePatternParser_isControl", "isControl", "jt_SimpleDatePatternParser_parseRepetitions", "parseRepetitions", "jt_DateFormatElement$Numeric__init_", "jt_DateFormatElement$EraText__init_", "jt_DateFormatElement$Rfc822Timezone__init_", "jt_DateFormatElement$AmPmText__init_",
         "jt_DateFormatElement$NumericHour__init_", "jt_DateFormatElement$NumericWeekday__init_", "jt_DateFormatElement$GeneralTimezone__init_", "jt_DateFormatElement$ConstantText__init_", "jt_DateFormatElement$Year__init_", "jt_DateFormatElement$WeekdayText__init_", "jt_DateFormatElement$Iso8601Timezone__init_", "jt_DateFormatElement$NumericMonth__init_", "jt_DateFormatElement$MonthText__init_", "nleit_TeaVMBlobURLManager_revokeBlobURL$js_body$_14", "revokeBlobURL$js_body$_14", "jl_StringBuffer_append2", "jnci_UTF8Encoder__init_",
         "ji_PrintStream_check", "check", "ji_BufferedReader_requireOpened", "requireOpened", "ji_BufferedReader_fillBuffer", "fillBuffer", "otji_JS_wrap5", "ju_Formatter_format0", "ju_ConcurrentModificationException__init_", "jl_AbstractStringBuilder_insert9", "nleit_TeaVMClientConfigAdapterHooks_callHookSafeSync$_asyncCall_$", "callHookSafeSync$_asyncCall_$", "nleit_TeaVMClientConfigAdapterHooks_callHookSafeSync", "nleit_TeaVMClientConfigAdapterHooks_callHookSafeWithReturn$_asyncCall_$", "callHookSafeWithReturn$_asyncCall_$",
-        "nleit_TeaVMClientConfigAdapterHooks_callHookSafeWithReturn", "nleit_TeaVMClientConfigAdapterHooks$callHookSafe$lambda$_5_0__init_", "nms_ModelBed__clinit_", "nms_PistonBlockTextures__clinit_", "otcit_CachedDateTimeZone_createInfo", "createInfo", "ju_Arrays_binarySearch0", "otcit_DateTimeZoneBuilder_toDateTimeZone", "toDateTimeZone", "otcit_DateTimeZoneBuilder$Recurrence_next", "nleo_WorldRenderer_getVertexCount", "getVertexCount", "nleo_WorldRenderer_getVertexFormat", "getVertexFormat", "nleo_WorldRenderer_getByteBuffer",
+        "nleit_TeaVMClientConfigAdapterHooks_callHookSafeWithReturn", "nleit_TeaVMClientConfigAdapterHooks$callHookSafe$lambda$_5_0__init_", "nms_ModelBed__clinit_", "nms_PistonBlockTextures__clinit_", "ju_Arrays_binarySearch0", "otcit_DateTimeZoneBuilder_toDateTimeZone", "toDateTimeZone", "otcit_CachedDateTimeZone_createInfo", "createInfo", "otcit_DateTimeZoneBuilder$Recurrence_next", "nleo_WorldRenderer_getVertexCount", "getVertexCount", "nleo_WorldRenderer_getVertexFormat", "getVertexFormat", "nleo_WorldRenderer_getByteBuffer",
         "getByteBuffer", "nleib_ByteBuffer_position", "nleib_ByteBuffer_limit", "nleo_WorldRenderer_getDrawMode", "getDrawMode", "nleo_EaglercraftGPU_renderBuffer", "renderBuffer", "nleo_WorldRenderer_reset", "jnci_BufferedDecoder__init_", "nms_GLAllocation_createDirectIntBuffer", "createDirectIntBuffer", "olo_GL11_glDeleteTextures", "glDeleteTextures", "olo_GL11_glDeleteLists", "glDeleteLists", "nlei_PlatformRuntime_exit", "nms_MathHelper_cos", "cos", "nms_MathHelper_sin", "sin", "nleo_GlStateManager_depthMask",
         "depthMask", "nleo_GlStateManager_color", "color", "nleo_GlStateManager_bindTexture", "bindTexture", "nleo_GlStateManager_pushMatrix", "pushMatrix", "nleo_GlStateManager_rotate", "rotate", "nms_RenderHelper__clinit_", "nleo_GlStateManager_enableMCLight", "nleo_GlStateManager_setMCLightAmbient", "setMCLightAmbient", "nleo_GlStateManager_popMatrix", "popMatrix", "nlei_PlatformInput_isVSyncSupported", "nlei_PlatformInput_wasResized", "nlei_PlatformInput_setVSync", "nmc_Minecraft_getAppDir", "getAppDir",
         "nleiv_VFile2_createPath", "createPath", "nleiv_VFile2__init_2", "nms_SaveFormatOld__init_", "nms_KeyBinding__init_", "nms_GameSettings_loadOptions", "loadOptions", "nms_GameSettings__clinit_", "nms_TexturePackDefault__init_", "nms_TexturePackList_updateAvaliableTexturePacks", "updateAvaliableTexturePacks", "nms_TexturePackBase_func_6482_a", "func_6482_a", "nms_MCHash__init_0", "npja_Color_getRGB", "getRGB", "nms_RenderEngine__clinit_", "olo_GL11_glClearColor", "glClearColor", "npem_Tessellator_startDrawingQuads",
@@ -47432,7 +47432,7 @@
         "inputStreamToBytes", "nle_EagRuntime_getStorage", "getStorage", "nlep_EaglerProfile_read0", "nms_NBTBase_readTag", "readTag", "jl_Short__clinit_", "jl_Short__init_", "ji_InputStreamReader__init_2", "nms_MD5String__clinit_", "nle_EaglerInputStream_getAsArray", "getAsArray", "ji_InputStream_available", "available", "nle_EaglerOutputStream_toByteArray", "toByteArray", "nle_EaglerOutputStream_write", "nle_EaglerOutputStream_close", "ji_OutputStream_close", "nlei_PlatformApplication_getLocalStorage0", "nms_CompressedStreamTools_loadGzippedCompoundFromOutputStream",
         "loadGzippedCompoundFromOutputStream", "nms_NBTTagCompound_hasNoTags", "hasNoTags", "nms_NBTTagCompound_getString", "getString", "nms_NBTTagCompound_getInteger", "getInteger", "jl_String_replaceAll", "replaceAll", "ji_DataInput_readByte", "readByte", "nms_NBTBase_createTagOfType", "createTagOfType", "ji_DataInput_readUTF", "readUTF", "nms_NBTBase_readTagContents", "readTagContents", "nms_NBTTagEnd__init_", "ji_InputStreamReader_getCharset", "getCharset", "cm_MD5__init_", "juz_GZIPInputStream__init_",
         "nms_NBTTagByte__init_", "nms_NBTTagShort__init_", "nms_NBTTagInt__init_", "nms_NBTTagLong__init_", "nms_NBTTagFloat__init_", "nms_NBTTagDouble__init_", "nms_NBTTagByteArray__init_", "nms_NBTTagString__init_", "nms_NBTTagList__init_", "nms_NBTTagCompound__init_0", "nms_NBTBase__init_", "ji_UnsupportedEncodingException__init_", "cm_MD5_reset", "cm_MD5__clinit_", "juz_GZIPInputStream__init_0", "juz_Inflater__init_", "juz_InflaterInputStream__init_", "juz_CRC32__init_", "juz_GZIPInputStream_readFully",
-        "juz_GZIPInputStream_getShort", "getShort", "juz_CRC32_update", "juz_GZIPInputStream_readZeroTerminated", "readZeroTerminated", "juz_CRC32_getValue", "juz_CRC32_reset", "juz_CRC32_update0", "ju_GenericEnumSet$1_next", "ju_GenericEnumSet$1_hasNext", "ju_HashMap$2_iterator", "jur_BackReferencedSingleSet_processBackRefReplacement", "nms_GuiMainMenu_doesGuiPauseGame", "nms_GuiMainMenu_updateScreen", "nms_GuiConflictWarning_updateScreen", "nms_GuiErrorScreen_updateScreen", "nms_GuiGameOver_doesGuiPauseGame",
+        "juz_GZIPInputStream_getShort", "getShort", "juz_CRC32_update", "juz_GZIPInputStream_readZeroTerminated", "readZeroTerminated", "juz_CRC32_getValue", "juz_CRC32_reset", "juz_CRC32_update0", "ju_GenericEnumSet$1_next", "ju_GenericEnumSet$1_hasNext", "ju_HashMap$2_iterator", "jur_BackReferencedSingleSet_processBackRefReplacement", "nms_GuiMainMenu_doesGuiPauseGame", "nms_GuiMainMenu_updateScreen", "nms_GuiErrorScreen_updateScreen", "nms_GuiConflictWarning_updateScreen", "nms_GuiGameOver_doesGuiPauseGame",
         "ju_LinkedList$SequentialListIterator_next", "ju_LinkedList$SequentialListIterator_hasNext", "ju_HashMap$1_iterator", "jl_Integer_equals", "jl_Character_equals", "jl_StringBuilder_append7", "jl_Enum_toString", "nleiv_VFile2_toString", "jl_Long_compareTo", "nlei_EnumPlatformType_toString", "juz_GZIPInputStream_close", "juz_GZIPInputStream_read", "ji_FilterInputStream_read1", "juz_InflaterInputStream_read", "nms_NBTTagEnd_readTagContents", "nms_NBTTagByte_readTagContents", "nms_NBTTagShort_readTagContents",
         "nms_NBTTagInt_readTagContents", "nms_NBTTagLong_readTagContents", "nms_NBTTagFloat_readTagContents", "nms_NBTTagDouble_readTagContents", "nms_NBTTagByteArray_readTagContents", "nms_NBTTagString_readTagContents", "nms_NBTTagList_readTagContents", "nms_NBTTagCompound_readTagContents", "nms_ShapedRecipes_getRecipeSize", "jl_Enum_equals", "nleo_SoftGLVertexArray$Attrib_equals", "jt_DecimalFormat$TextField_equals", "ju_MapEntry_equals", "jt_DecimalFormat$MinusField_equals", "jl_Enum_hashCode", "nleo_SoftGLVertexArray$Attrib_hashCode",
         "jt_DecimalFormat$TextField_hashCode", "ju_MapEntry_hashCode", "jt_DecimalFormat$MinusField_hashCode", "nms_ShapedRecipes_getRecipeOutput", "jur_AbstractCharClass$LazySpace_computeValue", "jur_AbstractCharClass$LazyDigit_computeValue", "jur_AbstractCharClass$LazyLower_computeValue", "jur_AbstractCharClass$LazyUpper_computeValue", "jur_AbstractCharClass$LazyASCII_computeValue", "jur_AbstractCharClass$LazyAlpha_computeValue", "jur_AbstractCharClass$LazyAlnum_computeValue", "jur_AbstractCharClass$LazyPunct_computeValue",
@@ -47444,9 +47444,9 @@
         "nle_Base64_decode", "ju_AbstractSequentialList_remove", "ju_HashSet_contains", "nlei_PlatformRuntime$checkImmediateContinueSupport0$lambda$_51_0_run", "nlei_PlatformRuntime$immediateContinueTeaVM0$lambda$_49_0_run", "nle_Base64_encode", "ju_GregorianCalendar_computeTime", "ju_GregorianCalendar_computeFields", "otcit_DateTimeZoneProvider$1_compare", "otcic_StdoutOutputStream_write", "otcic_StderrOutputStream_write", "ji_InputStreamReader_close", "jl_StringBuilder_insert10", "nms_StatBase_toString", "jl_Long_toString",
         "jur_AbstractSet_toString", "ju_MapEntry_toString", "jl_Integer_toString0", "nlei_EnumPlatformAgent_toString", "nlei_EnumPlatformOS_toString", "nlei_EnumPlatformANGLE_toString", "nms_ItemCloth_getIconFromDamage", "nms_ItemLog_getIconFromDamage", "nms_ItemSlab_getIconFromDamage", "nms_ItemSapling_getIconFromDamage", "nms_ItemLeaves_getIconFromDamage", "nms_ItemDye_getIconFromDamage", "nms_EnumOptions_values", "nlei_PlatformRuntime$7_isValidToken", "nlei_PlatformRuntime$5_isValidToken", "nlei_PlatformRuntime$7_execute",
         "nlei_PlatformRuntime$5_execute", "jl_Long_equals", "ji_InputStreamReader_read", "otcit_DateTimeZoneBuilder$PrecalculatedZone_nextTransition", "nleib_EaglerArrayByteBuffer_put1", "nleib_EaglerArrayIntBuffer_hasRemaining", "nleib_EaglerArrayIntBuffer_get", "nms_EnumMovingObjectType_values", "nleib_EaglerArrayByteBuffer_position0", "nleib_EaglerArrayByteBuffer_capacity", "nleib_EaglerArrayByteBuffer_clear", "nleo_EaglercraftGPU$1_invalidate", "nleo_SoftGLVertexArray_unsetBit", "nlei_OpenGLObjects$VertexArrayGL_unsetBit",
-        "nleo_EaglercraftGPU$1_create", "jl_StringBuilder_insert11", "nle_EaglerInputStream_available", "ji_DataInputStream_readByte", "ji_DataInputStream_readUTF", "nle_EaglerInputStream_read0", "jt_DateFormatElement$WeekdayText_format", "jt_DateFormatElement$GeneralTimezone_format", "jt_DateFormatElement$Year_format", "jt_DateFormatElement$Numeric_format", "jt_DateFormatElement$Rfc822Timezone_format", "jt_DateFormatElement$MonthText_format", "jt_DateFormatElement$ConstantText_format", "jt_DateFormatElement$Iso8601Timezone_format",
-        "jt_DateFormatElement$AmPmText_format", "jt_DateFormatElement$EraText_format", "jt_DateFormatElement$WeekdayText_hashCode", "jt_DateFormatElement$BaseTimezone_hashCode", "jt_DateFormatElement$Year_hashCode", "jt_DateFormatElement$Numeric_hashCode", "jt_DateFormatElement$NumericHour_hashCode", "jt_DateFormatElement$MonthText_hashCode", "jt_DateFormatElement$ConstantText_hashCode", "jt_DateFormatElement$Iso8601Timezone_hashCode", "jt_DateFormatElement$AmPmText_hashCode", "jt_DateFormatElement$EraText_hashCode",
-        "jt_DateFormatElement$WeekdayText_equals", "jt_DateFormatElement$BaseTimezone_equals", "jt_DateFormatElement$Year_equals", "jt_DateFormatElement$Numeric_equals", "jt_DateFormatElement$NumericHour_equals", "jt_DateFormatElement$MonthText_equals", "jt_DateFormatElement$ConstantText_equals", "jt_DateFormatElement$Iso8601Timezone_equals", "jt_DateFormatElement$AmPmText_equals", "jt_DateFormatElement$EraText_equals", "nms_ShapelessRecipes_getRecipeOutput", "nms_ShapelessRecipes_getRecipeSize", "jl_Integer_compareTo",
+        "nleo_EaglercraftGPU$1_create", "jl_StringBuilder_insert11", "nle_EaglerInputStream_available", "ji_DataInputStream_readByte", "ji_DataInputStream_readUTF", "nle_EaglerInputStream_read0", "jt_DateFormatElement$GeneralTimezone_format", "jt_DateFormatElement$Year_format", "jt_DateFormatElement$Numeric_format", "jt_DateFormatElement$Rfc822Timezone_format", "jt_DateFormatElement$MonthText_format", "jt_DateFormatElement$ConstantText_format", "jt_DateFormatElement$Iso8601Timezone_format", "jt_DateFormatElement$AmPmText_format",
+        "jt_DateFormatElement$EraText_format", "jt_DateFormatElement$WeekdayText_format", "jt_DateFormatElement$BaseTimezone_hashCode", "jt_DateFormatElement$Year_hashCode", "jt_DateFormatElement$Numeric_hashCode", "jt_DateFormatElement$NumericHour_hashCode", "jt_DateFormatElement$MonthText_hashCode", "jt_DateFormatElement$ConstantText_hashCode", "jt_DateFormatElement$Iso8601Timezone_hashCode", "jt_DateFormatElement$AmPmText_hashCode", "jt_DateFormatElement$EraText_hashCode", "jt_DateFormatElement$WeekdayText_hashCode",
+        "jt_DateFormatElement$BaseTimezone_equals", "jt_DateFormatElement$Year_equals", "jt_DateFormatElement$Numeric_equals", "jt_DateFormatElement$NumericHour_equals", "jt_DateFormatElement$MonthText_equals", "jt_DateFormatElement$ConstantText_equals", "jt_DateFormatElement$Iso8601Timezone_equals", "jt_DateFormatElement$AmPmText_equals", "jt_DateFormatElement$EraText_equals", "jt_DateFormatElement$WeekdayText_equals", "nms_ShapelessRecipes_getRecipeOutput", "nms_ShapelessRecipes_getRecipeSize", "jl_Integer_compareTo",
         "nms_ItemStack_toString", "ju_GenericEnumSet$1_next0", "ju_HashMap$ValueIterator__init_", "jnc_CharsetDecoder_implOnMalformedInput", "implOnMalformedInput", "nms_GLAllocation_generateTextureNames", "generateTextureNames", "nleib_IntBuffer_get0", "nms_TexturePackBase_getResourceAsStream", "getResourceAsStream", "nms_RenderEngine_readTextureImage", "readTextureImage", "nms_RenderEngine_unwrapImageByColumns", "unwrapImageByColumns", "nms_RenderEngine_setupTexture", "setupTexture", "npem_FontRenderer_drawString0",
         "npem_FontRenderer_func_27277_a", "func_27277_a", "npem_FontRenderer_getStringWidth", "getStringWidth", "nms_EntityRenderer_func_35808_e", "func_35808_e", "nms_MouseHelper_mouseXYChange", "mouseXYChange", "nms_Entity_setAngles", "setAngles", "nms_MouseFilter_func_22386_a", "func_22386_a", "nle_Mouse_getX", "getX", "nle_Mouse_getY", "getY", "nms_EntityRenderer_func_905_b", "func_905_b", "nms_EntityRenderer_renderWorld", "renderWorld", "nms_GuiIngame_renderGameOverlay", "renderGameOverlay", "nms_GuiScreen_drawScreen",
         "drawScreen", "nms_GuiParticle_draw", "nms_StatFileWriter_func_27176_a", "func_27176_a", "nms_StatsSyncher_syncStatsFileWithMap", "syncStatsFileWithMap", "nms_ChatLine__init_", "ju_List_add", "nms_GuiParticle__init_", "nms_GuiScreen_initGui", "initGui", "nle_Mouse_getEventX", "getEventX", "nle_Mouse_getEventY", "getEventY", "nms_GuiScreen_mouseMovedOrUp", "mouseMovedOrUp", "nms_GuiScreen_mouseClicked", "mouseClicked", "nle_Keyboard_getEventCharacter", "getEventCharacter", "nms_GuiScreen_keyTyped", "keyTyped",
@@ -47471,7 +47471,7 @@
         "getBlockMetadata", "nms_EntityDiggingFX__init_", "nms_EntityDiggingFX_func_4041_a", "func_4041_a", "nms_EntityFX_func_407_b", "func_407_b", "nms_EntityFX_func_405_d", "func_405_d", "nms_EffectRenderer_addEffect", "addEffect", "jl_Long_compareUnsigned", "jl_Long_divideUnsigned", "jl_Long_remainderUnsigned", "cjj_InfCodes_free", "cjj_Checksum_reset0", "otciu_CLDRHelper_resolveEras", "resolveEras", "otciu_CLDRHelper_resolveAmPm", "resolveAmPm", "otciu_CLDRHelper_resolveWeekdays", "resolveWeekdays", "otciu_CLDRHelper_resolveShortWeekdays",
         "resolveShortWeekdays", "otciu_CLDRHelper_resolveMonths", "resolveMonths", "otciu_CLDRHelper_resolveShortMonths", "resolveShortMonths", "jn_CharBuffer_get", "ji_InputStreamReader_fillBuffer", "otcit_DateTimeZoneBuilder$DSTZone_nextTransition", "nleib_ByteBuffer_get0", "nlev_Matrix4f_load0", "nms_MathHelper_sqrt_double", "sqrt_double", "ju_Map_keySet", "nms_StatFileWriter_writeStatToMap", "writeStatToMap", "nleit_TeaVMClientConfigAdapterHooks_lambda$callHookSafe$5", "lambda$callHookSafe$5", "cch_IntObjectHashMap_shiftConflictingKeys",
         "shiftConflictingKeys", "nleiv_VFile2_renameTo0", "nleit_TeaVMClientConfigAdapterHooks_lambda$callHookSafeSync$6", "lambda$callHookSafeSync$6", "nleit_TeaVMClientConfigAdapterHooks_lambda$callHookSafeWithReturn$7", "lambda$callHookSafeWithReturn$7", "nleo_EaglercraftGPU$1_invalidate0", "nleiv_VFile2_assertNotRelative", "assertNotRelative", "nlei_IEaglerFilesystem_eaglerRead", "eaglerRead", "nleiv_VFileInputStream__init_", "nleo_EaglercraftGPU$1_create0", "jl_StringBuilder_insert13", "jl_String_getBytes",
-        "cm_MD5_update", "cm_MD5_doFinal", "doFinal", "jm_BigInteger__init_", "jm_BigInteger_toString", "ji_StringReader__init_", "nms_J_JdomParser_Parse", "Parse", "nle_EaglerOutputStream_ensureCapacity", "ji_DataInputStream_readUnsignedShort", "readUnsignedShort", "ji_DataInputStream_decodeUTF", "decodeUTF", "jl_StringBuffer_append3", "ju_TimeZone_getID", "ju_TimeZone_getDisplayName", "getDisplayName", "ju_TimeZone_getRawOffset", "getRawOffset", "jl_StringBuffer_append4", "jt_DateFormatElement$Numeric_processBeforeFormat",
+        "cm_MD5_update", "cm_MD5_doFinal", "doFinal", "jm_BigInteger__init_", "jm_BigInteger_toString", "ji_StringReader__init_", "nms_J_JdomParser_Parse", "Parse", "nle_EaglerOutputStream_ensureCapacity", "ji_DataInputStream_readUnsignedShort", "readUnsignedShort", "ji_DataInputStream_decodeUTF", "decodeUTF", "ju_TimeZone_getID", "ju_TimeZone_getDisplayName", "getDisplayName", "jl_StringBuffer_append3", "ju_TimeZone_getRawOffset", "getRawOffset", "jl_StringBuffer_append4", "jt_DateFormatElement$Numeric_processBeforeFormat",
         "processBeforeFormat", "ju_Calendar_getTimeInMillis", "getTimeInMillis", "ju_TimeZone_getOffset", "ju_Objects_hash", "hash", "ju_Arrays_hashCode", "ju_Arrays_equals", "jl_Integer_compareTo0", "ju_HashMap$AbstractMapIterator__init_", "olo_GL11_glGenTextures", "glGenTextures", "nleib_IntBuffer_position", "nleib_IntBuffer_limit", "nleo_ImageData_getWidth", "nleo_ImageData_getHeight", "nms_RenderEngine_createTextureFromBytes", "createTextureFromBytes", "nms_World_func_35464_b", "func_35464_b", "nlei_PlatformInput_mouseGetX",
         "mouseGetX", "nlei_PlatformInput_mouseGetY", "mouseGetY", "nlei_PlatformInput_mouseGetEventX", "mouseGetEventX", "nlei_PlatformInput_mouseGetEventY", "mouseGetEventY", "nlei_PlatformInput_keyboardGetEventCharacter", "keyboardGetEventCharacter", "nms_MCHashEntry__init_", "nms_MCHash_grow", "nleo_GlStateManager$TexGen__clinit_", "juz_Inflater_end", "juz_Inflater_needsInput", "needsInput", "juz_Inflater_inflate", "juz_Inflater_finished", "juz_InflaterInputStream_fill", "juz_Inflater_needsDictionary", "needsDictionary",
         "ji_IOException__init_2", "juz_Inflater_getRemaining", "getRemaining", "juz_GZIPInputStream_getLong", "getLong", "juz_Inflater_getTotalOut", "getTotalOut", "nleib_ByteBuffer_rewind", "rewind", "cjj_Inflate$Return__init_", "cjj_Checksum_update", "ji_ByteArrayOutputStream__init_0", "ji_ByteArrayOutputStream_write", "ju_Arrays_fill5", "jur_Pattern_groupCount", "groupCount", "jur_Pattern_compCount", "compCount", "jur_Pattern_consCount", "consCount", "jur_MatchResultImpl__init_", "jur_MatchResultImpl_useAnchoringBounds",
@@ -47489,17 +47489,17 @@
         "nms_DataWatcher__clinit_", "jl_Byte__clinit_", "jl_Byte__init_", "juz_GZIPOutputStream__init_0", "nms_NBTBase_writeTag", "writeTag", "nms_BiomeGenBase__init_", "nms_BiomeGenForest$_init_$lambda$_0_0__init_", "nms_SpawnListEntry__init_", "nms_BiomeGenTaiga$_init_$lambda$_0_0__init_", "nms_BiomeGenHell$_init_$lambda$_0_0__init_", "nms_BiomeGenHell$_init_$lambda$_0_1__init_", "nms_BiomeGenSky$_init_$lambda$_0_0__init_", "juz_Deflater__init_", "juz_DeflaterOutputStream__init_", "juz_GZIPOutputStream_writeShort",
         "writeShort", "ji_OutputStream_write1", "juz_GZIPOutputStream_writeLong", "writeLong", "ji_DataOutput_writeByte", "writeByte", "ji_DataOutput_writeUTF", "writeUTF", "nms_NBTBase_writeTagContents", "writeTagContents", "nms_WorldGenTrees__init_", "nms_WorldGenBigTree__init_", "nms_WorldGenForest__init_", "nms_WorldGenSwamp__init_", "nms_BiomeGenBase_func_35475_a", "func_35475_a", "nms_BiomeGenBase$_init_$lambda$_0_0__init_", "nms_BiomeGenBase$_init_$lambda$_0_1__init_", "nms_BiomeGenBase$_init_$lambda$_0_2__init_",
         "nms_BiomeGenBase$_init_$lambda$_0_3__init_", "nms_BiomeGenBase$_init_$lambda$_0_4__init_", "nms_BiomeGenBase$_init_$lambda$_0_5__init_", "nms_BiomeGenBase$_init_$lambda$_0_6__init_", "nms_BiomeGenBase$_init_$lambda$_0_7__init_", "nms_BiomeGenBase$_init_$lambda$_0_8__init_", "nms_BiomeGenBase$_init_$lambda$_0_9__init_", "nms_BiomeGenBase$_init_$lambda$_0_10__init_", "nms_WeightedRandomChoice__init_", "cjj_Deflater__init_", "nms_WorldGenerator__init_", "nms_WorldGenBigTree__clinit_", "cjj_Deflater__init_0",
-        "cjj_Deflater_init", "ju_HashMap$ValueIterator_next", "ju_HashMap$AbstractMapIterator_hasNext", "ju_HashMap$KeyIterator_next", "jl_Short_equals", "ju_AbstractSet_equals", "ju_AbstractList_equals", "ju_AbstractSet_hashCode", "ju_ArrayList_hashCode", "jl_Short_hashCode", "jur_AbstractCharClass$LazyJavaLowerCase$1_contains", "jur_AbstractCharClass$LazyJavaUpperCase$1_contains", "jur_AbstractCharClass$LazyJavaWhitespace$1_contains", "jur_AbstractCharClass$LazyJavaMirrored$1_contains", "jur_AbstractCharClass$LazyJavaDefined$1_contains",
+        "cjj_Deflater_init", "ju_HashMap$ValueIterator_next", "ju_HashMap$AbstractMapIterator_hasNext", "ju_HashMap$KeyIterator_next", "ju_AbstractList_equals", "jl_Short_equals", "ju_AbstractSet_equals", "jl_Short_hashCode", "ju_ArrayList_hashCode", "ju_AbstractSet_hashCode", "jur_AbstractCharClass$LazyJavaLowerCase$1_contains", "jur_AbstractCharClass$LazyJavaUpperCase$1_contains", "jur_AbstractCharClass$LazyJavaWhitespace$1_contains", "jur_AbstractCharClass$LazyJavaMirrored$1_contains", "jur_AbstractCharClass$LazyJavaDefined$1_contains",
         "jur_AbstractCharClass$LazyJavaDigit$1_contains", "jur_AbstractCharClass$LazyJavaIdentifierIgnorable$1_contains", "jur_AbstractCharClass$LazyJavaISOControl$1_contains", "jur_AbstractCharClass$LazyJavaJavaIdentifierPart$1_contains", "jur_AbstractCharClass$LazyJavaJavaIdentifierStart$1_contains", "jur_AbstractCharClass$LazyJavaLetter$1_contains", "jur_AbstractCharClass$LazyJavaLetterOrDigit$1_contains", "jur_AbstractCharClass$LazyJavaSpaceChar$1_contains", "jur_AbstractCharClass$LazyJavaTitleCase$1_contains",
-        "jur_AbstractCharClass$LazyJavaUnicodeIdentifierPart$1_contains", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierStart$1_contains", "cjj_CRC32_reset0", "nleib_EaglerArrayByteBuffer_position", "jl_Character_toString", "jl_Class_toString", "jl_Short_toString", "ju_ArrayList_toString", "ju_AbstractCollection_toString", "ju_Currency_toString", "nleiv_VFileInputStream_close", "nleiv_VFileInputStream_read", "ju_Locale_equals", "ji_ByteArrayOutputStream_write0", "ju_Locale_hashCode", "jl_Boolean_hashCode",
-        "nms_EntityFX_entityInit", "juz_GZIPOutputStream_write", "juz_DeflaterOutputStream_write", "nle_EaglerOutputStream_write0", "jur_UnicodeCategory_contains", "jur_UnicodeCategoryScope_contains", "jur_CharClass_toString", "jur_CharClass$18_toString", "jl_StringBuffer_ensureCapacity", "nleib_EaglerArrayIntBuffer_get0", "nms_GuiConflictWarning_drawScreen", "nms_GuiErrorScreen_drawScreen", "nlep_GuiScreenEditProfile_drawScreen", "nms_GuiMainMenu_drawScreen", "nms_GuiInventory_drawScreen", "nms_GuiChat_drawScreen",
+        "jur_AbstractCharClass$LazyJavaUnicodeIdentifierPart$1_contains", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierStart$1_contains", "cjj_CRC32_reset0", "nleib_EaglerArrayByteBuffer_position", "jl_Character_toString", "jl_Class_toString", "jl_Short_toString", "ju_ArrayList_toString", "ju_Currency_toString", "ju_AbstractCollection_toString", "nleiv_VFileInputStream_close", "nleiv_VFileInputStream_read", "ju_Locale_equals", "ji_ByteArrayOutputStream_write0", "jl_Boolean_hashCode", "ju_Locale_hashCode",
+        "nms_EntityFX_entityInit", "juz_GZIPOutputStream_write", "juz_DeflaterOutputStream_write", "nle_EaglerOutputStream_write0", "jur_UnicodeCategoryScope_contains", "jur_UnicodeCategory_contains", "jur_CharClass$18_toString", "jur_CharClass_toString", "jl_StringBuffer_ensureCapacity", "nleib_EaglerArrayIntBuffer_get0", "nms_GuiConflictWarning_drawScreen", "nms_GuiErrorScreen_drawScreen", "nlep_GuiScreenEditProfile_drawScreen", "nms_GuiMainMenu_drawScreen", "nms_GuiInventory_drawScreen", "nms_GuiChat_drawScreen",
         "nms_GuiSleepMP_drawScreen", "nms_GuiGameOver_drawScreen", "nms_GuiConflictWarning_initGui", "nms_GuiErrorScreen_initGui", "nlep_GuiScreenEditProfile_initGui", "nms_GuiMainMenu_initGui", "nms_GuiInventory_initGui", "nms_GuiChat_initGui", "nms_GuiSleepMP_initGui", "nms_GuiGameOver_initGui", "nms_GuiContainer_mouseMovedOrUp", "nlep_GuiScreenEditProfile_mouseClicked", "nms_GuiMainMenu_mouseClicked", "nms_GuiContainer_mouseClicked", "nms_GuiChat_mouseClicked", "nms_GuiErrorScreen_keyTyped", "nlep_GuiScreenEditProfile_keyTyped",
         "nms_GuiMainMenu_keyTyped", "nms_GuiContainer_keyTyped", "nms_GuiChat_keyTyped", "nms_GuiSleepMP_keyTyped", "nms_GuiGameOver_keyTyped", "ji_DataInputStream_readShort", "ji_DataInputStream_readInt", "ji_DataInputStream_readLong", "ji_DataInputStream_readFloat", "ji_DataInputStream_readDouble", "ji_DataInputStream_readFully", "nms_NBTTagCompound_getType", "nms_NBTTagShort_getType", "nms_NBTTagEnd_getType", "nms_NBTTagByte_getType", "nms_NBTTagInt_getType", "nms_NBTTagLong_getType", "nms_NBTTagFloat_getType",
         "nms_NBTTagDouble_getType", "nms_NBTTagByteArray_getType", "nms_NBTTagString_getType", "nms_NBTTagList_getType", "ju_MapEntry_getKey", "ju_MapEntry_getValue", "nleib_EaglerArrayByteBuffer_limit", "nleib_EaglerArrayByteBuffer_putFloat0", "nleib_EaglerArrayByteBuffer_putInt", "cjj_Adler32_getValue", "cjj_Adler32_reset", "nms_TextureWaterFX_onTick", "nms_TextureLavaFX_onTick", "nms_TexturePortalFX_onTick", "nms_TextureCompassFX_onTick", "nms_TextureWatchFX_onTick", "nms_TextureWaterFlowFX_onTick", "nms_TextureLavaFlowFX_onTick",
         "nms_TextureFlamesFX_onTick", "nleib_EaglerArrayByteBuffer_put0", "nleib_EaglerArrayByteBuffer_getInt", "nms_GuiContainerCreative_initGui", "nms_GuiContainerCreative_handleMouseInput", "nms_GuiContainerCreative_updateScreen", "nms_GuiContainerCreative_drawScreen", "nms_GuiIngameMenu_initGui", "nms_GuiIngameMenu_updateScreen", "nms_GuiIngameMenu_drawScreen", "ju_HashMap_entrySet", "nlei_OpenGLObjects$VertexArrayGL_getBits", "nleo_SoftGLVertexArray_getBits", "ju_LinkedList_listIterator", "ju_AbstractSequentialList_add",
         "jl_StringBuilder_append9", "ju_AbstractCollection_removeAll", "removeAll", "cjj_Adler32_reset0", "nleib_EaglerArrayByteBuffer_get1", "ju_IANATimeZone_getRawOffset", "jt_DateFormatElement$NumericHour_processBeforeFormat", "jt_DateFormatElement$NumericWeekday_processBeforeFormat", "jt_DateFormatElement$NumericMonth_processBeforeFormat", "ju_IANATimeZone_getOffset", "nleib_EaglerArrayIntBuffer_position", "nleib_EaglerArrayIntBuffer_limit", "nleo_GlStateManager$TexGen_values", "nleib_EaglerArrayByteBuffer_rewind",
         "cjj_Adler32_update", "jl_StringBuilder_insert2", "jl_StringBuffer_insert1", "jn_CharBufferImpl_compact", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageSavedHook$lambda$_1_0_run", "nleit_TeaVMClientConfigAdapterHooks$callCrashReportHook$lambda$_4_0_run", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageLoadHook$lambda$_2_0_get", "nleib_EaglerArrayIntBuffer_put1", "jn_ByteBufferImpl_compact", "otcic_ConsoleOutputStream_write", "ji_DataOutputStream_writeByte", "ji_DataOutputStream_writeUTF",
-        "nms_NBTTagCompound_writeTagContents", "nms_NBTTagShort_toString", "nms_NBTTagInt_toString", "nms_NBTTagCompound_toString", "nms_NBTTagLong_toString", "nms_NBTTagDouble_toString", "nms_NBTTagByte_toString", "nms_NBTTagEnd_toString", "nms_NBTTagList_toString", "nms_NBTTagByteArray_toString", "nms_NBTTagFloat_toString", "nms_NBTTagString_toString", "jt_DecimalFormat$PerMillField_equals", "jt_DecimalFormat$PerMillField_hashCode", "jt_DecimalFormat$CurrencyField_equals", "jt_DecimalFormat$CurrencyField_hashCode",
+        "nms_NBTTagCompound_writeTagContents", "nms_NBTTagEnd_toString", "nms_NBTTagFloat_toString", "nms_NBTTagList_toString", "nms_NBTTagInt_toString", "nms_NBTTagDouble_toString", "nms_NBTTagCompound_toString", "nms_NBTTagShort_toString", "nms_NBTTagByte_toString", "nms_NBTTagByteArray_toString", "nms_NBTTagLong_toString", "nms_NBTTagString_toString", "jt_DecimalFormat$PerMillField_equals", "jt_DecimalFormat$PerMillField_hashCode", "jt_DecimalFormat$CurrencyField_equals", "jt_DecimalFormat$CurrencyField_hashCode",
         "jt_DecimalFormat$PercentField_equals", "jt_DecimalFormat$PercentField_hashCode", "nms_TexturePackDefault_func_6484_b", "nms_TexturePackCustom_func_6482_a", "nms_TexturePackCustom_getResourceAsStream", "nms_Vec3D_toString", "nms_TexturePackCustom_func_6484_b", "ju_HashMap$AbstractMapIterator_makeNext", "makeNext", "jnc_CharsetDecoder_implOnUnmappableCharacter", "implOnUnmappableCharacter", "nms_Particle_preUpdate", "preUpdate", "nms_Particle_update", "nms_RenderEngine_bindTexture", "jnc_CharsetEncoder_implOnUnmappableCharacter",
         "nleo_EaglercraftGPU_attachQuad32EmulationBuffer", "attachQuad32EmulationBuffer", "nleo_EaglercraftGPU_drawRangeElements", "drawRangeElements", "nleo_EaglercraftGPU_attachQuad16EmulationBuffer", "attachQuad16EmulationBuffer", "jur_Matcher_replaceAll", "ju_AbstractCollection_contains", "jl_Short_hashCode0", "jl_Character_isLowerCase", "isLowerCase", "jl_Character_isUpperCase", "isUpperCase", "jl_Character_isDefined", "isDefined", "jl_Character_isDigit", "isDigit", "jl_Character_isIdentifierIgnorable",
         "isIdentifierIgnorable", "jl_Character_isISOControl", "isISOControl", "jl_Character_isJavaIdentifierPart", "isJavaIdentifierPart", "jl_Character_isJavaIdentifierStart", "isJavaIdentifierStart", "jl_Character_isLetter", "jl_Character_isLetterOrDigit", "isLetterOrDigit", "jl_Character_isTitleCase", "isTitleCase", "jl_Character_isUnicodeIdentifierPart", "isUnicodeIdentifierPart", "jl_Character_isUnicodeIdentifierStart", "isUnicodeIdentifierStart", "jur_Matcher_hasTransparentBounds", "hasTransparentBounds",
@@ -47571,7 +47571,7 @@
         "jur_DotSet_getName", "jur_UEOLSet_getName", "jur_UMultiLineEOLSet_getName", "jur_MultiLineEOLSet_getName", "jur_BackReferenceSet_getName", "jur_UCIBackReferenceSet_getName", "jur_CIBackReferenceSet_getName", "jur_SequenceSet_getName", "jur_UCISequenceSet_getName", "jur_CISequenceSet_getName", "jur_UCISupplCharSet_getName", "jur_LowSurrogateCharSet_getName", "jur_HighSurrogateCharSet_getName", "jur_SupplCharSet_getName", "nms_BlockGrass_colorMultiplier", "nms_BlockFluid_colorMultiplier", "nms_BlockLeaves_colorMultiplier",
         "nms_BlockTallGrass_colorMultiplier", "nms_BlockRedstoneWire_colorMultiplier", "nms_BlockStem_colorMultiplier", "nms_BlockVine_colorMultiplier", "jn_CharBufferOverArray_getChar", "nle_Filesystem$FilesystemHandleWrapper_eaglerMove", "jn_CharBufferOverArray_putChar", "juz_GZIPOutputStream_flush", "juz_DeflaterOutputStream_close", "nms_NBTTagShort_writeTagContents", "nms_NBTTagEnd_writeTagContents", "nms_NBTTagByte_writeTagContents", "nms_NBTTagInt_writeTagContents", "nms_NBTTagLong_writeTagContents", "nms_NBTTagFloat_writeTagContents",
         "nms_NBTTagDouble_writeTagContents", "nms_NBTTagByteArray_writeTagContents", "nms_NBTTagString_writeTagContents", "nms_NBTTagList_writeTagContents", "nms_GuiInventory_drawGuiContainerBackgroundLayer", "nms_GuiInventory_drawGuiContainerForegroundLayer", "dceg_GuiScreenYap_initGui", "dceg_GuiScreenYap_mouseClicked", "dceg_GuiScreenYap_handleMouseInput", "dceg_GuiScreenYap_updateScreen", "dceg_GuiScreenYap_drawScreen", "jn_CharBufferImpl_get", "jn_CharBufferImpl_subSequence", "jl_StringBuilder_insert15",
-        "jl_Integer_doubleValue", "jl_Double_intValue", "jl_Double_hashCode", "ji_BufferedInputStream_read0", "nms_Entity_hashCode", "nms_Entity_equals", "nms_AxisAlignedBB_toString", "nms_EntityRainFX_onUpdate", "nms_EntitySmokeFX_onUpdate", "jn_CharBuffer_allocate", "allocate", "jnc_CharsetDecoder_reset", "jnc_CoderResult_isError", "isError", "jnc_CoderResult_throwException", "throwException", "jnc_CharsetDecoder_expand", "jnc_CoderResult_isMalformed", "isMalformed", "jnc_CoderResult_malformedForLength", "malformedForLength",
+        "jl_Integer_doubleValue", "jl_Double_intValue", "jl_Double_hashCode", "ji_BufferedInputStream_read0", "nms_Entity_hashCode", "nms_Entity_equals", "nms_AxisAlignedBB_toString", "nms_EntitySmokeFX_onUpdate", "nms_EntityRainFX_onUpdate", "jn_CharBuffer_allocate", "allocate", "jnc_CharsetDecoder_reset", "jnc_CoderResult_isError", "isError", "jnc_CoderResult_throwException", "throwException", "jnc_CharsetDecoder_expand", "jnc_CoderResult_isMalformed", "isMalformed", "jnc_CoderResult_malformedForLength", "malformedForLength",
         "jn_CharBuffer_put", "jnc_CoderResult_isUnmappable", "isUnmappable", "jnc_CoderResult_length", "jnc_CharsetDecoder_decodeLoop", "decodeLoop", "jnc_CoderMalfunctionError__init_", "jnc_CharsetDecoder_implFlush", "implFlush", "jnc_CharsetEncoder_implFlush", "jn_ByteBuffer_put", "jnc_CharsetEncoder_encodeLoop", "encodeLoop", "jnc_CharsetEncoder_reset", "jn_ByteBuffer_allocate", "jnc_CharsetEncoder_allocateMore", "allocateMore", "nms_ModelBiped_setRotationAngles", "setRotationAngles", "nms_ModelBase_setRotationAngles",
         "nms_ModelRenderer_render", "jl_StringBuilder_insert16", "ju_AbstractMap_size", "nms_GuiScreen_drawWorldBackground", "drawWorldBackground", "nms_WorldRenderer_setDontDraw", "setDontDraw", "nms_EntitySorter_sortByDistanceToEntity", "sortByDistanceToEntity", "ju_HashMap$EntryIterator__init_", "ju_LinkedList_removeEntry", "removeEntry", "ju_LinkedList$SequentialListIterator_hasPrevious", "hasPrevious", "jl_StringBuffer_insert4", "nle_HFormatter$FormatToken_getDateSuffix", "getDateSuffix", "nle_HFormatter$DateTimeUtil_transform_A",
         "transform_A", "nle_HFormatter$DateTimeUtil_transform_B", "transform_B", "nle_HFormatter$DateTimeUtil_transform_C", "transform_C", "nle_HFormatter$DateTimeUtil_transform_D", "transform_D", "nle_HFormatter$DateTimeUtil_transform_F", "transform_F", "nle_HFormatter$DateTimeUtil_transform_H", "transform_H", "nle_HFormatter$DateTimeUtil_transform_I", "transform_I", "nle_HFormatter$DateTimeUtil_transform_L", "transform_L", "nle_HFormatter$DateTimeUtil_transform_M", "transform_M", "nle_HFormatter$DateTimeUtil_transform_N",
@@ -47675,7 +47675,7 @@
         "nleit_IndexedDBFilesystem$AsyncHandlers$7_handleEvent", "nleit_IndexedDBFilesystem$AsyncHandlers$8_handleEvent", "nleit_TeaVMWebSocketClient$1_handleEvent", "nleit_TeaVMWebSocketClient$2_handleEvent", "nleit_TeaVMWebSocketClient$3_handleEvent", "nleit_TeaVMWebSocketClient$4_handleEvent", "nleit_IndexedDBFilesystem$AsyncHandlers$9_handleEvent", "nleit_IndexedDBFilesystem$AsyncHandlers$10_handleEvent", "nleit_IndexedDBFilesystem$AsyncHandlers$13_handleEvent", "nleit_IndexedDBFilesystem$AsyncHandlers$14_handleEvent",
         "nleit_IndexedDBFilesystem$AsyncHandlers$5_handleEvent", "nleit_IndexedDBFilesystem$AsyncHandlers$6_handleEvent", "jm_Multiplication_multiplyByInt", "multiplyByInt", "jm_Multiplication_unsignedMultAddAdd", "unsignedMultAddAdd", "jm_BigDecimal$1__clinit_", "nms_J_JsonNode__init_", "jur_Matcher_matches", "nms_J_JsonNumberNode__clinit_", "nms_EntityDiggingFX_getFXLayer", "nleib_EaglerArrayByteBuffer_limit0", "nleib_EaglerArrayByteBuffer_get2", "otrfm_VirtualFileImpl_isFile", "otrfm_VirtualFileImpl_createAccessor",
         "otrfm_VirtualFileImpl_isDirectory", "otrfm_VirtualFileImpl_createFile", "nleit_TeaVMWebSocketClient_getState", "nleit_TeaVMWebSocketClient_close", "nms_J_JsonArrayNodeBuilder_buildNode", "jl_Long_doubleValue", "cjj_Mapping0_inverse", "cjj_Mapping0_free_info", "cjj_Time0_free_info", "cjj_Floor1_free_info", "cjj_Floor0_free_info", "cjj_Residue0_free_info", "nms_EntityDiggingFX_renderParticle", "juz_ZipEntry_toString", "nms_J_JsonObjectNodeBuilder_buildNode", "nms_ItemVine_getIconFromDamage", "jn_CharBufferOverArray_isArrayPresent",
-        "jn_CharBufferOverArray_getArray", "jnci_Iso8859Decoder_arrayDecode", "jnci_UTF16Decoder_arrayDecode", "jnci_AsciiDecoder_arrayDecode", "jnci_UTF8Decoder_arrayDecode", "jnci_UTF8Encoder_arrayEncode", "jnci_AsciiEncoder_arrayEncode", "jnci_Iso8859Encoder_arrayEncode", "jnci_UTF16Encoder_arrayEncode", "ju_TreeMap_containsKey", "ju_TreeMap_get", "nms_BlockFluid_getRenderBlockPass", "nms_BlockGlass_getRenderBlockPass", "nms_BlockStairs_getRenderBlockPass", "nms_BlockIce_getRenderBlockPass", "nms_BlockPortal_getRenderBlockPass",
+        "jn_CharBufferOverArray_getArray", "jnci_UTF16Decoder_arrayDecode", "jnci_Iso8859Decoder_arrayDecode", "jnci_AsciiDecoder_arrayDecode", "jnci_UTF8Decoder_arrayDecode", "jnci_UTF8Encoder_arrayEncode", "jnci_AsciiEncoder_arrayEncode", "jnci_Iso8859Encoder_arrayEncode", "jnci_UTF16Encoder_arrayEncode", "ju_TreeMap_containsKey", "ju_TreeMap_get", "nms_BlockFluid_getRenderBlockPass", "nms_BlockGlass_getRenderBlockPass", "nms_BlockStairs_getRenderBlockPass", "nms_BlockIce_getRenderBlockPass", "nms_BlockPortal_getRenderBlockPass",
         "nleib_EaglerArrayIntBuffer_remaining", "nms_GuiConnectFailed_initGui", "nms_GuiConnectFailed_actionPerformed", "nms_GuiConnectFailed_keyTyped", "nms_GuiConnectFailed_updateScreen", "nms_GuiConnectFailed_drawScreen", "nms_GuiVideoSettings_initGui", "nms_GuiVideoSettings_actionPerformed", "nms_GuiVideoSettings_drawScreen", "nms_GuiControls_initGui", "nms_GuiControls_actionPerformed", "nms_GuiControls_mouseClicked", "nms_GuiControls_keyTyped", "nms_GuiControls_drawScreen", "nms_ContainerCreative_func_35373_b",
         "nlei_VFSFilenameIteratorNonRecursive_next", "nleiv_VFSListFilesIteratorImpl_next", "nleiv_VFileOutputStream_close", "otrfm_VirtualFileImpl_delete", "ju_TreeMap_remove", "ju_TreeMap_put", "nlei_RamdiskFilesystemImpl_eaglerDelete", "nleit_IndexedDBFilesystem_eaglerDelete", "nms_EntityFX_canTriggerWalking", "nms_MaterialLiquid_getIsLiquid", "nms_BlockLeaves_onEntityWalking", "nms_BlockStairs_onEntityWalking", "nms_BlockFarmland_onEntityWalking", "nms_BlockRedstoneOre_onEntityWalking", "nms_BlockDetectorRail_onEntityCollidedWithBlock",
         "nms_BlockWeb_onEntityCollidedWithBlock", "nms_BlockPressurePlate_onEntityCollidedWithBlock", "nms_BlockCactus_onEntityCollidedWithBlock", "nms_BlockSoulSand_onEntityCollidedWithBlock", "nms_BlockPortal_onEntityCollidedWithBlock", "jur_FSet_matches", "jur_NonCapFSet_matches", "jur_AheadFSet_matches", "jur_BehindFSet_matches", "jur_AtomicFSet_matches", "jur_FinalSet_matches", "jur_LeafSet_matches", "jur_NonCapJointSet_matches", "jur_PositiveLookAhead_matches", "jur_NegativeLookAhead_matches", "jur_PositiveLookBehind_matches",
@@ -47683,19 +47683,19 @@
         "jur_ReluctantGroupQuantifierSet_matches", "jur_RelAltGroupQuantifierSet_matches", "jur_RelCompositeGroupQuantifierSet_matches", "jur_AltGroupQuantifierSet_matches", "jur_CompositeGroupQuantifierSet_matches", "jur_GroupQuantifierSet_matches", "jur_DotAllQuantifierSet_matches", "jur_DotQuantifierSet_matches", "jur_PossessiveQuantifierSet_matches", "jur_PossessiveAltQuantifierSet_matches", "jur_PossessiveCompositeQuantifierSet_matches", "jur_ReluctantQuantifierSet_matches", "jur_ReluctantAltQuantifierSet_matches",
         "jur_ReluctantCompositeQuantifierSet_matches", "jur_AltQuantifierSet_matches", "jur_CompositeQuantifierSet_matches", "jur_SOLSet_matches", "jur_WordBoundary_matches", "jur_PreviousMatch_matches", "jur_EOLSet_matches", "jur_EOISet_matches", "jur_MultiLineSOLSet_matches", "jur_DotAllSet_matches", "jur_DotSet_matches", "jur_UEOLSet_matches", "jur_UMultiLineEOLSet_matches", "jur_MultiLineEOLSet_matches", "jur_BackReferenceSet_matches", "jur_UCIBackReferenceSet_matches", "jur_CIBackReferenceSet_matches",
         "jur_LowSurrogateCharSet_matches", "jur_HighSurrogateCharSet_matches", "jur_UnifiedQuantifierSet_find", "jur_CharSet_find", "jur_DotAllQuantifierSet_find", "jur_DotQuantifierSet_find", "jur_BackReferenceSet_find", "jur_SequenceSet_find", "jur_LowSurrogateCharSet_find", "jur_HighSurrogateCharSet_find", "jur_SupplCharSet_find", "jur_BackReferencedSingleSet_find", "otrfm_InMemoryVirtualFileSystem_getUserDir", "nms_MaterialTransparent_getIsSolid", "nms_MaterialLiquid_getIsSolid", "nms_MaterialLogic_getIsSolid",
-        "nms_MaterialPortal_getIsSolid", "nms_MaterialWeb_getIsSolid", "nlei_EnumEaglerConnectionState_values", "nleit_TeaVMClientConfigAdapter_getDefaultServerList", "nms_LoadingScreenRenderer_func_594_b", "juz_ZipOutputStream_write", "nleiv_VFileInputStream_read0", "nleiv_VFileInputStream_available", "nms_EntityList$_clinit_$lambda$_8_17_createEntity", "nms_EntityList$_clinit_$lambda$_8_5_createEntity", "nms_EntityList$_clinit_$lambda$_8_13_createEntity", "nms_EntityList$_clinit_$lambda$_8_0_createEntity",
-        "nms_EntityList$_clinit_$lambda$_8_22_createEntity", "nms_EntityList$_clinit_$lambda$_8_1_createEntity", "nms_EntityList$_clinit_$lambda$_8_4_createEntity", "nms_EntityList$_clinit_$lambda$_8_23_createEntity", "nms_EntityList$_clinit_$lambda$_8_8_createEntity", "nms_EntityList$_clinit_$lambda$_8_15_createEntity", "nms_EntityList$_clinit_$lambda$_8_11_createEntity", "nms_EntityList$_clinit_$lambda$_8_21_createEntity", "nms_EntityList$_clinit_$lambda$_8_2_createEntity", "nms_EntityList$_clinit_$lambda$_8_6_createEntity",
-        "nms_EntityList$_clinit_$lambda$_8_12_createEntity", "nms_EntityList$_clinit_$lambda$_8_10_createEntity", "nms_EntityList$_clinit_$lambda$_8_9_createEntity", "nms_EntityList$_clinit_$lambda$_8_27_createEntity", "nms_EntityList$_clinit_$lambda$_8_26_createEntity", "nms_EntityList$_clinit_$lambda$_8_24_createEntity", "nms_EntityList$_clinit_$lambda$_8_7_createEntity", "nms_EntityList$_clinit_$lambda$_8_18_createEntity", "nms_EntityList$_clinit_$lambda$_8_16_createEntity", "nms_EntityList$_clinit_$lambda$_8_14_createEntity",
-        "nms_EntityList$_clinit_$lambda$_8_19_createEntity", "nms_EntityList$_clinit_$lambda$_8_20_createEntity", "nms_EntityList$_clinit_$lambda$_8_3_createEntity", "nms_EntityList$_clinit_$lambda$_8_25_createEntity", "jl_Character_compareTo", "nms_GuiSlider_getHoverState", "nms_GuiSlider_mouseDragged", "nms_GuiSlider_mouseReleased", "nms_GuiSlider_mousePressed", "nms_GuiScreenServerList_initGui", "nms_GuiRenameWorld_initGui", "dceg_GuiScreenInfo_initGui", "nms_GuiCreateWorld_initGui", "nms_GuiScreenAddServer_initGui",
-        "nms_GuiYesNo_initGui", "nms_GuiScreenServerList_actionPerformed", "nms_GuiRenameWorld_actionPerformed", "dceg_GuiScreenInfo_actionPerformed", "nms_GuiCreateWorld_actionPerformed", "nms_GuiScreenAddServer_actionPerformed", "nms_GuiYesNo_actionPerformed", "nms_GuiScreenServerList_mouseClicked", "nms_GuiRenameWorld_mouseClicked", "nms_GuiCreateWorld_mouseClicked", "nms_GuiScreenAddServer_mouseClicked", "nms_GuiScreenServerList_keyTyped", "nms_GuiRenameWorld_keyTyped", "nms_GuiCreateWorld_keyTyped", "nms_GuiScreenAddServer_keyTyped",
-        "nms_GuiScreenServerList_updateScreen", "nms_GuiRenameWorld_updateScreen", "nms_GuiCreateWorld_updateScreen", "nms_GuiScreenAddServer_updateScreen", "nms_GuiScreenServerList_onGuiClosed", "nms_GuiRenameWorld_onGuiClosed", "nms_GuiCreateWorld_onGuiClosed", "nms_GuiScreenAddServer_onGuiClosed", "nms_GuiScreenServerList_drawScreen", "nms_GuiRenameWorld_drawScreen", "dceg_GuiScreenInfo_drawScreen", "nms_GuiCreateWorld_drawScreen", "nms_GuiScreenAddServer_drawScreen", "nms_GuiYesNo_drawScreen", "jnc_UnmappableCharacterException_getMessage",
-        "jnc_MalformedInputException_getMessage", "jur_Matcher$1_toString", "nms_GuiSlot_bindAmountScrolled", "bindAmountScrolled", "nms_GuiSlot_drawBackground", "nms_GuiSlot_getSize", "nms_GuiSlot_elementClicked", "elementClicked", "nms_GuiSlot_getContentHeight", "getContentHeight", "nms_GuiSlot_func_27260_a", "func_27260_a", "nms_GuiSlot_overlayBackground", "overlayBackground", "nms_GuiSlot_drawSlot", "drawSlot", "nms_GuiSlot_isSelected", "isSelected", "nms_GuiSlot_func_27257_b", "func_27257_b", "nms_GuiSlot_func_27255_a",
-        "func_27255_a", "otrfm_VirtualFileImpl_findInMemory", "findInMemory", "otrfm_AbstractInMemoryVirtualFile_isFile", "otrfm_AbstractInMemoryVirtualFile_createAccessor", "otrfm_AbstractInMemoryVirtualFile_isDirectory", "otrfm_AbstractInMemoryVirtualFile_createFile", "nms_Item_getItemNameIS", "getItemNameIS", "nms_ItemStack_isItemStackDamageable", "isItemStackDamageable", "nms_Item_getMaxDamage", "nms_J_JsonArrayNodeBuilder_build", "build", "cjj_FuncFloor_inverse1", "inverse1", "cjj_FuncResidue_inverse",
-        "cjj_FuncFloor_inverse2", "inverse2", "cjj_Mdct_backward", "backward", "jm_Division_divideAndRemainderByInteger", "divideAndRemainderByInteger", "jm_Elementary_compareArrays", "compareArrays", "jm_Division_divide", "jm_BigInteger_equals", "jm_Multiplication_pow", "jm_BigInteger_getPowerOfTwo", "getPowerOfTwo", "jm_BigInteger_shiftRight", "shiftRight", "jur_Matcher_lookingAt", "lookingAt", "nms_J_JsonObjectNodeBuilder_func_27235_a", "func_27235_a", "nms_RenderBlocks_renderStandardBlock", "renderStandardBlock",
-        "nms_RenderBlocks_renderBlockFluids", "renderBlockFluids", "nms_RenderBlocks_renderBlockCactus", "renderBlockCactus", "nms_RenderBlocks_renderBlockReed", "renderBlockReed", "nms_RenderBlocks_renderBlockCrops", "renderBlockCrops", "nms_RenderBlocks_func_35930_l", "func_35930_l", "nms_RenderBlocks_renderBlockTorch", "renderBlockTorch", "nms_RenderBlocks_renderBlockFire", "renderBlockFire", "nms_RenderBlocks_renderBlockRedstoneWire", "renderBlockRedstoneWire", "nms_RenderBlocks_renderBlockLadder", "renderBlockLadder",
-        "nms_RenderBlocks_renderBlockDoor", "renderBlockDoor", "nms_RenderBlocks_renderBlockMinecartTrack", "renderBlockMinecartTrack", "nms_RenderBlocks_renderBlockStairs", "renderBlockStairs", "nms_RenderBlocks_func_35925_a", "func_35925_a", "nms_RenderBlocks_renderBlockLever", "renderBlockLever", "nms_RenderBlocks_renderBlockBed", "renderBlockBed", "nms_RenderBlocks_renderBlockRepeater", "renderBlockRepeater", "nms_RenderBlocks_renderPistonBase", "renderPistonBase", "nms_RenderBlocks_renderPistonExtension",
-        "renderPistonExtension", "nms_RenderBlocks_func_35922_a", "func_35922_a", "nms_RenderBlocks_func_35929_i", "func_35929_i", "nms_RenderBlocks_func_35923_a", "func_35923_a", "nms_TileEntitySpecialRenderer_func_31069_a", "func_31069_a", "nms_TileEntityRenderer_getSpecialRendererForEntity", "getSpecialRendererForEntity", "nms_TileEntitySpecialRenderer_renderTileEntityAt", "cch_ArraySizingStrategy_grow", "cjj_Page_checksum", "jn_BufferOverflowException__init_", "jnci_BufferedDecoder$Controller_setInPosition",
-        "setInPosition", "jnci_BufferedDecoder$Controller_setOutPosition", "setOutPosition", "jnci_BufferedDecoder$Controller_hasMoreInput", "hasMoreInput", "jnci_UTF16Decoder_decodeBE", "decodeBE", "jnci_UTF16Decoder_decodeLE", "decodeLE", "jnci_UTF8Decoder_checkMidByte", "checkMidByte", "jnci_BufferedDecoder$Controller_hasMoreInput0", "jnci_BufferedDecoder$Controller_hasMoreOutput", "hasMoreOutput", "jnci_BufferedEncoder$Controller_setInPosition", "jnci_BufferedEncoder$Controller_setOutPosition", "jnci_BufferedEncoder$Controller_hasMoreOutput",
+        "nms_MaterialPortal_getIsSolid", "nms_MaterialWeb_getIsSolid", "nlei_EnumEaglerConnectionState_values", "nleit_TeaVMClientConfigAdapter_getDefaultServerList", "nms_LoadingScreenRenderer_func_594_b", "juz_ZipOutputStream_write", "nleiv_VFileInputStream_read0", "nleiv_VFileInputStream_available", "nms_EntityList$_clinit_$lambda$_8_5_createEntity", "nms_EntityList$_clinit_$lambda$_8_24_createEntity", "nms_EntityList$_clinit_$lambda$_8_10_createEntity", "nms_EntityList$_clinit_$lambda$_8_13_createEntity",
+        "nms_EntityList$_clinit_$lambda$_8_11_createEntity", "nms_EntityList$_clinit_$lambda$_8_16_createEntity", "nms_EntityList$_clinit_$lambda$_8_27_createEntity", "nms_EntityList$_clinit_$lambda$_8_0_createEntity", "nms_EntityList$_clinit_$lambda$_8_26_createEntity", "nms_EntityList$_clinit_$lambda$_8_18_createEntity", "nms_EntityList$_clinit_$lambda$_8_20_createEntity", "nms_EntityList$_clinit_$lambda$_8_6_createEntity", "nms_EntityList$_clinit_$lambda$_8_19_createEntity", "nms_EntityList$_clinit_$lambda$_8_8_createEntity",
+        "nms_EntityList$_clinit_$lambda$_8_21_createEntity", "nms_EntityList$_clinit_$lambda$_8_22_createEntity", "nms_EntityList$_clinit_$lambda$_8_25_createEntity", "nms_EntityList$_clinit_$lambda$_8_23_createEntity", "nms_EntityList$_clinit_$lambda$_8_17_createEntity", "nms_EntityList$_clinit_$lambda$_8_12_createEntity", "nms_EntityList$_clinit_$lambda$_8_15_createEntity", "nms_EntityList$_clinit_$lambda$_8_2_createEntity", "nms_EntityList$_clinit_$lambda$_8_7_createEntity", "nms_EntityList$_clinit_$lambda$_8_1_createEntity",
+        "nms_EntityList$_clinit_$lambda$_8_3_createEntity", "nms_EntityList$_clinit_$lambda$_8_9_createEntity", "nms_EntityList$_clinit_$lambda$_8_14_createEntity", "nms_EntityList$_clinit_$lambda$_8_4_createEntity", "jl_Character_compareTo", "nms_GuiSlider_getHoverState", "nms_GuiSlider_mouseDragged", "nms_GuiSlider_mouseReleased", "nms_GuiSlider_mousePressed", "nms_GuiRenameWorld_initGui", "nms_GuiYesNo_initGui", "nms_GuiCreateWorld_initGui", "nms_GuiScreenAddServer_initGui", "dceg_GuiScreenInfo_initGui",
+        "nms_GuiScreenServerList_initGui", "nms_GuiRenameWorld_actionPerformed", "nms_GuiYesNo_actionPerformed", "nms_GuiCreateWorld_actionPerformed", "nms_GuiScreenAddServer_actionPerformed", "dceg_GuiScreenInfo_actionPerformed", "nms_GuiScreenServerList_actionPerformed", "nms_GuiRenameWorld_mouseClicked", "nms_GuiCreateWorld_mouseClicked", "nms_GuiScreenAddServer_mouseClicked", "nms_GuiScreenServerList_mouseClicked", "nms_GuiRenameWorld_keyTyped", "nms_GuiCreateWorld_keyTyped", "nms_GuiScreenAddServer_keyTyped",
+        "nms_GuiScreenServerList_keyTyped", "nms_GuiRenameWorld_updateScreen", "nms_GuiCreateWorld_updateScreen", "nms_GuiScreenAddServer_updateScreen", "nms_GuiScreenServerList_updateScreen", "nms_GuiRenameWorld_onGuiClosed", "nms_GuiCreateWorld_onGuiClosed", "nms_GuiScreenAddServer_onGuiClosed", "nms_GuiScreenServerList_onGuiClosed", "nms_GuiRenameWorld_drawScreen", "nms_GuiYesNo_drawScreen", "nms_GuiCreateWorld_drawScreen", "nms_GuiScreenAddServer_drawScreen", "dceg_GuiScreenInfo_drawScreen", "nms_GuiScreenServerList_drawScreen",
+        "jnc_UnmappableCharacterException_getMessage", "jnc_MalformedInputException_getMessage", "jur_Matcher$1_toString", "nms_GuiSlot_bindAmountScrolled", "bindAmountScrolled", "nms_GuiSlot_drawBackground", "nms_GuiSlot_getSize", "nms_GuiSlot_elementClicked", "elementClicked", "nms_GuiSlot_getContentHeight", "getContentHeight", "nms_GuiSlot_func_27260_a", "func_27260_a", "nms_GuiSlot_overlayBackground", "overlayBackground", "nms_GuiSlot_drawSlot", "drawSlot", "nms_GuiSlot_isSelected", "isSelected", "nms_GuiSlot_func_27257_b",
+        "func_27257_b", "nms_GuiSlot_func_27255_a", "func_27255_a", "otrfm_VirtualFileImpl_findInMemory", "findInMemory", "otrfm_AbstractInMemoryVirtualFile_isFile", "otrfm_AbstractInMemoryVirtualFile_createAccessor", "otrfm_AbstractInMemoryVirtualFile_isDirectory", "otrfm_AbstractInMemoryVirtualFile_createFile", "nms_Item_getItemNameIS", "getItemNameIS", "nms_ItemStack_isItemStackDamageable", "isItemStackDamageable", "nms_Item_getMaxDamage", "nms_J_JsonArrayNodeBuilder_build", "build", "cjj_FuncFloor_inverse1",
+        "inverse1", "cjj_FuncResidue_inverse", "cjj_FuncFloor_inverse2", "inverse2", "cjj_Mdct_backward", "backward", "jm_Division_divideAndRemainderByInteger", "divideAndRemainderByInteger", "jm_Elementary_compareArrays", "compareArrays", "jm_Division_divide", "jm_BigInteger_equals", "jm_Multiplication_pow", "jm_BigInteger_getPowerOfTwo", "getPowerOfTwo", "jm_BigInteger_shiftRight", "shiftRight", "jur_Matcher_lookingAt", "lookingAt", "nms_J_JsonObjectNodeBuilder_func_27235_a", "func_27235_a", "nms_RenderBlocks_renderStandardBlock",
+        "renderStandardBlock", "nms_RenderBlocks_renderBlockFluids", "renderBlockFluids", "nms_RenderBlocks_renderBlockCactus", "renderBlockCactus", "nms_RenderBlocks_renderBlockReed", "renderBlockReed", "nms_RenderBlocks_renderBlockCrops", "renderBlockCrops", "nms_RenderBlocks_func_35930_l", "func_35930_l", "nms_RenderBlocks_renderBlockTorch", "renderBlockTorch", "nms_RenderBlocks_renderBlockFire", "renderBlockFire", "nms_RenderBlocks_renderBlockRedstoneWire", "renderBlockRedstoneWire", "nms_RenderBlocks_renderBlockLadder",
+        "renderBlockLadder", "nms_RenderBlocks_renderBlockDoor", "renderBlockDoor", "nms_RenderBlocks_renderBlockMinecartTrack", "renderBlockMinecartTrack", "nms_RenderBlocks_renderBlockStairs", "renderBlockStairs", "nms_RenderBlocks_func_35925_a", "func_35925_a", "nms_RenderBlocks_renderBlockLever", "renderBlockLever", "nms_RenderBlocks_renderBlockBed", "renderBlockBed", "nms_RenderBlocks_renderBlockRepeater", "renderBlockRepeater", "nms_RenderBlocks_renderPistonBase", "renderPistonBase", "nms_RenderBlocks_renderPistonExtension",
+        "renderPistonExtension", "nms_RenderBlocks_func_35922_a", "func_35922_a", "nms_RenderBlocks_func_35929_i", "func_35929_i", "nms_RenderBlocks_func_35923_a", "func_35923_a", "nms_TileEntitySpecialRenderer_func_31069_a", "func_31069_a", "nms_TileEntityRenderer_getSpecialRendererForEntity", "getSpecialRendererForEntity", "nms_TileEntitySpecialRenderer_renderTileEntityAt", "cch_ArraySizingStrategy_grow", "cjj_Page_checksum", "jn_BufferOverflowException__init_", "jnci_BufferedDecoder$Controller_hasMoreInput",
+        "hasMoreInput", "jnci_UTF16Decoder_decodeBE", "decodeBE", "jnci_UTF16Decoder_decodeLE", "decodeLE", "jnci_BufferedDecoder$Controller_setInPosition", "setInPosition", "jnci_BufferedDecoder$Controller_setOutPosition", "setOutPosition", "jnci_UTF8Decoder_checkMidByte", "checkMidByte", "jnci_BufferedDecoder$Controller_hasMoreInput0", "jnci_BufferedDecoder$Controller_hasMoreOutput", "hasMoreOutput", "jnci_BufferedEncoder$Controller_setInPosition", "jnci_BufferedEncoder$Controller_setOutPosition", "jnci_BufferedEncoder$Controller_hasMoreOutput",
         "jnci_BufferedEncoder$Controller_hasMoreInput", "jnci_BufferedEncoder$Controller_hasMoreInput0", "jnc_CoderResult_unmappableForLength", "unmappableForLength", "jnci_BufferedEncoder$Controller_hasMoreOutput0", "jnci_UTF16Encoder_arrayEncodeBE", "arrayEncodeBE", "jnci_UTF16Encoder_arrayEncodeLE", "arrayEncodeLE", "ju_TreeMap_findExact", "findExact", "ju_AbstractMap$SimpleEntry_getValue", "ju_AbstractCollection_remove", "nms_Chunk_getBlockID", "getBlockID", "nms_Chunk_getChunkBlockTileEntity", "getChunkBlockTileEntity",
         "nms_MathHelper_func_35597_a", "func_35597_a", "nms_RenderBlocks_func_35921_b", "func_35921_b", "nms_ClippingHelper_isBoxInFrustum", "nms_BlockTrapDoor_isTrapdoorOpen", "isTrapdoorOpen", "nms_NetworkManager_networkShutdown", "networkShutdown", "nms_NetworkManager_readPacket", "readPacket", "nms_NetworkManager_processReadPackets", "nms_NetworkManager_addToSendQueue", "nms_EnumOptions_getEnumString", "getEnumString", "nms_EnumOptions_getEnumBoolean", "getEnumBoolean", "nms_GameSettings_getOptionOrdinalValue",
         "getOptionOrdinalValue", "nms_GuiControls_func_20080_j", "func_20080_j", "nms_GameSettings_getOptionDisplayString", "getOptionDisplayString", "nms_GameSettings_setKeyBinding", "setKeyBinding", "nms_GameSettings_getKeyBindingDescription", "getKeyBindingDescription", "nms_SaveFormatComparator_getDisplayName", "nms_SaveFormatComparator_func_35719_f", "func_35719_f", "nms_PlayerControllerTest__init_", "nms_PlayerControllerSP__init_", "nmc_Minecraft_startWorld", "startWorld", "nms_SaveFormatComparator_getFileName",
@@ -47709,19 +47709,19 @@
         "cjj_CodeBook_init_decode", "init_decode", "cjj_FuncMapping_look", "look", "cjj_StaticCodeBook__init_", "cjj_StaticCodeBook_unpack", "cjj_FuncTime_unpack", "cjj_FuncFloor_unpack", "cjj_FuncResidue_unpack", "cjj_FuncMapping_unpack", "cjj_InfoMode__init_", "cjj_Comment_clear", "nms_Vec3D_subtract", "subtract", "nms_Vec3D_crossProduct", "crossProduct", "nms_Vec3D_normalize", "jur_MatchResultImpl_group", "dces_ServerMOTDDispatcher_finish", "nlei_IWebSocketClient_getNextFrames", "getNextFrames", "nlei_IWebSocketClient_send",
         "send", "nlei_IWebSocketFrame_isString", "isString", "nlei_IWebSocketFrame_getString", "oj_JSONObject__init_", "oj_JSONObject_getJSONObject", "getJSONObject", "oj_JSONObject_getJSONArray", "getJSONArray", "oj_JSONArray_getString", "oj_JSONObject_getInt", "ji_ByteArrayOutputStream_size", "juz_ZipOutputStream_writeLong", "juz_ZipOutputStream_writeShort", "juz_ZipEntry_getMethod", "getMethod", "juz_ZipException__init_0", "juz_ZipOutputStream_utf8Count", "utf8Count", "juz_Deflater_setLevel", "setLevel",
         "juz_ZipEntry_setMethod", "setMethod", "juz_ZipEntry_getTime", "juz_ZipEntry_setTime", "juz_ZipOutputStream_toUTF8Bytes", "toUTF8Bytes", "juz_Deflater_getTotalOut", "juz_Deflater_getTotalIn", "getTotalIn", "juz_ZipEntry_getComment", "getComment", "juz_Deflater_reset", "jm_BitLevel_shiftRight", "jm_BitLevel_shiftLeft", "jm_BigInteger_doubleValue", "nlei_FileChooserResult__init_", "jm_Multiplication_multiply", "nleit_BooleanResult__new", "_new", "nleit_IndexedDBFilesystem$AsyncHandlers_readRow$js_body$_5",
-        "readRow$js_body$_5", "nleit_TeaVMWebSocketClient$3_handleEvent0", "nleit_IndexedDBFilesystem$AsyncHandlers_readKey$js_body$_9", "readKey$js_body$_9", "nms_EntitySilverfish__init_", "nms_EntityLiving__init_", "nms_EntityGhast__init_", "nms_EntityItem__init_0", "nms_EntitySquid__init_", "nms_EntityXPOrb__init_", "nms_EntityPainting__init_", "nms_EntityWolf__init_", "nms_EntitySkeleton__init_", "nms_EntityEnderman__init_", "nms_EntityZombie__init_", "nms_EntityChicken__init_", "nms_EntityArrow__init_",
-        "nms_EntityMob__init_", "nms_EntitySlime__init_", "nms_EntityGiantZombie__init_", "nms_EntitySpider__init_", "nms_EntityBoat__init_", "nms_EntityMinecart__init_", "nms_EntityTNTPrimed__init_", "nms_EntityCreeper__init_", "nms_EntityPig__init_", "nms_EntityCaveSpider__init_", "nms_EntityPigZombie__init_", "nms_EntitySheep__init_", "nms_EntityCow__init_", "nms_EntitySnowball__init_", "nms_EntityFallingSand__init_", "jl_Character_compareTo0", "nms_GameSettings_setOptionFloatValue", "setOptionFloatValue",
-        "nms_GuiTextField_setMaxStringLength", "setMaxStringLength", "nms_GuiCreateWorld_func_22129_j", "func_22129_j", "nms_GuiCreateWorld_func_35363_g", "func_35363_g", "nms_GuiScreen_deleteWorld", "deleteWorld", "nms_ISaveFormat_func_22170_a", "func_22170_a", "nle_Random_nextLong", "nextLong", "ju_Random_nextLong", "nms_EnumWorldType_values", "nms_WorldSettings__init_0", "jm_BitLevel_shiftLeft0", "jm_Division_divideLongByInt", "divideLongByInt", "jm_Division_multiplyAndSubtract", "multiplyAndSubtract", "jm_BitLevel_shiftRight0",
-        "jm_Multiplication_square", "square", "jm_BigInteger__init_3", "jur_Matcher_runMatch", "runMatch", "nms_Block_func_35275_c", "func_35275_c", "nms_Block_getBlockTexture", "getBlockTexture", "nms_Block_shouldSideBeRendered", "shouldSideBeRendered", "nms_Block_getBlockBrightness", "getBlockBrightness", "nms_RenderBlocks_func_31076_a", "func_31076_a", "nms_RenderBlocks_func_31081_b", "func_31081_b", "nms_RenderBlocks_func_31077_c", "func_31077_c", "nms_PlayerController__init_", "ju_AbstractMap$SimpleEntry_getKey",
-        "ju_TreeMap$TreeNode_fix", "fix", "ju_TreeMap$TreeNode_balance", "balance", "ju_TreeMap$TreeNode__init_", "jl_AbstractStringBuilder_indexOf0", "jm_BigDecimal_isZero", "isZero", "jm_BigDecimal_zeroScaledBy", "zeroScaledBy", "jm_BigDecimal_valueOf", "jm_Multiplication_multiplyByTenPow", "multiplyByTenPow", "nms_BlockRedstoneOre_func_319_i", "func_319_i", "nms_World_getEntitiesWithinAABB", "getEntitiesWithinAABB", "nms_World_setBlockMetadataWithNotify", "setBlockMetadataWithNotify", "nms_World_notifyBlocksOfNeighborChange",
-        "notifyBlocksOfNeighborChange", "nms_World_markBlocksDirty", "markBlocksDirty", "nms_BlockDetectorRail_tickRate", "tickRate", "nms_Block_tickRate", "nms_World_scheduleBlockUpdate", "scheduleBlockUpdate", "nms_BlockPressurePlate_tickRate", "nms_DamageSource__clinit_", "jur_IntArrHash_get", "jl_Character_isLetterOrDigit0", "cjj_StaticTree__clinit_", "jl_AbstractStringBuilder_substring", "oj_JSONTokener__init_", "oj_JSONObject__init_0", "oj_JSONObject__clinit_", "jm_Multiplication_karatsuba", "karatsuba",
-        "nleit_BooleanResult__clinit_", "nms_EntityLiving_setSize", "nms_EntityFlying__init_", "nms_EntityWaterMob__init_", "nms_EntityAnimal__init_", "nms_EntitySkeleton__clinit_", "nms_EntityEnderman__clinit_", "nms_EntityCreature__init_", "nms_EntitySlime_setSlimeSize", "setSlimeSize", "nms_EntityMinecart__clinit_", "nms_EntityPigZombie__clinit_", "nms_EntitySheep__clinit_", "nms_GuiCreateWorld_generateUnusedFolderName", "generateUnusedFolderName", "nms_EnumWorldType_func_46136_a", "func_46136_a", "nms_EnumWorldType__clinit_",
-        "jm_BitLevel_shiftLeftOneBit", "ju_AbstractMap$SimpleEntry__init_", "jm_BigDecimal_valueOf0", "jm_BigDecimal__init_5", "nms_World_isBlockOpaqueCube", "isBlockOpaqueCube", "nms_World_spawnParticle", "spawnParticle", "nms_DamageSource__init_", "nms_DamageSource_func_35528_f", "func_35528_f", "nms_DamageSource_func_35531_g", "func_35531_g", "cjj_StaticTree__init_", "oj_JSONTokener__init_0", "oj_JSONObject__init_1", "oj_JSONTokener_nextClean", "nextClean", "oj_JSONTokener_syntaxError", "syntaxError", "oj_JSONTokener_nextSimpleValue",
+        "readRow$js_body$_5", "nleit_TeaVMWebSocketClient$3_handleEvent0", "nleit_IndexedDBFilesystem$AsyncHandlers_readKey$js_body$_9", "readKey$js_body$_9", "nms_EntityLiving__init_", "nms_EntityTNTPrimed__init_", "nms_EntityGiantZombie__init_", "nms_EntityGhast__init_", "nms_EntityZombie__init_", "nms_EntityCaveSpider__init_", "nms_EntityBoat__init_", "nms_EntityItem__init_0", "nms_EntityMinecart__init_", "nms_EntityPig__init_", "nms_EntityCow__init_", "nms_EntityMob__init_", "nms_EntitySheep__init_", "nms_EntitySkeleton__init_",
+        "nms_EntityChicken__init_", "nms_EntitySquid__init_", "nms_EntityFallingSand__init_", "nms_EntityWolf__init_", "nms_EntitySilverfish__init_", "nms_EntitySlime__init_", "nms_EntityEnderman__init_", "nms_EntityArrow__init_", "nms_EntityCreeper__init_", "nms_EntityXPOrb__init_", "nms_EntitySnowball__init_", "nms_EntitySpider__init_", "nms_EntityPigZombie__init_", "nms_EntityPainting__init_", "jl_Character_compareTo0", "nms_GameSettings_setOptionFloatValue", "setOptionFloatValue", "nms_GuiTextField_setMaxStringLength",
+        "setMaxStringLength", "nms_GuiCreateWorld_func_22129_j", "func_22129_j", "nms_GuiCreateWorld_func_35363_g", "func_35363_g", "nms_ISaveFormat_func_22170_a", "func_22170_a", "nms_GuiScreen_deleteWorld", "deleteWorld", "nle_Random_nextLong", "nextLong", "ju_Random_nextLong", "nms_EnumWorldType_values", "nms_WorldSettings__init_0", "jm_BitLevel_shiftLeft0", "jm_Division_divideLongByInt", "divideLongByInt", "jm_Division_multiplyAndSubtract", "multiplyAndSubtract", "jm_BitLevel_shiftRight0", "jm_Multiplication_square",
+        "square", "jm_BigInteger__init_3", "jur_Matcher_runMatch", "runMatch", "nms_Block_func_35275_c", "func_35275_c", "nms_Block_getBlockTexture", "getBlockTexture", "nms_Block_shouldSideBeRendered", "shouldSideBeRendered", "nms_Block_getBlockBrightness", "getBlockBrightness", "nms_RenderBlocks_func_31076_a", "func_31076_a", "nms_RenderBlocks_func_31081_b", "func_31081_b", "nms_RenderBlocks_func_31077_c", "func_31077_c", "nms_PlayerController__init_", "ju_AbstractMap$SimpleEntry_getKey", "ju_TreeMap$TreeNode_fix",
+        "fix", "ju_TreeMap$TreeNode_balance", "balance", "ju_TreeMap$TreeNode__init_", "jl_AbstractStringBuilder_indexOf0", "jm_BigDecimal_isZero", "isZero", "jm_BigDecimal_zeroScaledBy", "zeroScaledBy", "jm_BigDecimal_valueOf", "jm_Multiplication_multiplyByTenPow", "multiplyByTenPow", "nms_BlockRedstoneOre_func_319_i", "func_319_i", "nms_World_getEntitiesWithinAABB", "getEntitiesWithinAABB", "nms_World_setBlockMetadataWithNotify", "setBlockMetadataWithNotify", "nms_World_notifyBlocksOfNeighborChange", "notifyBlocksOfNeighborChange",
+        "nms_World_markBlocksDirty", "markBlocksDirty", "nms_BlockDetectorRail_tickRate", "tickRate", "nms_Block_tickRate", "nms_World_scheduleBlockUpdate", "scheduleBlockUpdate", "nms_BlockPressurePlate_tickRate", "nms_DamageSource__clinit_", "jur_IntArrHash_get", "jl_Character_isLetterOrDigit0", "cjj_StaticTree__clinit_", "jl_AbstractStringBuilder_substring", "oj_JSONTokener__init_", "oj_JSONObject__init_0", "oj_JSONObject__clinit_", "jm_Multiplication_karatsuba", "karatsuba", "nleit_BooleanResult__clinit_",
+        "nms_EntityLiving_setSize", "nms_EntityFlying__init_", "nms_EntityMinecart__clinit_", "nms_EntityAnimal__init_", "nms_EntityCreature__init_", "nms_EntitySheep__clinit_", "nms_EntitySkeleton__clinit_", "nms_EntityWaterMob__init_", "nms_EntitySlime_setSlimeSize", "setSlimeSize", "nms_EntityEnderman__clinit_", "nms_EntityPigZombie__clinit_", "nms_GuiCreateWorld_generateUnusedFolderName", "generateUnusedFolderName", "nms_EnumWorldType_func_46136_a", "func_46136_a", "nms_EnumWorldType__clinit_", "jm_BitLevel_shiftLeftOneBit",
+        "ju_AbstractMap$SimpleEntry__init_", "jm_BigDecimal_valueOf0", "jm_BigDecimal__init_5", "nms_World_isBlockOpaqueCube", "isBlockOpaqueCube", "nms_World_spawnParticle", "spawnParticle", "nms_DamageSource__init_", "nms_DamageSource_func_35528_f", "func_35528_f", "nms_DamageSource_func_35531_g", "func_35531_g", "cjj_StaticTree__init_", "oj_JSONTokener__init_0", "oj_JSONObject__init_1", "oj_JSONTokener_nextClean", "nextClean", "oj_JSONTokener_syntaxError", "syntaxError", "oj_JSONTokener_nextSimpleValue",
         "nextSimpleValue", "oj_JSONObject_opt", "opt", "oj_JSONTokener_nextValue", "nextValue", "oj_JSONObject_put", "oj_JSONTokener_end", "oj_JSONTokener_back", "oj_JSONObject$Null__init_", "jm_BigInteger_subtract", "jm_Multiplication_multiplyPAP", "multiplyPAP", "nleit_BooleanResult__init_", "nms_EnumWorldType__init_", "nms_EnumWorldType_$values", "ji_Reader_markSupported", "markSupported", "jm_Multiplication_multArraysPAP", "multArraysPAP", "jm_Multiplication_multPAP", "multPAP", "jl_StringBuffer_append6",
         "nms_PlayerControllerTest_func_35641_g", "nms_PlayerControllerTest_clickBlock", "nms_PlayerControllerTest_sendPlaceBlock", "nms_PlayerControllerTest_func_35640_h", "nms_PlayerControllerTest_resetBlockRemoving", "nms_PlayerControllerTest_sendBlockRemoving", "nms_PlayerControllerTest_getBlockReachDistance", "nms_PlayerControllerTest_func_35636_i", "nms_PlayerControllerTest_shouldDrawHUD", "nms_PlayerControllerTest_func_717_a", "nms_PlayerControllerTest_func_6473_b", "nms_PlayerControllerSP_setPartialTime",
         "nms_PlayerControllerSP_updateController", "nms_PlayerControllerSP_clickBlock", "nms_PlayerControllerSP_sendPlaceBlock", "nms_PlayerControllerSP_resetBlockRemoving", "nms_PlayerControllerSP_sendBlockRemoving", "nms_PlayerControllerSP_getBlockReachDistance", "nms_PlayerControllerSP_shouldDrawHUD", "nms_PlayerControllerSP_func_35642_f", "nms_PlayerControllerSP_func_717_a", "nms_PlayerControllerSP_createPlayer", "nms_PlayerControllerSP_flipPlayer", "nms_SaveFormatOld_getWorldInfo", "nms_SaveConverterMcRegion_func_22176_b",
-        "ju_AbstractMap$KeySet_iterator", "nms_GuiCreateWorld_selectNextField", "nms_EntityLiving_entityInit", "nms_EntityItem_entityInit", "nms_EntityXPOrb_entityInit", "nms_EntityPainting_entityInit", "nms_EntityArrow_entityInit", "nms_EntitySlime_entityInit", "nms_EntityBoat_entityInit", "nms_EntityMinecart_entityInit", "nms_EntityTNTPrimed_entityInit", "nms_EntitySnowball_entityInit", "nms_EntityFallingSand_entityInit", "nms_EntityGhast_entityInit", "nms_EntitySheep_entityInit", "nms_EntityWolf_entityInit",
-        "nms_EntityEnderman_entityInit", "nms_EntityPig_entityInit", "nms_EntityCreeper_entityInit", "ji_StringReader_close", "ji_StringReader_read", "nms_GuiWorldSlot_drawBackground", "nms_GuiSlotServer_drawBackground", "nms_GuiTexturePackSlot_drawBackground", "nms_GuiSlotStatsGeneral_drawBackground", "nms_GuiSlotStats_drawBackground", "nms_GuiWorldSlot_getSize", "nms_GuiTexturePackSlot_getSize", "nms_GuiSlotStatsGeneral_getSize", "nms_GuiWorldSlot_elementClicked", "nms_GuiSlotServer_elementClicked", "nms_GuiTexturePackSlot_elementClicked",
+        "ju_AbstractMap$KeySet_iterator", "nms_GuiCreateWorld_selectNextField", "nms_EntityLiving_entityInit", "nms_EntityTNTPrimed_entityInit", "nms_EntityBoat_entityInit", "nms_EntityItem_entityInit", "nms_EntityMinecart_entityInit", "nms_EntityFallingSand_entityInit", "nms_EntitySlime_entityInit", "nms_EntityArrow_entityInit", "nms_EntityXPOrb_entityInit", "nms_EntitySnowball_entityInit", "nms_EntityPainting_entityInit", "nms_EntityGhast_entityInit", "nms_EntityEnderman_entityInit", "nms_EntityPig_entityInit",
+        "nms_EntityWolf_entityInit", "nms_EntityCreeper_entityInit", "nms_EntitySheep_entityInit", "ji_StringReader_close", "ji_StringReader_read", "nms_GuiWorldSlot_drawBackground", "nms_GuiSlotServer_drawBackground", "nms_GuiTexturePackSlot_drawBackground", "nms_GuiSlotStatsGeneral_drawBackground", "nms_GuiSlotStats_drawBackground", "nms_GuiWorldSlot_getSize", "nms_GuiTexturePackSlot_getSize", "nms_GuiSlotStatsGeneral_getSize", "nms_GuiWorldSlot_elementClicked", "nms_GuiSlotServer_elementClicked", "nms_GuiTexturePackSlot_elementClicked",
         "nms_GuiSlotStatsGeneral_elementClicked", "nms_GuiSlotStats_elementClicked", "nms_GuiWorldSlot_getContentHeight", "nms_GuiSlotServer_getContentHeight", "nms_GuiTexturePackSlot_getContentHeight", "nms_GuiSlotStatsGeneral_getContentHeight", "nms_GuiSlotStatsItem_func_27260_a", "nms_GuiSlotStatsBlock_func_27260_a", "nms_GuiWorldSlot_drawSlot", "nms_GuiSlotServer_drawSlot", "nms_GuiTexturePackSlot_drawSlot", "nms_GuiSlotStatsGeneral_drawSlot", "nms_GuiSlotStatsItem_drawSlot", "nms_GuiSlotStatsBlock_drawSlot",
         "nms_GuiWorldSlot_isSelected", "nms_GuiSlotServer_isSelected", "nms_GuiTexturePackSlot_isSelected", "nms_GuiSlotStatsGeneral_isSelected", "nms_GuiSlotStats_isSelected", "nms_GuiSlotStats_func_27257_b", "nms_GuiSlotStats_func_27255_a", "nms_ItemCloth_getItemNameIS", "nms_ItemBlock_getItemNameIS", "nms_ItemSlab_getItemNameIS", "nms_ItemCoal_getItemNameIS", "nms_ItemDye_getItemNameIS", "nms_ChunkCache_getBlockMetadata", "nms_TileEntityRendererPiston_func_31069_a", "cch_BoundedProportionalArraySizingStrategy_grow",
         "jn_ByteBufferImpl_isReadOnly", "ju_HashMap$AbstractMapIterator_remove", "nms_InventoryBasic_decrStackSize", "nleib_EaglerArrayByteBuffer_put2", "nle_Filesystem$FilesystemHandleWrapper_eaglerWrite", "nms_RenderItem_doRender", "nms_RenderLiving_doRender", "nms_RenderCow_doRender", "nms_RenderWolf_doRender", "nms_RenderChicken_doRender", "nms_RenderSilverfish_doRender", "nms_RenderEnderman_doRender", "nms_RenderPlayer_doRender", "nms_RenderSquid_doRender", "nms_RenderEntity_doRender", "nms_RenderPainting_doRender",
@@ -47729,7 +47729,7 @@
         "jur_UCISequenceSet_accepts", "jur_CISequenceSet_accepts", "jur_UCISupplCharSet_accepts", "jur_SupplCharSet_accepts", "jur_EmptySet_findBack", "jur_SingleSet_findBack", "jur_CharSet_findBack", "jur_BackReferenceSet_findBack", "jur_SequenceSet_findBack", "jur_LowSurrogateCharSet_findBack", "jur_HighSurrogateCharSet_findBack", "jur_SupplCharSet_findBack", "jur_BackReferencedSingleSet_findBack", "jur_LowHighSurrogateRangeSet_matches", "jur_FSet_hasConsumed", "jur_NonCapFSet_hasConsumed", "jur_AtomicFSet_hasConsumed",
         "jur_EmptySet_hasConsumed", "jur_NonCapJointSet_hasConsumed", "jur_PositiveLookAhead_hasConsumed", "jur_NegativeLookAhead_hasConsumed", "jur_PositiveLookBehind_hasConsumed", "jur_NegativeLookBehind_hasConsumed", "jur_JointSet_hasConsumed", "jur_QuantifierSet_hasConsumed", "jur_FSet$PossessiveFSet_hasConsumed", "jur_CompositeRangeSet_hasConsumed", "jur_SupplRangeSet_hasConsumed", "jur_LeafSet_hasConsumed", "jur_HangulDecomposedCharSet_hasConsumed", "jur_DecomposedCharSet_hasConsumed", "jur_SOLSet_hasConsumed",
         "jur_WordBoundary_hasConsumed", "jur_PreviousMatch_hasConsumed", "jur_EOLSet_hasConsumed", "jur_EOISet_hasConsumed", "jur_MultiLineSOLSet_hasConsumed", "jur_DotAllSet_hasConsumed", "jur_DotSet_hasConsumed", "jur_UEOLSet_hasConsumed", "jur_UMultiLineEOLSet_hasConsumed", "jur_MultiLineEOLSet_hasConsumed", "jur_CIBackReferenceSet_hasConsumed", "jur_LowSurrogateCharSet_hasConsumed", "jur_HighSurrogateCharSet_hasConsumed", "jur_AbstractLineTerminator$1_isAfterLineTerminator", "jur_AbstractLineTerminator$2_isAfterLineTerminator",
-        "jur_AbstractLineTerminator$1_isLineTerminator", "jur_AbstractLineTerminator$2_isLineTerminator", "npji_PushbackReader_read0", "cjj_Mapping0_look", "cjj_Time0_unpack", "cjj_Floor0_unpack", "cjj_Floor1_unpack", "cjj_Residue0_unpack", "cjj_Mapping0_unpack", "nlei_AbstractWebSocketClient_getNextFrames", "nleit_TeaVMWebSocketClient_send", "nms_GuiMultiplayer_deleteWorld", "nms_SaveFormatOld_func_22170_a", "nms_GuiSelectWorld_deleteWorld", "nms_BlockFluid_func_35275_c", "nms_BlockStairs_func_35275_c", "nms_BlockGrass_getBlockTexture",
+        "jur_AbstractLineTerminator$1_isLineTerminator", "jur_AbstractLineTerminator$2_isLineTerminator", "npji_PushbackReader_read0", "cjj_Mapping0_look", "cjj_Time0_unpack", "cjj_Floor0_unpack", "cjj_Floor1_unpack", "cjj_Residue0_unpack", "cjj_Mapping0_unpack", "nlei_AbstractWebSocketClient_getNextFrames", "nleit_TeaVMWebSocketClient_send", "nms_SaveFormatOld_func_22170_a", "nms_GuiSelectWorld_deleteWorld", "nms_GuiMultiplayer_deleteWorld", "nms_BlockFluid_func_35275_c", "nms_BlockStairs_func_35275_c", "nms_BlockGrass_getBlockTexture",
         "nms_BlockDispenser_getBlockTexture", "nms_BlockChest_getBlockTexture", "nms_BlockFurnace_getBlockTexture", "nms_BlockLockedChest_getBlockTexture", "nms_BlockFluid_shouldSideBeRendered", "nms_BlockLeavesBase_shouldSideBeRendered", "nms_BlockBreakable_shouldSideBeRendered", "nms_BlockStep_shouldSideBeRendered", "nms_BlockStairs_shouldSideBeRendered", "nms_BlockSnow_shouldSideBeRendered", "nms_BlockIce_shouldSideBeRendered", "nms_BlockPortal_shouldSideBeRendered", "nms_BlockRedstoneRepeater_shouldSideBeRendered",
         "nms_BlockPane_shouldSideBeRendered", "nms_BlockFluid_getBlockBrightness", "nms_BlockStairs_getBlockBrightness", "ji_StringReader_read0", "jl_StringBuilder_indexOf0", "jl_StringBuilder_substring", "ji_StringReader_markSupported", "nleiv_VFile2_hashCode", "nleiv_VFile2_equals", "jm_BigInteger_isOne", "isOne", "jm_BigInteger_negate", "negate", "jm_Elementary_add", "jm_BitLevel_shiftLeftOneBit0", "jl_StringBuffer_append7", "nlei_IWebSocketClient_isOpen", "nms_EntityPlayer_func_35206_ab", "func_35206_ab",
         "nms_ItemStack_useItemRightClick", "useItemRightClick", "nms_EntityPlayer_attackTargetEntityWithCurrentItem", "attackTargetEntityWithCurrentItem", "nms_EntityPlayer_useCurrentItemOnEntity", "useCurrentItemOnEntity", "nms_PlayerControllerTest_func_35644_a", "func_35644_a", "nms_Block_blockActivated", "blockActivated", "nms_ItemStack_useItem", "useItem", "nms_EntityPlayerSP__init_", "nms_PlayerControllerTest_func_35646_d", "func_35646_d", "nms_SoundManager_playRandomMusicIfReady", "playRandomMusicIfReady",
@@ -47751,7 +47751,7 @@
         "doRenderFish", "nms_RenderLightningBolt_doRenderLightningBolt", "doRenderLightningBolt", "nms_RenderManager_getDistanceToCamera", "getDistanceToCamera", "nms_Render_renderShadow", "renderShadow", "nms_Render_renderEntityOnFire", "renderEntityOnFire", "ji_PrintWriter_doWrite", "doWrite", "jt_DecimalFormat_format", "jt_NumberFormat_format", "jt_DecimalFormat_format3", "jur_SequenceSet_startsWith", "jur_SequenceSet_lastIndexOf", "jl_Character_codePointAt", "jur_MatchResultImpl_getGroupNoCheck", "getGroupNoCheck",
         "jur_SequenceSet$IntHash_get", "ju_Vector_growByOne", "growByOne", "npji_FilterReader_read0", "jl_Math_rint", "rint", "cjj_StaticCodeBook_unquantize", "unquantize", "cjj_CodeBook_make_decode_tree", "make_decode_tree", "cjj_CodeBook_clear", "cjj_Mapping0$LookMapping0__init_", "cjj_FuncTime_look", "cjj_FuncFloor_look", "cjj_FuncResidue_look", "cjj_Util_ilog", "ilog", "cjj_StaticCodeBook_maptype1_quantvals", "maptype1_quantvals", "cjj_Floor0$InfoFloor0__init_", "cjj_Floor1$InfoFloor1__init_", "cjj_Floor1$InfoFloor1_free",
         "cjj_Residue0$InfoResidue0__init_", "cjj_Util_icount", "icount", "cjj_Mapping0$InfoMapping0__init_", "cjj_Mapping0$InfoMapping0_free", "oj_JSONObject_get", "oj_JSONObject_wrongValueFormatException", "wrongValueFormatException", "ju_Calendar_set0", "cjj_ZStream_getTotalIn", "cjj_Deflater_params", "params", "jm_Conversion_bigInteger2Double", "bigInteger2Double", "nleit_TeaVMWebSocketFrame__init_", "nleit_TeaVMWebSocketClient_access$000", "access$000", "jl_Character_compare", "nms_SoundManager_onSoundOptionsChanged",
-        "onSoundOptionsChanged", "nms_GuiMultiplayer_func_35323_q", "func_35323_q", "nms_ISaveFormat_flushCache", "flushCache", "nms_ISaveFormat_func_22172_c", "func_22172_c", "nms_IBlockAccess_getBlockMaterial", "nms_IBlockAccess_isBlockOpaqueCube", "nms_IBlockAccess_getBrightness", "getBrightness", "nms_IBlockAccess_getLightBrightness", "nms_DataWatcher_updateObject", "updateObject", "oj_JSONTokener_next", "oj_JSONTokener_toString", "oj_JSONTokener_nextString", "nextString", "oj_JSONObject_stringToValue",
+        "onSoundOptionsChanged", "nms_ISaveFormat_flushCache", "flushCache", "nms_ISaveFormat_func_22172_c", "func_22172_c", "nms_GuiMultiplayer_func_35323_q", "func_35323_q", "nms_IBlockAccess_getBlockMaterial", "nms_IBlockAccess_isBlockOpaqueCube", "nms_IBlockAccess_getBrightness", "getBrightness", "nms_IBlockAccess_getLightBrightness", "nms_DataWatcher_updateObject", "updateObject", "oj_JSONTokener_next", "oj_JSONTokener_toString", "oj_JSONTokener_nextString", "nextString", "oj_JSONObject_stringToValue",
         "stringToValue", "oj_JSONException__init_2", "oj_JSONArray__init_", "oj_JSONObject_remove", "oj_JSONObject_testValidity", "testValidity", "oj_JSONTokener_decrementIndexes", "decrementIndexes", "jm_Elementary_subtract", "nlei_PlatformRuntime_castNativeByteBuffer", "castNativeByteBuffer", "nleib_ByteBuffer_get2", "nlei_IEaglerFilesystem_eaglerSize", "eaglerSize", "jm_Elementary_add0", "jm_Elementary_subtract0", "nms_EntityPlayer__init_", "npem_TextureLocation_getTextureName", "getTextureName", "nms_NBTTagCompound_getLong",
         "nms_NBTTagCompound_hasKey", "hasKey", "nms_EnumWorldType_func_46135_a", "func_46135_a", "nms_GuiStats_drawSprite0", "nms_GuiStats_drawItemSprite0", "nms_J_JsonArray__init_", "nms_J_JsonObjectNodeBuilder_func_27236_a", "func_27236_a", "nms_J_JsonFieldBuilder_func_27303_b", "func_27303_b", "nms_J_JsonFieldBuilder_func_27302_c", "func_27302_c", "nms_J_JsonObject__init_", "nms_BlockFluid_getFlowVector", "getFlowVector", "nms_Block_canProvidePower", "canProvidePower", "ji_ByteArrayInputStream__init_0", "nms_Packet_getNewPacket",
         "getNewPacket", "nms_Packet_readPacketData", "readPacketData", "nms_Packet_getPacketSize", "getPacketSize", "nms_PacketCounter_addPacket", "addPacket", "nms_PacketCounter__init_", "nms_Packet_getPacketId", "getPacketId", "ji_DataOutputStream_write0", "ji_FilterOutputStream_write", "nms_Packet_writePacketData", "writePacketData", "nms_EnumOptionsMappingHelper__clinit_", "nle_KeyboardConstants_getKeyName", "nms_ISaveFormat_func_22178_a", "func_22178_a", "nms_ISaveFormat_convertMapFormat", "nms_WorldSettings__init_1",
@@ -47764,8 +47764,8 @@
         "isDecimalNotation", "jm_BigDecimal__init_6", "jm_BigInteger__init_4", "jl_Double_isInfinite", "isInfinite", "jl_Double_valueOf0", "jl_Double_isNaN", "isNaN", "jl_Float_isInfinite", "jl_Float_isNaN", "nms_InventoryCrafting__init_", "nms_InventoryCraftResult__init_", "nms_SlotCrafting__init_", "nms_InventoryPlayer_getSizeInventory", "getSizeInventory", "nms_SlotArmor__init_", "nms_ContainerPlayer_onCraftMatrixChanged", "onCraftMatrixChanged", "nms_Container_onCraftMatrixChanged", "nms_J_JsonNodeList__init_",
         "ju_TreeSet__clinit_", "nms_WorldSettings_func_35518_a", "func_35518_a", "nms_WorldSettings_func_35519_b", "func_35519_b", "nms_WorldSettings_func_35520_c", "func_35520_c", "nms_WorldSettings_getWorldType", "getWorldType", "nms_WorldInfo_getIsRaining", "getIsRaining", "nms_WorldInfo_getIsThundering", "getIsThundering", "nms_WorldProviderHell__init_", "nms_WorldProviderSurface__init_", "nms_WorldProviderSky__init_", "jt_DecimalFormat$FormatField_render", "jt_NumberFormat_getRoundingMode", "jm_BigInteger_remainder",
         "remainder", "jl_StringBuffer__init_0", "ji_Writer_write2", "ji_Writer_write3", "jm_BigDecimal__init_7", "jm_BigInteger__init_5", "jl_Double_parseDouble", "parseDouble", "nms_WorldProvider__init_", "jt_DecimalFormat$1__clinit_", "jm_BigInteger_setFromString", "setFromString", "otcit_DoubleSynthesizer_synthesizeDouble", "synthesizeDouble", "jm_Multiplication_multiplyByInt0", "jm_Elementary_inplaceAdd", "inplaceAdd", "otcit_DoubleSynthesizer__clinit_", "otcit_DoubleSynthesizer_calcDecMantissa", "calcDecMantissa",
-        "nleit_TeaVMWebSocketClient_isOpen", "nms_EntityPlayerSP_addStat", "nms_EntityPlayer_getItemIcon", "ju_AbstractMap$KeySet$1_next", "ju_AbstractMap$KeySet$1_hasNext", "ju_AbstractMap$KeySet$1_remove", "otrfm_InMemoryVirtualDirectory_isFile", "otrfm_InMemoryVirtualDirectory_createAccessor", "otrfm_InMemoryVirtualDirectory_isDirectory", "otrfm_InMemoryVirtualDirectory_createFile", "ji_ByteArrayInputStream_read", "ji_ByteArrayInputStream_read0", "ji_ByteArrayInputStream_available", "nms_J_ArrayNodeContainer_func_27290_a",
-        "nms_J_FieldNodeContainer_func_27290_a", "nms_J_ObjectNodeContainer_func_27290_a", "nms_J_FieldNodeContainer_func_27289_a", "nms_J_ObjectNodeContainer_func_27289_a", "nms_J_ArrayNodeContainer_func_27289_a", "cjj_Floor1_inverse1", "cjj_Floor0_inverse1", "cjj_Floor1_inverse2", "cjj_Floor0_inverse2", "cjj_Residue0_inverse", "cjj_Residue2_inverse", "cjj_Residue1_inverse", "ju_AbstractSequentialList_get", "oj_JSONObject$Null_toString", "nms_EntityPlayer_entityInit", "nms_ContainerPlayer_onCraftGuiClosed",
+        "nleit_TeaVMWebSocketClient_isOpen", "nms_EntityPlayerSP_addStat", "nms_EntityPlayer_getItemIcon", "ju_AbstractMap$KeySet$1_next", "ju_AbstractMap$KeySet$1_hasNext", "ju_AbstractMap$KeySet$1_remove", "otrfm_InMemoryVirtualDirectory_isFile", "otrfm_InMemoryVirtualDirectory_createAccessor", "otrfm_InMemoryVirtualDirectory_isDirectory", "otrfm_InMemoryVirtualDirectory_createFile", "ji_ByteArrayInputStream_read", "ji_ByteArrayInputStream_read0", "ji_ByteArrayInputStream_available", "nms_J_FieldNodeContainer_func_27290_a",
+        "nms_J_ObjectNodeContainer_func_27290_a", "nms_J_ArrayNodeContainer_func_27290_a", "nms_J_ArrayNodeContainer_func_27289_a", "nms_J_FieldNodeContainer_func_27289_a", "nms_J_ObjectNodeContainer_func_27289_a", "cjj_Floor1_inverse1", "cjj_Floor0_inverse1", "cjj_Floor0_inverse2", "cjj_Floor1_inverse2", "cjj_Residue1_inverse", "cjj_Residue2_inverse", "cjj_Residue0_inverse", "ju_AbstractSequentialList_get", "oj_JSONObject$Null_toString", "nms_EntityPlayer_entityInit", "nms_ContainerPlayer_onCraftGuiClosed",
         "nms_ContainerPlayer_getStackInSlot", "jm_BigDecimal_toString", "nms_InventoryCrafting_getStackInSlot", "nms_InventoryCrafting_onInventoryChanged", "nms_InventoryCrafting_getInventoryStackLimit", "nms_InventoryCrafting_setInventorySlotContents", "nms_InventoryCrafting_decrStackSize", "nms_InventoryPlayer_getStackInSlot", "nms_InventoryPlayer_onInventoryChanged", "nms_InventoryPlayer_getInventoryStackLimit", "nms_InventoryPlayer_setInventorySlotContents", "nms_InventoryPlayer_decrStackSize", "nms_WorldProviderSky_calcSunriseSunsetColors",
         "nms_WorldProviderSky_func_28112_c", "nms_WorldProviderSky_getCloudHeight", "ji_StringWriter_toString", "nms_InventoryCraftResult_getStackInSlot", "nms_InventoryCraftResult_onInventoryChanged", "nms_InventoryCraftResult_getInventoryStackLimit", "nms_InventoryCraftResult_setInventorySlotContents", "nms_InventoryCraftResult_decrStackSize", "oj_JSONObject$Null_hashCode", "oj_JSONObject$Null_equals", "nms_BlockDispenser_blockActivated", "nms_BlockNote_blockActivated", "nms_BlockBed_blockActivated", "nms_BlockPistonBase_blockActivated",
         "nms_BlockPistonMoving_blockActivated", "nms_BlockTNT_blockActivated", "nms_BlockStairs_blockActivated", "nms_BlockChest_blockActivated", "nms_BlockWorkbench_blockActivated", "nms_BlockFurnace_blockActivated", "nms_BlockDoor_blockActivated", "nms_BlockLever_blockActivated", "nms_BlockRedstoneOre_blockActivated", "nms_BlockButton_blockActivated", "nms_BlockJukeBox_blockActivated", "nms_BlockCake_blockActivated", "nms_BlockRedstoneRepeater_blockActivated", "nms_BlockTrapDoor_blockActivated", "nms_BlockFenceGate_blockActivated",
@@ -47780,11 +47780,11 @@
         "nms_Packet$_clinit_$lambda$_12_38_createPacket", "nms_Packet$_clinit_$lambda$_12_39_createPacket", "nms_Packet$_clinit_$lambda$_12_40_createPacket", "nms_Packet$_clinit_$lambda$_12_41_createPacket", "nms_Packet$_clinit_$lambda$_12_42_createPacket", "nms_Packet$_clinit_$lambda$_12_43_createPacket", "nms_Packet$_clinit_$lambda$_12_44_createPacket", "nms_Packet$_clinit_$lambda$_12_45_createPacket", "nms_Packet$_clinit_$lambda$_12_46_createPacket", "nms_Packet$_clinit_$lambda$_12_47_createPacket", "nms_Packet$_clinit_$lambda$_12_48_createPacket",
         "nms_Packet$_clinit_$lambda$_12_49_createPacket", "nms_Packet$_clinit_$lambda$_12_50_createPacket", "nms_Packet$_clinit_$lambda$_12_51_createPacket", "nms_Packet$_clinit_$lambda$_12_52_createPacket", "nms_Packet$_clinit_$lambda$_12_53_createPacket", "nms_Packet$_clinit_$lambda$_12_54_createPacket", "nms_Packet$_clinit_$lambda$_12_55_createPacket", "nms_Packet$_clinit_$lambda$_12_56_createPacket", "nms_Packet$_clinit_$lambda$_12_57_createPacket", "nms_Packet$_clinit_$lambda$_12_58_createPacket", "nms_Packet$_clinit_$lambda$_12_59_createPacket",
         "nms_Packet$_clinit_$lambda$_12_60_createPacket", "nms_Packet$_clinit_$lambda$_12_61_createPacket", "nms_Packet$_clinit_$lambda$_12_62_createPacket", "nms_Packet$_clinit_$lambda$_12_63_createPacket", "jt_DecimalFormat$TextField_render", "jt_DecimalFormat$MinusField_render", "jt_DecimalFormat$PerMillField_render", "jt_DecimalFormat$CurrencyField_render", "jt_DecimalFormat$PercentField_render", "ji_StringWriter_write", "ji_StringWriter_write0", "ji_StringWriter_write1", "jm_BigDecimal_hashCode", "jm_BigInteger_hashCode",
-        "jl_Boolean_equals", "jm_BigDecimal_equals", "jl_Double_equals", "jl_Boolean_compareTo", "nms_SaveFormatComparator_compareTo", "jm_BigDecimal_compareTo0", "jm_BigInteger_compareTo0", "jl_Double_compareTo", "nms_SlotCrafting_isItemValid", "nms_SlotArmor_isItemValid", "nms_SlotArmor_getSlotStackLimit", "nms_SlotCrafting_onPickupFromSlot", "oj_JSONObject_toString", "oj_JSONArray_toString", "nms_StatBase_isAchievement", "isAchievement", "nms_GuiAchievement_queueTakenAchievement", "queueTakenAchievement",
+        "jm_BigDecimal_equals", "jl_Double_equals", "jl_Boolean_equals", "jm_BigDecimal_compareTo0", "jl_Double_compareTo", "nms_SaveFormatComparator_compareTo", "jl_Boolean_compareTo", "jm_BigInteger_compareTo0", "nms_SlotCrafting_isItemValid", "nms_SlotArmor_isItemValid", "nms_SlotArmor_getSlotStackLimit", "nms_SlotCrafting_onPickupFromSlot", "oj_JSONObject_toString", "oj_JSONArray_toString", "nms_StatBase_isAchievement", "isAchievement", "nms_GuiAchievement_queueTakenAchievement", "queueTakenAchievement",
         "nms_EntityPlayer_dropPlayerItemWithRandomChoice", "dropPlayerItemWithRandomChoice", "nms_EntityPlayer_func_35207_ac", "func_35207_ac", "nms_ItemStack_func_35862_a", "func_35862_a", "nms_EntityPlayer_func_35202_aE", "func_35202_aE", "nms_InventoryPlayer_getDamageVsEntity", "nms_EntityLiving_isOnLadder", "isOnLadder", "nms_Entity_isInWater", "isInWater", "nms_DamageSource_func_35527_a", "func_35527_a", "nms_EntityPlayer_getCurrentEquippedItem", "getCurrentEquippedItem", "nms_Entity_func_35117_Q", "func_35117_Q",
         "nms_Entity_addVelocity", "addVelocity", "nms_Entity_func_35113_c", "func_35113_c", "nms_EntityPlayer_func_35200_b", "func_35200_b", "nms_ItemStack_hitEntity", "hitEntity", "nms_ItemStack_onItemDestroyedByUse", "onItemDestroyedByUse", "nms_EntityPlayer_destroyCurrentEquippedItem", "destroyCurrentEquippedItem", "nms_EntityPlayer_func_35198_d", "func_35198_d", "nms_Entity_isEntityAlive", "isEntityAlive", "nms_EntityPlayer_alertWolves", "alertWolves", "nms_Entity_interact", "interact", "nms_ItemStack_useItemOnEntity",
         "useItemOnEntity", "nms_EntityLiving_func_35166_t_", "func_35166_t_", "nms_EntityPlayer_func_35195_X", "func_35195_X", "nms_EntityPlayer_func_35192_aa", "func_35192_aa", "nms_Entity_getEyeHeight", "getEyeHeight", "nms_InventoryPlayer_getTotalArmorValue", "getTotalArmorValue", "dce_SingleplayerCommands_showDummyChat", "showDummyChat", "nmc_Minecraft_respawn", "respawn", "otrfm_AbstractInMemoryVirtualFile_canWrite", "canWrite", "otrfm_InMemoryVirtualFile__init_", "otrfm_InMemoryVirtualDirectory_adoptFile",
-        "adoptFile", "otrfm_AbstractInMemoryVirtualFile_listFiles", "otrfm_AbstractInMemoryVirtualFile_modify", "modify", "nms_J_JsonArrayNodeBuilder_withElement", "withElement", "nms_J_JsonFieldBuilder_func_27300_b", "func_27300_b", "nms_J_JsonObjectNodeBuilder_func_27237_a", "func_27237_a", "cjj_CodeBook_decode", "cjj_Floor1_render_point", "render_point", "cjj_CodeBook_decodev_set", "decodev_set", "cjj_Floor1_render_line", "render_line", "cjj_Lsp_lsp_to_curve", "lsp_to_curve", "cjj_Residue0__01inverse", "_01inverse",
+        "adoptFile", "otrfm_AbstractInMemoryVirtualFile_listFiles", "otrfm_AbstractInMemoryVirtualFile_modify", "modify", "nms_J_JsonFieldBuilder_func_27300_b", "func_27300_b", "nms_J_JsonArrayNodeBuilder_withElement", "withElement", "nms_J_JsonObjectNodeBuilder_func_27237_a", "func_27237_a", "cjj_CodeBook_decode", "cjj_Floor1_render_point", "render_point", "cjj_CodeBook_decodev_set", "decodev_set", "cjj_Lsp_lsp_to_curve", "lsp_to_curve", "cjj_Floor1_render_line", "render_line", "cjj_Residue0__01inverse", "_01inverse",
         "cjj_Residue0__2inverse", "_2inverse", "nms_J_JsonNodeSelectors_func_27349_a", "func_27349_a", "nms_J_JsonNode_wrapExceptionsFor", "wrapExceptionsFor", "nms_J_JsonNodeSelectors_func_27346_b", "func_27346_b", "nms_InventoryPlayer_getInventorySlotContainItem", "getInventorySlotContainItem", "nms_EntityPlayer_onItemStackChanged", "onItemStackChanged", "nms_InventoryPlayer_storePartialItemStack", "storePartialItemStack", "nms_InventoryPlayer_getFirstEmptyStack", "getFirstEmptyStack", "nms_Container_func_28125_a",
         "func_28125_a", "nms_Entity_isInRangeToRenderDist", "isInRangeToRenderDist", "jm_Conversion_toDecimalScaledString0", "nms_InventoryCrafting_getSizeInventory", "nms_WorldInfo_getWorldType", "nms_WorldProvider_registerWorldChunkManager", "registerWorldChunkManager", "nms_WorldProvider_generateLightBrightnessTable", "generateLightBrightnessTable", "nms_NBTTagCompound_getByte", "getByte", "nms_EntityPlayer_displayGUIDispenser", "displayGUIDispenser", "nms_TileEntityNote_changePitch", "changePitch", "nms_TileEntityNote_triggerNote",
         "triggerNote", "nms_WorldProvider_canRespawnHere", "canRespawnHere", "nms_BlockBed_isBedOccupied", "isBedOccupied", "nms_World_newExplosion", "newExplosion", "nms_EntityPlayer_sleepInBedAt", "sleepInBedAt", "nms_BlockBed_setBedOccupied", "setBedOccupied", "nms_EntityPlayer_addChatMessage", "nms_InventoryLargeChest__init_", "nms_EntityPlayer_displayGUIChest", "displayGUIChest", "nms_EntityPlayer_displayWorkbenchGUI", "displayWorkbenchGUI", "nms_EntityPlayer_displayGUIFurnace", "displayGUIFurnace", "nms_World_playAuxSFXAtEntity",
@@ -47808,7 +47808,7 @@
         "nms_Packet38EntityStatus__init_", "nms_Packet39AttachEntity__init_", "nms_Packet40EntityMetadata__init_", "nms_Packet41EntityEffect__init_", "nms_Packet42RemoveEntityEffect__init_", "nms_Packet43Experience__init_", "nms_Packet50PreChunk__init_", "nms_Packet51MapChunk__init_", "nms_Packet52MultiBlockChange__init_", "nms_Packet53BlockChange__init_", "nms_Packet54PlayNoteBlock__init_", "nms_Packet60Explosion__init_", "nms_Packet61DoorChange__init_", "nms_Packet70Bed__init_", "nms_Packet71Weather__init_",
         "nms_Packet100OpenWindow__init_", "nms_Packet101CloseWindow__init_", "nms_Packet102WindowClick__init_", "nms_Packet103SetSlot__init_", "nms_Packet104WindowItems__init_", "nms_Packet105UpdateProgressbar__init_", "nms_Packet106Transaction__init_", "nms_Packet107CreativeSetSlot__init_", "nms_Packet130UpdateSign__init_", "nms_Packet131MapData__init_", "nms_Packet200Statistic__init_", "nms_Packet201PlayerInfo__init_", "nms_Packet254ServerPing__init_", "nms_Packet255KickDisconnect__init_", "nms_ISaveHandler_getChunkLoader",
         "getChunkLoader", "nms_WorldProvider_getChunkProvider", "nms_ChunkProvider__init_", "nms_WorldChunkManager_func_35559_a", "func_35559_a", "nms_WorldChunkManager_func_35556_a", "func_35556_a", "nms_WorldProvider_func_46066_g", "func_46066_g", "nms_WorldInfo_setSpawn", "setSpawn", "nms_WorldProvider_canCoordinateBeSpawn", "canCoordinateBeSpawn", "nms_CraftingManager_findMatchingRecipe", "findMatchingRecipe", "jt_DecimalFormatSymbols_getPerMill", "getPerMill", "jt_NumberFormat_getCurrency", "getCurrency",
-        "jt_DecimalFormatSymbols_getLocale", "getLocale", "ju_Currency_getSymbol", "getSymbol", "jt_DecimalFormatSymbols_getPercent", "getPercent", "jl_Double_equals0", "jl_Boolean_compareTo0", "nms_SaveFormatComparator_func_22160_a", "func_22160_a", "jl_Double_compareTo0", "nms_ItemStack_onCrafting", "onCrafting", "nms_Item_hasContainerItem", "hasContainerItem", "nms_Item_getContainerItem", "getContainerItem", "nms_IInventory_getSizeInventory", "oj_JSONObject_toString0", "oj_JSONArray_toString0", "nms_EntityLiving_func_35167_b",
+        "jt_DecimalFormatSymbols_getLocale", "getLocale", "ju_Currency_getSymbol", "getSymbol", "jt_DecimalFormatSymbols_getPercent", "getPercent", "jl_Double_equals0", "jl_Double_compareTo0", "nms_SaveFormatComparator_func_22160_a", "func_22160_a", "jl_Boolean_compareTo0", "nms_ItemStack_onCrafting", "onCrafting", "nms_Item_hasContainerItem", "hasContainerItem", "nms_Item_getContainerItem", "getContainerItem", "nms_IInventory_getSizeInventory", "oj_JSONObject_toString0", "oj_JSONArray_toString0", "nms_EntityLiving_func_35167_b",
         "func_35167_b", "nms_PotionEffect_func_35801_c", "func_35801_c", "nms_EntityDamageSource__init_", "otrfm_AbstractInMemoryVirtualFile_getName", "cjj_Lookup_coslook", "coslook", "cjj_Lookup_invsqlook", "invsqlook", "cjj_Lookup_invsq2explook", "invsq2explook", "cjj_Lookup_fromdBlook", "fromdBlook", "cjj_CodeBook_decodevs_add", "decodevs_add", "cjj_CodeBook_decodev_add", "decodev_add", "cjj_CodeBook_decodevv_add", "decodevv_add", "nms_J_JsonStringNodeSelector__init_", "nms_J_JsonNodeSelector__init_", "nms_J_JsonNodeSelectors_func_27352_a",
         "func_27352_a", "nms_J_JsonNodeSelector_getValue", "nms_J_JsonNodeFactories_func_27315_a", "func_27315_a", "nms_J_JsonNodeDoesNotMatchPathElementsException_func_27319_a", "func_27319_a", "nms_J_JsonArrayNodeSelector__init_", "nms_InventoryPlayer_storeItemStack", "storeItemStack", "nms_EnumStatus__clinit_", "nms_EntityPlayer_func_35197_b", "func_35197_b", "nms_FoodStats_func_35771_a", "func_35771_a", "nms_World_markBlockAsNeedsUpdate", "markBlockAsNeedsUpdate", "nms_EnumSkyBlock__clinit_", "nms_SaveHandler__init_",
         "nms_IChunkProvider_chunkExists", "nms_Block_onNeighborBlockChange", "onNeighborBlockChange", "nms_NextTickListEntry__clinit_", "nms_SpawnerAnimals__clinit_", "nms_Pathfinder__init_", "nms_SpawnerAnimals_canCreatureTypeSpawnAtLocation", "canCreatureTypeSpawnAtLocation", "nms_EntityLiving_getCanSpawnHere", "getCanSpawnHere", "nms_Pathfinder_createEntityPathTo", "createEntityPathTo", "nms_PathEntity_getPathEnd", "getPathEnd", "nms_BlockBed_getNearestEmptyChunkCoordinates", "getNearestEmptyChunkCoordinates",
@@ -47822,502 +47822,502 @@
         "func_27348_a", "nms_J_CompactJsonFormatter__init_", "nms_J_JsonNodeDoesNotMatchPathElementsException_func_27318_b", "func_27318_b", "nms_J_JsonNodeDoesNotMatchJsonNodeSelectorException__init_", "jul_Logger_getLogger", "nms_EnumCreatureType__init_", "nms_EnumCreatureType_$values", "cjj_Drft__clinit_", "nms_RegionFile_debugln", "debugln", "nlesse_RandomAccessMemoryFile__init_", "nlesse_RandomAccessMemoryFile_getLength", "nleiv_VFile2_setAllBytes", "setAllBytes", "nlesse_RandomAccessMemoryFile_writeInt",
         "nlesse_RandomAccessMemoryFile_write", "ju_AbstractList_set", "nlesse_RandomAccessMemoryFile_seek", "nlesse_RandomAccessMemoryFile_readInt", "nms_RegionFile__clinit_", "jlr_Reference__init_", "nms_Chunk__init_0", "nms_NibbleArray__init_", "nms_J_JsonElementNodeSelector__init_", "nms_J_JsonObjectNodeSelector__init_", "nms_J_JsonNodeFactories_func_27316_a", "func_27316_a", "nms_J_JsonNodeSelectors_func_27350_a", "func_27350_a", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_func_27324_a",
         "func_27324_a", "nms_J_JsonNodeDoesNotMatchPathElementsException_func_27317_a", "func_27317_a", "nms_J_JsonFormatter_format", "jul_Logger__clinit_", "jul_Logger__init_", "nms_RegionFile_debug", "debug", "nms_J_JsonStringNode__init_", "nms_J_JsonFieldNodeSelector__init_", "nms_J_JsonNodeSelector_shortForm", "shortForm", "nms_EntityPlayer_fall", "nms_ItemFishingRod_shouldRotateAroundWhenRendering", "jl_StringBuffer_insert5", "nlei_PlatformAudio$BrowserAudioHandle_shouldFree", "nms_TexturePackDefault_bindThumbnailTexture",
-        "nms_TexturePackCustom_bindThumbnailTexture", "nms_SorterStatsBlock_compare", "nms_SorterStatsItem_compare", "nms_SaveHandler_func_28113_a", "nms_SaveOldDir_getChunkLoader", "nms_SaveOldDir_saveWorldInfoAndPlayer", "nms_SaveHandler_loadWorldInfo", "nms_MaterialLogic_isSolid", "nms_MaterialPortal_isSolid", "nms_MaterialLiquid_isSolid", "nms_MaterialTransparent_isSolid", "nms_Packet0KeepAlive_readPacketData", "nms_Packet0KeepAlive_getPacketSize", "nms_Packet1Login_readPacketData", "nms_Packet1Login_getPacketSize",
+        "nms_TexturePackCustom_bindThumbnailTexture", "nms_SorterStatsItem_compare", "nms_SorterStatsBlock_compare", "nms_SaveHandler_func_28113_a", "nms_SaveOldDir_getChunkLoader", "nms_SaveOldDir_saveWorldInfoAndPlayer", "nms_SaveHandler_loadWorldInfo", "nms_MaterialPortal_isSolid", "nms_MaterialLogic_isSolid", "nms_MaterialTransparent_isSolid", "nms_MaterialLiquid_isSolid", "nms_Packet0KeepAlive_readPacketData", "nms_Packet0KeepAlive_getPacketSize", "nms_Packet1Login_readPacketData", "nms_Packet1Login_getPacketSize",
         "nms_Packet2Handshake_readPacketData", "nms_Packet2Handshake_getPacketSize", "nms_Packet3Chat_readPacketData", "nms_Packet3Chat_getPacketSize", "nms_Packet4UpdateTime_readPacketData", "nms_Packet4UpdateTime_getPacketSize", "nms_Packet5PlayerInventory_readPacketData", "nms_Packet5PlayerInventory_getPacketSize", "nms_Packet6SpawnPosition_readPacketData", "nms_Packet6SpawnPosition_getPacketSize", "nms_Packet7UseEntity_readPacketData", "nms_Packet7UseEntity_getPacketSize", "nms_Packet8UpdateHealth_readPacketData",
         "nms_Packet8UpdateHealth_getPacketSize", "nms_Packet9Respawn_readPacketData", "nms_Packet9Respawn_getPacketSize", "nms_Packet10Flying_readPacketData", "nms_Packet10Flying_getPacketSize", "nms_Packet11PlayerPosition_readPacketData", "nms_Packet11PlayerPosition_getPacketSize", "nms_Packet12PlayerLook_readPacketData", "nms_Packet12PlayerLook_getPacketSize", "nms_Packet13PlayerLookMove_readPacketData", "nms_Packet13PlayerLookMove_getPacketSize", "nms_Packet14BlockDig_readPacketData", "nms_Packet14BlockDig_getPacketSize",
         "nms_Packet15Place_readPacketData", "nms_Packet15Place_getPacketSize", "nms_Packet16BlockItemSwitch_readPacketData", "nms_Packet16BlockItemSwitch_getPacketSize", "nms_Packet17Sleep_readPacketData", "nms_Packet17Sleep_getPacketSize", "nms_Packet18Animation_readPacketData", "nms_Packet18Animation_getPacketSize", "nms_Packet19EntityAction_readPacketData", "nms_Packet19EntityAction_getPacketSize", "nms_ChunkProvider_loadChunk", "nms_ChunkProvider_provideChunk", "nms_ChunkProvider_unload100OldestChunks",
-        "nms_ChunkProvider_canSave", "nms_ChunkProvider_saveChunks", "nms_ChunkProvider_makeString", "nms_ChunkProvider_chunkExists", "ju_HashSet_clear", "nms_SpawnerAnimals$_clinit_$lambda$_7_0_createEntity", "nms_SpawnerAnimals$_clinit_$lambda$_7_2_createEntity", "nms_SpawnerAnimals$_clinit_$lambda$_7_1_createEntity", "nms_Packet24MobSpawn_readPacketData", "nms_Packet70Bed_readPacketData", "nms_Packet105UpdateProgressbar_readPacketData", "nms_Packet25EntityPainting_readPacketData", "nms_Packet23VehicleSpawn_readPacketData",
-        "nms_Packet29DestroyEntity_readPacketData", "nms_Packet52MultiBlockChange_readPacketData", "nms_Packet33RelEntityMoveLook_readPacketData", "nms_Packet106Transaction_readPacketData", "nms_Packet32EntityLook_readPacketData", "nms_Packet20NamedEntitySpawn_readPacketData", "nms_Packet100OpenWindow_readPacketData", "nms_Packet43Experience_readPacketData", "nms_Packet71Weather_readPacketData", "nms_Packet51MapChunk_readPacketData", "nms_Packet53BlockChange_readPacketData", "nms_Packet21PickupSpawn_readPacketData",
-        "nms_Packet200Statistic_readPacketData", "nms_Packet50PreChunk_readPacketData", "nms_Packet34EntityTeleport_readPacketData", "nms_Packet107CreativeSetSlot_readPacketData", "nms_Packet30Entity_readPacketData", "nms_Packet39AttachEntity_readPacketData", "nms_Packet54PlayNoteBlock_readPacketData", "nms_Packet60Explosion_readPacketData", "nms_Packet26EntityExpOrb_readPacketData", "nms_Packet254ServerPing_readPacketData", "nms_Packet42RemoveEntityEffect_readPacketData", "nms_Packet130UpdateSign_readPacketData",
-        "nms_Packet101CloseWindow_readPacketData", "nms_Packet61DoorChange_readPacketData", "nms_Packet201PlayerInfo_readPacketData", "nms_Packet131MapData_readPacketData", "nms_Packet41EntityEffect_readPacketData", "nms_Packet27Position_readPacketData", "nms_Packet102WindowClick_readPacketData", "nms_Packet28EntityVelocity_readPacketData", "nms_Packet31RelEntityMove_readPacketData", "nms_Packet255KickDisconnect_readPacketData", "nms_Packet22Collect_readPacketData", "nms_Packet40EntityMetadata_readPacketData",
-        "nms_Packet38EntityStatus_readPacketData", "nms_Packet103SetSlot_readPacketData", "nms_Packet104WindowItems_readPacketData", "nms_Packet24MobSpawn_getPacketSize", "nms_Packet70Bed_getPacketSize", "nms_Packet105UpdateProgressbar_getPacketSize", "nms_Packet25EntityPainting_getPacketSize", "nms_Packet23VehicleSpawn_getPacketSize", "nms_Packet29DestroyEntity_getPacketSize", "nms_Packet52MultiBlockChange_getPacketSize", "nms_Packet33RelEntityMoveLook_getPacketSize", "nms_Packet106Transaction_getPacketSize",
-        "nms_Packet32EntityLook_getPacketSize", "nms_Packet20NamedEntitySpawn_getPacketSize", "nms_Packet100OpenWindow_getPacketSize", "nms_Packet43Experience_getPacketSize", "nms_Packet71Weather_getPacketSize", "nms_Packet51MapChunk_getPacketSize", "nms_Packet53BlockChange_getPacketSize", "nms_Packet21PickupSpawn_getPacketSize", "nms_Packet200Statistic_getPacketSize", "nms_Packet50PreChunk_getPacketSize", "nms_Packet34EntityTeleport_getPacketSize", "nms_Packet107CreativeSetSlot_getPacketSize", "nms_Packet30Entity_getPacketSize",
-        "nms_Packet39AttachEntity_getPacketSize", "nms_Packet54PlayNoteBlock_getPacketSize", "nms_Packet60Explosion_getPacketSize", "nms_Packet26EntityExpOrb_getPacketSize", "nms_Packet254ServerPing_getPacketSize", "nms_Packet42RemoveEntityEffect_getPacketSize", "nms_Packet130UpdateSign_getPacketSize", "nms_Packet101CloseWindow_getPacketSize", "nms_Packet61DoorChange_getPacketSize", "nms_Packet201PlayerInfo_getPacketSize", "nms_Packet131MapData_getPacketSize", "nms_Packet41EntityEffect_getPacketSize", "nms_Packet27Position_getPacketSize",
-        "nms_Packet102WindowClick_getPacketSize", "nms_Packet28EntityVelocity_getPacketSize", "nms_Packet31RelEntityMove_getPacketSize", "nms_Packet255KickDisconnect_getPacketSize", "nms_Packet22Collect_getPacketSize", "nms_Packet40EntityMetadata_getPacketSize", "nms_Packet38EntityStatus_getPacketSize", "nms_Packet103SetSlot_getPacketSize", "nms_Packet104WindowItems_getPacketSize", "nms_J_JsonArray_hashCode", "nms_J_JsonObject_hashCode", "nms_J_JsonArray_equals", "nms_J_JsonObject_equals", "nms_ChunkCoordIntPair_hashCode",
-        "nms_ChunkCoordIntPair_equals", "nms_Packet14BlockDig_processPacket", "nms_Packet10Flying_processPacket", "nms_Packet4UpdateTime_processPacket", "nms_Packet9Respawn_processPacket", "nms_Packet1Login_processPacket", "nms_Packet19EntityAction_processPacket", "nms_Packet18Animation_processPacket", "nms_Packet16BlockItemSwitch_processPacket", "nms_Packet3Chat_processPacket", "nms_Packet7UseEntity_processPacket", "nms_Packet0KeepAlive_processPacket", "nms_Packet5PlayerInventory_processPacket", "nms_Packet17Sleep_processPacket",
-        "nms_Packet2Handshake_processPacket", "nms_Packet15Place_processPacket", "nms_Packet6SpawnPosition_processPacket", "nms_Packet8UpdateHealth_processPacket", "nms_J_JsonArray_toString", "nms_J_JsonObject_toString", "nms_Packet25EntityPainting_processPacket", "nms_Packet106Transaction_processPacket", "nms_Packet107CreativeSetSlot_processPacket", "nms_Packet54PlayNoteBlock_processPacket", "nms_Packet22Collect_processPacket", "nms_Packet50PreChunk_processPacket", "nms_Packet102WindowClick_processPacket",
-        "nms_Packet30Entity_processPacket", "nms_Packet42RemoveEntityEffect_processPacket", "nms_Packet52MultiBlockChange_processPacket", "nms_Packet130UpdateSign_processPacket", "nms_Packet41EntityEffect_processPacket", "nms_Packet23VehicleSpawn_processPacket", "nms_Packet103SetSlot_processPacket", "nms_Packet40EntityMetadata_processPacket", "nms_Packet101CloseWindow_processPacket", "nms_Packet51MapChunk_processPacket", "nms_Packet29DestroyEntity_processPacket", "nms_Packet24MobSpawn_processPacket", "nms_Packet27Position_processPacket",
-        "nms_Packet255KickDisconnect_processPacket", "nms_Packet53BlockChange_processPacket", "nms_Packet71Weather_processPacket", "nms_Packet200Statistic_processPacket", "nms_Packet61DoorChange_processPacket", "nms_Packet21PickupSpawn_processPacket", "nms_Packet131MapData_processPacket", "nms_Packet43Experience_processPacket", "nms_Packet26EntityExpOrb_processPacket", "nms_Packet100OpenWindow_processPacket", "nms_Packet105UpdateProgressbar_processPacket", "nms_Packet28EntityVelocity_processPacket", "nms_Packet39AttachEntity_processPacket",
-        "nms_Packet201PlayerInfo_processPacket", "nms_Packet34EntityTeleport_processPacket", "nms_Packet70Bed_processPacket", "nms_Packet254ServerPing_processPacket", "nms_Packet38EntityStatus_processPacket", "nms_Packet60Explosion_processPacket", "nms_Packet20NamedEntitySpawn_processPacket", "nms_Packet104WindowItems_processPacket", "nms_Achievement_isAchievement", "nms_EntityPlayerSP_func_35113_c", "nms_EntityPlayerSP_func_35200_b", "nms_EntityPlayer_getEyeHeight", "otrfm_InMemoryVirtualDirectory_listFiles",
-        "ju_LinkedHashMap_remove", "nms_WorldProviderHell_registerWorldChunkManager", "nms_WorldProviderSky_registerWorldChunkManager", "nms_WorldProviderHell_generateLightBrightnessTable", "nms_EntityPlayerSP_displayGUIDispenser", "nms_WorldProviderHell_canRespawnHere", "nms_EntityPlayerSP_addChatMessage", "nms_EntityPlayerSP_displayGUIChest", "nms_EntityPlayerSP_displayWorkbenchGUI", "nms_EntityPlayerSP_displayGUIFurnace", "nms_BlockLog_harvestBlock", "nms_BlockLeaves_harvestBlock", "nms_BlockTallGrass_harvestBlock",
-        "nms_BlockSnow_harvestBlock", "nms_BlockIce_harvestBlock", "nms_BlockSilverfish_harvestBlock", "nms_BlockVine_harvestBlock", "nms_StatTypeSimple_format", "nms_StatTypeTime_format", "nms_StatTypeDistance_format", "nms_TileEntitySignRenderer_renderTileEntityAt", "nms_TileEntityMobSpawnerRenderer_renderTileEntityAt", "nms_TileEntityRendererPiston_renderTileEntityAt", "nms_TileEntityChestRenderer_renderTileEntityAt", "nms_BlockPistonBase_getCollidingBoundingBoxes", "nms_BlockPistonExtension_getCollidingBoundingBoxes",
-        "nms_BlockStairs_getCollidingBoundingBoxes", "nms_BlockPane_getCollidingBoundingBoxes", "nms_BlockGrass_updateTick", "nms_BlockSapling_updateTick", "nms_BlockFlowing_updateTick", "nms_BlockStationary_updateTick", "nms_BlockSand_updateTick", "nms_BlockLeaves_updateTick", "nms_BlockDispenser_updateTick", "nms_BlockDetectorRail_updateTick", "nms_BlockFlower_updateTick", "nms_BlockMushroom_updateTick", "nms_BlockTorch_updateTick", "nms_BlockFire_updateTick", "nms_BlockStairs_updateTick", "nms_BlockCrops_updateTick",
-        "nms_BlockFarmland_updateTick", "nms_BlockPressurePlate_updateTick", "nms_BlockRedstoneOre_updateTick", "nms_BlockRedstoneTorch_updateTick", "nms_BlockButton_updateTick", "nms_BlockSnow_updateTick", "nms_BlockIce_updateTick", "nms_BlockSnowBlock_updateTick", "nms_BlockCactus_updateTick", "nms_BlockReed_updateTick", "nms_BlockRedstoneRepeater_updateTick", "nms_BlockLockedChest_updateTick", "nms_BlockStem_updateTick", "nms_BlockVine_updateTick", "nms_WorldProviderHell_calculateCelestialAngle", "nms_WorldProviderSky_calculateCelestialAngle",
-        "nms_BlockFluid_randomDisplayTick", "nms_BlockTorch_randomDisplayTick", "nms_BlockFire_randomDisplayTick", "nms_BlockStairs_randomDisplayTick", "nms_BlockRedstoneWire_randomDisplayTick", "nms_BlockFurnace_randomDisplayTick", "nms_BlockRedstoneOre_randomDisplayTick", "nms_BlockRedstoneTorch_randomDisplayTick", "nms_BlockPortal_randomDisplayTick", "nms_BlockRedstoneRepeater_randomDisplayTick", "nms_WorldProviderHell_func_4096_a", "nms_WorldProviderSky_func_4096_a", "nms_RenderPlayer_renderLivingAt", "nms_RenderWolf_handleRotationFloat",
-        "nms_RenderChicken_handleRotationFloat", "nms_RenderSquid_handleRotationFloat", "nms_RenderPlayer_rotateCorpse", "nms_RenderSquid_rotateCorpse", "nms_RenderSpider_preRenderCallback", "nms_RenderWolf_preRenderCallback", "nms_RenderCreeper_preRenderCallback", "nms_RenderSlime_preRenderCallback", "nms_RenderPlayer_preRenderCallback", "nms_RenderGiantZombie_preRenderCallback", "nms_RenderGhast_preRenderCallback", "nms_RenderSquid_preRenderCallback", "nms_ModelWolf_setLivingAnimations", "nms_ModelPig_render",
-        "nms_ModelQuadruped_render", "nms_ModelCow_render", "nms_ModelWolf_render", "nms_ModelChicken_render", "nms_ModelSlime_render", "nms_ModelSquid_render", "nms_ModelSpider_render", "nms_ModelSilverfish_render", "nms_ModelCreeper_render", "nms_ModelGhast_render", "nms_RenderEnderman_renderEquippedItems", "nms_RenderBiped_renderEquippedItems", "nms_RenderPlayer_renderEquippedItems", "nms_RenderCreeper_getColorMultiplier", "nms_RenderSpider_shouldRenderPass", "nms_RenderPig_shouldRenderPass", "nms_RenderSheep_shouldRenderPass",
-        "nms_RenderSilverfish_shouldRenderPass", "nms_RenderCreeper_shouldRenderPass", "nms_RenderEnderman_shouldRenderPass", "nms_RenderSlime_shouldRenderPass", "nms_RenderPlayer_shouldRenderPass", "nms_RenderCreeper_inheritRenderPass", "nms_RenderPlayer_passSpecialRender", "nms_EntityPlayerSP_isSneaking", "nms_ModelMinecart_render", "nms_ModelBoat_render", "nlei_PlatformAudio$BrowserAudioHandle_end", "nlei_PlatformAudio$BrowserAudioHandle_gain", "jl_Byte_equals", "ji_BufferedReader_read", "nlei_RamdiskFilesystemImpl_eaglerSize",
-        "nleit_IndexedDBFilesystem_eaglerSize", "nms_BlockTNT_onBlockDestroyedByPlayer", "nms_BlockStairs_onBlockDestroyedByPlayer", "nms_BlockSilverfish_onBlockDestroyedByPlayer", "nms_SaveHandler_saveWorldInfo", "nleit_TeaVMWebSocketFrame_isString", "nleit_TeaVMWebSocketFrame_getByteArray", "nms_WorldProviderHell_getChunkProvider", "nms_WorldProviderSky_getChunkProvider", "nms_WorldProviderHell_canCoordinateBeSpawn", "nms_WorldProviderSky_canCoordinateBeSpawn", "nms_EnumStatus_values", "nms_EnumSkyBlock_values",
-        "nms_BlockFlower_onNeighborBlockChange", "nms_BlockFluid_onNeighborBlockChange", "nms_BlockStationary_onNeighborBlockChange", "nms_BlockSand_onNeighborBlockChange", "nms_BlockDispenser_onNeighborBlockChange", "nms_BlockNote_onNeighborBlockChange", "nms_BlockBed_onNeighborBlockChange", "nms_BlockRail_onNeighborBlockChange", "nms_BlockPistonBase_onNeighborBlockChange", "nms_BlockPistonExtension_onNeighborBlockChange", "nms_BlockPistonMoving_onNeighborBlockChange", "nms_BlockTNT_onNeighborBlockChange",
-        "nms_BlockTorch_onNeighborBlockChange", "nms_BlockFire_onNeighborBlockChange", "nms_BlockChest_onNeighborBlockChange", "nms_BlockRedstoneWire_onNeighborBlockChange", "nms_BlockFarmland_onNeighborBlockChange", "nms_BlockSign_onNeighborBlockChange", "nms_BlockDoor_onNeighborBlockChange", "nms_BlockLadder_onNeighborBlockChange", "nms_BlockLever_onNeighborBlockChange", "nms_BlockPressurePlate_onNeighborBlockChange", "nms_BlockRedstoneTorch_onNeighborBlockChange", "nms_BlockButton_onNeighborBlockChange",
-        "nms_BlockSnow_onNeighborBlockChange", "nms_BlockCactus_onNeighborBlockChange", "nms_BlockReed_onNeighborBlockChange", "nms_BlockPortal_onNeighborBlockChange", "nms_BlockCake_onNeighborBlockChange", "nms_BlockRedstoneRepeater_onNeighborBlockChange", "nms_BlockTrapDoor_onNeighborBlockChange", "nms_BlockVine_onNeighborBlockChange", "nms_BiomeGenForest$_init_$lambda$_0_0_createEntity", "nms_BiomeGenTaiga$_init_$lambda$_0_0_createEntity", "nms_BiomeGenHell$_init_$lambda$_0_0_createEntity", "nms_BiomeGenHell$_init_$lambda$_0_1_createEntity",
-        "nms_BiomeGenSky$_init_$lambda$_0_0_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_0_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_1_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_2_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_3_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_4_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_5_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_6_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_7_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_8_createEntity",
-        "nms_BiomeGenBase$_init_$lambda$_0_9_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_10_createEntity", "nms_EnumArt_values", "nms_EntityLiving_fall", "nms_J_CompactJsonFormatter_format", "nleit_TeaVMWebSocketFrame_getString", "nms_NextTickListEntry_hashCode", "nms_NextTickListEntry_equals", "otrfm_InMemoryVirtualFile_isFile", "otrfm_InMemoryVirtualFile_createAccessor", "otrfm_InMemoryVirtualFile_isDirectory", "otrfm_InMemoryVirtualFile_createFile", "otrfm_InMemoryVirtualFile_listFiles", "otrfm_InMemoryVirtualFile_getChildFile",
-        "jlr_SoftReference_get", "nms_NextTickListEntry_compareTo", "nms_ChunkFile_compareTo", "nms_EntityBoat_getBoundingBox", "nms_EntityMinecart_getBoundingBox", "nms_RenderGlobal_playSound", "nms_RenderGlobal_spawnParticle", "nms_RenderGlobal_markBlockRangeNeedsUpdate", "nms_EntityCreeper_onUpdate", "nms_EntityLiving_onUpdate", "nms_EntitySlime_onUpdate", "nms_EntitySnowball_onUpdate", "nms_EntityFallingSand_onUpdate", "nms_EntityMob_onUpdate", "nms_EntityWolf_onUpdate", "nms_EntityGhast_onUpdate", "nms_EntityBoat_onUpdate",
-        "nms_EntityPigZombie_onUpdate", "nms_EntityPlayer_onUpdate", "nms_EntityItem_onUpdate", "nms_EntityMinecart_onUpdate", "nms_EntityTNTPrimed_onUpdate", "nms_EntityPainting_onUpdate", "nms_EntityXPOrb_onUpdate", "nms_EntityArrow_onUpdate", "nms_EntitySilverfish_onUpdate", "nms_EntityEnderman_getEntityBrightness", "nms_EntityWolf_getEntityTexture", "nms_EntitySnowball_getShadowSize", "nms_EntityFallingSand_getShadowSize", "nms_EntityBoat_getShadowSize", "nms_EntityMinecart_getShadowSize", "nms_EntityTNTPrimed_getShadowSize",
-        "nms_EntityArrow_getShadowSize", "nms_EntitySnowball_isInRangeToRenderDist", "nms_EntityMob_attackEntityFrom", "nms_EntityAnimal_attackEntityFrom", "nms_EntityLiving_attackEntityFrom", "nms_EntitySkeleton_attackEntityFrom", "nms_EntityWolf_attackEntityFrom", "nms_EntityBoat_attackEntityFrom", "nms_EntityPigZombie_attackEntityFrom", "nms_EntityPlayer_attackEntityFrom", "nms_EntityItem_attackEntityFrom", "nms_EntityMinecart_attackEntityFrom", "nms_EntityPainting_attackEntityFrom", "nms_EntityXPOrb_attackEntityFrom",
-        "nms_EntitySilverfish_attackEntityFrom", "nms_EntityPainting_addVelocity", "nms_EntityLiving_isEntityAlive", "nms_EntitySheep_interact", "nms_EntitySquid_interact", "nms_EntityWolf_interact", "nms_EntityBoat_interact", "nms_EntityPig_interact", "nms_EntityMinecart_interact", "nms_EntityCow_interact", "nms_EntityLiving_canBeCollidedWith", "nms_EntityFallingSand_canBeCollidedWith", "nms_EntityBoat_canBeCollidedWith", "nms_EntityMinecart_canBeCollidedWith", "nms_EntityTNTPrimed_canBeCollidedWith", "nms_EntityPainting_canBeCollidedWith",
-        "nms_Item_onItemUse", "onItemUse", "nms_Item_onItemRightClick", "onItemRightClick", "nms_Item_func_35412_b", "func_35412_b", "nms_Item_func_35411_c", "func_35411_c", "nms_Item_getItemStackLimit", "getItemStackLimit", "nms_Item_onCreated", "onCreated", "jl_StringBuffer_insert6", "nms_SorterStatsBlock_func_27297_a", "func_27297_a", "nms_SorterStatsItem_func_27371_a", "func_27371_a", "nms_SaveHandler_getSaveDirectory", "getSaveDirectory", "nms_McRegionChunkLoader__init_", "nms_SaveHandler_saveWorldInfoAndPlayer",
-        "cjj_Deflate_put_short", "put_short", "cjj_Deflate_put_byte0", "nms_Packet_readString", "nms_ChunkCoordIntPair_chunkXZ2Int", "chunkXZ2Int", "nms_PlayerList_func_35578_a", "func_35578_a", "nms_ChunkProvider_loadChunkFromFile", "loadChunkFromFile", "nms_PlayerList_func_35577_a", "func_35577_a", "nms_Chunk_func_35843_a", "func_35843_a", "nms_Chunk_func_4143_d", "func_4143_d", "nms_Chunk_onChunkLoad", "onChunkLoad", "nms_Chunk_onChunkUnload", "onChunkUnload", "nms_ChunkProvider_func_28062_b", "func_28062_b",
-        "nms_ChunkProvider_func_28063_a", "func_28063_a", "nms_PlayerList_func_35574_d", "func_35574_d", "nms_IChunkLoader_func_814_a", "func_814_a", "nms_ChunkProvider_func_35391_d", "func_35391_d", "nms_Chunk_needsSaving", "needsSaving", "nms_IChunkLoader_saveExtraData", "saveExtraData", "nms_PlayerList_func_35576_a", "func_35576_a", "nms_PlayerList_func_35575_b", "func_35575_b", "jm_Division_remainderArrayByInt", "remainderArrayByInt", "cjj_Drft_init", "nms_J_Functor_applyTo", "applyTo", "ju_AbstractMap_clear",
-        "nms_RegionFile_getOffset", "nms_RegionFile_outOfBounds", "outOfBounds", "nms_RegionFileChunkBuffer__init_", "juz_DeflaterOutputStream__init_1", "nms_DataWatcher_readWatchableObjects", "readWatchableObjects", "juz_Inflater__init_0", "juz_Inflater_setInput0", "juz_Inflater_inflate0", "ji_DataInputStream_readBoolean", "readBoolean", "nms_NetHandler_handleBlockDig", "handleBlockDig", "nms_NetHandler_handleFlying", "handleFlying", "nms_NetHandler_handleUpdateTime", "handleUpdateTime", "nms_NetHandler_handleRespawn",
-        "handleRespawn", "nms_NetHandler_handleLogin", "handleLogin", "nms_NetHandler_handleEntityAction", "handleEntityAction", "nms_NetHandler_handleArmAnimation", "handleArmAnimation", "nms_NetHandler_handleBlockItemSwitch", "handleBlockItemSwitch", "nms_NetHandler_handleChat", "handleChat", "nms_NetHandler_handleUseEntity", "handleUseEntity", "nms_NetHandler_func_35784_a", "func_35784_a", "nms_NetHandler_handlePlayerInventory", "handlePlayerInventory", "nms_NetHandler_handleSleep", "handleSleep", "nms_NetHandler_handleHandshake",
-        "handleHandshake", "nms_NetHandler_handlePlace", "handlePlace", "nms_NetHandler_handleSpawnPosition", "handleSpawnPosition", "nms_NetHandler_handleHealth", "handleHealth", "nms_NetHandler_handleEntityPainting", "handleEntityPainting", "nms_NetHandler_handleContainerTransaction", "handleContainerTransaction", "nms_NetHandler_func_35781_a", "func_35781_a", "nms_NetHandler_handleNotePlay", "handleNotePlay", "nms_NetHandler_handleCollect", "handleCollect", "nms_NetHandler_handlePreChunk", "handlePreChunk",
-        "nms_NetHandler_handleWindowClick", "handleWindowClick", "nms_NetHandler_handleEntity", "handleEntity", "nms_NetHandler_func_35783_a", "func_35783_a", "nms_NetHandler_handleMultiBlockChange", "handleMultiBlockChange", "nms_NetHandler_handleUpdateSign", "handleUpdateSign", "nms_NetHandler_func_35780_a", "func_35780_a", "nms_NetHandler_handleVehicleSpawn", "handleVehicleSpawn", "nms_NetHandler_handleSetSlot", "handleSetSlot", "nms_NetHandler_handleEntityMetadata", "handleEntityMetadata", "nms_NetHandler_handleCloseWindow",
-        "handleCloseWindow", "nms_NetHandler_handleMapChunk", "handleMapChunk", "nms_NetHandler_handleDestroyEntity", "handleDestroyEntity", "nms_NetHandler_handleMobSpawn", "handleMobSpawn", "nms_NetHandler_handlePosition", "handlePosition", "nms_NetHandler_handleKickDisconnect", "handleKickDisconnect", "nms_NetHandler_handleBlockChange", "handleBlockChange", "nms_NetHandler_handleWeather", "handleWeather", "nms_NetHandler_handleStatistic", "handleStatistic", "nms_NetHandler_handleAuxSFX", "handleAuxSFX", "nms_NetHandler_handlePickupSpawn",
-        "handlePickupSpawn", "nms_NetHandler_processItemData", "processItemData", "nms_NetHandler_func_35777_a", "func_35777_a", "nms_NetHandler_func_35778_a", "func_35778_a", "nms_NetHandler_handleOpenWindow", "handleOpenWindow", "nms_NetHandler_handleCraftingProgress", "handleCraftingProgress", "nms_NetHandler_handleEntityVelocity", "handleEntityVelocity", "nms_NetHandler_handleAttachEntity", "handleAttachEntity", "nms_NetHandler_func_35779_a", "func_35779_a", "nms_NetHandler_handleEntityTeleport", "handleEntityTeleport",
-        "nms_NetHandler_handleBedUpdate", "handleBedUpdate", "nms_NetHandler_func_35782_a", "func_35782_a", "nms_NetHandler_handleEntityStatus", "handleEntityStatus", "nms_NetHandler_handleExplosion", "handleExplosion", "nms_NetHandler_handleNamedEntitySpawn", "handleNamedEntitySpawn", "nms_NetHandler_handleWindowItems", "handleWindowItems", "nms_EntityLiving_getEyeHeight", "nms_EntityItem__init_1", "nms_EntityPlayer_joinEntityItemWithWorld", "joinEntityItemWithWorld", "nms_Entity_func_35116_d", "func_35116_d",
-        "nms_ItemStack_getDamageVsEntity", "nms_EntityCrit2FX__init_", "nms_FoodStats_func_35762_a", "func_35762_a", "nms_EntityWolf_isWolfTamed", "isWolfTamed", "nms_EntityWolf_getWolfOwner", "getWolfOwner", "nms_EntityPlayer_isPVPEnabled", "isPVPEnabled", "nms_EntityCreature_getEntityToAttack", "getEntityToAttack", "nms_EntityWolf_setIsSitting", "setIsSitting", "nms_EntityCreature_setEntityToAttack", "setEntityToAttack", "nms_EntityWolf_isWolfSitting", "isWolfSitting", "nmc_Minecraft_usePortal", "usePortal",
-        "nms_EntityPlayer_getPlayerSpawnCoordinate", "getPlayerSpawnCoordinate", "nms_EntityPlayer_verifyRespawnCoordinates", "verifyRespawnCoordinates", "nms_World_setSpawnLocation", "setSpawnLocation", "nms_World_updateEntityList", "updateEntityList", "nms_World_setEntityDead", "nms_EntityPlayerSP_func_6420_o", "func_6420_o", "nms_EntityPlayer_func_6420_o", "nms_EntityPlayer_setPlayerSpawnCoordinate", "setPlayerSpawnCoordinate", "cjj_Buffer_look", "cjj_Buffer_read1", "read1", "cjj_Buffer_adv", "adv", "nms_AxisAlignedBB_getAverageEdgeLength",
-        "getAverageEdgeLength", "nms_WorldChunkManagerHell__init_", "nms_WorldChunkManager__init_", "nms_GuiDispenser__init_", "nms_Explosion__init_", "nms_Explosion_doExplosionA", "doExplosionA", "nms_Explosion_doExplosionB", "doExplosionB", "nms_World_isDaytime", "isDaytime", "nms_EntityPlayer_func_22052_e", "func_22052_e", "nms_GuiIngame_addChatMessageTranslate", "addChatMessageTranslate", "nms_GuiChest__init_", "nms_GuiCrafting__init_", "nms_GuiFurnace__init_", "nms_IWorldAccess_playAuxSFX", "nms_World_playRecord",
-        "playRecord", "nms_TileEntity_onInventoryChanged", "nms_Chunk_setBlockMetadata", "nms_InventoryPlayer_canHarvestBlock", "nms_InventoryPlayer_getStrVsBlock", "getStrVsBlock", "nms_Block_dropBlockAsItem", "dropBlockAsItem", "nms_Block_dropBlockAsItem_do", "dropBlockAsItem_do", "ju_TreeMap$EntrySet__init_", "nms_StatBase_getNumberFormat", "getNumberFormat", "jt_NumberFormat_format2", "nms_StatBase_getDecimalFormat", "getDecimalFormat", "jt_NumberFormat_format3", "nms_TileEntitySignRenderer_renderTileEntitySignAt",
-        "renderTileEntitySignAt", "nms_TileEntityMobSpawnerRenderer_renderTileEntityMobSpawner", "renderTileEntityMobSpawner", "nms_TileEntityRendererPiston_func_31070_a", "func_31070_a", "nms_TileEntityChestRenderer_func_35376_a", "func_35376_a", "nms_ChunkCache_func_35453_b", "func_35453_b", "nms_Chunk_getSavedLightValue", "getSavedLightValue", "nms_World_getSavedLightValue", "nms_Block_getCollisionBoundingBoxFromPool", "getCollisionBoundingBoxFromPool", "nms_Chunk_setBlockID", "setBlockID", "nms_World_func_35463_p",
-        "func_35463_p", "nms_BlockSapling_growTree", "growTree", "nms_BlockFluid_getFlowDecay", "getFlowDecay", "nms_BlockFlowing_func_30003_j", "func_30003_j", "nms_BlockFlowing_getSmallestFlowDecay", "getSmallestFlowDecay", "nms_BlockFluid_tickRate", "nms_BlockFlowing_liquidCanDisplaceBlock", "liquidCanDisplaceBlock", "nms_World_setBlockAndMetadataWithNotify", "setBlockAndMetadataWithNotify", "nms_BlockFlowing_getOptimalFlowDirections", "getOptimalFlowDirections", "nms_BlockFlowing_blockBlocksFlow", "blockBlocksFlow",
-        "nms_BlockFlowing_flowIntoBlock", "flowIntoBlock", "nms_BlockStationary_func_301_k", "func_301_k", "nms_BlockSand_tryToFall", "tryToFall", "nms_BlockLeaves_removeLeaves", "removeLeaves", "nms_World_isBlockIndirectlyGettingPowered", "isBlockIndirectlyGettingPowered", "nms_BlockDispenser_dispenseItem", "dispenseItem", "nms_BlockFlower_checkFlowerChange", "checkFlowerChange", "nms_BlockMushroom_canBlockStay", "canBlockStay", "nms_BlockFlower_canBlockStay", "nms_Block_canBlockStay", "nms_BlockTorch_onBlockAdded",
-        "onBlockAdded", "nms_Block_onBlockAdded", "nms_BlockFire_canPlaceBlockAt", "canPlaceBlockAt", "nms_Block_canPlaceBlockAt", "nms_BlockFire_tickRate", "nms_BlockFire_func_263_h", "func_263_h", "nms_BlockFire_tryToCatchBlockOnFire", "tryToCatchBlockOnFire", "nms_BlockFire_getChanceOfNeighborsEncouragingFire", "getChanceOfNeighborsEncouragingFire", "nms_BlockCrops_getGrowthRate", "getGrowthRate", "nms_BlockFarmland_isWaterNearby", "isWaterNearby", "nms_BlockFarmland_isCropsNearby", "isCropsNearby", "nms_BlockRedstoneTorch_func_30002_h",
-        "func_30002_h", "nms_BlockRedstoneTorch_checkForBurnout", "checkForBurnout", "nms_BlockRedstoneRepeater_ignoreTick", "ignoreTick", "nms_BlockStem_func_35295_j", "func_35295_j", "nms_Chunk_canBlockSeeTheSky", "nms_Chunk_getBlockLightValue", "nms_IWorldAccess_releaseEntitySkin", "nms_World_updateEntityWithOptionalForce", "updateEntityWithOptionalForce", "nms_IWorldAccess_markBlockAndNeighborsNeedsUpdate", "markBlockAndNeighborsNeedsUpdate", "nms_WorldInfo_getThunderTime", "getThunderTime", "nms_WorldInfo_setThunderTime",
-        "setThunderTime", "nms_WorldInfo_getRainTime", "getRainTime", "nms_WorldInfo_setRainTime", "setRainTime", "nms_WorldInfo_setIsRaining", "setIsRaining", "nms_WorldInfo_setIsThundering", "setIsThundering", "nms_EntityPlayer_isPlayerFullyAsleep", "isPlayerFullyAsleep", "nms_World_stopPrecipitation", "stopPrecipitation", "ju_TreeSet_size", "ju_TreeSet_first", "ju_TreeSet_remove", "nms_Chunk_func_35841_j", "func_35841_j", "nms_World_getFullBlockLightValue", "getFullBlockLightValue", "nms_Entity_getDistanceSq",
-        "getDistanceSq", "nms_World_getIsThundering", "nms_EntityLightningBolt__init_", "nms_World_addWeatherEffect", "addWeatherEffect", "nms_Block_canCollideCheck", "canCollideCheck", "nms_Block_collisionRayTrace", "collisionRayTrace", "jl_Class_getConstructor", "getConstructor", "jlr_Constructor_newInstance", "jl_Class_getDeclaredConstructors", "getDeclaredConstructors", "nms_MapDataBase_readFromNBT", "nms_NBTTagCompound_setShort", "setShort", "nms_IWorldAccess_obtainEntitySkin", "nms_NBTTagCompound_getFloat",
-        "nms_NBTTagCompound_getShort", "nms_Entity_setRotation", "setRotation", "nms_Entity_readEntityFromNBT", "readEntityFromNBT", "npem_FontRenderer_sizeStringToWidth", "sizeStringToWidth", "npem_FontRenderer_getFormatFromString", "getFormatFromString", "cjj_ZStream_read_buf", "read_buf", "cjj_Deflate__tr_flush_block", "_tr_flush_block", "cjj_Tree_d_code", "d_code", "cjj_Deflate_bi_windup", "bi_windup", "nms_RenderPlayer_func_22016_b", "func_22016_b", "nms_RenderWolf_func_25004_a", "func_25004_a", "nms_RenderChicken_getWingRotation",
-        "getWingRotation", "nms_RenderSquid_func_21006_b", "func_21006_b", "nms_RenderLiving_getDeathMaxRotation", "getDeathMaxRotation", "nms_RenderPlayer_rotatePlayer", "rotatePlayer", "nms_RenderSquid_func_21007_a", "func_21007_a", "nms_RenderSpider_func_35446_a", "func_35446_a", "nms_RenderWolf_func_25006_b", "func_25006_b", "nms_RenderCreeper_updateCreeperScale", "updateCreeperScale", "nms_RenderSlime_scaleSlime", "scaleSlime", "nms_RenderPlayer_func_186_b", "func_186_b", "nms_RenderGiantZombie_preRenderScale",
-        "preRenderScale", "nms_RenderGhast_func_4014_a", "func_4014_a", "nms_RenderSquid_func_21005_a", "func_21005_a", "nms_EntityWolf_isWolfAngry", "isWolfAngry", "nms_EntityWolf_getInterestedAngle", "getInterestedAngle", "nms_EntityWolf_getShakeAngle", "getShakeAngle", "nms_EntityWolf_getWolfShaking", "getWolfShaking", "nms_EntityWolf_getShadingWhileShaking", "getShadingWhileShaking", "nms_ModelQuadruped_setRotationAngles", "nms_ModelWolf_setRotationAngles", "nms_ModelRenderer_renderWithRotation", "renderWithRotation",
-        "nms_ModelChicken_setRotationAngles", "nms_ModelSlime_setRotationAngles", "nms_ModelSquid_setRotationAngles", "nms_ModelSpider_setRotationAngles", "nms_ModelSilverfish_setRotationAngles", "nms_ModelCreeper_setRotationAngles", "nms_ModelGhast_setRotationAngles", "nms_EntityArrow__init_0", "nms_ModelBase_func_35393_a", "func_35393_a", "nms_ModelRenderer_postRender", "postRender", "nms_RenderEnderman_func_35443_a", "func_35443_a", "nms_EntityLiving_getHeldItem", "getHeldItem", "nms_Item_isFull3D", "isFull3D",
-        "nms_RenderPlayer_renderSpecials", "renderSpecials", "nms_RenderCreeper_updateCreeperColorMultiplier", "updateCreeperColorMultiplier", "nms_RenderSpider_setSpiderEyeBrightness", "setSpiderEyeBrightness", "nms_RenderPig_renderSaddledPig", "renderSaddledPig", "nms_RenderSheep_setWoolColorAndRender", "setWoolColorAndRender", "nms_RenderSilverfish_func_35449_a", "func_35449_a", "nms_RenderCreeper_func_27006_a", "func_27006_a", "nms_RenderEnderman_func_35441_a", "func_35441_a", "nms_RenderSlime_renderSlimePassModel",
-        "renderSlimePassModel", "nms_RenderPlayer_setArmorModel", "setArmorModel", "nms_RenderCreeper_func_27007_b", "func_27007_b", "nmc_Minecraft_isDebugInfoEnabled", "isDebugInfoEnabled", "nms_RenderPlayer_renderName", "renderName", "ju_Calendar_set2", "nms_ChunkCache_getLightValueExt", "getLightValueExt", "nms_EntityTNTPrimed__init_0", "nms_EntityLiving_spawnExplosionParticle", "spawnExplosionParticle", "nms_WorldInfo_getNBTTagCompound", "getNBTTagCompound", "nms_NBTTagCompound_setByte", "setByte", "nms_ChunkProviderHell__init_",
-        "nms_WorldInfo_func_35917_r", "func_35917_r", "nms_ChunkProviderGenerate__init_", "nms_ChunkProviderFlat__init_", "nms_ChunkProviderSky__init_", "nms_World_getFirstUncoveredBlock", "getFirstUncoveredBlock", "nms_IRecipe_matches", "nms_IRecipe_getCraftingResult", "getCraftingResult", "jl_Boolean_compare", "jl_Double_compare", "oj_JSONObject_write", "oj_JSONArray_write", "nms_FoodStats_func_35770_c", "func_35770_c", "nms_BlockFluid_checkForHarden", "checkForHarden", "nms_BlockStationary_func_30004_j",
-        "func_30004_j", "nms_BlockSand_tickRate", "nms_BlockDispenser_tickRate", "nms_World_isBlockGettingPowered", "isBlockGettingPowered", "nms_BlockRail_func_27044_a", "func_27044_a", "nms_RailLogic__init_", "nms_RailLogic_getNAdjacentTracks", "getNAdjacentTracks", "nms_BlockRail_func_4031_h", "func_4031_h", "nms_BlockPistonBase_updatePistonState", "updatePistonState", "nms_BlockTorch_dropTorchIfCantStay", "dropTorchIfCantStay", "nms_BlockTorch_func_31032_h", "func_31032_h", "nms_TileEntityChest_func_35144_b",
-        "func_35144_b", "nms_TileEntity_func_35144_b", "nms_BlockRedstoneWire_canPlaceBlockAt", "nms_BlockRedstoneWire_updateAndPropagateCurrentStrength", "updateAndPropagateCurrentStrength", "nms_BlockDoor_onPoweredBlockChange", "onPoweredBlockChange", "nms_BlockLever_checkIfAttachedToBlock", "checkIfAttachedToBlock", "nms_BlockRedstoneTorch_tickRate", "nms_BlockButton_func_305_h", "func_305_h", "nms_BlockSnow_func_314_h", "func_314_h", "nms_BlockCactus_canBlockStay", "nms_BlockReed_checkBlockCoordValid", "checkBlockCoordValid",
-        "nms_BlockCake_canBlockStay", "nms_BlockRedstoneRepeater_canBlockStay", "nms_BlockTrapDoor_onPoweredBlockChange", "nms_BlockVine_func_35301_h", "func_35301_h", "nms_Pathfinder_createEntityPathTo0", "jl_Class_isAssignableFrom", "isAssignableFrom", "nms_ISaveHandler_checkSessionLock", "nms_MapDataBase_isDirty", "isDirty", "nms_MapStorage_saveData", "saveData", "nleiv_VFile2_listFiles3", "jl_Class_getCanonicalNameCache", "getCanonicalNameCache", "jl_Class_setCanonicalNameCache", "setCanonicalNameCache",
-        "jl_Class_getDeclaringClass", "jl_Class_isSynthetic", "isSynthetic", "nlesse_RandomAccessMemoryFile_grow", "nlesse_RandomAccessMemoryFile_read", "nms_J_CompactJsonFormatter_format0", "nleit_TeaVMWebSocketFrame_toStr$js_body$_3", "toStr$js_body$_3", "otrfm_InMemoryVirtualFile$1__init_", "nms_NextTickListEntry_comparer", "comparer", "nms_ChunkFile_compareChunks", "compareChunks", "nms_EntityPlayer_resetHeight", "resetHeight", "nms_EntityHugeExplodeFX__init_", "nms_EntityLargeExplodeFX__init_", "nms_EntityBubbleFX__init_",
-        "nms_EntitySuspendFX__init_", "nms_EntityAuraFX__init_", "nms_EntityCritFX__init_", "nms_EntityNoteFX__init_", "nms_EntityPortalFX__init_", "nms_EntityExplodeFX__init_", "nms_EntityFlameFX__init_", "nms_EntityLavaFX__init_", "nms_EntityFootStepFX__init_", "nms_EntitySplashFX__init_", "nms_EntityCloudFX__init_", "nms_EntityReddustFX__init_", "nms_EntitySlimeFX__init_", "nms_EntitySnowShovelFX__init_", "nms_EntityHeartFX__init_", "nms_EntitySlimeFX__init_0", "nms_RenderGlobal_markBlocksForUpdate", "markBlocksForUpdate",
-        "nms_EntityCreeper_getCreeperState", "getCreeperState", "nms_EntityCreeper_setCreeperState", "setCreeperState", "nms_EntityLiving_onLivingUpdate", "onLivingUpdate", "nms_EntitySlime_getSlimeSize", "getSlimeSize", "nms_EntitySlime_getSoundVolume", "getSoundVolume", "nms_EntityLiving_getSoundVolume", "nms_DamageSource_func_35524_a", "func_35524_a", "nms_World_canBlockBePlacedAt", "canBlockBePlacedAt", "nms_BlockSand_canFallBelow", "canFallBelow", "nms_Entity_dropItem", "dropItem", "nms_EntityWolf_getSoundVolume",
-        "nms_World_isAABBInMaterial", "isAABBInMaterial", "nle_Random_nextBoolean", "nextBoolean", "nms_Entity_dropItemWithOffset", "dropItemWithOffset", "nms_Entity_canBePushed", "canBePushed", "nms_Entity_applyEntityCollision", "applyEntityCollision", "nms_EntityPlayer_isInBed", "isInBed", "nms_Container_canInteractWith", "canInteractWith", "nms_FoodStats_func_35768_a", "func_35768_a", "nms_EntityPlayer_func_35201_a", "func_35201_a", "nms_EntityPlayer_func_35208_ae", "func_35208_ae", "nms_Entity_pushOutOfBlocks",
-        "pushOutOfBlocks", "nms_BlockRail_isRailBlockAt", "isRailBlockAt", "nms_BlockRail_isRailBlock", "isRailBlock", "nms_EntityTNTPrimed_explode", "explode", "nms_EntityPainting_canStay", "canStay", "nms_World_getClosestPlayerToEntity", "getClosestPlayerToEntity", "nms_DamageSource_func_35535_a", "func_35535_a", "nms_DamageSource_func_35532_a", "func_35532_a", "nms_EntityLiving_b", "b", "nms_World_setEntityState", "setEntityState", "nms_EntityLiving_knockBack", "knockBack", "nms_EntityLiving_onDeath", "onDeath",
-        "nms_EntityLiving_getDeathSound", "getDeathSound", "nms_EntityLiving_getHurtSound", "getHurtSound", "nms_EntityWolf_setWolfAngry", "setWolfAngry", "nms_EntityPigZombie_becomeAngryAt", "becomeAngryAt", "nms_DamageSource_func_35529_d", "func_35529_d", "nms_EntityMinecart_setEntityDead", "nms_EntityMinecart_getStackInSlot", "nms_EntityMinecart_getSizeInventory", "nms_EntitySheep_getSheared", "getSheared", "nms_ItemStack_damageItem", "damageItem", "nms_EntitySheep_setSheared", "setSheared", "nms_EntitySheep_getFleeceColor",
-        "getFleeceColor", "nms_Entity_entityDropItem", "entityDropItem", "nms_EntityWolf_showHeartsOrSmokeFX", "showHeartsOrSmokeFX", "nms_EntityWolf_setIsTamed", "setIsTamed", "nms_EntityCreature_setPathToEntity", "setPathToEntity", "nms_EntityWolf_setOwner", "setOwner", "nms_ItemFood_getIsWolfsFavoriteMeat", "getIsWolfsFavoriteMeat", "nms_DataWatcher_getWatchableObjectInt", "getWatchableObjectInt", "nms_ItemFood_getHealAmount", "getHealAmount", "nms_EntityLiving_heal", "heal", "nms_EntityPig_getSaddled", "getSaddled",
-        "nms_WorldInfo_getNBTTagCompoundWithPlayer", "getNBTTagCompoundWithPlayer", "ji_DataInputStream_readChar", "readChar", "nms_IChunkLoader_loadChunk", "nms_IChunkLoader_saveChunk", "saveChunk", "nms_IChunkLoader_saveExtraChunkData", "saveExtraChunkData", "juz_Deflater__init_0", "jl_Float_valueOf", "nms_EnumArt__clinit_", "nms_Entity_setFlag", "nms_EntityCrit2FX_onUpdate", "nms_WorldChunkManager__init_0", "nms_GenLayer_func_35497_a", "func_35497_a", "nms_ContainerDispenser__init_", "nms_ContainerChest__init_",
-        "nms_ContainerWorkbench__init_", "nms_ContainerFurnace__init_", "nms_World_setBlockAndMetadata", "setBlockAndMetadata", "nms_BlockFlowing_calculateFlowCost", "calculateFlowCost", "nms_BlockFluid_triggerLavaMixEffects", "triggerLavaMixEffects", "nms_Material_getBurning", "getBurning", "nms_EntityFallingSand__init_0", "nms_TileEntityDispenser_getRandomStackFromInventory", "getRandomStackFromInventory", "nms_EntityArrow_setArrowHeading", "setArrowHeading", "nms_EntityEgg__init_", "nms_EntityEgg_setEggHeading",
-        "setEggHeading", "nms_EntitySnowball__init_0", "nms_EntitySnowball_setSnowballHeading", "setSnowballHeading", "nms_BlockFire_getChanceToEncourageFire", "getChanceToEncourageFire", "nms_World_isBlockIndirectlyProvidingPowerTo", "isBlockIndirectlyProvidingPowerTo", "nms_RedstoneUpdateInfo__init_", "nms_EntityWeatherEffect__init_", "nms_World_doChunksNearChunkExist", "doChunksNearChunkExist", "npem_FontRenderer_isFormatColor", "isFormatColor", "npem_FontRenderer_isFormatSpecial", "isFormatSpecial", "nms_MapGenCavesHell__init_",
-        "nms_NoiseGeneratorOctaves__init_", "nms_MapGenCaves__init_", "nms_MapGenStronghold__init_", "nms_MapGenVillage__init_", "nms_MapGenMineshaft__init_", "nms_MapGenRavine__init_", "nms_BlockRail_func_27043_a", "func_27043_a", "nms_BlockRail_isPoweredBlockRail", "isPoweredBlockRail", "nms_RailLogic_setConnections", "setConnections", "nms_RailLogic_getAdjacentTracks", "getAdjacentTracks", "nms_RailLogic_func_792_a", "func_792_a", "nms_BlockPistonBase_isIndirectlyPowered", "isIndirectlyPowered", "nms_BlockPistonBase_canExtend",
-        "canExtend", "nms_World_playNoteAt", "playNoteAt", "nms_BlockTorch_canPlaceBlockAt", "nms_BlockRedstoneWire_calculateCurrentChanges", "calculateCurrentChanges", "nms_BlockLever_canPlaceBlockAt", "nms_BlockButton_canPlaceBlockAt", "nms_BlockSnow_canPlaceBlockAt", "nms_Path_clearPath", "clearPath", "nms_Pathfinder_openPoint", "openPoint", "nms_PathPoint__init_", "nms_Pathfinder_addToPath", "addToPath", "nms_MapDataBase_writeToNBT", "writeToNBT", "nms_NBTTagCompound_setCompoundTag", "setCompoundTag", "nms_EntityCritFX__init_0",
-        "nms_EntityNoteFX__init_0", "nms_EntityReddustFX__init_0", "nms_EntitySnowShovelFX__init_0", "nms_EntityHeartFX__init_0", "nms_Entity_onEntityUpdate", "onEntityUpdate", "nms_EntityDamageSourceIndirect__init_", "nms_World_createExplosion", "createExplosion", "jl_Float__init_", "nms_EnumArt__init_", "nms_EnumArt_$values", "nms_BiomeCache__init_", "nms_LayerIsland__init_", "nms_GenLayerZoomFuzzy__init_", "nms_GenLayerIsland__init_", "nms_GenLayerZoom__init_", "nms_GenLayerZoom_func_35515_a", "func_35515_a",
-        "nms_GenLayerRiverInit__init_", "nms_GenLayerRiver__init_", "nms_GenLayerSmooth__init_", "nms_GenLayerVillageLandscape__init_", "nms_GenLayerTemperature__init_", "nms_GenLayerDownfall__init_", "nms_GenLayerRiverMix__init_", "nms_GenLayerSmoothZoom_func_35517_a", "func_35517_a", "nms_GenLayerZoomVoronoi__init_", "nms_GenLayerRiverMix_func_35496_b", "func_35496_b", "nms_GenLayer_func_35496_b", "nms_GenLayerSmoothZoom__init_", "nms_GenLayerTemperatureMix__init_", "nms_GenLayerDownfallMix__init_", "nms_IInventory_func_35142_x_",
-        "func_35142_x_", "nms_ContainerWorkbench_onCraftMatrixChanged", "nms_SlotFurnace__init_", "nms_MapGenBase__init_", "nms_NoiseGenerator__init_", "nms_NoiseGeneratorPerlin__init_", "nms_MapGenStructure__init_", "nms_MapGenVillage__clinit_", "nms_RailLogic_isMinecartTrack", "isMinecartTrack", "nms_BlockPistonBase_canPushBlock", "canPushBlock", "nms_Block_getMobilityFlag", "getMobilityFlag", "nms_BlockRedstoneWire_getMaxCurrentStrength", "getMaxCurrentStrength", "nms_PathPoint_func_22329_a", "func_22329_a",
-        "nms_PathPoint_distanceTo", "nms_Path_addPoint", "addPoint", "nms_Path_dequeue", "dequeue", "nms_PathPoint_equals", "nms_Pathfinder_createEntityPath", "createEntityPath", "nms_Pathfinder_findPathOptions", "findPathOptions", "nms_PathPoint_isAssigned", "isAssigned", "nms_Path_changeDistance", "changeDistance", "nms_Path_isPathEmpty", "isPathEmpty", "nms_EntityCritFX_onUpdate", "nms_GenLayer__init_", "nms_Block_getHardness", "getHardness", "nms_PathEntity__init_", "nms_Pathfinder_getVerticalOffset", "getVerticalOffset",
-        "nms_Pathfinder_getSafePoint", "getSafePoint", "nms_BlockDoor_isOpen", "nms_McRegionChunkLoader_func_814_a", "nms_McRegionChunkLoader_saveExtraData", "nms_McRegionChunkLoader_loadChunk", "nms_McRegionChunkLoader_saveChunk", "nms_McRegionChunkLoader_saveExtraChunkData", "nms_EntityMob_getCanSpawnHere", "ju_AbstractMap_toString", "nms_WorldChunkManagerHell_func_35554_b", "nms_WorldChunkManagerHell_func_35558_c", "nms_WorldChunkManagerHell_getBiomeGenAt", "nms_WorldChunkManagerHell_func_4069_a", "nms_WorldChunkManagerHell_func_35556_a",
-        "nms_WorldChunkManagerHell_getBiomeGenAtChunkCoord", "ju_TreeMap$EntrySet_iterator", "nms_ChunkProviderHell_provideChunk", "nms_ChunkProviderHell_unload100OldestChunks", "nms_ChunkProviderGenerate_provideChunk", "nms_ChunkProviderGenerate_unload100OldestChunks", "nms_ChunkProviderFlat_provideChunk", "nms_ChunkProviderFlat_unload100OldestChunks", "nms_ChunkProviderSky_provideChunk", "nms_ChunkProviderSky_unload100OldestChunks", "nms_EntityAnimal_getCanSpawnHere", "nms_EntityWolf_getMaxSpawnedInChunk",
-        "nms_EntityGhast_getCanSpawnHere", "nms_EntityGhast_getMaxSpawnedInChunk", "nms_EntityPigZombie_getCanSpawnHere", "nms_EntitySlime_getCanSpawnHere", "nms_EntityWaterMob_getCanSpawnHere", "otrfm_InMemoryVirtualFile$1_close", "otrfm_InMemoryVirtualFile$1_write", "otrfm_InMemoryVirtualFile$1_size", "otrfm_InMemoryVirtualFile$1_seek", "otrfm_InMemoryVirtualFile$1_tell", "otrfm_InMemoryVirtualFile$1_read", "nms_RegionFileChunkBuffer_close", "nms_ContainerDispenser_getStackInSlot", "nms_ContainerDispenser_canInteractWith",
-        "nms_ContainerChest_onCraftGuiClosed", "nms_ContainerChest_getStackInSlot", "nms_ContainerChest_canInteractWith", "nms_ContainerWorkbench_onCraftGuiClosed", "nms_ContainerWorkbench_getStackInSlot", "nms_ContainerWorkbench_canInteractWith", "nms_ContainerFurnace_getStackInSlot", "nms_ContainerFurnace_canInteractWith", "nms_InventoryLargeChest_getStackInSlot", "nms_InventoryLargeChest_onInventoryChanged", "nms_InventoryLargeChest_getInventoryStackLimit", "nms_InventoryLargeChest_setInventorySlotContents",
-        "nms_InventoryLargeChest_decrStackSize", "nms_EntityEgg_entityInit", "nms_EntityLightningBolt_entityInit", "nms_ItemBlock_onItemUse", "nms_ItemFlintAndSteel_onItemUse", "nms_ItemHoe_onItemUse", "nms_ItemSeeds_onItemUse", "nms_ItemPainting_onItemUse", "nms_ItemSign_onItemUse", "nms_ItemDoor_onItemUse", "nms_ItemMinecart_onItemUse", "nms_ItemRedstone_onItemUse", "nms_ItemReed_onItemUse", "nms_ItemDye_onItemUse", "nms_ItemBed_onItemUse", "nms_ItemRecord_onItemUse", "nms_ItemFood_onItemRightClick", "nms_ItemBow_onItemRightClick",
-        "nms_ItemSword_onItemRightClick", "nms_ItemBucket_onItemRightClick", "nms_ItemSnowball_onItemRightClick", "nms_ItemBoat_onItemRightClick", "nms_ItemEgg_onItemRightClick", "nms_ItemFishingRod_onItemRightClick", "nms_ItemFood_func_35412_b", "nms_ItemBow_func_35412_b", "nms_ItemSword_func_35412_b", "nms_ItemFood_func_35411_c", "nms_ItemBow_func_35411_c", "nms_ItemSword_func_35411_c", "nms_ItemMap_onCreated", "nms_EmptyChunk_func_4143_d", "nms_EmptyChunk_onChunkLoad", "nms_EmptyChunk_getBlockID", "nms_EmptyChunk_getChunkBlockTileEntity",
-        "nms_EmptyChunk_getBlockMetadata", "nms_EmptyChunk_getSavedLightValue", "nms_EmptyChunk_getEntitiesWithinAABBForEntity", "nms_EmptyChunk_getEntitiesOfTypeWithinAAAB", "nms_EmptyChunk_removeEntity", "nms_EmptyChunk_removeChunkBlockTileEntity", "nms_EmptyChunk_setChunkBlockTileEntity", "nms_EmptyChunk_addEntity", "ju_HashSet_isEmpty", "nms_J_LeafFunctor_applyTo", "nms_J_ChainedFunctor_applyTo", "nms_ChunkPosition_hashCode", "nms_ChunkPosition_equals", "ju_AbstractMap_hashCode", "ju_AbstractMap_equals",
-        "nms_NetClientHandler_handleFlying", "nms_NetClientHandler_handleUpdateTime", "nms_NetClientHandler_handleRespawn", "nms_NetClientHandler_handleLogin", "nms_NetClientHandler_handleArmAnimation", "nms_NetClientHandler_handleChat", "nms_NetClientHandler_func_35784_a", "nms_NetClientHandler_handlePlayerInventory", "nms_NetClientHandler_handleSleep", "nms_NetClientHandler_handleHandshake", "nms_NetClientHandler_handleSpawnPosition", "nms_NetClientHandler_handleHealth", "nms_NetClientHandler_handleEntityPainting",
-        "nms_NetClientHandler_handleContainerTransaction", "nms_NetClientHandler_handleNotePlay", "nms_NetClientHandler_handleCollect", "nms_NetClientHandler_handlePreChunk", "nms_NetClientHandler_handleEntity", "nms_NetClientHandler_func_35783_a", "nms_NetClientHandler_handleMultiBlockChange", "nms_NetClientHandler_handleUpdateSign", "nms_NetClientHandler_func_35780_a", "nms_NetClientHandler_handleVehicleSpawn", "nms_NetClientHandler_handleSetSlot", "nms_NetClientHandler_handleEntityMetadata", "nms_NetClientHandler_handleCloseWindow",
-        "nms_NetClientHandler_handleMapChunk", "nms_NetClientHandler_handleDestroyEntity", "nms_NetClientHandler_handleMobSpawn", "nms_NetClientHandler_handleKickDisconnect", "nms_NetClientHandler_handleBlockChange", "nms_NetClientHandler_handleWeather", "nms_NetClientHandler_handleStatistic", "nms_NetClientHandler_handleAuxSFX", "nms_NetClientHandler_handlePickupSpawn", "nms_NetClientHandler_processItemData", "nms_NetClientHandler_func_35777_a", "nms_NetClientHandler_func_35778_a", "nms_NetClientHandler_handleOpenWindow",
-        "nms_NetClientHandler_handleCraftingProgress", "nms_NetClientHandler_handleEntityVelocity", "nms_NetClientHandler_handleAttachEntity", "nms_NetClientHandler_func_35779_a", "nms_NetClientHandler_handleEntityTeleport", "nms_NetClientHandler_handleBedUpdate", "nms_NetClientHandler_handleEntityStatus", "nms_NetClientHandler_handleExplosion", "nms_NetClientHandler_handleNamedEntitySpawn", "nms_NetClientHandler_handleWindowItems", "nms_EntityCrit2FX_getFXLayer", "ju_LinkedHashMap_keySet", "nms_J_JsonStringNodeBuilder_buildNode",
-        "nms_J_JsonNumberNodeBuilder_buildNode", "nms_J_JsonTrueNodeBuilder_buildNode", "nms_J_JsonNullNodeBuilder_buildNode", "nms_J_JsonFalseNodeBuilder_buildNode", "nms_RenderGlobal_playAuxSFX", "nms_EmptyChunk_setBlockMetadata", "nms_BlockFlower_getCollisionBoundingBoxFromPool", "nms_BlockFluid_getCollisionBoundingBoxFromPool", "nms_BlockRail_getCollisionBoundingBoxFromPool", "nms_BlockWeb_getCollisionBoundingBoxFromPool", "nms_BlockPistonMoving_getCollisionBoundingBoxFromPool", "nms_BlockTorch_getCollisionBoundingBoxFromPool",
-        "nms_BlockFire_getCollisionBoundingBoxFromPool", "nms_BlockStairs_getCollisionBoundingBoxFromPool", "nms_BlockRedstoneWire_getCollisionBoundingBoxFromPool", "nms_BlockFarmland_getCollisionBoundingBoxFromPool", "nms_BlockSign_getCollisionBoundingBoxFromPool", "nms_BlockDoor_getCollisionBoundingBoxFromPool", "nms_BlockLadder_getCollisionBoundingBoxFromPool", "nms_BlockLever_getCollisionBoundingBoxFromPool", "nms_BlockPressurePlate_getCollisionBoundingBoxFromPool", "nms_BlockButton_getCollisionBoundingBoxFromPool",
-        "nms_BlockSnow_getCollisionBoundingBoxFromPool", "nms_BlockCactus_getCollisionBoundingBoxFromPool", "nms_BlockReed_getCollisionBoundingBoxFromPool", "nms_BlockFence_getCollisionBoundingBoxFromPool", "nms_BlockSoulSand_getCollisionBoundingBoxFromPool", "nms_BlockPortal_getCollisionBoundingBoxFromPool", "nms_BlockCake_getCollisionBoundingBoxFromPool", "nms_BlockTrapDoor_getCollisionBoundingBoxFromPool", "nms_BlockVine_getCollisionBoundingBoxFromPool", "nms_BlockFenceGate_getCollisionBoundingBoxFromPool",
-        "nms_EmptyChunk_setBlockID", "nms_BlockRedstoneTorch_onBlockAdded", "nms_EmptyChunk_canBlockSeeTheSky", "nms_EmptyChunk_getBlockLightValue", "nms_RenderGlobal_releaseEntitySkin", "nms_RenderGlobal_markBlockAndNeighborsNeedsUpdate", "nms_BlockFlower_canPlaceBlockAt", "nms_BlockRail_canPlaceBlockAt", "nms_BlockPistonExtension_canPlaceBlockAt", "nms_BlockPistonMoving_canPlaceBlockAt", "nms_BlockStairs_canPlaceBlockAt", "nms_BlockChest_canPlaceBlockAt", "nms_BlockDoor_canPlaceBlockAt", "nms_BlockLadder_canPlaceBlockAt",
-        "nms_BlockPressurePlate_canPlaceBlockAt", "nms_BlockCactus_canPlaceBlockAt", "nms_BlockReed_canPlaceBlockAt", "nms_BlockFence_canPlaceBlockAt", "nms_BlockPumpkin_canPlaceBlockAt", "nms_BlockCake_canPlaceBlockAt", "nms_BlockRedstoneRepeater_canPlaceBlockAt", "nms_BlockLockedChest_canPlaceBlockAt", "nms_BlockFenceGate_canPlaceBlockAt", "nms_BlockFluid_canCollideCheck", "nms_BlockStairs_canCollideCheck", "nms_BlockRail_collisionRayTrace", "nms_BlockTorch_collisionRayTrace", "nms_BlockDoor_collisionRayTrace",
-        "nms_BlockTrapDoor_collisionRayTrace", "nms_RenderGlobal_obtainEntitySkin", "nms_EntityPlayerSP_readEntityFromNBT", "nms_RenderSpider_getDeathMaxRotation", "nms_RenderSilverfish_getDeathMaxRotation", "nms_ModelPig_setRotationAngles", "nms_ModelCow_setRotationAngles", "nms_EntitySkeleton_getHeldItem", "nms_EntityPigZombie_getHeldItem", "nms_ItemTool_isFull3D", "nms_ItemSword_isFull3D", "nms_ItemHoe_isFull3D", "nms_ItemFishingRod_isFull3D", "jl_Long_intValue", "jl_Short_intValue", "jm_BigDecimal_intValue",
-        "nms_ShapedRecipes_matches", "nms_ShapelessRecipes_matches", "nms_ShapedRecipes_getCraftingResult", "nms_ShapelessRecipes_getCraftingResult", "nms_SaveHandler_checkSessionLock", "nms_EntityHugeExplodeFX_getFXLayer", "nms_EntityLargeExplodeFX_getFXLayer", "nms_EntityFootStepFX_getFXLayer", "nms_EntitySlimeFX_getFXLayer", "nms_EntityPlayerSP_onLivingUpdate", "nms_EntityMob_onLivingUpdate", "nms_EntityWolf_onLivingUpdate", "nms_EntityChicken_onLivingUpdate", "nms_EntityEnderman_onLivingUpdate", "nms_EntitySkeleton_onLivingUpdate",
-        "nms_EntityZombie_onLivingUpdate", "nms_EntitySquid_onLivingUpdate", "nms_EntityPigZombie_onLivingUpdate", "nms_EntityDamageSourceIndirect_func_35532_a", "nms_EntityFallingSand_canTriggerWalking", "nms_EntityBoat_getCollisionBox", "nms_EntityBoat_canTriggerWalking", "nms_EntityLiving_canBePushed", "nms_EntityMinecart_canBePushed", "nms_EntityBoat_canBePushed", "nms_EntityMinecart_applyEntityCollision", "nms_ContainerCreative_canInteractWith", "nms_ContainerPlayer_canInteractWith", "nms_EntityItem_canTriggerWalking",
-        "nms_EntityItem_dealFireDamage", "nms_EntityMinecart_getCollisionBox", "nms_EntityMinecart_canTriggerWalking", "nms_EntityTNTPrimed_canTriggerWalking", "nms_EntityXPOrb_canTriggerWalking", "nms_EntityXPOrb_dealFireDamage", "nms_EntityDamageSource_func_35532_a", "nms_EntityPlayer_b", "nms_EntityPlayer_onDeath", "nms_EntityCreeper_onDeath", "nms_EntitySkeleton_onDeath", "nms_EntitySpider_getDeathSound", "nms_EntityPig_getDeathSound", "nms_EntitySheep_getDeathSound", "nms_EntityCow_getDeathSound", "nms_EntityWolf_getDeathSound",
-        "nms_EntityChicken_getDeathSound", "nms_EntitySilverfish_getDeathSound", "nms_EntityCreeper_getDeathSound", "nms_EntityEnderman_getDeathSound", "nms_EntitySkeleton_getDeathSound", "nms_EntityZombie_getDeathSound", "nms_EntitySlime_getDeathSound", "nms_EntityGhast_getDeathSound", "nms_EntitySquid_getDeathSound", "nms_EntityPigZombie_getDeathSound", "nms_EntityCow_getSoundVolume", "nms_EntityGhast_getSoundVolume", "nms_EntitySquid_getSoundVolume", "nms_EntitySpider_getHurtSound", "nms_EntityPig_getHurtSound",
-        "nms_EntitySheep_getHurtSound", "nms_EntityCow_getHurtSound", "nms_EntityWolf_getHurtSound", "nms_EntityChicken_getHurtSound", "nms_EntitySilverfish_getHurtSound", "nms_EntityCreeper_getHurtSound", "nms_EntityEnderman_getHurtSound", "nms_EntitySkeleton_getHurtSound", "nms_EntityZombie_getHurtSound", "nms_EntitySlime_getHurtSound", "nms_EntityGhast_getHurtSound", "nms_EntitySquid_getHurtSound", "nms_EntityPigZombie_getHurtSound", "nms_EntityMinecart_onInventoryChanged", "nms_EntityMinecart_getInventoryStackLimit",
-        "nms_EntityMinecart_setInventorySlotContents", "nms_EntityMinecart_decrStackSize", "nms_EntityMinecart_func_35142_x_", "nms_InventoryLargeChest_getSizeInventory", "nms_EntityLiving_onEntityUpdate", "nms_InventoryLargeChest_func_35142_x_", "nms_BlockBed_getMobilityFlag", "nms_BlockRail_getMobilityFlag", "nms_BlockDoor_getMobilityFlag", "nms_BlockPressurePlate_getMobilityFlag", "nms_BlockIce_getMobilityFlag", "nms_EmptyChunk_needsSaving", "nms_MapData_writeToNBT", "nms_SlotFurnace_isItemValid", "nms_SlotFurnace_onPickupFromSlot",
-        "nms_EntityLavaFX_func_35115_a", "nms_EntityLargeExplodeFX_func_35115_a", "nms_EntityFlameFX_func_35115_a", "nms_EntityPortalFX_func_35115_a", "nms_EntityLavaFX_renderParticle", "nms_EntityLargeExplodeFX_renderParticle", "nms_EntitySlimeFX_renderParticle", "nms_EntityNoteFX_renderParticle", "nms_EntityFlameFX_renderParticle", "nms_EntityCritFX_renderParticle", "nms_EntityFootStepFX_renderParticle", "nms_EntityPortalFX_renderParticle", "nms_EntityCrit2FX_renderParticle", "nms_EntityReddustFX_renderParticle",
-        "nms_EntityExplodeFX_renderParticle", "nms_EntityHugeExplodeFX_renderParticle", "nms_EntityCloudFX_renderParticle", "nms_EntityEgg_isInRangeToRenderDist", "nms_EntityEgg_getShadowSize", "nms_EntityLavaFX_onUpdate", "nms_EntityLargeExplodeFX_onUpdate", "nms_EntityNoteFX_onUpdate", "nms_EntitySuspendFX_onUpdate", "nms_EntityFlameFX_onUpdate", "nms_EntityFootStepFX_onUpdate", "nms_EntityAuraFX_onUpdate", "nms_EntityPortalFX_onUpdate", "nms_EntityBubbleFX_onUpdate", "nms_EntityReddustFX_onUpdate", "nms_EntityExplodeFX_onUpdate",
-        "nms_EntityEgg_onUpdate", "nms_EntityHugeExplodeFX_onUpdate", "nms_EntityCloudFX_onUpdate", "nms_GuiDispenser_drawGuiContainerBackgroundLayer", "nms_GuiChest_drawGuiContainerBackgroundLayer", "nms_GuiCrafting_drawGuiContainerBackgroundLayer", "nms_GuiFurnace_drawGuiContainerBackgroundLayer", "nms_GuiDispenser_drawGuiContainerForegroundLayer", "nms_GuiChest_drawGuiContainerForegroundLayer", "nms_GuiCrafting_drawGuiContainerForegroundLayer", "nms_GuiFurnace_drawGuiContainerForegroundLayer", "nms_GuiContainer_initGui",
-        "nms_GuiContainer_updateScreen", "nms_GuiCrafting_onGuiClosed", "nms_EntitySnowShovelFX_renderParticle", "nms_EntityHeartFX_renderParticle", "nms_EntitySnowShovelFX_onUpdate", "nms_EntityHeartFX_onUpdate", "nms_RegionFileCache_getChunkInputStream", "getChunkInputStream", "nms_ChunkLoader_loadChunkIntoWorldFromCompound", "loadChunkIntoWorldFromCompound", "nms_Chunk_isAtLocation", "isAtLocation", "nms_Chunk_func_25124_i", "func_25124_i", "nms_RegionFileCache_getChunkOutputStream", "getChunkOutputStream",
-        "nms_ChunkLoader_storeChunkInCompound", "storeChunkInCompound", "nms_RegionFileCache_getSizeDelta", "getSizeDelta", "nms_WorldInfo_setSizeOnDisk", "setSizeOnDisk", "nms_EntityCreature_getCanSpawnHere", "nms_EntityLiving_getLivingSound", "getLivingSound", "nms_WorldChunkManagerHell_loadBlockGeneratorData", "loadBlockGeneratorData", "nms_WorldChunkManager_loadBlockGeneratorData", "nms_BiomeCache_func_35724_a", "func_35724_a", "nms_BiomeCache_func_35722_b", "func_35722_b", "nms_BiomeCache_func_35727_c",
-        "func_35727_c", "nms_BiomeCache_func_35725_a", "func_35725_a", "nms_BiomeCache_func_35723_d", "func_35723_d", "nms_GenLayer_func_35500_a", "func_35500_a", "ju_TreeMap$EntrySet_descendingIterator", "descendingIterator", "ju_TreeMap$EntrySet_ascendingIterator", "ascendingIterator", "nms_ChunkProviderHell_func_4059_a", "func_4059_a", "nms_ChunkProviderHell_func_4058_b", "func_4058_b", "nms_MapGenBase_generate", "generate", "nms_ChunkProviderGenerate_generateTerrain", "generateTerrain", "nms_ChunkProviderGenerate_replaceBlocksForBiome",
-        "replaceBlocksForBiome", "nms_Chunk_generateSkylightMap", "generateSkylightMap", "nms_MapGenStructure_generate", "nms_ChunkProviderFlat_func_46051_a", "func_46051_a", "nms_ChunkProviderSky_generateTerrain", "nms_ChunkProviderSky_replaceBlocksForBiome", "ju_Currency_getCurrencyCode", "getCurrencyCode", "otciu_CLDRHelper_resolveCurrency", "resolveCurrency", "nms_World_checkIfAABBIsClear", "checkIfAABBIsClear", "nms_World_getIsAnyLiquid", "getIsAnyLiquid", "nms_Chunk_func_997_a", "func_997_a", "otrfm_InMemoryVirtualFile_expandData",
-        "expandData", "nlesse_RandomAccessMemoryFile_getByteArray", "nms_Entity_handleWaterMovement", "handleWaterMovement", "nms_Entity_handleLavaMovement", "handleLavaMovement", "nms_Entity_setOnFireFromLava", "setOnFireFromLava", "nms_Entity_kill", "kill", "nms_RegionFile_write", "nms_TileEntityDispenser_canInteractWith", "nms_IInventory_func_35141_y_", "func_35141_y_", "nms_IInventory_canInteractWith", "nms_TileEntityFurnace_canInteractWith", "nms_Item_getPlacedBlockMetadata", "getPlacedBlockMetadata", "nms_Block_onBlockPlaced",
-        "onBlockPlaced", "nms_Block_onBlockPlacedBy", "onBlockPlacedBy", "nms_EntityPainting__init_0", "nms_EntityPlayer_displayGUIEditSign", "displayGUIEditSign", "nms_ItemDoor_func_35434_a", "func_35434_a", "nms_EntityMinecart__init_0", "nms_BlockCrops_fertilize", "fertilize", "nms_BlockStem_func_35294_i", "func_35294_i", "nms_BlockMushroom_func_35293_c", "func_35293_c", "nms_BlockJukeBox_ejectRecord", "ejectRecord", "nms_EntityPlayer_func_35199_b", "func_35199_b", "nms_InventoryPlayer_func_35157_d", "func_35157_d",
-        "nms_World_rayTraceBlocks_do", "rayTraceBlocks_do", "nms_World_canMineBlock", "canMineBlock", "nms_EntitySnowball__init_1", "nms_EntityBoat__init_0", "nms_EntityEgg__init_0", "nms_EntityFish_catchFish", "catchFish", "nms_EntityFish__init_", "nms_PlayerList_func_35568_g", "func_35568_g", "nms_PlayerList_func_35573_a", "func_35573_a", "nms_PlayerList_func_35570_a", "func_35570_a", "nms_IChunkProvider_populate", "populate", "ju_AbstractMap_isEmpty", "nms_PlayerList_func_35572_e", "func_35572_e", "nms_PlayerList_func_35569_c",
-        "func_35569_c", "cjj_Drft_fdrffti", "fdrffti", "nms_J_LeafFunctor_typeSafeApplyTo", "typeSafeApplyTo", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_func_27322_a", "func_27322_a", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_func_27323_a", "func_27323_a", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_func_27321_b", "func_27321_b", "nms_NetHandler_registerPacket", "registerPacket", "nms_Entity_setPositionAndRotation", "setPositionAndRotation", "nms_WorldClient__init_",
-        "nms_GuiDownloadTerrain__init_", "nms_PlayerControllerMP_func_35648_a", "func_35648_a", "nms_PlayerControllerMP__init_", "nms_NetClientHandler_getEntityByID", "getEntityByID", "nms_Entity_performHurtAnimation", "performHurtAnimation", "nms_Packet0KeepAlive__init_0", "nms_Entity_outfitWithItem", "outfitWithItem", "nms_Packet1Login__init_0", "nms_EntityPlayerSP_setHealth", "setHealth", "nms_FoodStats_func_35764_a", "func_35764_a", "nms_FoodStats_func_35767_b", "func_35767_b", "nms_EntityPainting__init_1",
-        "nms_WorldClient_func_712_a", "func_712_a", "nms_Container_func_20110_b", "func_20110_b", "nms_Packet106Transaction__init_0", "nms_Container_func_20113_a", "func_20113_a", "nms_EntityPickupFX__init_", "nms_WorldClient_removeEntityFromWorld", "removeEntityFromWorld", "nms_WorldClient_doPreChunk", "doPreChunk", "nms_Entity_setPositionAndRotation2", "setPositionAndRotation2", "nms_EntityLiving_damageEntity", "damageEntity", "nms_Chunk_setBlockIDWithMetadata", "setBlockIDWithMetadata", "nms_WorldClient_invalidateBlockReceiveRegion",
-        "invalidateBlockReceiveRegion", "nms_PotionEffect__init_", "nms_EntityLiving_func_35165_a", "func_35165_a", "nms_EntityFish__init_0", "nms_EntityFireball__init_", "nms_Entity_setVelocity", "setVelocity", "nms_Container_putStackInSlot", "putStackInSlot", "nms_Packet40EntityMetadata_func_21047_b", "func_21047_b", "nms_Entity_getDataWatcher", "getDataWatcher", "nms_DataWatcher_updateWatchedObjectsFromList", "updateWatchedObjectsFromList", "nms_World_setChunkData", "setChunkData", "nms_Packet24MobSpawn_getMetadata",
-        "getMetadata", "nms_WorldClient_setBlockAndMetadataAndInvalidate", "setBlockAndMetadataAndInvalidate", "nms_EntityClientPlayerMP_func_27027_b", "func_27027_b", "nms_ItemMap_func_28013_a", "func_28013_a", "nms_MapData_func_28171_a", "func_28171_a", "nms_EntityPlayerSP_func_35219_c", "func_35219_c", "nms_EntityXPOrb__init_0", "nms_TileEntityFurnace__init_", "nms_TileEntityDispenser__init_", "nms_Container_func_20112_a", "func_20112_a", "nms_GuiSavingLevelString__init_", "nms_World_setRainStrength", "setRainStrength",
-        "nms_Entity_handleHealthUpdate", "handleHealthUpdate", "nms_EntityOtherPlayerMP__init_", "nms_Container_putStacksInSlots", "putStacksInSlots", "nms_Item_getDamageVsEntity", "nms_Item_hitEntity", "nms_Item_saddleEntity", "saddleEntity", "nms_Item_onBlockDestroyed", "onBlockDestroyed", "nms_DataWatcher_getWatchableObjectString", "getWatchableObjectString", "nms_World__init_0", "nms_Teleporter__init_", "nms_Teleporter_placeInPortal", "placeInPortal", "nms_WorldInfo_setSpawnY", "setSpawnY", "nms_WorldInfo_setSpawnX",
-        "setSpawnX", "nms_WorldInfo_setSpawnZ", "setSpawnZ", "nms_ChunkCoordinates__init_0", "ju_LinkedHashMap_sequencedKeySet", "sequencedKeySet", "nms_J_JsonStringNodeBuilder_func_27243_a", "func_27243_a", "nms_J_JsonNodeFactories_func_27313_b", "func_27313_b", "nms_J_JsonNodeFactories_func_27310_a", "func_27310_a", "nms_J_JsonNodeFactories_func_27314_c", "func_27314_c", "nms_Block_getExplosionResistance", "getExplosionResistance", "nms_Entity_getDistance", "getDistance", "nms_World_func_675_a", "func_675_a",
-        "nms_Block_dropBlockAsItemWithChance", "dropBlockAsItemWithChance", "nms_Block_onBlockDestroyedByExplosion", "onBlockDestroyedByExplosion", "nms_EffectRenderer_addBlockDestroyEffects", "addBlockDestroyEffects", "nms_StepSound_stepSoundDir", "stepSoundDir", "nms_IWorldAccess_playRecord", "nms_Material_getIsHarvestable", "getIsHarvestable", "nms_ItemStack_canHarvestBlock", "nms_ItemStack_getStrVsBlock", "nms_TileEntity_getBlockType", "getBlockType", "nms_TileEntity_getBlockMetadata", "nms_TileEntitySpecialRenderer_bindTextureByName",
-        "bindTextureByName", "nms_SignModel_renderSign", "renderSign", "nms_TileEntitySpecialRenderer_getFontRenderer", "getFontRenderer", "nms_TileEntityMobSpawner_getMobID", "getMobID", "nms_Entity_setWorld", "setWorld", "nms_TileEntityPiston_func_31017_b", "func_31017_b", "nms_TileEntityPiston_func_31014_c", "func_31014_c", "nms_TileEntityPiston_func_31013_d", "func_31013_d", "nms_TileEntityPiston_func_31012_k", "func_31012_k", "nms_RenderBlocks_func_31079_a", "func_31079_a", "nms_RenderBlocks_func_31075_a",
-        "func_31075_a", "nms_BlockPistonBase_func_31040_i", "func_31040_i", "nms_BlockPistonExtension_func_31052_a_", "func_31052_a_", "nms_BlockPistonExtension_func_31051_a", "func_31051_a", "nms_RenderBlocks_func_31078_d", "func_31078_d", "nms_ModelChest_func_35402_a", "func_35402_a", "nms_TileEntityChest_func_35147_g", "func_35147_g", "nms_BlockChest_func_35306_h", "func_35306_h", "nms_BlockPistonMoving_func_31035_a", "func_31035_a", "nms_World_func_35459_c", "func_35459_c", "nms_WorldGenTaiga2__init_", "nms_WorldGenerator_generate",
-        "nms_BlockMushroom_canThisPlantGrowOnThisBlockID", "canThisPlantGrowOnThisBlockID", "nms_BlockFlower_canThisPlantGrowOnThisBlockID", "nms_RenderEngine_releaseImageData", "releaseImageData", "nms_Entity_updateRidden", "updateRidden", "nms_Chunk_removeEntityAtIndex", "removeEntityAtIndex", "ju_TreeMap_size", "ju_TreeMap_firstKey", "firstKey", "nms_Chunk_func_35839_k", "func_35839_k", "nms_Material_getIsGroundCover", "getIsGroundCover", "nms_BlockChest_isThereANeighborChest", "isThereANeighborChest", "nms_Block_isCollidable",
-        "isCollidable", "nms_Block_isVecInsideYZBounds", "isVecInsideYZBounds", "nms_Block_isVecInsideXZBounds", "isVecInsideXZBounds", "nms_Block_isVecInsideXYBounds", "isVecInsideXYBounds", "jl_NoSuchMethodException__init_", "jlr_Constructor_getModifiers", "getModifiers", "jlr_Modifier_isPublic", "isPublic", "jlr_Constructor_getParameterTypes", "getParameterTypes", "nms_NBTTagShort__init_0", "nms_Entity_updateCloak", "updateCloak", "nms_EntityPlayer_readEntityFromNBT", "cjj_Tree_build_tree", "build_tree",
-        "cjj_Deflate_build_bl_tree", "build_bl_tree", "cjj_Deflate_set_data_type", "set_data_type", "cjj_Deflate_compress_block", "compress_block", "cjj_Deflate_send_all_trees", "send_all_trees", "nms_EntityWolf_setTailRotation", "setTailRotation", "nms_RenderSpider_setSpiderDeathMaxRotation", "setSpiderDeathMaxRotation", "nms_RenderSilverfish_func_35447_a", "func_35447_a", "nms_EntityPlayer_getBedOrientationInDegrees", "getBedOrientationInDegrees", "nms_EntitySpider_func_35188_k_", "func_35188_k_", "nms_EntityCreeper_setCreeperFlashTime",
-        "setCreeperFlashTime", "nms_ModelRenderer_func_35969_a", "func_35969_a", "nms_EntityEnderman_func_35115_a", "nms_EntityEnderman_func_35180_s", "func_35180_s", "nms_ModelBiped_renderEars", "renderEars", "nms_EntityCreeper_getPowered", "getPowered", "nmc_Minecraft_isGuiEnabled", "isGuiEnabled", "nms_Entity_getDistanceToEntity", "getDistanceToEntity", "nms_Render_getFontRendererFromRenderManager", "getFontRendererFromRenderManager", "nms_RenderLiving_renderLivingLabel", "renderLivingLabel", "oj_JSONArray_get",
-        "oj_JSONArray_wrongValueFormatException", "nms_WorldInfo_updateTagCompound", "updateTagCompound", "nms_NBTTagByte__init_0", "nms_ShapedRecipes_func_21137_a", "func_21137_a", "nms_InventoryCrafting_getStackInRowAndColumn", "getStackInRowAndColumn", "oj_JSONObject_length", "oj_JSONObject_entrySet", "oj_JSONObject_writeValue", "writeValue", "oj_JSONObject_indent", "indent", "oj_JSONArray_length", "nms_World_isBlockProvidingPowerTo", "isBlockProvidingPowerTo", "nms_BlockReed_canBlockStay", "nms_MinecraftException__init_",
-        "dcev_VFileFilter_accept", "otp_Platform_getDeclaringClass", "nms_J_CompactJsonFormatter_formatJsonNode", "formatJsonNode", "nms_MathHelper_bucketInt", "bucketInt", "nms_GuiAchievement_queueAchievementInformation", "queueAchievementInformation", "nms_MovementInput_updatePlayerMoveState", "updatePlayerMoveState", "nms_EntityPlayerSP_pushOutOfBlocks", "nms_EntityPlayer_onLivingUpdate", "nms_PotionEffect_func_35802_b", "func_35802_b", "nms_EntityLiving_isMovementBlocked", "isMovementBlocked", "nms_EntityLiving_moveEntityWithHeading",
-        "moveEntityWithHeading", "nms_EntityLiving_jump", "jump", "nms_EntityLiving_updateEntityActionState", "updateEntityActionState", "nms_EntityLiving_hasCurrentTarget", "hasCurrentTarget", "nms_EntityCreature_hasPath", "hasPath", "nms_EntityLiving_getCurrentTarget", "getCurrentTarget", "nms_EntityEnderman_func_35177_b", "func_35177_b", "nms_EntityEnderman_func_35181_c", "func_35181_c", "nms_EntityLiving_faceEntity", "faceEntity", "nms_Entity_getDistanceSqToEntity", "getDistanceSqToEntity", "nms_EntityEnderman_func_35183_c",
-        "func_35183_c", "nms_EntityEnderman_func_35178_q", "func_35178_q", "nms_EntityEnderman_func_35182_c", "func_35182_c", "nms_EntitySquid_isInWater", "nms_Block_canPlaceBlockOnSide", "canPlaceBlockOnSide", "nms_MathHelper_abs_max", "abs_max", "nms_EntityPlayer_func_35194_au", "func_35194_au", "nms_ItemStack_func_35863_b", "func_35863_b", "nms_DamageSource_func_35534_b", "func_35534_b", "nms_EntityPlayer_func_35162_ad", "func_35162_ad", "nms_EntityLiving_func_35162_ad", "nms_DamageSource_func_35533_c", "func_35533_c",
-        "nms_InventoryPlayer_damageArmor", "damageArmor", "nms_InventoryPlayer_dropAllItems", "dropAllItems", "nms_Entity_addToPlayerScore", "addToPlayerScore", "nms_Entity_onKillEntity", "onKillEntity", "nms_EntityLiving_a", "a", "nms_DamageSource_func_35526_e", "func_35526_e", "nms_EntityPlayer_triggerAchievement", "triggerAchievement", "nms_Entity_writeToNBT", "nms_Block_isPoweringTo", "isPoweringTo", "nms_RailLogic_func_786_c", "func_786_c", "nms_RailLogic_getMinecartTrackLogic", "getMinecartTrackLogic",
-        "nms_RailLogic_func_785_b", "func_785_b", "nms_RailLogic_handleKeyPress", "handleKeyPress", "nms_RailLogic_func_788_d", "func_788_d", "nms_Block_playBlock", "playBlock", "nms_EntityLiving_getTalkInterval", "getTalkInterval", "nms_EntityLiving_canBreatheUnderwater", "canBreatheUnderwater", "nms_EntityLiving_a0", "nms_EntityLiving_func_35163_av", "func_35163_av", "nms_EntityLiving_onEntityDeath", "onEntityDeath", "nms_EntityXPOrb_func_35121_b", "func_35121_b", "nms_EntityLiving_dropFewItems", "dropFewItems",
-        "nms_Material_getMaterialMobility", "getMaterialMobility", "nms_Path_sortBack", "sortBack", "nms_Path_sortForward", "sortForward", "nms_NBTTagCompound_setByteArray", "setByteArray", "nms_TileEntityFurnace_isBurning", "nms_TileEntityFurnace_getCookProgressScaled", "getCookProgressScaled", "nms_TileEntityFurnace_getBurnTimeRemainingScaled", "getBurnTimeRemainingScaled", "nms_IInventory_getInvName", "getInvName", "nms_RegionFile_getChunkDataInputStream", "getChunkDataInputStream", "nms_NBTTagCompound_getByteArray",
-        "nms_NibbleArray__init_0", "nms_NibbleArray_isValid", "nms_Chunk_func_1014_a", "func_1014_a", "nms_EntityList_createEntityFromNBT", "createEntityFromNBT", "nms_TileEntity_createAndLoadEntity", "createAndLoadEntity", "nms_Chunk_addTileEntity", "addTileEntity", "nms_NBTTagCompound_setLong", "setLong", "nms_Entity_addEntityID", "addEntityID", "nms_TileEntity_writeToNBT", "nms_RegionFile_getSizeDelta", "nms_EntityCreature_getBlockPathWeight", "getBlockPathWeight", "ju_TreeMap_pathToFirst", "pathToFirst",
-        "ju_TreeMap_pathToNext", "pathToNext", "ju_TreeMap_pathToExactOrNext", "pathToExactOrNext", "ju_TreeMap$EntryIterator__init_", "otciu_CLDRHelper_getCurrencyMap", "getCurrencyMap", "nms_EntityPainting_func_412_b", "func_412_b", "nms_EntityFish_calculateVelocity", "calculateVelocity", "nms_PlayerList_func_35571_a", "func_35571_a", "nms_PlayerListEntry__init_", "nms_PlayerList_func_35567_b", "func_35567_b", "cjj_Drft_drfti1", "drfti1", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException__init_",
-        "ju_LinkedList__init_1", "nms_SaveHandlerMP__init_", "nms_World__init_2", "nms_World_setSpawnPoint", "setSpawnPoint", "nms_WorldClient_func_709_b", "func_709_b", "nms_EntityFish__init_1", "nms_WorldInfo__init_1", "nms_Chunk_getHeightValue", "getHeightValue", "nms_World_getHeightValue", "nms_Chunk_checkSkylightNeighborHeight", "checkSkylightNeighborHeight", "jl_ReflectiveOperationException__init_", "jlr_Modifier__clinit_", "nms_EntityLiving_readEntityFromNBT", "nms_InventoryPlayer_readFromNBT", "nms_FoodStats_func_35766_a",
-        "func_35766_a", "oj_JSONString_toJSONString", "toJSONString", "oj_JSONObject_numberToString", "numberToString", "oj_JSONObject__init_2", "oj_JSONArray__init_1", "oj_JSONArray__init_2", "nms_J_JsonNode_getType", "ji_Writer_append", "nms_J_JsonNode_getElements", "ju_TreeSet__init_0", "ju_TreeSet_iterator", "nms_J_JsonEscapedString__init_", "nms_J_JsonEscapedString_toString", "ji_Writer_append0", "nms_InventoryPlayer_decrementAnimations", "decrementAnimations", "nms_EntityPlayer_collideWithPlayer", "collideWithPlayer",
-        "nms_EntityLiving_canEntityBeSeen", "canEntityBeSeen", "nms_RailLogic_isConnectedTo", "isConnectedTo", "nms_RailLogic_isInTrack", "isInTrack", "npems_TileEntitySupplier_createTileEntity", "createTileEntity", "nms_TileEntity_readFromNBT", "ju_TreeMap$EntryIterator_checkFinished", "checkFinished", "otciu_CLDRHelper_getCurrencyMap$$create", "getCurrencyMap$$create", "nms_PlayerList_func_35579_a", "func_35579_a", "nms_J_JsonConstants__clinit_", "nms_Chunk_func_35842_d", "func_35842_d", "oj_JSONParserConfiguration__init_",
-        "oj_JSONObject__init_3", "oj_JSONArray__init_3", "oj_JSONArray_addAll", "nms_EnumJsonNodeTypeMappingHelper__clinit_", "nms_Entity_onCollideWithPlayer", "onCollideWithPlayer", "nms_J_JsonConstants__init_", "oj_ParserConfiguration__init_", "oj_ParserConfiguration_getMaxNestingDepth", "getMaxNestingDepth", "oj_JSONObject_wrap", "oj_JSONArray_addAll0", "oj_JSONArray_addAll1", "nms_EnumJsonNodeType_values", "nms_EnumJsonNodeType__clinit_", "oj_JSONObject_wrap0", "oj_JSONArray_put", "jlr_Array_get", "oj_JSONArray_addAll2",
-        "nms_EnumJsonNodeType__init_", "nms_EnumJsonNodeType_$values", "jl_Class_getPackage", "getPackage", "jl_Package_getName", "jl_Class_getClassLoader", "getClassLoader", "jlr_Array_getImpl", "getImpl", "oj_JSONObject_wrap1", "oj_JSONObject_wrap2", "jl_Package__clinit_", "nms_BiomeGenSky_getSkyColorByTemp", "nms_EntityAnimal_getBlockPathWeight", "nms_EmptyChunk_onChunkUnload", "nms_PlayerControllerMP_setPartialTime", "nms_PlayerControllerMP_updateController", "nms_PlayerControllerMP_func_35638_c", "nms_PlayerControllerMP_func_35641_g",
-        "nms_PlayerControllerMP_sendUseItem", "nms_PlayerControllerMP_attackEntity", "nms_PlayerControllerMP_interactWithEntity", "nms_PlayerControllerMP_clickBlock", "nms_PlayerControllerMP_sendPlaceBlock", "nms_PlayerControllerMP_func_35640_h", "nms_PlayerControllerMP_resetBlockRemoving", "nms_PlayerControllerMP_sendBlockRemoving", "nms_PlayerControllerMP_getBlockReachDistance", "nms_PlayerControllerMP_func_35636_i", "nms_PlayerControllerMP_func_20086_a", "nms_PlayerControllerMP_shouldDrawHUD", "nms_PlayerControllerMP_func_35642_f",
-        "nms_PlayerControllerMP_func_717_a", "nms_PlayerControllerMP_createPlayer", "nms_PlayerControllerMP_flipPlayer", "nms_PlayerControllerMP_windowClick", "nms_PlayerControllerMP_func_35637_a", "nms_PlayerControllerMP_func_35639_a", "nms_EntityFish_setVelocity", "nms_EntityArrow_setVelocity", "nms_EntitySnowball_setVelocity", "nms_EntityEgg_setVelocity", "nms_EntityBoat_setVelocity", "nms_EmptyChunk_setBlockIDWithMetadata", "nms_WorldClient_setBlock", "nms_WorldClient_setBlockAndMetadata", "nms_WorldClient_setBlockMetadata",
-        "nms_WorldClient_scheduleBlockUpdate", "nms_WorldClient_obtainEntitySkin", "nms_WorldClient_entityJoinedWorld", "nms_J_JsonNumberNode_equals", "nms_J_JsonNumberNode_hashCode", "nms_WorldGenTaiga2_generate", "nms_WorldGenTrees_generate", "nms_WorldGenForest_generate", "nms_WorldGenBigTree_generate", "nms_PathPoint_toString", "ju_TreeMap$EntryIterator_next", "ju_TreeMap$EntryIterator_hasNext", "ju_TreeMap$EntryIterator_remove", "nms_EntityFish_entityInit", "nms_EntityLiving_performHurtAnimation", "nms_EntityLiving_setPositionAndRotation2",
-        "nms_EntityPlayer_handleHealthUpdate", "nms_EmptyChunk_func_997_a", "nms_EntityPig_fall", "nms_EntityChicken_fall", "nms_EntityFlying_fall", "nms_EntitySlime_onCollideWithPlayer", "nms_EntityArrow_onCollideWithPlayer", "nms_EntitySnowball_onCollideWithPlayer", "nms_EntityEgg_onCollideWithPlayer", "nms_EntityItem_onCollideWithPlayer", "nms_EntityXPOrb_onCollideWithPlayer", "nms_EntityFireball_entityInit", "nms_J_JsonArrayNodeSelector_toString", "nms_J_JsonStringNodeSelector_toString", "nms_J_JsonElementNodeSelector_toString",
-        "nms_J_JsonFieldNodeSelector_toString", "nms_J_JsonObjectNodeSelector_toString", "nms_SaveHandlerMP_getChunkLoader", "nms_SaveHandlerMP_saveWorldInfoAndPlayer", "nms_SaveHandlerMP_checkSessionLock", "nms_SaveHandlerMP_func_28113_a", "oj_JSONArray_iterator", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_toString", "nms_J_JsonNumberNode_toString", "nms_PathPoint_hashCode", "nms_EntitySpider_getLivingSound", "nms_EntitySkeleton_getLivingSound", "nms_EntityZombie_getLivingSound", "nms_GenLayerTemperature_func_35500_a",
-        "nms_GenLayerDownfall_func_35500_a", "nms_GenLayerRiverMix_func_35500_a", "nms_GenLayerZoomVoronoi_func_35500_a", "nms_GenLayerSmoothZoom_func_35500_a", "nms_GenLayerTemperatureMix_func_35500_a", "nms_GenLayerDownfallMix_func_35500_a", "nms_EntityItem_handleWaterMovement", "nms_EntityXPOrb_handleWaterMovement", "nms_EntityLiving_kill", "nms_InventoryLargeChest_func_35141_y_", "nms_EntityMinecart_func_35141_y_", "nms_InventoryLargeChest_canInteractWith", "nms_EntityMinecart_canInteractWith", "nms_ItemCloth_getPlacedBlockMetadata",
-        "nms_ItemLog_getPlacedBlockMetadata", "nms_ItemSlab_getPlacedBlockMetadata", "nms_ItemSapling_getPlacedBlockMetadata", "nms_ItemLeaves_getPlacedBlockMetadata", "nms_ItemVine_getPlacedBlockMetadata", "nms_ItemPiston_getPlacedBlockMetadata", "nms_BlockTorch_onBlockPlaced", "nms_BlockLadder_onBlockPlaced", "nms_BlockLever_onBlockPlaced", "nms_BlockButton_onBlockPlaced", "nms_BlockTrapDoor_onBlockPlaced", "nms_BlockVine_onBlockPlaced", "nms_BlockDispenser_onBlockPlacedBy", "nms_BlockPistonBase_onBlockPlacedBy",
-        "nms_BlockStairs_onBlockPlacedBy", "nms_BlockChest_onBlockPlacedBy", "nms_BlockFurnace_onBlockPlacedBy", "nms_BlockPumpkin_onBlockPlacedBy", "nms_BlockRedstoneRepeater_onBlockPlacedBy", "nms_BlockFenceGate_onBlockPlacedBy", "nms_EntityPlayerSP_displayGUIEditSign", "nms_ChunkProvider_populate", "nms_J_JsonStringNodeSelector_matchsNode", "matchsNode", "nms_J_JsonArrayNodeSelector_matchsNode", "nms_J_JsonElementNodeSelector_matchsNode", "nms_J_JsonObjectNodeSelector_matchsNode", "nms_J_JsonFieldNodeSelector_matchsNode",
-        "nms_J_JsonStringNodeSelector_typeSafeApplyTo", "nms_J_JsonArrayNodeSelector_typeSafeApplyTo", "nms_J_JsonElementNodeSelector_typeSafeApplyTo", "nms_J_JsonObjectNodeSelector_typeSafeApplyTo", "nms_J_JsonFieldNodeSelector_typeSafeApplyTo", "nms_Packet10Flying_writePacketData", "nms_Packet11PlayerPosition_writePacketData", "nms_Packet12PlayerLook_writePacketData", "nms_Packet13PlayerLookMove_writePacketData", "nms_EmptyChunk_removeEntityAtIndex", "nms_WorldClient_releaseEntitySkin", "nms_WorldClient_updateWeather",
-        "nms_WorldClient_tickUpdates", "nms_WorldClient_updateBlocksAndPlayCaveSounds", "nms_WorldClient_tick", "nms_WorldClient_sendQuittingDisconnectingPacket", "nms_WorldClient_setSpawnLocation", "nms_WorldClient_setEntityDead", "nms_Packet0KeepAlive_writePacketData", "nms_Packet1Login_writePacketData", "nms_Packet106Transaction_writePacketData", "nms_EntityMinecart_setVelocity", "nms_InventoryBasic_func_35141_y_", "nms_InventoryBasic_canInteractWith", "nms_InventoryBasic_getInvName", "nms_InventoryBasic_getSizeInventory",
-        "nms_InventoryBasic_func_35142_x_", "nms_TileEntityFurnace_getStackInSlot", "nms_TileEntityFurnace_getInventoryStackLimit", "nms_TileEntityFurnace_setInventorySlotContents", "nms_TileEntityFurnace_decrStackSize", "nms_TileEntityDispenser_getStackInSlot", "nms_TileEntityDispenser_getInventoryStackLimit", "nms_TileEntityDispenser_setInventorySlotContents", "nms_TileEntityDispenser_decrStackSize", "nms_ContainerFurnace_func_20112_a", "nms_ItemTool_getDamageVsEntity", "nms_ItemSword_getDamageVsEntity", "nms_ItemTool_hitEntity",
-        "nms_ItemSword_hitEntity", "nms_ItemSaddle_hitEntity", "nms_ItemSaddle_saddleEntity", "nms_ItemDye_saddleEntity", "nms_ItemTool_onBlockDestroyed", "nms_ItemSword_onBlockDestroyed", "nms_ItemShears_onBlockDestroyed", "nms_EntityPlayer_setEntityDead", "nms_BlockStairs_getExplosionResistance", "nms_BlockBed_dropBlockAsItemWithChance", "nms_BlockPistonMoving_dropBlockAsItemWithChance", "nms_BlockStairs_dropBlockAsItemWithChance", "nms_BlockCrops_dropBlockAsItemWithChance", "nms_BlockJukeBox_dropBlockAsItemWithChance",
-        "nms_BlockStem_dropBlockAsItemWithChance", "nms_BlockTNT_onBlockDestroyedByExplosion", "nms_BlockStairs_onBlockDestroyedByExplosion", "nms_StepSoundSand_stepSoundDir", "nms_StepSoundStone_stepSoundDir", "nms_RenderGlobal_playRecord", "nms_EntityPlayer_updateRidden", "nms_EntityLiving_updateRidden", "nms_BlockDeadBush_canThisPlantGrowOnThisBlockID", "nms_BlockCrops_canThisPlantGrowOnThisBlockID", "nms_BlockStem_canThisPlantGrowOnThisBlockID", "nms_BlockFire_isCollidable", "nms_BlockStairs_isCollidable",
-        "nms_EntityPlayer_updateCloak", "nms_EntityCaveSpider_func_35188_k_", "nms_ChunkFolderPattern_accept", "nms_MovementInputFromOptions_updatePlayerMoveState", "nms_EntityPlayer_isMovementBlocked", "nms_EntityCreature_func_35166_t_", "nms_EntityPlayer_moveEntityWithHeading", "nms_EntityFlying_moveEntityWithHeading", "nms_EntitySquid_moveEntityWithHeading", "nms_EntityPlayer_jump", "nms_EntityPlayerSP_updateEntityActionState", "nms_EntityCreature_updateEntityActionState", "nms_EntityWolf_updateEntityActionState",
-        "nms_EntitySilverfish_updateEntityActionState", "nms_EntitySlime_updateEntityActionState", "nms_EntityGhast_updateEntityActionState", "nms_EntitySquid_updateEntityActionState", "nms_BlockPistonExtension_canPlaceBlockOnSide", "nms_BlockPistonMoving_canPlaceBlockOnSide", "nms_BlockLever_canPlaceBlockOnSide", "nms_BlockButton_canPlaceBlockOnSide", "nms_BlockTrapDoor_canPlaceBlockOnSide", "nms_BlockVine_canPlaceBlockOnSide", "nms_EntityPlayer_addToPlayerScore", "nms_EntityPlayer_onKillEntity", "nms_EntitySheep_a",
-        "nms_EntityCow_a", "nms_EntityChicken_a", "nms_EntityEnderman_a", "nms_EntitySkeleton_a", "nms_EntitySquid_a", "nms_BlockDetectorRail_isPoweringTo", "nms_BlockRedstoneWire_isPoweringTo", "nms_BlockLever_isPoweringTo", "nms_BlockPressurePlate_isPoweringTo", "nms_BlockRedstoneTorch_isPoweringTo", "nms_BlockButton_isPoweringTo", "nms_BlockRedstoneRepeater_isPoweringTo", "nms_BlockContainer_playBlock", "nms_BlockNote_playBlock", "nms_BlockPistonBase_playBlock", "nms_EntityAnimal_getTalkInterval", "nms_EntityWaterMob_getTalkInterval",
-        "nms_EntityPig_getLivingSound", "nms_EntitySheep_getLivingSound", "nms_EntityCow_getLivingSound", "nms_EntityWolf_getLivingSound", "nms_EntityChicken_getLivingSound", "nms_EntitySilverfish_getLivingSound", "nms_EntityEnderman_getLivingSound", "nms_EntityGhast_getLivingSound", "nms_EntitySquid_getLivingSound", "nms_EntityPigZombie_getLivingSound", "nms_EntityWolf_getEyeHeight", "nms_EntityWaterMob_canBreatheUnderwater", "nms_EntityPlayer_a", "nms_EntityAnimal_a", "nms_EntityWaterMob_a", "nms_EntityPlayer_func_35163_av",
-        "nms_EntitySlime_setEntityDead", "nms_InventoryLargeChest_getInvName", "nms_EntityMinecart_getInvName", "nms_InventoryPlayer_getInvName", "nms_EntityMob_getBlockPathWeight", "nms_EmptyChunk_getHeightValue", "nms_J_JsonArray_getType", "ji_StringWriter_append", "nms_J_JsonArray_getElements", "nms_J_JsonArray_getFields", "nms_J_JsonArray_getText", "ji_StringWriter_append0", "nms_EntityItem_readEntityFromNBT", "nms_EntityXPOrb_readEntityFromNBT", "nms_EntityArrow_readEntityFromNBT", "nms_EntitySnowball_readEntityFromNBT",
-        "nms_EntityPainting_readEntityFromNBT", "nms_EntityMob_readEntityFromNBT", "nms_EntityCreeper_readEntityFromNBT", "nms_EntitySkeleton_readEntityFromNBT", "nms_EntitySpider_readEntityFromNBT", "nms_EntitySlime_readEntityFromNBT", "nms_EntityPigZombie_readEntityFromNBT", "nms_EntityEnderman_readEntityFromNBT", "nms_EntitySilverfish_readEntityFromNBT", "nms_EntityPig_readEntityFromNBT", "nms_TileEntity$_clinit_$lambda$_15_0_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_1_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_2_createTileEntity",
-        "nms_TileEntity$_clinit_$lambda$_15_3_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_4_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_5_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_6_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_7_createTileEntity", "nms_WorldClient_getChunkProvider", "jl_Float_toString", "nms_EntityPickupFX_getFXLayer", "nms_EntitySheep_readEntityFromNBT", "jl_Float_intValue", "nms_EntityFish_isInRangeToRenderDist", "nms_EntityLightningBolt_isInRangeToRenderVec3D",
-        "nms_EntityFish_getShadowSize", "nms_EntityFish_onUpdate", "nms_EntityLightningBolt_onUpdate", "nms_GuiDownloadTerrain_drawScreen", "jl_Float_equals", "nms_PotionEffect_hashCode", "jl_Float_hashCode", "nms_J_JsonNodeSelector_toString", "nms_EntitySquid_readEntityFromNBT", "nms_EntityBoat_readEntityFromNBT", "nms_EntityTNTPrimed_readEntityFromNBT", "nms_EntityWolf_readEntityFromNBT", "nms_EntityChicken_readEntityFromNBT", "nms_EntityCow_readEntityFromNBT", "nms_EntityFallingSand_readEntityFromNBT", "nms_EntityMinecart_readEntityFromNBT",
-        "nms_GuiDownloadTerrain_initGui", "nms_GuiDownloadTerrain_updateScreen", "nms_EntityPickupFX_renderParticle", "nms_EntityPickupFX_onUpdate", "nms_GuiDownloadTerrain_actionPerformed", "nms_GuiDownloadTerrain_keyTyped", "npja_Color_getHSBColor", "getHSBColor", "nms_PlayerControllerMP_syncCurrentPlayItem", "syncCurrentPlayItem", "nms_Packet14BlockDig__init_0", "nms_Packet15Place__init_0", "nms_Packet7UseEntity__init_0", "nms_PlayerControllerMP_sendBlockRemoved", "nms_EntityClientPlayerMP__init_", "nms_Container_func_20111_a",
-        "func_20111_a", "nms_Packet102WindowClick__init_0", "nms_Packet107CreativeSetSlot__init_0", "nms_PlayerControllerTest_func_35645_e", "func_35645_e", "nms_World_func_35458_d", "func_35458_d", "nms_World_func_35460_a", "func_35460_a", "nms_World_setLightValue", "nms_WorldBlockPositionType__init_", "nms_Block_isIndirectlyPoweringTo", "isIndirectlyPoweringTo", "nms_WorldGenBigTree_validTreeLocation", "validTreeLocation", "nms_WorldGenBigTree_generateLeafNodeList", "generateLeafNodeList", "nms_WorldGenBigTree_generateLeaves",
-        "generateLeaves", "nms_WorldGenBigTree_generateTrunk", "generateTrunk", "nms_WorldGenBigTree_generateLeafNodeBases", "generateLeafNodeBases", "nleiv_VFile2_listFiles4", "nms_World_handleMaterialAcceleration", "handleMaterialAcceleration", "nms_World_isMaterialInBB", "isMaterialInBB", "nms_ChunkBlockMap_func_26002_a", "func_26002_a", "ju_TreeMap$EntryIterator_next0", "nms_PotionEffect_func_35799_a", "func_35799_a", "nms_EntityLiving_func_35164_b", "func_35164_b", "nms_PotionEffect_func_35796_a", "func_35796_a",
-        "nms_EntityLiving_func_35161_c", "func_35161_c", "nms_EntityLiving_handleHealthUpdate", "nms_DamageSource_func_35525_a", "func_35525_a", "nms_EntityPlayer_onItemPickup", "onItemPickup", "nms_EntityPlayer_func_35204_c", "func_35204_c", "nms_MapCoord__init_", "nms_World_func_35455_a", "func_35455_a", "nms_World_unloadEntities", "unloadEntities", "nms_BlockContainer_getBlockEntity", "getBlockEntity", "nms_World_setBlockTileEntity", "setBlockTileEntity", "nms_NibbleArray_getNibble", "getNibble", "nms_TileEntity_invalidate",
-        "nms_TileEntity_validate", "validate", "nle_EagRuntime_dumpStack", "dumpStack", "nms_NibbleArray_setNibble", "setNibble", "nms_Block_onBlockRemoval", "onBlockRemoval", "nms_World_scheduleLightingUpdate", "scheduleLightingUpdate", "nms_Chunk_propagateSkylightOcclusion", "propagateSkylightOcclusion", "nms_Chunk_relightBlock", "relightBlock", "nms_World_addTileEntity", "nms_World_addLoadedEntities", "addLoadedEntities", "nms_BiomeCache_func_35726_e", "func_35726_e", "nms_BiomeCacheBlock_func_35650_b", "func_35650_b",
-        "nms_BiomeCacheBlock_func_35652_c", "func_35652_c", "nms_BiomeCacheBlock_func_35651_a", "func_35651_a", "nms_WorldChunkManager_func_35555_a", "func_35555_a", "nms_IntCache_func_35267_a", "func_35267_a", "nms_BiomeGenBase_func_35474_f", "func_35474_f", "nms_BiomeGenBase_func_35476_e", "func_35476_e", "nms_GenLayer_func_35499_a", "func_35499_a", "nms_GenLayer_func_35498_a", "func_35498_a", "nms_ChunkProviderHell_func_4057_a", "func_4057_a", "nms_NoiseGeneratorOctaves_generateNoiseOctaves", "generateNoiseOctaves",
-        "nms_MapGenBase_recursiveGenerate", "recursiveGenerate", "nms_WorldChunkManager_func_35557_b", "func_35557_b", "nms_ChunkProviderGenerate_func_4061_a", "func_4061_a", "nms_ChunkProviderSky_func_28073_a", "func_28073_a", "nms_RegionFile_func_22197_a", "func_22197_a", "nms_RegionFile_write0", "nms_RegionFile_setChunkTimestamp", "setChunkTimestamp", "nms_RegionFile_setOffset", "setOffset", "nlesse_RandomAccessMemoryFile_write0", "nms_BlockButton_getOrientation", "nms_BlockPistonBase_determineOrientation",
-        "determineOrientation", "nms_GuiEditSign__init_", "nms_WorldGenBigMushroom__init_", "nms_WorldGenBigMushroom_generate", "nms_Chunk_setChunkModified", "setChunkModified", "nms_J_JsonStringNodeSelector_func_27072_a", "func_27072_a", "nms_J_JsonArrayNodeSelector_matchsNode_", "matchsNode_", "nms_J_JsonElementNodeSelector_matchsNode_", "nms_J_JsonObjectNodeSelector_func_27070_a", "func_27070_a", "nms_J_JsonFieldNodeSelector_func_27065_a", "func_27065_a", "nms_J_JsonStringNodeSelector_func_27073_b", "func_27073_b",
-        "nms_J_JsonArrayNodeSelector_typeSafeApplyTo0", "nms_J_JsonElementNodeSelector_typeSafeApplyTo_", "typeSafeApplyTo_", "nms_J_JsonObjectNodeSelector_func_27071_b", "func_27071_b", "nms_J_JsonFieldNodeSelector_func_27064_b", "func_27064_b", "nms_Packet255KickDisconnect__init_0", "nms_NetClientHandler_func_28117_a", "func_28117_a", "nms_ChunkProviderClient_func_539_c", "func_539_c", "nms_ChunkProviderClient_loadChunk", "nms_Chunk_setChunkData", "nms_World_updateTileEntityChunkAndDoNothing", "updateTileEntityChunkAndDoNothing",
-        "nms_EntityPig_setSaddled", "setSaddled", "nms_Teleporter_placeInExistingPortal", "placeInExistingPortal", "nms_Teleporter_createPortal", "createPortal", "ju_LinkedHashMapKeySet__init_", "nms_Block_quantityDropped", "quantityDropped", "nms_Block_idDropped", "idDropped", "nms_Block_damageDropped", "damageDropped", "nms_TileEntityPiston_getBlockMetadata", "nms_GuiIngame_setRecordPlayingMessage", "setRecordPlayingMessage", "nms_Item_canHarvestBlock", "nms_Item_getStrVsBlock", "nms_TileEntityRenderer_getFontRenderer",
-        "nms_EntityPlayer_addMountedMovementStat", "addMountedMovementStat", "nms_Entity_updateRiderPosition", "updateRiderPosition", "ju_TreeMap_firstNode", "firstNode", "jl_Class_initReflection", "initReflection", "jlr_Constructor__init_", "cjj_Deflate_pqdownheap", "pqdownheap", "cjj_Tree_gen_bitlen", "gen_bitlen", "cjj_Tree_gen_codes", "gen_codes", "cjj_Deflate_scan_tree", "scan_tree", "cjj_Deflate_send_tree", "send_tree", "nms_RenderManager_getFontRenderer", "oj_JSONArray_opt", "nms_EntityPlayerSP_isBlockTranslucent",
-        "isBlockTranslucent", "nms_EntityPlayer_addMovementStat", "addMovementStat", "nms_Entity_moveFlying", "moveFlying", "nms_Entity_isOffsetPositionInLiquid", "isOffsetPositionInLiquid", "nms_EntityPlayer_updateEntityActionState", "nms_EntityLiving_despawnEntity", "despawnEntity", "nms_EntityLiving_getVerticalFaceSpeed", "getVerticalFaceSpeed", "nms_EntityCreature_isMovementCeased", "isMovementCeased", "nms_EntityCreature_findPlayerToAttack", "findPlayerToAttack", "nms_World_getPathToEntity", "getPathToEntity",
-        "nms_EntityCreature_func_31026_E", "func_31026_E", "nms_PathEntity_getPosition", "nms_Vec3D_squareDistanceTo0", "nms_PathEntity_incrementPathIndex", "incrementPathIndex", "nms_PathEntity_isFinished", "isFinished", "nms_EntityCreature_attackBlockedEntity", "attackBlockedEntity", "nms_EntityCreature_attackEntity", "nms_World_getPlayerEntityByName", "getPlayerEntityByName", "nms_EntityWolf_getPathOrWalkableBlock", "getPathOrWalkableBlock", "nms_BlockSilverfish_func_35305_d", "func_35305_d", "nms_BlockSilverfish_func_35304_f",
-        "func_35304_f", "nms_EntityGhast_isCourseTraversable", "isCourseTraversable", "nms_EntityFireball__init_0", "nms_EntityLiving_updateRotation", "updateRotation", "nms_EntityEnderman_func_35179_a_", "func_35179_a_", "nms_EntityLiving_getDropItemId", "getDropItemId", "nms_EntityEnderman_getDropItemId", "nms_Entity_newDoubleNBTList", "newDoubleNBTList", "nms_Entity_newFloatNBTList", "newFloatNBTList", "nms_NBTTagCompound_setFloat", "setFloat", "nms_Entity_writeEntityToNBT", "writeEntityToNBT", "nms_TileEntity_func_35143_b",
-        "func_35143_b", "nms_BlockPistonBase_tryExtend", "tryExtend", "nms_BlockPistonMoving_getNewTileEntity", "getNewTileEntity", "nms_TileEntityPiston_clearPistonTileEntity", "clearPistonTileEntity", "nms_PotionEffect_func_35798_a", "func_35798_a", "nms_EntityLiving_func_35158_d", "func_35158_d", "nms_NBTTagByteArray__init_0", "nms_RegionFile_debugln0", "nlesse_RandomAccessMemoryFile_readByte", "nlesse_RandomAccessMemoryFile_read0", "juz_InflaterInputStream__init_0", "nms_NBTTagLong__init_0", "nms_Entity_getEntityString",
-        "ju_TreeMap_height", "height", "ju_TreeMap$TreeNode_forward", "forward", "ju_TreeMap$TreeNode_down", "down", "nms_EntityPainting_func_411_c", "func_411_c", "nms_ItemStack_func_35864_a", "func_35864_a", "ji_StringWriter_append1", "ji_StringWriter_append2", "nms_ItemStack_updateAnimation", "updateAnimation", "nms_EntityAnimal_readEntityFromNBT", "nms_TileEntityRecordPlayer__init_", "nms_TileEntitySign__init_", "nms_TileEntityMobSpawner__init_", "nms_TileEntityNote__init_", "nms_TileEntityPiston__init_",
-        "nms_J_Functor_shortForm", "nms_ChunkProviderClient__init_", "jl_Package_getPackage", "jl_ClassLoader_getSystemClassLoader", "getSystemClassLoader", "jl_Float_toString0", "nms_Entity_onStruckByLightning", "onStruckByLightning", "jl_Float_equals0", "jl_Float_hashCode0", "nms_EntityWaterMob_readEntityFromNBT", "nms_NBTTagCompound_getDouble", "getDouble", "npja_Color__init_1", "nms_Packet16BlockItemSwitch__init_0", "nms_ChunkBlockMap__clinit_", "nms_World_markBlocksDirtyVertical", "markBlocksDirtyVertical",
-        "nms_BiomeCacheBlock__init_", "nms_IntCache__clinit_", "nms_NoiseGeneratorOctaves_func_4109_a", "func_4109_a", "nlesse_RandomAccessMemoryFile_writeByte", "nlesse_RandomAccessMemoryFile_write1", "nms_GuiEditSign__clinit_", "jl_Math_round0", "nms_ChunkCoordinates_getSqDistanceTo", "getSqDistanceTo", "jl_Class_createMetadata", "createMetadata", "jlr_AccessibleObject__init_", "cjj_Tree_bi_reverse", "bi_reverse", "nms_TileEntityPiston__init_0", "nms_RegionFile_func_22199_a", "func_22199_a", "nms_ItemStack__init_7",
-        "nms_ItemStack_readFromNBT", "jl_Package__init_", "jl_ClassLoader__clinit_", "nms_BiomeCache_func_35721_a", "func_35721_a", "nms_WorldChunkManager_getTemperatures", "getTemperatures", "nms_WorldChunkManager_func_35560_b", "func_35560_b", "jl_Math_signum0", "jl_SystemClassLoader__init_", "jl_Math_sign", "jl_ClassLoader__init_", "jl_ClassLoader__init_0", "nms_EntityClientPlayerMP_addStat", "nms_EntityClientPlayerMP_joinEntityItemWithWorld", "nms_EntityClientPlayerMP_dropCurrentItem", "nms_EntityClientPlayerMP_swingItem",
-        "nms_EntityClientPlayerMP_b", "nms_EntityClientPlayerMP_attackEntityFrom", "nms_EntityClientPlayerMP_closeScreen", "nms_EntityClientPlayerMP_sendChatMessage", "nms_EntityClientPlayerMP_respawnPlayer", "nms_EntityClientPlayerMP_setHealth", "nms_MapGenStructure_recursiveGenerate", "ju_LinkedHashMapKeySet_iterator", "ju_LinkedHashMapKeySet_size", "nms_MapData_readFromNBT", "jlr_Constructor_toString", "ju_AbstractMap$SimpleEntry_equals", "ju_AbstractMap$SimpleEntry_toString", "nms_J_JsonNumberNode_getType",
-        "nms_J_JsonObject_getType", "nms_J_JsonConstants_getType", "nms_J_JsonNumberNode_getElements", "nms_J_JsonObject_getElements", "nms_J_JsonConstants_getElements", "nms_J_JsonNumberNode_getFields", "nms_J_JsonObject_getFields", "nms_J_JsonConstants_getFields", "nms_J_JsonNumberNode_getText", "nms_J_JsonObject_getText", "nms_J_JsonConstants_getText", "nms_TileEntityFurnace_readFromNBT", "nms_TileEntityChest_readFromNBT", "nms_TileEntityRecordPlayer_readFromNBT", "nms_TileEntityDispenser_readFromNBT", "nms_TileEntitySign_readFromNBT",
-        "nms_TileEntityMobSpawner_readFromNBT", "nms_TileEntityNote_readFromNBT", "nms_TileEntityPiston_readFromNBT", "nms_EntityOtherPlayerMP_getEyeHeight", "nms_Packet19EntityAction_writePacketData", "nms_WorldChunkManagerHell_getTemperatures", "nms_WorldChunkManagerHell_func_35560_b", "nms_EntityPlayerSP_moveEntity", "nms_EntityPlayerSP_onItemPickup", "nms_EntityClientPlayerMP_heal", "nms_EntityClientPlayerMP_onUpdate", "nms_J_JsonStringNode_getType", "nms_J_JsonStringNode_getElements", "nms_J_JsonStringNode_getFields",
-        "nms_J_JsonStringNode_equals", "nms_J_JsonStringNode_hashCode", "nms_J_JsonStringNode_toString", "ju_AbstractMap$SimpleEntry_hashCode", "nms_ChunkProviderClient_provideChunk", "nms_ChunkProviderClient_unload100OldestChunks", "nms_ChunkProviderClient_canSave", "nms_ChunkProviderClient_saveChunks", "nms_ChunkProviderClient_makeString", "nms_ChunkProviderClient_chunkExists", "nms_EntityPlayerSP_writeEntityToNBT", "nms_J_JsonStringNode_compareTo", "nms_EntityLiving_writeEntityToNBT", "nms_EntitySpider_writeEntityToNBT",
-        "nms_EntityPig_writeEntityToNBT", "nms_EntitySheep_writeEntityToNBT", "nms_EntityCow_writeEntityToNBT", "nms_EntityWolf_writeEntityToNBT", "nms_EntityChicken_writeEntityToNBT", "nms_EntitySilverfish_writeEntityToNBT", "nms_EntityCreeper_writeEntityToNBT", "nms_EntityEnderman_writeEntityToNBT", "nms_EntitySkeleton_writeEntityToNBT", "nms_EntityMob_writeEntityToNBT", "nms_EntitySlime_writeEntityToNBT", "nms_EntitySquid_writeEntityToNBT", "nms_EntityPainting_writeEntityToNBT", "nms_EntityArrow_writeEntityToNBT",
-        "nms_EntitySnowball_writeEntityToNBT", "nms_EntityEgg_writeEntityToNBT", "nms_EntityItem_writeEntityToNBT", "nms_EntityXPOrb_writeEntityToNBT", "nms_EntityTNTPrimed_writeEntityToNBT", "nms_EntityFallingSand_writeEntityToNBT", "nms_EntityMinecart_writeEntityToNBT", "nms_EntityBoat_writeEntityToNBT", "nms_EntityFish_writeEntityToNBT", "nms_EntityLightningBolt_writeEntityToNBT", "nms_EntityFX_writeEntityToNBT", "nms_EntityPigZombie_writeEntityToNBT", "nms_Packet14BlockDig_writePacketData", "nms_Packet15Place_writePacketData",
-        "nms_Packet7UseEntity_writePacketData", "nms_Packet102WindowClick_writePacketData", "nms_Packet107CreativeSetSlot_writePacketData", "nms_BlockDetectorRail_isIndirectlyPoweringTo", "nms_BlockRedstoneWire_isIndirectlyPoweringTo", "nms_BlockLever_isIndirectlyPoweringTo", "nms_BlockPressurePlate_isIndirectlyPoweringTo", "nms_BlockRedstoneTorch_isIndirectlyPoweringTo", "nms_BlockButton_isIndirectlyPoweringTo", "nms_BlockRedstoneRepeater_isIndirectlyPoweringTo", "nms_BlockDispenser_getBlockEntity", "nms_BlockNote_getBlockEntity",
-        "nms_BlockPistonMoving_getBlockEntity", "nms_BlockMobSpawner_getBlockEntity", "nms_BlockChest_getBlockEntity", "nms_BlockFurnace_getBlockEntity", "nms_BlockSign_getBlockEntity", "nms_BlockJukeBox_getBlockEntity", "nms_BlockLog_onBlockRemoval", "nms_BlockLeaves_onBlockRemoval", "nms_BlockSponge_onBlockRemoval", "nms_BlockDispenser_onBlockRemoval", "nms_BlockContainer_onBlockRemoval", "nms_BlockPistonExtension_onBlockRemoval", "nms_BlockPistonMoving_onBlockRemoval", "nms_BlockStairs_onBlockRemoval", "nms_BlockChest_onBlockRemoval",
-        "nms_BlockRedstoneWire_onBlockRemoval", "nms_BlockFurnace_onBlockRemoval", "nms_BlockLever_onBlockRemoval", "nms_BlockPressurePlate_onBlockRemoval", "nms_BlockRedstoneTorch_onBlockRemoval", "nms_BlockButton_onBlockRemoval", "nms_BlockJukeBox_onBlockRemoval", "nms_BlockFlowing_onBlockAdded", "nms_BlockFluid_onBlockAdded", "nms_BlockSand_onBlockAdded", "nms_BlockSponge_onBlockAdded", "nms_BlockDispenser_onBlockAdded", "nms_BlockContainer_onBlockAdded", "nms_BlockRail_onBlockAdded", "nms_BlockPistonBase_onBlockAdded",
-        "nms_BlockPistonMoving_onBlockAdded", "nms_BlockStep_onBlockAdded", "nms_BlockTNT_onBlockAdded", "nms_BlockFire_onBlockAdded", "nms_BlockStairs_onBlockAdded", "nms_BlockChest_onBlockAdded", "nms_BlockRedstoneWire_onBlockAdded", "nms_BlockFurnace_onBlockAdded", "nms_BlockPressurePlate_onBlockAdded", "nms_BlockPumpkin_onBlockAdded", "nms_BlockRedstoneRepeater_onBlockAdded", "nms_LayerIsland_func_35500_a", "nms_GenLayerZoomFuzzy_func_35500_a", "nms_GenLayerIsland_func_35500_a", "nms_GenLayerZoom_func_35500_a",
-        "nms_GenLayerRiverInit_func_35500_a", "nms_GenLayerRiver_func_35500_a", "nms_GenLayerVillageLandscape_func_35500_a", "nms_GenLayerSmooth_func_35500_a", "nms_MapGenCavesHell_recursiveGenerate", "nms_MapGenCaves_recursiveGenerate", "nms_MapGenRavine_recursiveGenerate", "nms_EmptyChunk_setChunkModified", "nms_ChunkProviderHell_populate", "nms_ChunkProviderGenerate_populate", "nms_ChunkProviderFlat_populate", "nms_ChunkProviderSky_populate", "nms_EmptyChunk_setChunkData", "nms_BlockFluid_quantityDropped",
-        "nms_BlockOre_quantityDropped", "nms_BlockLog_quantityDropped", "nms_BlockLeaves_quantityDropped", "nms_BlockGlass_quantityDropped", "nms_BlockRail_quantityDropped", "nms_BlockPistonExtension_quantityDropped", "nms_BlockStep_quantityDropped", "nms_BlockTNT_quantityDropped", "nms_BlockBookshelf_quantityDropped", "nms_BlockObsidian_quantityDropped", "nms_BlockFire_quantityDropped", "nms_BlockMobSpawner_quantityDropped", "nms_BlockStairs_quantityDropped", "nms_BlockCrops_quantityDropped", "nms_BlockLadder_quantityDropped",
-        "nms_BlockRedstoneOre_quantityDropped", "nms_BlockSnow_quantityDropped", "nms_BlockIce_quantityDropped", "nms_BlockSnowBlock_quantityDropped", "nms_BlockClay_quantityDropped", "nms_BlockGlowStone_quantityDropped", "nms_BlockPortal_quantityDropped", "nms_BlockCake_quantityDropped", "nms_BlockSilverfish_quantityDropped", "nms_BlockMushroomCap_quantityDropped", "nms_BlockMelon_quantityDropped", "nms_BlockStem_quantityDropped", "nms_BlockVine_quantityDropped", "nms_BlockStone_idDropped", "nms_BlockGrass_idDropped",
-        "nms_BlockFluid_idDropped", "nms_BlockGravel_idDropped", "nms_BlockOre_idDropped", "nms_BlockLog_idDropped", "nms_BlockLeaves_idDropped", "nms_BlockDispenser_idDropped", "nms_BlockBed_idDropped", "nms_BlockWeb_idDropped", "nms_BlockTallGrass_idDropped", "nms_BlockDeadBush_idDropped", "nms_BlockPistonMoving_idDropped", "nms_BlockStep_idDropped", "nms_BlockObsidian_idDropped", "nms_BlockMobSpawner_idDropped", "nms_BlockStairs_idDropped", "nms_BlockRedstoneWire_idDropped", "nms_BlockCrops_idDropped", "nms_BlockFarmland_idDropped",
-        "nms_BlockFurnace_idDropped", "nms_BlockSign_idDropped", "nms_BlockDoor_idDropped", "nms_BlockRedstoneOre_idDropped", "nms_BlockRedstoneTorch_idDropped", "nms_BlockSnow_idDropped", "nms_BlockSnowBlock_idDropped", "nms_BlockClay_idDropped", "nms_BlockReed_idDropped", "nms_BlockGlowStone_idDropped", "nms_BlockCake_idDropped", "nms_BlockRedstoneRepeater_idDropped", "nms_BlockMushroomCap_idDropped", "nms_BlockMelon_idDropped", "nms_BlockStem_idDropped", "nms_BlockVine_idDropped", "nms_BlockSapling_damageDropped",
-        "nms_BlockOre_damageDropped", "nms_BlockLog_damageDropped", "nms_BlockLeaves_damageDropped", "nms_BlockCloth_damageDropped", "nms_BlockStep_damageDropped", "nms_BlockStoneBrick_damageDropped", "nms_ItemSpade_canHarvestBlock", "nms_ItemPickaxe_canHarvestBlock", "nms_ItemSword_canHarvestBlock", "nms_ItemShears_canHarvestBlock", "nms_ItemTool_getStrVsBlock", "nms_ItemSword_getStrVsBlock", "nms_ItemShears_getStrVsBlock", "nms_EntityBoat_updateRiderPosition", "nms_EntitySpider_canTriggerWalking", "nms_EntityWolf_canTriggerWalking",
-        "nms_EntitySilverfish_canTriggerWalking", "nms_EntitySpider_func_35112_o", "nms_EntityPlayer_setInPortal", "nms_EntitySpider_isOnLadder", "nms_EntityFlying_isOnLadder", "nms_EntityWolf_getVerticalFaceSpeed", "nms_EntityWolf_isMovementCeased", "nms_EntitySpider_findPlayerToAttack", "nms_EntityWolf_findPlayerToAttack", "nms_EntitySilverfish_findPlayerToAttack", "nms_EntityMob_findPlayerToAttack", "nms_EntityEnderman_findPlayerToAttack", "nms_EntityPigZombie_findPlayerToAttack", "nms_EntityCreeper_attackBlockedEntity",
-        "nms_EntitySpider_attackEntity", "nms_EntityWolf_attackEntity", "nms_EntitySilverfish_attackEntity", "nms_EntityCreeper_attackEntity", "nms_EntityMob_attackEntity", "nms_EntitySkeleton_attackEntity", "nms_EntitySpider_getDropItemId", "nms_EntityPig_getDropItemId", "nms_EntitySheep_getDropItemId", "nms_EntityCow_getDropItemId", "nms_EntityWolf_getDropItemId", "nms_EntityChicken_getDropItemId", "nms_EntitySilverfish_getDropItemId", "nms_EntityCreeper_getDropItemId", "nms_EntitySkeleton_getDropItemId",
-        "nms_EntityZombie_getDropItemId", "nms_EntitySlime_getDropItemId", "nms_EntityGhast_getDropItemId", "nms_EntitySquid_getDropItemId", "nms_EntityPigZombie_getDropItemId", "nms_J_JsonStringNodeSelector_shortForm", "nms_J_JsonArrayNodeSelector_shortForm", "nms_J_ChainedFunctor_shortForm", "nms_J_JsonElementNodeSelector_shortForm", "nms_J_JsonObjectNodeSelector_shortForm", "nms_J_JsonFieldNodeSelector_shortForm", "nms_EntityPig_onStruckByLightning", "nms_EntityCreeper_onStruckByLightning", "nms_J_ChainedFunctor_toString",
-        "nms_Packet16BlockItemSwitch_writePacketData", "nms_EntityOtherPlayerMP_resetHeight", "nms_EntityOtherPlayerMP_attackEntityFrom", "nms_EntityOtherPlayerMP_onLivingUpdate", "nms_EntityOtherPlayerMP_onUpdate", "nms_EntityFireball_onUpdate", "nms_TileEntityRecordPlayer_writeToNBT", "nms_TileEntityChest_writeToNBT", "nms_TileEntityNote_writeToNBT", "nms_TileEntitySign_writeToNBT", "nms_TileEntityFurnace_writeToNBT", "nms_TileEntityDispenser_writeToNBT", "nms_TileEntityMobSpawner_writeToNBT", "nms_TileEntityPiston_writeToNBT",
-        "nms_TileEntityChest_getSizeInventory", "nms_TileEntityChest_getStackInSlot", "nms_TileEntityChest_getInventoryStackLimit", "nms_TileEntityChest_setInventorySlotContents", "nms_TileEntityChest_decrStackSize", "nms_TileEntityChest_func_35142_x_", "nms_TileEntityChest_func_35141_y_", "nms_TileEntityChest_canInteractWith", "nms_TileEntityChest_func_35143_b", "nms_TileEntityChest_invalidate", "nms_EntityOtherPlayerMP_func_6420_o", "nms_EntityBoat_performHurtAnimation", "nms_EntityMinecart_performHurtAnimation",
-        "nms_EntityOtherPlayerMP_outfitWithItem", "nms_EntityOtherPlayerMP_getShadowSize", "nms_EntityFireball_getShadowSize", "nms_EntityOtherPlayerMP_setPositionAndRotation2", "nms_EntityFish_setPositionAndRotation2", "nms_EntityBoat_setPositionAndRotation2", "nms_EntityMinecart_setPositionAndRotation2", "nms_EntityWolf_handleHealthUpdate", "jl_Float_compareTo", "nms_EntityFireball_isInRangeToRenderDist", "nms_EntityFireball_attackEntityFrom", "nms_EntityFireball_canBeCollidedWith", "nms_EntityFireball_getCollisionBorderSize",
-        "nms_EntityPlayer_writeEntityToNBT", "nms_GuiEditSign_drawScreen", "jl_Byte_toString", "nms_TileEntityChest_getInvName", "nms_TileEntityFurnace_updateEntity", "nms_TileEntityMobSpawner_updateEntity", "nms_TileEntityChest_updateEntity", "nms_TileEntityPiston_updateEntity", "nms_EntityFireball_writeEntityToNBT", "nms_GuiEditSign_initGui", "nms_GuiEditSign_updateScreen", "nms_GuiEditSign_onGuiClosed", "jl_Byte_intValue", "nms_GuiEditSign_actionPerformed", "nms_GuiEditSign_keyTyped", "jl_Byte_hashCode",
-        "jl_Byte_compareTo", "nms_Packet18Animation__init_0", "nms_Packet101CloseWindow__init_0", "nms_Packet3Chat__init_0", "nms_EntityClientPlayerMP_sendInventoryChanged", "sendInventoryChanged", "nms_Packet9Respawn__init_0", "nms_Entity_getMountedYOffset", "getMountedYOffset", "nms_Entity_getYOffset", "getYOffset", "nms_WatchableObject_getDataValueId", "getDataValueId", "nms_MapGenStructure_func_35628_a", "func_35628_a", "nms_MapGenStructure_func_35630_b", "func_35630_b", "nms_Item_func_35414_a", "func_35414_a",
-        "nms_Item_func_35413_b", "func_35413_b", "ju_LinkedHashMapIterator$KeyIterator__init_", "jl_InstantiationException__init_", "jl_IllegalAccessException__init_", "otcir_Converter_arrayFromJava", "arrayFromJava", "jl_Class_newEmptyInstance", "newEmptyInstance", "otcir_Converter_toJava", "toJava", "otcir_Flags_getModifiers", "jlr_Modifier_toString", "nms_TileEntityFurnace_getSizeInventory", "nms_TileEntityFurnace_getItemBurnTime", "getItemBurnTime", "nms_TileEntityDispenser_getSizeInventory", "nms_Chunk_func_21167_h",
-        "func_21167_h", "ju_Arrays_fill6", "nms_IntCache_func_35268_a", "func_35268_a", "ju_Arrays_fill3", "nms_EntityLiving_canDespawn", "canDespawn", "nms_EntityPlayer_func_35203_aG", "func_35203_aG", "nms_EntityClientPlayerMP_func_4056_N", "func_4056_N", "nms_NBTTagDouble__init_0", "nms_NBTTagFloat__init_0", "nms_J_JsonStringNode_func_27223_a", "func_27223_a", "ju_AbstractMap_values", "nms_EntityAnimal_writeEntityToNBT", "nms_EntityWaterMob_writeEntityToNBT", "nms_ItemStack_writeToNBT", "nms_NBTTagCompound_setDouble",
-        "setDouble", "ji_DataOutputStream_writeBoolean", "writeBoolean", "nms_Chunk_setLightValue", "nms_WorldGenBigTree_checkBlockLine", "checkBlockLine", "nms_WorldGenBigTree_func_528_a", "func_528_a", "nms_WorldGenBigTree_generateLeafNode", "generateLeafNode", "nms_WorldGenBigTree_placeBlockLine", "placeBlockLine", "nms_WorldGenBigTree_leafNodeNeedsBase", "leafNodeNeedsBase", "dcev_VFilenameFilter_accept", "nms_Block_velocityToAddToEntity", "velocityToAddToEntity", "jl_RuntimeException__init_5", "nms_World_removeBlockTileEntity",
-        "removeBlockTileEntity", "nms_BlockRedstoneWire_notifyWireNeighborsOfNeighborChange", "notifyWireNeighborsOfNeighborChange", "nms_BlockDispenser_setDispenserDefaultDirection", "setDispenserDefaultDirection", "nms_BlockPortal_tryToCreatePortal", "tryToCreatePortal", "nms_BlockFurnace_setDefaultDirection", "setDefaultDirection", "nms_GenLayerZoomFuzzy_func_35511_a", "func_35511_a", "nms_GenLayerZoomFuzzy_func_35510_b", "func_35510_b", "nms_GenLayerZoom_func_35516_a", "func_35516_a", "nms_GenLayerZoom_func_35514_b",
-        "func_35514_b", "nms_MathHelper_func_35599_c", "func_35599_c", "nms_NoiseGeneratorPerlin_func_805_a", "func_805_a", "nms_MapGenCavesHell_generateLargeCaveNode", "generateLargeCaveNode", "nms_MapGenCavesHell_generateCaveNode", "generateCaveNode", "nms_MapGenCaves_generateLargeCaveNode", "nms_MapGenCaves_generateCaveNode", "nms_MapGenRavine_func_35626_a", "func_35626_a", "nlesse_RandomAccessMemoryFile_writeBytes", "writeBytes", "nms_WorldGenHellLava__init_", "nms_WorldGenHellLava_generate", "nms_WorldGenFire__init_",
-        "nms_WorldGenFire_generate", "nms_WorldGenGlowStone1__init_", "nms_WorldGenGlowStone1_generate", "nms_WorldGenGlowStone2__init_", "nms_WorldGenGlowStone2_generate", "nms_WorldGenFlowers_generate", "nms_MapGenStructure_func_35629_a", "func_35629_a", "nms_WorldGenLakes__init_", "nms_WorldGenLakes_generate", "nms_BiomeGenBase_func_35477_a", "func_35477_a", "nms_SpawnerAnimals_func_35957_a", "func_35957_a", "nms_WorldGenDungeons__init_", "nms_WorldGenDungeons_generate", "nms_WorldGenClay_generate", "nms_WorldGenMinable_generate",
-        "nms_NoiseGeneratorOctaves_func_806_a", "func_806_a", "nms_BiomeGenBase_getRandomWorldGenForTrees", "getRandomWorldGenForTrees", "nms_WorldGenerator_func_517_a", "func_517_a", "nms_WorldGenReed_generate", "nms_WorldGenPumpkin__init_", "nms_WorldGenPumpkin_generate", "nms_WorldGenCactus_generate", "nms_WorldGenLiquids__init_", "nms_WorldGenLiquids_generate", "nms_Chunk_generateHeightMap", "generateHeightMap", "nms_IWorldAccess_doNothingWithTileEntity", "doNothingWithTileEntity", "nms_EnumToolMaterial_getHarvestLevel",
-        "getHarvestLevel", "nms_EntityBoat_getMountedYOffset", "cjj_Deflate_smaller", "smaller", "nms_World_getEntityPathToXYZ", "getEntityPathToXYZ", "nms_EntityMob_func_35175_b", "func_35175_b", "nms_EntityArrow__init_1", "nms_Potion_func_35660_a", "func_35660_a", "nms_PotionEffect_func_35797_d", "func_35797_d", "nms_PotionEffect_func_35800_b", "func_35800_b", "nlesse_RandomAccessMemoryFile_readBytes", "nms_Item_onUpdate", "nms_Entity_func_35114_R", "func_35114_R", "nms_DamageSource_func_35530_a", "func_35530_a",
-        "jl_Float_compareTo0", "nms_Entity_getLookVec", "getLookVec", "nms_InventoryPlayer_writeToNBT", "nms_FoodStats_func_35763_b", "func_35763_b", "jl_Byte_toString0", "nms_TileEntityFurnace_canSmelt", "canSmelt", "nms_TileEntityFurnace_smeltItem", "smeltItem", "nms_BlockFurnace_updateFurnaceBlockState", "updateFurnaceBlockState", "nms_TileEntityMobSpawner_anyPlayerInRange", "anyPlayerInRange", "nms_TileEntityMobSpawner_updateDelay", "updateDelay", "nms_TileEntityPiston_func_31010_a", "func_31010_a", "nmc_Minecraft_getSendQueue",
-        "getSendQueue", "nms_Packet130UpdateSign__init_0", "jl_Byte_hashCode0", "jl_Byte_compareTo0", "ju_LinkedHashMapIterator__init_", "jlr_Modifier_getModifierNames", "getModifierNames", "ju_Arrays_fill7", "nms_BiomeGenBase_getBiome", "getBiome", "nms_World_getTopSolidOrLiquidBlock", "getTopSolidOrLiquidBlock", "nms_FurnaceRecipes_getSmeltingResult", "getSmeltingResult", "nms_ItemStack_isItemEqual", "isItemEqual", "ju_LinkedHashMapIterator$KeyIterator_next", "ju_LinkedHashMapIterator_hasNext", "ju_LinkedHashMapIterator_remove",
-        "nms_Packet18Animation_writePacketData", "nms_Packet101CloseWindow_writePacketData", "nms_Packet3Chat_writePacketData", "nms_Packet9Respawn_writePacketData", "nms_EntitySpider_getMountedYOffset", "nms_EntityMinecart_getMountedYOffset", "nms_EntityPlayer_getYOffset", "nms_MapGenStronghold_func_35628_a", "nms_MapGenVillage_func_35628_a", "nms_MapGenMineshaft_func_35628_a", "nms_MapGenStronghold_func_35630_b", "nms_MapGenVillage_func_35630_b", "nms_MapGenMineshaft_func_35630_b", "nms_ItemBow_func_35414_a",
-        "nms_ItemFood_func_35413_b", "nms_ItemBow_func_35413_b", "nms_ItemSoup_func_35413_b", "nms_EmptyChunk_func_21167_h", "nms_EntityAnimal_canDespawn", "nms_EntityWolf_canDespawn", "nms_EmptyChunk_setLightValue", "nms_ChunkFilePattern_accept", "nms_BlockFluid_velocityToAddToEntity", "nms_BlockStairs_velocityToAddToEntity", "nms_BiomeGenForest_getRandomWorldGenForTrees", "nms_BiomeGenTaiga_getRandomWorldGenForTrees", "nms_BiomeGenSwamp_getRandomWorldGenForTrees", "nms_Packet255KickDisconnect_writePacketData",
-        "nms_EmptyChunk_generateHeightMap", "nms_RenderGlobal_doNothingWithTileEntity", "nms_EntitySilverfish_getBlockPathWeight", "nms_EntityGiantZombie_getBlockPathWeight", "nms_EntityCaveSpider_func_35175_b", "nms_PotionHealth_func_35660_a", "nms_ItemMap_onUpdate", "nms_EntityLiving_getLookVec", "nms_EntityPainting_moveEntity", "jnc_Charset_compareTo0", "jl_Short_compareTo", "ju_LinkedHashMapIterator_makeNext", "ju_LinkedHashMapIterator_checkConcurrentMod", "nms_World_func_35462_u", "func_35462_u", "nms_WorldChunkManager_func_35562_a",
-        "func_35562_a", "nms_StructureStrongholdStart__init_", "nms_StructureVillageStart__init_", "nms_StructureMineshaftStart__init_", "nms_InventoryPlayer_consumeInventoryItem", "consumeInventoryItem", "nms_FoodStats_func_35761_a", "func_35761_a", "nms_Packet13PlayerLookMove__init_0", "nms_Packet11PlayerPosition__init_0", "nms_Packet10Flying__init_0", "nms_Packet12PlayerLook__init_0", "nms_WorldGenBigTree_func_526_b", "func_526_b", "nms_WorldGenBigTree_func_523_a", "func_523_a", "nms_NoiseGeneratorPerlin_func_4110_a",
-        "func_4110_a", "nms_NoiseGeneratorPerlin_grad", "grad", "nms_NoiseGeneratorPerlin_lerp", "lerp", "nms_BiomeDecorator_func_35881_a", "func_35881_a", "nms_StructureStart_func_35715_c", "func_35715_c", "nms_StructureStart_func_35712_a", "func_35712_a", "nms_StructureBoundingBox_func_35746_a", "func_35746_a", "nms_StructureBoundingBox__init_", "nms_StructureStart_func_35711_a", "func_35711_a", "nms_WorldGenDungeons_pickMobSpawner", "pickMobSpawner", "nms_TileEntityMobSpawner_setMobID", "setMobID", "nms_WorldGenDungeons_pickCheckLootItem",
-        "pickCheckLootItem", "nms_WorldGenTaiga1__init_", "nms_NoiseGeneratorPerlin_func_801_a", "func_801_a", "nms_Pathfinder_createEntityPathTo1", "nms_Potion_func_35662_a", "func_35662_a", "nms_MapData_func_28169_a", "func_28169_a", "nms_ItemMap_updateMapData", "updateMapData", "jl_Float_compare", "jl_Byte_compare", "jnc_Charset_compareTo", "jl_Short_compareTo0", "nms_StructureStart__init_", "nms_StructureStrongholdPieces_func_35849_a", "func_35849_a", "nms_ComponentStrongholdStairs2__init_", "nms_ComponentStrongholdStairs_func_35004_a",
-        "func_35004_a", "nms_StructureComponent_func_35004_a", "nms_StructureStart_func_35714_b", "func_35714_b", "nms_StructureStart_func_35713_a", "func_35713_a", "nms_StructureVillagePieces_func_35705_a", "func_35705_a", "nms_ComponentVillageStartPiece__init_", "nms_ComponentVillageWell_func_35004_a", "nms_ComponentMineshaftRoom__init_", "nms_ComponentMineshaftRoom_func_35004_a", "nms_StructureStrongholdPieces__clinit_", "nms_ComponentStrongholdStairs__init_", "nms_MathHelper_func_35598_a", "func_35598_a",
-        "nms_StructureVillagePieceWeight__init_", "nms_ComponentVillageWell__init_", "nms_StructureComponent__init_", "nms_StructureBoundingBox__init_0", "nms_StructureStrongholdPieceWeight__init_", "nms_StructureStrongholdPieceWeight2__init_", "nms_StructureStrongholdStones__init_", "nms_ComponentStronghold__init_", "nms_ComponentVillage__init_", "nms_StructureStrongholdStones__init_0", "nms_EnumDoor__clinit_", "nms_StructurePieceBlockSelector__init_", "nms_EnumDoor__init_", "nms_EnumDoor_$values", "nms_WorldGenBigTree_func_517_a",
-        "nms_WorldGenTaiga1_generate", "nms_WorldGenSwamp_generate", "nms_Packet130UpdateSign_writePacketData", "nms_WorldChunkManagerHell_func_35562_a", "nms_StructureVillageStart_func_35715_c", "nms_EnumDoor_values", "nms_WorldGenSwamp_func_35265_a", "func_35265_a", "nms_ComponentStronghold_func_35028_a", "func_35028_a", "nms_StructureComponent_func_35012_c", "func_35012_c", "nms_StructureVillagePieces_func_35701_b", "func_35701_b", "nms_StructureBoundingBox_func_35743_c", "func_35743_c", "nms_StructureBoundingBox_func_35744_b",
-        "func_35744_b", "nms_StructureMineshaftPieces_func_35585_a", "func_35585_a", "nms_StructureBoundingBox_func_35739_d", "func_35739_d", "nms_StructureComponent_func_35021_b", "func_35021_b", "nms_ItemFood_func_35426_m", "func_35426_m", "nms_BiomeDecorator_func_35882_b", "func_35882_b", "nms_StructureBoundingBox_func_35740_a", "func_35740_a", "nms_StructureComponent_func_35023_a", "func_35023_a", "nms_NoiseGeneratorPerlin_generateNoise", "generateNoise", "nms_MapInfo__init_", "nms_InventoryPlayer_func_28018_c",
-        "func_28018_c", "nms_MapData_func_28170_a", "func_28170_a", "jl_String_compareToIgnoreCase", "compareToIgnoreCase", "jl_Short_compare", "nms_StructureBoundingBox_func_35741_a", "func_35741_a", "nms_StructureBoundingBox_func_35738_b", "func_35738_b", "nms_StructureBoundingBox_func_35745_a", "func_35745_a", "nms_StructureVillagePieces_func_35698_e", "func_35698_e", "nms_StructureMineshaftPieces__clinit_", "nms_StructureMineshaftPieces_func_35587_b", "func_35587_b", "nms_BiomeDecorator_func_35880_a", "func_35880_a",
-        "nms_WorldGenTallGrass__init_", "nms_WorldGenTallGrass_generate", "nms_WorldGenDeadBush__init_", "nms_WorldGenDeadBush_generate", "nms_ComponentVillagePathGen_func_35087_a", "func_35087_a", "nms_ComponentVillagePathGen__init_", "nms_ComponentVillageStartPiece_func_35105_a", "func_35105_a", "nms_StructurePieceTreasure__init_", "nms_StructureMineshaftPieces_func_35586_a", "func_35586_a", "nms_StructureBoundingBox_func_35747_a", "func_35747_a", "nms_StructureComponent_func_35020_a", "func_35020_a", "nms_ComponentVillageRoadPiece__init_",
-        "nms_ComponentMineshaftCross_func_35071_a", "func_35071_a", "nms_ComponentMineshaftCross__init_", "nms_ComponentMineshaftCorridor_func_35066_a", "func_35066_a", "nms_ComponentMineshaftStairs_func_35027_a", "func_35027_a", "nms_ComponentMineshaftStairs__init_", "nms_ComponentMineshaftCorridor__init_", "nms_ComponentMineshaftCross_func_35004_a", "nms_ComponentMineshaftStairs_func_35004_a", "nms_ComponentMineshaftCorridor_func_35004_a", "nms_ComponentStrongholdStairs_func_35023_a", "nms_ComponentVillageWell_func_35023_a",
-        "nms_ComponentMineshaftRoom_func_35023_a", "nms_WorldGenSand_generate", "nms_ComponentVillagePathGen_func_35023_a", "nms_StructureBoundingBox_toString", "nms_ComponentMineshaftStairs_func_35023_a", "nms_ComponentMineshaftCross_func_35023_a", "nms_ComponentMineshaftCorridor_func_35023_a", "nms_ComponentVillagePathGen_func_35004_a", "nms_StructureStrongholdPieces_func_35850_a", "func_35850_a", "nms_StructureComponent_func_35013_a", "func_35013_a", "nms_StructureStrongholdPieces_func_35852_b", "func_35852_b",
-        "nms_StructureComponent_func_35022_a", "func_35022_a", "nms_ComponentStronghold_func_35033_a", "func_35033_a", "nms_StructureComponent_func_35018_a", "func_35018_a", "nms_StructureComponent_func_35011_a", "func_35011_a", "nms_ComponentVillage_func_35075_b", "func_35075_b", "nms_StructureComponent_func_35016_b", "func_35016_b", "nms_StructureComponent_func_35015_a", "func_35015_a", "nms_ItemStack_isStackEqual", "isStackEqual", "nms_BiomeDecorator_func_35884_a", "func_35884_a", "nms_BiomeDecorator_func_35883_b",
-        "func_35883_b", "nms_StructureBoundingBox_func_35742_b", "func_35742_b", "nms_StructureComponent_func_35010_a", "func_35010_a", "nms_StructureComponent_func_35014_a", "func_35014_a", "nms_StructureMineshaftPieces_func_35588_a", "func_35588_a", "nms_StructureComponent_func_35003_a", "func_35003_a", "nms_StructureComponent_func_35008_a", "func_35008_a", "nms_StructureComponent_func_35017_a", "func_35017_a", "nms_StructureComponent_func_35006_b", "func_35006_b", "nms_StructureComponent_func_35007_a", "func_35007_a",
-        "nms_StructureComponent_func_35009_c", "func_35009_c", "nms_ComponentVillage_func_35077_a", "func_35077_a", "nms_ComponentVillage_func_35076_b", "func_35076_b", "nms_StructureStrongholdPieces_func_35848_c", "func_35848_c", "nms_StructureStrongholdPieces_func_35847_b", "func_35847_b", "nms_StructureStrongholdPieces_func_35853_c", "func_35853_c", "nms_ComponentStrongholdCorridor_func_35051_a", "func_35051_a", "nms_StructureStrongholdPieceWeight_func_35613_a", "func_35613_a", "nms_StructureStrongholdPieces_func_35851_a",
-        "func_35851_a", "nms_StructureStrongholdPieceWeight_func_35614_a", "func_35614_a", "nms_ComponentStrongholdCorridor__init_", "nms_ComponentStrongholdStraight_func_35047_a", "func_35047_a", "nms_ComponentStrongholdPrison_func_35063_a", "func_35063_a", "nms_ComponentStrongholdLeftTurn_func_35045_a", "func_35045_a", "nms_ComponentStrongholdRoomCrossing_func_35059_a", "func_35059_a", "nms_ComponentStrongholdStairsStraight_func_35053_a", "func_35053_a", "nms_ComponentStrongholdStairs_func_35034_a", "func_35034_a",
-        "nms_ComponentStrongholdCrossing_func_35039_a", "func_35039_a", "nms_ComponentStrongholdLibrary_func_35055_a", "func_35055_a", "nms_ComponentStronghold_func_35030_a", "func_35030_a", "nms_ComponentStrongholdStraight__init_", "nms_ComponentStrongholdPrison__init_", "nms_ComponentStrongholdLeftTurn__init_", "nms_ComponentStrongholdRoomCrossing__clinit_", "nms_ComponentStrongholdRoomCrossing__init_", "nms_ComponentStrongholdStairsStraight__init_", "nms_ComponentStrongholdStairs__init_0", "nms_ComponentStrongholdCrossing__init_",
-        "nms_ComponentStrongholdLibrary__clinit_", "nms_ComponentStrongholdLibrary__init_", "nms_ComponentStronghold_func_35031_a", "func_35031_a", "nms_StructureStrongholdPieceWeight2_func_35613_a", "nms_ComponentStrongholdLeftTurn_func_35023_a", "nms_ComponentStrongholdCorridor_func_35023_a", "nms_ComponentStrongholdRoomCrossing_func_35023_a", "nms_ComponentStrongholdStairsStraight_func_35023_a", "nms_ComponentStrongholdPrison_func_35023_a", "nms_ComponentStrongholdStraight_func_35023_a", "nms_ComponentStrongholdCrossing_func_35023_a",
-        "nms_ComponentStrongholdLibrary_func_35023_a", "nms_ComponentStrongholdRoomCrossing_func_35004_a", "nms_ComponentStrongholdCrossing_func_35004_a", "nms_ComponentStrongholdLeftTurn_func_35004_a", "nms_ComponentStrongholdStraight_func_35004_a", "nms_ComponentStrongholdStairsStraight_func_35004_a", "nms_ComponentStrongholdPrison_func_35004_a", "nms_ComponentStrongholdCorridor_func_35004_a", "nms_ComponentStrongholdLibrary_func_35004_a", "nms_StructurePieceBlockSelector_func_35706_a", "func_35706_a", "nms_StructurePieceBlockSelector_func_35707_a",
-        "func_35707_a", "nms_StructurePieceBlockSelector_func_35708_b", "func_35708_b", "nms_StructureComponent_func_35019_a", "func_35019_a", "nms_StructureVillagePieces_func_35704_a", "func_35704_a", "nms_ComponentStronghold_func_35032_b", "func_35032_b", "nms_ComponentStronghold_func_35029_c", "func_35029_c", "nms_EnumDoorHelper__clinit_", "nms_WeightedRandom_func_35735_a", "func_35735_a", "nms_StructureVillagePieces_func_35702_d", "func_35702_d", "nms_WeightedRandom_func_35737_a", "func_35737_a", "nms_WeightedRandom_func_35732_a",
-        "func_35732_a", "nms_StructureVillagePieces_func_35700_c", "func_35700_c", "nms_StructureVillagePieces_func_35703_a", "func_35703_a", "nms_ComponentVillageTorch_func_35099_a", "func_35099_a", "nms_StructureVillagePieceWeight_func_35602_a", "func_35602_a", "nms_StructureVillagePieces_func_35699_a", "func_35699_a", "nms_StructureVillagePieceWeight_func_35603_a", "func_35603_a", "nms_ComponentVillageTorch__init_", "nms_ComponentVillageHouse4_Garden_func_35082_a", "func_35082_a", "nms_ComponentVillageChurch_func_35097_a",
-        "func_35097_a", "nms_ComponentVillageHouse1_func_35095_a", "func_35095_a", "nms_ComponentVillageWoodHut_func_35091_a", "func_35091_a", "nms_ComponentVillageHall_func_35078_a", "func_35078_a", "nms_ComponentVillageField_func_35080_a", "func_35080_a", "nms_ComponentVillageField2_func_35089_a", "func_35089_a", "nms_ComponentVillageHouse2_func_35085_a", "func_35085_a", "nms_ComponentVillageHouse3_func_35101_a", "func_35101_a", "nms_ComponentVillageHouse4_Garden__init_", "nms_ComponentVillage_func_35074_a",
-        "func_35074_a", "nms_ComponentVillageChurch__init_", "nms_ComponentVillageHouse1__init_", "nms_ComponentVillageWoodHut__init_", "nms_ComponentVillageHall__init_", "nms_ComponentVillageField__init_", "nms_ComponentVillageField2__init_", "nms_ComponentVillageHouse2__init_", "nms_ComponentVillageHouse3__init_", "nms_StructureStrongholdStones_func_35706_a", "nms_ComponentVillageTorch_func_35023_a", "nms_ComponentVillageHouse3_func_35023_a", "nms_ComponentVillageField2_func_35023_a", "nms_ComponentVillageChurch_func_35023_a",
-        "nms_ComponentVillageHall_func_35023_a", "nms_ComponentVillageHouse1_func_35023_a", "nms_ComponentVillageHouse2_func_35023_a", "nms_ComponentVillageField_func_35023_a", "nms_ComponentVillageHouse4_Garden_func_35023_a", "nms_ComponentVillageWoodHut_func_35023_a", "nms_ComponentVillageHouse2_func_35004_a", "nms_ComponentVillageField_func_35004_a", "nms_ComponentVillageHouse4_Garden_func_35004_a", "nms_ComponentVillageWoodHut_func_35004_a", "nms_ComponentVillageTorch_func_35004_a", "nms_ComponentVillageHouse3_func_35004_a",
-        "nms_ComponentVillageField2_func_35004_a", "nms_ComponentVillageChurch_func_35004_a", "nms_ComponentVillageHall_func_35004_a", "nms_ComponentVillageHouse1_func_35004_a", "nms_StructureComponent_func_35002_a", "func_35002_a", "nms_StructureComponent_func_35005_b", "func_35005_b" ], "ABCD", "jur_AbstractCharClass$LazyBlank", "3vCFz4ErzD" , "EFGH", "cjj_Inflate", "xkDFykDzkDkrD4Bh2Dy7Co2Dp2DsgEtgEthFuhFvhFwhFxhFuhFzhF0hF" , "IJKLMN", "nleib_EaglerArrayByteBuffer", "5eF3zCnN4zC5D5zCkT6zCmT7zC9UgzDx1BhzDpNy7EpN27E01B37E41B47E7Uq2F01Bw4F21Bx4FkTy4FphF94FpN+4FokFv5F5D45FktFtgIphFugI74HvgIorEx5I21By5I5Dy0JpN6vK5D"
-        , "IOPQ", "nms_StatCollector", "qcrcupB4B6pB7pB" , "ARS", "jl_Integer", "nBoB9B4B3C4CuJvJlRFmRnR6kB7kBywB7kB93B+3B36B46BknCOqrCOryDHjzDkzDw+DHx+Dy+Dz+D0+D1+D2+D2gE3gElhEmhEn3EJg7EOi9En8CwgF30B7rFn8CiyGptClhHx1G14Ir0H" , "IOPT", "nms_TileEntity$_clinit_$lambda$_15_7", "n7HFg/N90N" , "EFUV", "cjj_Floor0$InfoFloor0", "vjKF" , "IOPW", "nms_TileEntity$_clinit_$lambda$_15_5", "l7HF++N90N" , "AXY", "jm_BigDecimal$1", "s5I4B" , "ABZ", "ju_Vector", "/2GFq5GFr5G4B9pJ+pJ9iK+iK" , "IOPa", "nms_TileEntity$_clinit_$lambda$_15_6",
-        "m7HF/+N90N" , "ABCb", "jur_AbstractCharClass$LazyAlpha", "yvCFu4ErzD" , "IOPc", "nms_GuiCrafting", "3hMFnhNruGrhNxuGvhNm9D" , "IOPd", "nms_MapItemRenderer", "6lEFhuHiuH" , "IOPe", "nms_NibbleArray", "kqLFoyNFpyNplH/hOgiOmiOniO" , "EFGf", "cjj_Tree", "xzGFi3G4B8mM9mM3sN4sN8lO9lO+lO/lOkqOlqO" , "IOPgB", "nms_Packet130UpdateSign", "niLF3tLimKjvLkmK2wL7/Jo7OFhgPtmK" , "IOPhB", "nms_EntityHugeExplodeFX", "7sMFv9M+oGzgN7mHjhN9kF" , "IOPiB", "nms_BiomeGenBase$_init_$lambda$_0_10", "p1FFs3L/uI" , "jBkBBlBmB",
-        "olug_GLU", "poDqoD4sG5sG" , "IOPnB", "nms_EnumWorldType", "4tJterwJswJtwJ4BwxJFxxJrdulKvlK" , "ARoB", "jl_CharSequence", "73Bf83BhBu+Bv+B" , "IOPpB", "nms_Packet255KickDisconnect", "siLFhuLimKtvLkmKgxL7/J1kOF18OtmK" , "jBqBrBsBtBuB", "otcit_DateTimeZoneProvider$1", "7sCF36E30B5mF30B" , "IOPvB", "nms_SaveHandler", "9kLFqoLroLsoL4BgrLlzEjrLwoK01LggLp6Lq6Ls6LvmLu9MtmL" , "IOPwB", "nms_BlockDispenser", "/mBFt2CgyBx3JouJ0tK64J8yLo6Dh2LglL6jM7jM4qMtvJy5NrkN8tO8hOnuOpiO4uOjkM8wOolO83O93O" , "IOPxB", "nms_GuiSlotStats",
-        "wxIFwmJyrHrzJljIzzJ0gJk0J+gJl0JghJm0JihJx7J4gJ+8J/8Ji9Jj9Jq9Jr9Js9Jt9Jz9J09J" , "ABCyB", "jur_AbstractCharClass$LazyCategory", "wwCFzwCFs5ErzD" , "ABCzB", "jur_BehindFSet", "9/BF0+GkB87IysI" , "IOP0B", "nms_WorldInfo", "2mI3mI1pI2pI3pI4pIv5JFw5Jx5Jy5Jz5J05J15J25J35JxoKyoKzoKFgpKhpKhrKirKjrKkrKt2KgrK05KrvI96KxvIy7K9gGz7K07Kt8Ku8Kx8Ky8K8/K9/K3iL4iLklMllMmlMnlMolMplMqlMrlMslMtlMulMvlM+pM/pMjqMkqM5wM6wMiiNjiNhpNipNjpNkpNlpNmpNguNhuN3zNF" , "IOP1B", "nms_ItemFishingRod", "95BF5qLuuHv4M75Lm9M9oM" , "IOP2B",
-        "nms_WorldGenTaiga1", "t+OF//O/iN" , "IOP3B", "nms_WorldGenTaiga2", "wrNFw3N/iN" , "jBqB4B5B6B7B", "otrfm_AbstractInMemoryVirtualFile", "q8GFlhJv4GmhJx4GnhJr4GohJt4G+mJjnC39J49J+0K/0Kj1K8lEk1Kl1K6jLkB" , "jB8B9B", "oj_JSONObject$Null", "rxJF6sKOytKHztKJ" , "ABC+B", "jur_LowHighSurrogateRangeSet", "unCFjyD7jCu7HkB+1JysI" , "IOP/B", "nms_BlockStairs", "2nBFk2Cj4Bu2CgyB1wDg9C89G9jGg8HjnHt8HlnHq/HlzHz6I6jIw7IisIv3JmuJ53JquJg4JsuJ6tK64JpuKl5J0yLqrIizLo6D3zLt7Ky1L1/Kr7M6iMo8MmkM28MimM05NrkNx7NzpN07N5pN57N7pNj8NlsNruOpiOgvOjkMlwOmlOlxOolOx8O23O"
-        , "IOPgC", "nms_EntityMinecart", "+sJFmwJ4B7yJ/yFs+Kt+Ku+Kv+K93L5yFt4L9kF44L4mKl5LnoJw5Lt0K15L6jF6vMhxH7vM9wH8vMyqKh+MruMj+MtuMo+Mh5Kp+M2rIz/MhtH0/MjtH1/MqqG2/MnoI3/M60MxkNFi5NjkNk5NxuM36NxnNh+NkyN3/NzmMqtO9nOv0OrmN20OknN/7O11O" , "AhCiCsBjC", "jnci_AsciiEncoder", "wlFFs6IgjI" , "ABkC", "ju_Currency", "gjC9wBxmC9wBhrCirChuCFw2FOjjLkjLrjNsjN" , "IJKLlC", "nlei_PlatformRuntime$downloadRemoteURIFetch$lambda$_37_1", "q1BF88B00BlhCx8B" , "IJKLmC", "nlei_PlatformRuntime$downloadRemoteURIFetch$lambda$_37_0",
-        "p1BF78B00BkhCx8B" , "ABnCoC", "juf_Supplier", "pwF5D" , "ABpC", "ju_LinkedHashMap", "y2GFk5GpNh9GtqBvrH5DuwH87CvwHwwHxwHywH3oI4oI+qIwnD/qIgrIirIjrI6xLntC86MsjDopNppN" , "ABCqC", "jur_PosPlusGroupQuantifierSet", "noCFw8IysI" , "ARrC", "jl_StringBuffer", "1pCF4pCrB7pCrBisCOjsCfmsChBkxD9C9yDrBj0D9CtiErBrrFrBxrFrB/2F63B75F9C6pG9C08G9C8iH9CvjIrB4xJrBt4JrBsrKF6qL9Ck6L9C" , "IOPsC", "nms_J_JsonTrueNodeBuilder", "2yIF/6M6sH" , "ABCtC", "jur_AbstractCharClass$PredefinedCharacterClasses", "6mC7mCorCFkuC4B" ,
-        "IOPuC", "nms_ComponentStrongholdStairs2", "++OF" , "IOPvC", "nms_GenLayerIsland", "l0MFpvO1iN" , "jB8BwC", "oj_JSONParserConfiguration", "o1NF" , "IOPxC", "nms_RenderGhast", "twEFs0Lx9K6nM7nM" , "IJKLqByC", "nleit_TeaVMUtils", "/KgLyZzZ0b1bzd0d1iB2iB8iB9iB49B59Bx8Cy8C88Cy8CqgDrgDzhDy8CpkDqkD+pD/pD/qDgrDj3Hk3H5nK6nK" , "IJKLMzC", "nleib_EaglerArrayBufferAllocator$WrongBufferClassType", "90BF" , "IOP0C", "nms_EntityMob", "5sJFm4L9kF84LnoJr2MnlL09M1tMj+N5yNw+NzmM/sO9nO0yO2mO8yOsoEk6Ol6O" , "AB1C2C", "juz_ZipFile$ZipInflaterInputStream",
-        "zrHFw7H2tBx7Hi1E" , "IOP3C", "nms_MaterialLogic", "y4BF7xDm4Bg+ItwIkrLpxH" , "ABC4C", "jur_NegativeLookAhead", "ygCF6+GkBi8IysIl2JopJ" , "AR5C6C", "jlr_Array", "rCsCrzCszCxzCyzC61N5Dj2Nk2N" , "EFG7C", "cjj_InfCodes", "gqEFtuE4B0pF9zCvjGshF0jGhPypHzpH" , "IOP8C", "nms_TileEntityNote", "22K32K42K52KjpOF7rOw8K9zOyzM" , "IOP9C", "nms_StructurePieceTreasure", "/hPF" , "IOP+C", "nms_NetHandler", "wtEF3/J4/J8/J9/Jl8Lm8Ln8Lo8Lp8Lq8Lr8Ls8Lt8Lu8Lv8Lw8Lx8Ly8Lz8L08L18L28L38L48L58L68L78L88L98L+8L/8Lg9Lh9Li9Lj9Lk9Ll9Lm9Ln9Lo9Lp9Lq9Lr9Ls9Lt9Lu9Lv9Lw9Lx9Ly9Lz9L09L19L29L39L49L59L69L79L89L99L+9L/9Lg+Lh+Li+Lj+Lk+Ll+Lm+Ln+Lo+Lp+Lq+Lr+Ls+Lt+Lu+Lv+Lw+Lx+Ly+Lz+L0+L1+L2+L3+L4+L5+L6+L7+L8+L9+L++L/+Lg/Lh/Li/Lj/Lk/Ll/Lm/Ln/Lo/Lp/Lq/Lr/Ls/Lt/Lu/Lv/Lw/Lx/Ly/Lz/L0/L1/L2/L3/L4/L/lNgmN"
+        "nms_ChunkProvider_canSave", "nms_ChunkProvider_saveChunks", "nms_ChunkProvider_makeString", "nms_ChunkProvider_chunkExists", "ju_HashSet_clear", "nms_SpawnerAnimals$_clinit_$lambda$_7_2_createEntity", "nms_SpawnerAnimals$_clinit_$lambda$_7_0_createEntity", "nms_SpawnerAnimals$_clinit_$lambda$_7_1_createEntity", "nms_Packet32EntityLook_readPacketData", "nms_Packet54PlayNoteBlock_readPacketData", "nms_Packet200Statistic_readPacketData", "nms_Packet33RelEntityMoveLook_readPacketData", "nms_Packet100OpenWindow_readPacketData",
+        "nms_Packet255KickDisconnect_readPacketData", "nms_Packet27Position_readPacketData", "nms_Packet38EntityStatus_readPacketData", "nms_Packet107CreativeSetSlot_readPacketData", "nms_Packet28EntityVelocity_readPacketData", "nms_Packet61DoorChange_readPacketData", "nms_Packet60Explosion_readPacketData", "nms_Packet22Collect_readPacketData", "nms_Packet101CloseWindow_readPacketData", "nms_Packet70Bed_readPacketData", "nms_Packet53BlockChange_readPacketData", "nms_Packet29DestroyEntity_readPacketData", "nms_Packet42RemoveEntityEffect_readPacketData",
+        "nms_Packet103SetSlot_readPacketData", "nms_Packet43Experience_readPacketData", "nms_Packet25EntityPainting_readPacketData", "nms_Packet26EntityExpOrb_readPacketData", "nms_Packet50PreChunk_readPacketData", "nms_Packet106Transaction_readPacketData", "nms_Packet24MobSpawn_readPacketData", "nms_Packet105UpdateProgressbar_readPacketData", "nms_Packet30Entity_readPacketData", "nms_Packet52MultiBlockChange_readPacketData", "nms_Packet104WindowItems_readPacketData", "nms_Packet201PlayerInfo_readPacketData",
+        "nms_Packet71Weather_readPacketData", "nms_Packet41EntityEffect_readPacketData", "nms_Packet40EntityMetadata_readPacketData", "nms_Packet34EntityTeleport_readPacketData", "nms_Packet102WindowClick_readPacketData", "nms_Packet31RelEntityMove_readPacketData", "nms_Packet131MapData_readPacketData", "nms_Packet39AttachEntity_readPacketData", "nms_Packet21PickupSpawn_readPacketData", "nms_Packet130UpdateSign_readPacketData", "nms_Packet20NamedEntitySpawn_readPacketData", "nms_Packet51MapChunk_readPacketData",
+        "nms_Packet23VehicleSpawn_readPacketData", "nms_Packet254ServerPing_readPacketData", "nms_Packet32EntityLook_getPacketSize", "nms_Packet54PlayNoteBlock_getPacketSize", "nms_Packet200Statistic_getPacketSize", "nms_Packet33RelEntityMoveLook_getPacketSize", "nms_Packet100OpenWindow_getPacketSize", "nms_Packet255KickDisconnect_getPacketSize", "nms_Packet27Position_getPacketSize", "nms_Packet38EntityStatus_getPacketSize", "nms_Packet107CreativeSetSlot_getPacketSize", "nms_Packet28EntityVelocity_getPacketSize",
+        "nms_Packet61DoorChange_getPacketSize", "nms_Packet60Explosion_getPacketSize", "nms_Packet22Collect_getPacketSize", "nms_Packet101CloseWindow_getPacketSize", "nms_Packet70Bed_getPacketSize", "nms_Packet53BlockChange_getPacketSize", "nms_Packet29DestroyEntity_getPacketSize", "nms_Packet42RemoveEntityEffect_getPacketSize", "nms_Packet103SetSlot_getPacketSize", "nms_Packet43Experience_getPacketSize", "nms_Packet25EntityPainting_getPacketSize", "nms_Packet26EntityExpOrb_getPacketSize", "nms_Packet50PreChunk_getPacketSize",
+        "nms_Packet106Transaction_getPacketSize", "nms_Packet24MobSpawn_getPacketSize", "nms_Packet105UpdateProgressbar_getPacketSize", "nms_Packet30Entity_getPacketSize", "nms_Packet52MultiBlockChange_getPacketSize", "nms_Packet104WindowItems_getPacketSize", "nms_Packet201PlayerInfo_getPacketSize", "nms_Packet71Weather_getPacketSize", "nms_Packet41EntityEffect_getPacketSize", "nms_Packet40EntityMetadata_getPacketSize", "nms_Packet34EntityTeleport_getPacketSize", "nms_Packet102WindowClick_getPacketSize", "nms_Packet31RelEntityMove_getPacketSize",
+        "nms_Packet131MapData_getPacketSize", "nms_Packet39AttachEntity_getPacketSize", "nms_Packet21PickupSpawn_getPacketSize", "nms_Packet130UpdateSign_getPacketSize", "nms_Packet20NamedEntitySpawn_getPacketSize", "nms_Packet51MapChunk_getPacketSize", "nms_Packet23VehicleSpawn_getPacketSize", "nms_Packet254ServerPing_getPacketSize", "nms_J_JsonObject_hashCode", "nms_J_JsonArray_hashCode", "nms_J_JsonObject_equals", "nms_J_JsonArray_equals", "nms_ChunkCoordIntPair_hashCode", "nms_ChunkCoordIntPair_equals",
+        "nms_Packet10Flying_processPacket", "nms_Packet0KeepAlive_processPacket", "nms_Packet9Respawn_processPacket", "nms_Packet6SpawnPosition_processPacket", "nms_Packet7UseEntity_processPacket", "nms_Packet4UpdateTime_processPacket", "nms_Packet14BlockDig_processPacket", "nms_Packet15Place_processPacket", "nms_Packet2Handshake_processPacket", "nms_Packet3Chat_processPacket", "nms_Packet16BlockItemSwitch_processPacket", "nms_Packet18Animation_processPacket", "nms_Packet17Sleep_processPacket", "nms_Packet19EntityAction_processPacket",
+        "nms_Packet8UpdateHealth_processPacket", "nms_Packet5PlayerInventory_processPacket", "nms_Packet1Login_processPacket", "nms_J_JsonArray_toString", "nms_J_JsonObject_toString", "nms_Packet38EntityStatus_processPacket", "nms_Packet107CreativeSetSlot_processPacket", "nms_Packet61DoorChange_processPacket", "nms_Packet200Statistic_processPacket", "nms_Packet60Explosion_processPacket", "nms_Packet22Collect_processPacket", "nms_Packet53BlockChange_processPacket", "nms_Packet131MapData_processPacket", "nms_Packet103SetSlot_processPacket",
+        "nms_Packet43Experience_processPacket", "nms_Packet25EntityPainting_processPacket", "nms_Packet34EntityTeleport_processPacket", "nms_Packet52MultiBlockChange_processPacket", "nms_Packet41EntityEffect_processPacket", "nms_Packet24MobSpawn_processPacket", "nms_Packet102WindowClick_processPacket", "nms_Packet39AttachEntity_processPacket", "nms_Packet51MapChunk_processPacket", "nms_Packet254ServerPing_processPacket", "nms_Packet54PlayNoteBlock_processPacket", "nms_Packet30Entity_processPacket", "nms_Packet101CloseWindow_processPacket",
+        "nms_Packet255KickDisconnect_processPacket", "nms_Packet27Position_processPacket", "nms_Packet28EntityVelocity_processPacket", "nms_Packet100OpenWindow_processPacket", "nms_Packet70Bed_processPacket", "nms_Packet26EntityExpOrb_processPacket", "nms_Packet50PreChunk_processPacket", "nms_Packet105UpdateProgressbar_processPacket", "nms_Packet42RemoveEntityEffect_processPacket", "nms_Packet104WindowItems_processPacket", "nms_Packet201PlayerInfo_processPacket", "nms_Packet71Weather_processPacket", "nms_Packet106Transaction_processPacket",
+        "nms_Packet40EntityMetadata_processPacket", "nms_Packet29DestroyEntity_processPacket", "nms_Packet21PickupSpawn_processPacket", "nms_Packet130UpdateSign_processPacket", "nms_Packet20NamedEntitySpawn_processPacket", "nms_Packet23VehicleSpawn_processPacket", "nms_Achievement_isAchievement", "nms_EntityPlayerSP_func_35113_c", "nms_EntityPlayerSP_func_35200_b", "nms_EntityPlayer_getEyeHeight", "otrfm_InMemoryVirtualDirectory_listFiles", "ju_LinkedHashMap_remove", "nms_WorldProviderHell_registerWorldChunkManager",
+        "nms_WorldProviderSky_registerWorldChunkManager", "nms_WorldProviderHell_generateLightBrightnessTable", "nms_EntityPlayerSP_displayGUIDispenser", "nms_WorldProviderHell_canRespawnHere", "nms_EntityPlayerSP_addChatMessage", "nms_EntityPlayerSP_displayGUIChest", "nms_EntityPlayerSP_displayWorkbenchGUI", "nms_EntityPlayerSP_displayGUIFurnace", "nms_BlockLog_harvestBlock", "nms_BlockLeaves_harvestBlock", "nms_BlockTallGrass_harvestBlock", "nms_BlockSnow_harvestBlock", "nms_BlockIce_harvestBlock", "nms_BlockSilverfish_harvestBlock",
+        "nms_BlockVine_harvestBlock", "nms_StatTypeSimple_format", "nms_StatTypeTime_format", "nms_StatTypeDistance_format", "nms_TileEntitySignRenderer_renderTileEntityAt", "nms_TileEntityMobSpawnerRenderer_renderTileEntityAt", "nms_TileEntityRendererPiston_renderTileEntityAt", "nms_TileEntityChestRenderer_renderTileEntityAt", "nms_BlockPistonBase_getCollidingBoundingBoxes", "nms_BlockPistonExtension_getCollidingBoundingBoxes", "nms_BlockStairs_getCollidingBoundingBoxes", "nms_BlockPane_getCollidingBoundingBoxes",
+        "nms_BlockGrass_updateTick", "nms_BlockSapling_updateTick", "nms_BlockFlowing_updateTick", "nms_BlockStationary_updateTick", "nms_BlockSand_updateTick", "nms_BlockLeaves_updateTick", "nms_BlockDispenser_updateTick", "nms_BlockDetectorRail_updateTick", "nms_BlockFlower_updateTick", "nms_BlockMushroom_updateTick", "nms_BlockTorch_updateTick", "nms_BlockFire_updateTick", "nms_BlockStairs_updateTick", "nms_BlockCrops_updateTick", "nms_BlockFarmland_updateTick", "nms_BlockPressurePlate_updateTick", "nms_BlockRedstoneOre_updateTick",
+        "nms_BlockRedstoneTorch_updateTick", "nms_BlockButton_updateTick", "nms_BlockSnow_updateTick", "nms_BlockIce_updateTick", "nms_BlockSnowBlock_updateTick", "nms_BlockCactus_updateTick", "nms_BlockReed_updateTick", "nms_BlockRedstoneRepeater_updateTick", "nms_BlockLockedChest_updateTick", "nms_BlockStem_updateTick", "nms_BlockVine_updateTick", "nms_WorldProviderHell_calculateCelestialAngle", "nms_WorldProviderSky_calculateCelestialAngle", "nms_BlockFluid_randomDisplayTick", "nms_BlockTorch_randomDisplayTick",
+        "nms_BlockFire_randomDisplayTick", "nms_BlockStairs_randomDisplayTick", "nms_BlockRedstoneWire_randomDisplayTick", "nms_BlockFurnace_randomDisplayTick", "nms_BlockRedstoneOre_randomDisplayTick", "nms_BlockRedstoneTorch_randomDisplayTick", "nms_BlockPortal_randomDisplayTick", "nms_BlockRedstoneRepeater_randomDisplayTick", "nms_WorldProviderHell_func_4096_a", "nms_WorldProviderSky_func_4096_a", "nms_RenderPlayer_renderLivingAt", "nms_RenderWolf_handleRotationFloat", "nms_RenderChicken_handleRotationFloat",
+        "nms_RenderSquid_handleRotationFloat", "nms_RenderPlayer_rotateCorpse", "nms_RenderSquid_rotateCorpse", "nms_RenderSpider_preRenderCallback", "nms_RenderWolf_preRenderCallback", "nms_RenderCreeper_preRenderCallback", "nms_RenderSlime_preRenderCallback", "nms_RenderPlayer_preRenderCallback", "nms_RenderGiantZombie_preRenderCallback", "nms_RenderGhast_preRenderCallback", "nms_RenderSquid_preRenderCallback", "nms_ModelWolf_setLivingAnimations", "nms_ModelPig_render", "nms_ModelQuadruped_render", "nms_ModelCow_render",
+        "nms_ModelWolf_render", "nms_ModelChicken_render", "nms_ModelSlime_render", "nms_ModelSquid_render", "nms_ModelSpider_render", "nms_ModelSilverfish_render", "nms_ModelCreeper_render", "nms_ModelGhast_render", "nms_RenderEnderman_renderEquippedItems", "nms_RenderBiped_renderEquippedItems", "nms_RenderPlayer_renderEquippedItems", "nms_RenderCreeper_getColorMultiplier", "nms_RenderSpider_shouldRenderPass", "nms_RenderPig_shouldRenderPass", "nms_RenderSheep_shouldRenderPass", "nms_RenderSilverfish_shouldRenderPass",
+        "nms_RenderCreeper_shouldRenderPass", "nms_RenderEnderman_shouldRenderPass", "nms_RenderSlime_shouldRenderPass", "nms_RenderPlayer_shouldRenderPass", "nms_RenderCreeper_inheritRenderPass", "nms_RenderPlayer_passSpecialRender", "nms_EntityPlayerSP_isSneaking", "nms_ModelMinecart_render", "nms_ModelBoat_render", "nlei_PlatformAudio$BrowserAudioHandle_end", "nlei_PlatformAudio$BrowserAudioHandle_gain", "jl_Byte_equals", "ji_BufferedReader_read", "nlei_RamdiskFilesystemImpl_eaglerSize", "nleit_IndexedDBFilesystem_eaglerSize",
+        "nms_BlockTNT_onBlockDestroyedByPlayer", "nms_BlockStairs_onBlockDestroyedByPlayer", "nms_BlockSilverfish_onBlockDestroyedByPlayer", "nms_SaveHandler_saveWorldInfo", "nleit_TeaVMWebSocketFrame_isString", "nleit_TeaVMWebSocketFrame_getByteArray", "nms_WorldProviderHell_getChunkProvider", "nms_WorldProviderSky_getChunkProvider", "nms_WorldProviderHell_canCoordinateBeSpawn", "nms_WorldProviderSky_canCoordinateBeSpawn", "nms_EnumStatus_values", "nms_EnumSkyBlock_values", "nms_BlockFlower_onNeighborBlockChange",
+        "nms_BlockFluid_onNeighborBlockChange", "nms_BlockStationary_onNeighborBlockChange", "nms_BlockSand_onNeighborBlockChange", "nms_BlockDispenser_onNeighborBlockChange", "nms_BlockNote_onNeighborBlockChange", "nms_BlockBed_onNeighborBlockChange", "nms_BlockRail_onNeighborBlockChange", "nms_BlockPistonBase_onNeighborBlockChange", "nms_BlockPistonExtension_onNeighborBlockChange", "nms_BlockPistonMoving_onNeighborBlockChange", "nms_BlockTNT_onNeighborBlockChange", "nms_BlockTorch_onNeighborBlockChange", "nms_BlockFire_onNeighborBlockChange",
+        "nms_BlockChest_onNeighborBlockChange", "nms_BlockRedstoneWire_onNeighborBlockChange", "nms_BlockFarmland_onNeighborBlockChange", "nms_BlockSign_onNeighborBlockChange", "nms_BlockDoor_onNeighborBlockChange", "nms_BlockLadder_onNeighborBlockChange", "nms_BlockLever_onNeighborBlockChange", "nms_BlockPressurePlate_onNeighborBlockChange", "nms_BlockRedstoneTorch_onNeighborBlockChange", "nms_BlockButton_onNeighborBlockChange", "nms_BlockSnow_onNeighborBlockChange", "nms_BlockCactus_onNeighborBlockChange",
+        "nms_BlockReed_onNeighborBlockChange", "nms_BlockPortal_onNeighborBlockChange", "nms_BlockCake_onNeighborBlockChange", "nms_BlockRedstoneRepeater_onNeighborBlockChange", "nms_BlockTrapDoor_onNeighborBlockChange", "nms_BlockVine_onNeighborBlockChange", "nms_BiomeGenForest$_init_$lambda$_0_0_createEntity", "nms_BiomeGenTaiga$_init_$lambda$_0_0_createEntity", "nms_BiomeGenHell$_init_$lambda$_0_0_createEntity", "nms_BiomeGenHell$_init_$lambda$_0_1_createEntity", "nms_BiomeGenSky$_init_$lambda$_0_0_createEntity",
+        "nms_BiomeGenBase$_init_$lambda$_0_0_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_1_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_2_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_3_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_4_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_5_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_6_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_7_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_8_createEntity", "nms_BiomeGenBase$_init_$lambda$_0_9_createEntity",
+        "nms_BiomeGenBase$_init_$lambda$_0_10_createEntity", "nms_EnumArt_values", "nms_EntityLiving_fall", "nms_J_CompactJsonFormatter_format", "nleit_TeaVMWebSocketFrame_getString", "nms_NextTickListEntry_hashCode", "nms_NextTickListEntry_equals", "otrfm_InMemoryVirtualFile_isFile", "otrfm_InMemoryVirtualFile_createAccessor", "otrfm_InMemoryVirtualFile_isDirectory", "otrfm_InMemoryVirtualFile_createFile", "otrfm_InMemoryVirtualFile_listFiles", "otrfm_InMemoryVirtualFile_getChildFile", "jlr_SoftReference_get",
+        "nms_NextTickListEntry_compareTo", "nms_ChunkFile_compareTo", "nms_EntityMinecart_getBoundingBox", "nms_EntityBoat_getBoundingBox", "nms_RenderGlobal_playSound", "nms_RenderGlobal_spawnParticle", "nms_RenderGlobal_markBlockRangeNeedsUpdate", "nms_EntitySilverfish_onUpdate", "nms_EntityMob_onUpdate", "nms_EntityLiving_onUpdate", "nms_EntityItem_onUpdate", "nms_EntitySnowball_onUpdate", "nms_EntityPlayer_onUpdate", "nms_EntityArrow_onUpdate", "nms_EntityCreeper_onUpdate", "nms_EntityWolf_onUpdate", "nms_EntitySlime_onUpdate",
+        "nms_EntityMinecart_onUpdate", "nms_EntityPigZombie_onUpdate", "nms_EntityGhast_onUpdate", "nms_EntityTNTPrimed_onUpdate", "nms_EntityPainting_onUpdate", "nms_EntityBoat_onUpdate", "nms_EntityFallingSand_onUpdate", "nms_EntityXPOrb_onUpdate", "nms_EntityEnderman_getEntityBrightness", "nms_EntityWolf_getEntityTexture", "nms_EntitySnowball_getShadowSize", "nms_EntityArrow_getShadowSize", "nms_EntityMinecart_getShadowSize", "nms_EntityTNTPrimed_getShadowSize", "nms_EntityBoat_getShadowSize", "nms_EntityFallingSand_getShadowSize",
+        "nms_EntitySnowball_isInRangeToRenderDist", "nms_EntitySilverfish_attackEntityFrom", "nms_EntityMob_attackEntityFrom", "nms_EntityLiving_attackEntityFrom", "nms_EntityAnimal_attackEntityFrom", "nms_EntityItem_attackEntityFrom", "nms_EntityPlayer_attackEntityFrom", "nms_EntitySkeleton_attackEntityFrom", "nms_EntityWolf_attackEntityFrom", "nms_EntityMinecart_attackEntityFrom", "nms_EntityPigZombie_attackEntityFrom", "nms_EntityPainting_attackEntityFrom", "nms_EntityBoat_attackEntityFrom", "nms_EntityXPOrb_attackEntityFrom",
+        "nms_EntityPainting_addVelocity", "nms_EntityLiving_isEntityAlive", "nms_EntitySheep_interact", "nms_EntitySquid_interact", "nms_EntityWolf_interact", "nms_EntityCow_interact", "nms_EntityMinecart_interact", "nms_EntityBoat_interact", "nms_EntityPig_interact", "nms_EntityLiving_canBeCollidedWith", "nms_EntityMinecart_canBeCollidedWith", "nms_EntityTNTPrimed_canBeCollidedWith", "nms_EntityPainting_canBeCollidedWith", "nms_EntityBoat_canBeCollidedWith", "nms_EntityFallingSand_canBeCollidedWith", "nms_Item_onItemUse",
+        "onItemUse", "nms_Item_onItemRightClick", "onItemRightClick", "nms_Item_func_35412_b", "func_35412_b", "nms_Item_func_35411_c", "func_35411_c", "nms_Item_getItemStackLimit", "getItemStackLimit", "nms_Item_onCreated", "onCreated", "jl_StringBuffer_insert6", "nms_SorterStatsItem_func_27371_a", "func_27371_a", "nms_SorterStatsBlock_func_27297_a", "func_27297_a", "nms_SaveHandler_getSaveDirectory", "getSaveDirectory", "nms_McRegionChunkLoader__init_", "nms_SaveHandler_saveWorldInfoAndPlayer", "cjj_Deflate_put_short",
+        "put_short", "cjj_Deflate_put_byte0", "nms_Packet_readString", "nms_ChunkCoordIntPair_chunkXZ2Int", "chunkXZ2Int", "nms_PlayerList_func_35578_a", "func_35578_a", "nms_ChunkProvider_loadChunkFromFile", "loadChunkFromFile", "nms_PlayerList_func_35577_a", "func_35577_a", "nms_Chunk_func_35843_a", "func_35843_a", "nms_Chunk_func_4143_d", "func_4143_d", "nms_Chunk_onChunkLoad", "onChunkLoad", "nms_Chunk_onChunkUnload", "onChunkUnload", "nms_ChunkProvider_func_28062_b", "func_28062_b", "nms_ChunkProvider_func_28063_a",
+        "func_28063_a", "nms_PlayerList_func_35574_d", "func_35574_d", "nms_IChunkLoader_func_814_a", "func_814_a", "nms_ChunkProvider_func_35391_d", "func_35391_d", "nms_Chunk_needsSaving", "needsSaving", "nms_IChunkLoader_saveExtraData", "saveExtraData", "nms_PlayerList_func_35576_a", "func_35576_a", "nms_PlayerList_func_35575_b", "func_35575_b", "jm_Division_remainderArrayByInt", "remainderArrayByInt", "cjj_Drft_init", "nms_J_Functor_applyTo", "applyTo", "ju_AbstractMap_clear", "nms_RegionFile_getOffset",
+        "nms_RegionFile_outOfBounds", "outOfBounds", "nms_RegionFileChunkBuffer__init_", "juz_DeflaterOutputStream__init_1", "ji_DataInputStream_readBoolean", "readBoolean", "nms_DataWatcher_readWatchableObjects", "readWatchableObjects", "juz_Inflater__init_0", "juz_Inflater_setInput0", "juz_Inflater_inflate0", "nms_NetHandler_handleFlying", "handleFlying", "nms_NetHandler_func_35784_a", "func_35784_a", "nms_NetHandler_handleRespawn", "handleRespawn", "nms_NetHandler_handleSpawnPosition", "handleSpawnPosition",
+        "nms_NetHandler_handleUseEntity", "handleUseEntity", "nms_NetHandler_handleUpdateTime", "handleUpdateTime", "nms_NetHandler_handleBlockDig", "handleBlockDig", "nms_NetHandler_handlePlace", "handlePlace", "nms_NetHandler_handleHandshake", "handleHandshake", "nms_NetHandler_handleChat", "handleChat", "nms_NetHandler_handleBlockItemSwitch", "handleBlockItemSwitch", "nms_NetHandler_handleArmAnimation", "handleArmAnimation", "nms_NetHandler_handleSleep", "handleSleep", "nms_NetHandler_handleEntityAction",
+        "handleEntityAction", "nms_NetHandler_handleHealth", "handleHealth", "nms_NetHandler_handlePlayerInventory", "handlePlayerInventory", "nms_NetHandler_handleLogin", "handleLogin", "nms_NetHandler_handleEntityStatus", "handleEntityStatus", "nms_NetHandler_func_35781_a", "func_35781_a", "nms_NetHandler_handleAuxSFX", "handleAuxSFX", "nms_NetHandler_handleStatistic", "handleStatistic", "nms_NetHandler_handleExplosion", "handleExplosion", "nms_NetHandler_handleCollect", "handleCollect", "nms_NetHandler_handleBlockChange",
+        "handleBlockChange", "nms_NetHandler_processItemData", "processItemData", "nms_NetHandler_handleSetSlot", "handleSetSlot", "nms_NetHandler_func_35777_a", "func_35777_a", "nms_NetHandler_handleEntityPainting", "handleEntityPainting", "nms_NetHandler_handleEntityTeleport", "handleEntityTeleport", "nms_NetHandler_handleMultiBlockChange", "handleMultiBlockChange", "nms_NetHandler_func_35780_a", "func_35780_a", "nms_NetHandler_handleMobSpawn", "handleMobSpawn", "nms_NetHandler_handleWindowClick", "handleWindowClick",
+        "nms_NetHandler_handleAttachEntity", "handleAttachEntity", "nms_NetHandler_handleMapChunk", "handleMapChunk", "nms_NetHandler_func_35782_a", "func_35782_a", "nms_NetHandler_handleNotePlay", "handleNotePlay", "nms_NetHandler_handleEntity", "handleEntity", "nms_NetHandler_handleCloseWindow", "handleCloseWindow", "nms_NetHandler_handleKickDisconnect", "handleKickDisconnect", "nms_NetHandler_handlePosition", "handlePosition", "nms_NetHandler_handleEntityVelocity", "handleEntityVelocity", "nms_NetHandler_handleOpenWindow",
+        "handleOpenWindow", "nms_NetHandler_handleBedUpdate", "handleBedUpdate", "nms_NetHandler_func_35778_a", "func_35778_a", "nms_NetHandler_handlePreChunk", "handlePreChunk", "nms_NetHandler_handleCraftingProgress", "handleCraftingProgress", "nms_NetHandler_func_35783_a", "func_35783_a", "nms_NetHandler_handleWindowItems", "handleWindowItems", "nms_NetHandler_func_35779_a", "func_35779_a", "nms_NetHandler_handleWeather", "handleWeather", "nms_NetHandler_handleContainerTransaction", "handleContainerTransaction",
+        "nms_NetHandler_handleEntityMetadata", "handleEntityMetadata", "nms_NetHandler_handleDestroyEntity", "handleDestroyEntity", "nms_NetHandler_handlePickupSpawn", "handlePickupSpawn", "nms_NetHandler_handleUpdateSign", "handleUpdateSign", "nms_NetHandler_handleNamedEntitySpawn", "handleNamedEntitySpawn", "nms_NetHandler_handleVehicleSpawn", "handleVehicleSpawn", "nms_EntityLiving_getEyeHeight", "nms_EntityItem__init_1", "nms_EntityPlayer_joinEntityItemWithWorld", "joinEntityItemWithWorld", "nms_Entity_func_35116_d",
+        "func_35116_d", "nms_ItemStack_getDamageVsEntity", "nms_EntityCrit2FX__init_", "nms_FoodStats_func_35762_a", "func_35762_a", "nms_EntityWolf_isWolfTamed", "isWolfTamed", "nms_EntityWolf_getWolfOwner", "getWolfOwner", "nms_EntityPlayer_isPVPEnabled", "isPVPEnabled", "nms_EntityCreature_getEntityToAttack", "getEntityToAttack", "nms_EntityWolf_setIsSitting", "setIsSitting", "nms_EntityCreature_setEntityToAttack", "setEntityToAttack", "nms_EntityWolf_isWolfSitting", "isWolfSitting", "nmc_Minecraft_usePortal",
+        "usePortal", "nms_EntityPlayer_getPlayerSpawnCoordinate", "getPlayerSpawnCoordinate", "nms_EntityPlayer_verifyRespawnCoordinates", "verifyRespawnCoordinates", "nms_World_setSpawnLocation", "setSpawnLocation", "nms_World_updateEntityList", "updateEntityList", "nms_World_setEntityDead", "nms_EntityPlayerSP_func_6420_o", "func_6420_o", "nms_EntityPlayer_func_6420_o", "nms_EntityPlayer_setPlayerSpawnCoordinate", "setPlayerSpawnCoordinate", "cjj_Buffer_look", "cjj_Buffer_read1", "read1", "cjj_Buffer_adv",
+        "adv", "nms_AxisAlignedBB_getAverageEdgeLength", "getAverageEdgeLength", "nms_WorldChunkManagerHell__init_", "nms_WorldChunkManager__init_", "nms_GuiDispenser__init_", "nms_Explosion__init_", "nms_Explosion_doExplosionA", "doExplosionA", "nms_Explosion_doExplosionB", "doExplosionB", "nms_World_isDaytime", "isDaytime", "nms_EntityPlayer_func_22052_e", "func_22052_e", "nms_GuiIngame_addChatMessageTranslate", "addChatMessageTranslate", "nms_GuiChest__init_", "nms_GuiCrafting__init_", "nms_GuiFurnace__init_",
+        "nms_IWorldAccess_playAuxSFX", "nms_World_playRecord", "playRecord", "nms_TileEntity_onInventoryChanged", "nms_Chunk_setBlockMetadata", "nms_InventoryPlayer_canHarvestBlock", "nms_InventoryPlayer_getStrVsBlock", "getStrVsBlock", "nms_Block_dropBlockAsItem", "dropBlockAsItem", "nms_Block_dropBlockAsItem_do", "dropBlockAsItem_do", "ju_TreeMap$EntrySet__init_", "nms_StatBase_getNumberFormat", "getNumberFormat", "jt_NumberFormat_format2", "nms_StatBase_getDecimalFormat", "getDecimalFormat", "jt_NumberFormat_format3",
+        "nms_TileEntitySignRenderer_renderTileEntitySignAt", "renderTileEntitySignAt", "nms_TileEntityMobSpawnerRenderer_renderTileEntityMobSpawner", "renderTileEntityMobSpawner", "nms_TileEntityRendererPiston_func_31070_a", "func_31070_a", "nms_TileEntityChestRenderer_func_35376_a", "func_35376_a", "nms_ChunkCache_func_35453_b", "func_35453_b", "nms_Chunk_getSavedLightValue", "getSavedLightValue", "nms_World_getSavedLightValue", "nms_Block_getCollisionBoundingBoxFromPool", "getCollisionBoundingBoxFromPool",
+        "nms_Chunk_setBlockID", "setBlockID", "nms_World_func_35463_p", "func_35463_p", "nms_BlockSapling_growTree", "growTree", "nms_BlockFluid_getFlowDecay", "getFlowDecay", "nms_BlockFlowing_func_30003_j", "func_30003_j", "nms_BlockFlowing_getSmallestFlowDecay", "getSmallestFlowDecay", "nms_BlockFluid_tickRate", "nms_BlockFlowing_liquidCanDisplaceBlock", "liquidCanDisplaceBlock", "nms_World_setBlockAndMetadataWithNotify", "setBlockAndMetadataWithNotify", "nms_BlockFlowing_getOptimalFlowDirections", "getOptimalFlowDirections",
+        "nms_BlockFlowing_blockBlocksFlow", "blockBlocksFlow", "nms_BlockFlowing_flowIntoBlock", "flowIntoBlock", "nms_BlockStationary_func_301_k", "func_301_k", "nms_BlockSand_tryToFall", "tryToFall", "nms_BlockLeaves_removeLeaves", "removeLeaves", "nms_World_isBlockIndirectlyGettingPowered", "isBlockIndirectlyGettingPowered", "nms_BlockDispenser_dispenseItem", "dispenseItem", "nms_BlockFlower_checkFlowerChange", "checkFlowerChange", "nms_BlockMushroom_canBlockStay", "canBlockStay", "nms_BlockFlower_canBlockStay",
+        "nms_Block_canBlockStay", "nms_BlockTorch_onBlockAdded", "onBlockAdded", "nms_Block_onBlockAdded", "nms_BlockFire_canPlaceBlockAt", "canPlaceBlockAt", "nms_Block_canPlaceBlockAt", "nms_BlockFire_tickRate", "nms_BlockFire_func_263_h", "func_263_h", "nms_BlockFire_tryToCatchBlockOnFire", "tryToCatchBlockOnFire", "nms_BlockFire_getChanceOfNeighborsEncouragingFire", "getChanceOfNeighborsEncouragingFire", "nms_BlockCrops_getGrowthRate", "getGrowthRate", "nms_BlockFarmland_isWaterNearby", "isWaterNearby",
+        "nms_BlockFarmland_isCropsNearby", "isCropsNearby", "nms_BlockRedstoneTorch_func_30002_h", "func_30002_h", "nms_BlockRedstoneTorch_checkForBurnout", "checkForBurnout", "nms_BlockRedstoneRepeater_ignoreTick", "ignoreTick", "nms_BlockStem_func_35295_j", "func_35295_j", "nms_Chunk_canBlockSeeTheSky", "nms_Chunk_getBlockLightValue", "nms_IWorldAccess_releaseEntitySkin", "nms_World_updateEntityWithOptionalForce", "updateEntityWithOptionalForce", "nms_IWorldAccess_markBlockAndNeighborsNeedsUpdate", "markBlockAndNeighborsNeedsUpdate",
+        "nms_WorldInfo_getThunderTime", "getThunderTime", "nms_WorldInfo_setThunderTime", "setThunderTime", "nms_WorldInfo_getRainTime", "getRainTime", "nms_WorldInfo_setRainTime", "setRainTime", "nms_WorldInfo_setIsRaining", "setIsRaining", "nms_WorldInfo_setIsThundering", "setIsThundering", "nms_EntityPlayer_isPlayerFullyAsleep", "isPlayerFullyAsleep", "nms_World_stopPrecipitation", "stopPrecipitation", "ju_TreeSet_size", "ju_TreeSet_first", "ju_TreeSet_remove", "nms_Chunk_func_35841_j", "func_35841_j", "nms_World_getFullBlockLightValue",
+        "getFullBlockLightValue", "nms_Entity_getDistanceSq", "getDistanceSq", "nms_World_getIsThundering", "nms_EntityLightningBolt__init_", "nms_World_addWeatherEffect", "addWeatherEffect", "nms_Block_canCollideCheck", "canCollideCheck", "nms_Block_collisionRayTrace", "collisionRayTrace", "jl_Class_getConstructor", "getConstructor", "jlr_Constructor_newInstance", "jl_Class_getDeclaredConstructors", "getDeclaredConstructors", "nms_MapDataBase_readFromNBT", "nms_NBTTagCompound_setShort", "setShort", "nms_IWorldAccess_obtainEntitySkin",
+        "nms_NBTTagCompound_getFloat", "nms_NBTTagCompound_getShort", "nms_Entity_setRotation", "setRotation", "nms_Entity_readEntityFromNBT", "readEntityFromNBT", "npem_FontRenderer_sizeStringToWidth", "sizeStringToWidth", "npem_FontRenderer_getFormatFromString", "getFormatFromString", "cjj_ZStream_read_buf", "read_buf", "cjj_Deflate__tr_flush_block", "_tr_flush_block", "cjj_Tree_d_code", "d_code", "cjj_Deflate_bi_windup", "bi_windup", "nms_RenderPlayer_func_22016_b", "func_22016_b", "nms_RenderWolf_func_25004_a",
+        "func_25004_a", "nms_RenderChicken_getWingRotation", "getWingRotation", "nms_RenderSquid_func_21006_b", "func_21006_b", "nms_RenderLiving_getDeathMaxRotation", "getDeathMaxRotation", "nms_RenderPlayer_rotatePlayer", "rotatePlayer", "nms_RenderSquid_func_21007_a", "func_21007_a", "nms_RenderSpider_func_35446_a", "func_35446_a", "nms_RenderWolf_func_25006_b", "func_25006_b", "nms_RenderCreeper_updateCreeperScale", "updateCreeperScale", "nms_RenderSlime_scaleSlime", "scaleSlime", "nms_RenderPlayer_func_186_b",
+        "func_186_b", "nms_RenderGiantZombie_preRenderScale", "preRenderScale", "nms_RenderGhast_func_4014_a", "func_4014_a", "nms_RenderSquid_func_21005_a", "func_21005_a", "nms_EntityWolf_isWolfAngry", "isWolfAngry", "nms_EntityWolf_getInterestedAngle", "getInterestedAngle", "nms_EntityWolf_getShakeAngle", "getShakeAngle", "nms_EntityWolf_getWolfShaking", "getWolfShaking", "nms_EntityWolf_getShadingWhileShaking", "getShadingWhileShaking", "nms_ModelQuadruped_setRotationAngles", "nms_ModelWolf_setRotationAngles",
+        "nms_ModelRenderer_renderWithRotation", "renderWithRotation", "nms_ModelChicken_setRotationAngles", "nms_ModelSlime_setRotationAngles", "nms_ModelSquid_setRotationAngles", "nms_ModelSpider_setRotationAngles", "nms_ModelSilverfish_setRotationAngles", "nms_ModelCreeper_setRotationAngles", "nms_ModelGhast_setRotationAngles", "nms_EntityArrow__init_0", "nms_ModelBase_func_35393_a", "func_35393_a", "nms_ModelRenderer_postRender", "postRender", "nms_RenderEnderman_func_35443_a", "func_35443_a", "nms_EntityLiving_getHeldItem",
+        "getHeldItem", "nms_Item_isFull3D", "isFull3D", "nms_RenderPlayer_renderSpecials", "renderSpecials", "nms_RenderCreeper_updateCreeperColorMultiplier", "updateCreeperColorMultiplier", "nms_RenderSpider_setSpiderEyeBrightness", "setSpiderEyeBrightness", "nms_RenderPig_renderSaddledPig", "renderSaddledPig", "nms_RenderSheep_setWoolColorAndRender", "setWoolColorAndRender", "nms_RenderSilverfish_func_35449_a", "func_35449_a", "nms_RenderCreeper_func_27006_a", "func_27006_a", "nms_RenderEnderman_func_35441_a",
+        "func_35441_a", "nms_RenderSlime_renderSlimePassModel", "renderSlimePassModel", "nms_RenderPlayer_setArmorModel", "setArmorModel", "nms_RenderCreeper_func_27007_b", "func_27007_b", "nmc_Minecraft_isDebugInfoEnabled", "isDebugInfoEnabled", "nms_RenderPlayer_renderName", "renderName", "ju_Calendar_set2", "nms_ChunkCache_getLightValueExt", "getLightValueExt", "nms_EntityTNTPrimed__init_0", "nms_EntityLiving_spawnExplosionParticle", "spawnExplosionParticle", "nms_WorldInfo_getNBTTagCompound", "getNBTTagCompound",
+        "nms_NBTTagCompound_setByte", "setByte", "nms_ChunkProviderHell__init_", "nms_WorldInfo_func_35917_r", "func_35917_r", "nms_ChunkProviderGenerate__init_", "nms_ChunkProviderFlat__init_", "nms_ChunkProviderSky__init_", "nms_World_getFirstUncoveredBlock", "getFirstUncoveredBlock", "nms_IRecipe_matches", "nms_IRecipe_getCraftingResult", "getCraftingResult", "jl_Double_compare", "jl_Boolean_compare", "oj_JSONObject_write", "oj_JSONArray_write", "nms_FoodStats_func_35770_c", "func_35770_c", "nms_BlockFluid_checkForHarden",
+        "checkForHarden", "nms_BlockStationary_func_30004_j", "func_30004_j", "nms_BlockSand_tickRate", "nms_BlockDispenser_tickRate", "nms_World_isBlockGettingPowered", "isBlockGettingPowered", "nms_BlockRail_func_27044_a", "func_27044_a", "nms_RailLogic__init_", "nms_RailLogic_getNAdjacentTracks", "getNAdjacentTracks", "nms_BlockRail_func_4031_h", "func_4031_h", "nms_BlockPistonBase_updatePistonState", "updatePistonState", "nms_BlockTorch_dropTorchIfCantStay", "dropTorchIfCantStay", "nms_BlockTorch_func_31032_h",
+        "func_31032_h", "nms_TileEntityChest_func_35144_b", "func_35144_b", "nms_TileEntity_func_35144_b", "nms_BlockRedstoneWire_canPlaceBlockAt", "nms_BlockRedstoneWire_updateAndPropagateCurrentStrength", "updateAndPropagateCurrentStrength", "nms_BlockDoor_onPoweredBlockChange", "onPoweredBlockChange", "nms_BlockLever_checkIfAttachedToBlock", "checkIfAttachedToBlock", "nms_BlockRedstoneTorch_tickRate", "nms_BlockButton_func_305_h", "func_305_h", "nms_BlockSnow_func_314_h", "func_314_h", "nms_BlockCactus_canBlockStay",
+        "nms_BlockReed_checkBlockCoordValid", "checkBlockCoordValid", "nms_BlockCake_canBlockStay", "nms_BlockRedstoneRepeater_canBlockStay", "nms_BlockTrapDoor_onPoweredBlockChange", "nms_BlockVine_func_35301_h", "func_35301_h", "nms_Pathfinder_createEntityPathTo0", "jl_Class_isAssignableFrom", "isAssignableFrom", "nms_ISaveHandler_checkSessionLock", "nms_MapDataBase_isDirty", "isDirty", "nms_MapStorage_saveData", "saveData", "nleiv_VFile2_listFiles3", "jl_Class_getCanonicalNameCache", "getCanonicalNameCache",
+        "jl_Class_setCanonicalNameCache", "setCanonicalNameCache", "jl_Class_getDeclaringClass", "jl_Class_isSynthetic", "isSynthetic", "nlesse_RandomAccessMemoryFile_grow", "nlesse_RandomAccessMemoryFile_read", "nms_J_CompactJsonFormatter_format0", "nleit_TeaVMWebSocketFrame_toStr$js_body$_3", "toStr$js_body$_3", "otrfm_InMemoryVirtualFile$1__init_", "nms_NextTickListEntry_comparer", "comparer", "nms_ChunkFile_compareChunks", "compareChunks", "nms_EntityPlayer_resetHeight", "resetHeight", "nms_EntityHugeExplodeFX__init_",
+        "nms_EntityLargeExplodeFX__init_", "nms_EntityBubbleFX__init_", "nms_EntitySuspendFX__init_", "nms_EntityAuraFX__init_", "nms_EntityCritFX__init_", "nms_EntityNoteFX__init_", "nms_EntityPortalFX__init_", "nms_EntityExplodeFX__init_", "nms_EntityFlameFX__init_", "nms_EntityLavaFX__init_", "nms_EntityFootStepFX__init_", "nms_EntitySplashFX__init_", "nms_EntityCloudFX__init_", "nms_EntityReddustFX__init_", "nms_EntitySlimeFX__init_", "nms_EntitySnowShovelFX__init_", "nms_EntityHeartFX__init_", "nms_EntitySlimeFX__init_0",
+        "nms_RenderGlobal_markBlocksForUpdate", "markBlocksForUpdate", "nms_EntityLiving_onLivingUpdate", "onLivingUpdate", "nms_Entity_pushOutOfBlocks", "pushOutOfBlocks", "nms_DamageSource_func_35524_a", "func_35524_a", "nms_EntityPlayer_isInBed", "isInBed", "nms_Container_canInteractWith", "canInteractWith", "nms_FoodStats_func_35768_a", "func_35768_a", "nms_EntityPlayer_func_35201_a", "func_35201_a", "nms_EntityPlayer_func_35208_ae", "func_35208_ae", "nms_DamageSource_func_35535_a", "func_35535_a", "nms_EntityCreeper_getCreeperState",
+        "getCreeperState", "nms_EntityCreeper_setCreeperState", "setCreeperState", "nms_EntityWolf_getSoundVolume", "getSoundVolume", "nms_EntityLiving_getSoundVolume", "nms_EntitySlime_getSlimeSize", "getSlimeSize", "nms_EntitySlime_getSoundVolume", "nms_BlockRail_isRailBlockAt", "isRailBlockAt", "nms_BlockRail_isRailBlock", "isRailBlock", "nms_Entity_canBePushed", "canBePushed", "nms_Entity_applyEntityCollision", "applyEntityCollision", "nms_EntityTNTPrimed_explode", "explode", "nms_EntityPainting_canStay",
+        "canStay", "nms_World_isAABBInMaterial", "isAABBInMaterial", "nle_Random_nextBoolean", "nextBoolean", "nms_Entity_dropItemWithOffset", "dropItemWithOffset", "nms_World_canBlockBePlacedAt", "canBlockBePlacedAt", "nms_BlockSand_canFallBelow", "canFallBelow", "nms_Entity_dropItem", "dropItem", "nms_World_getClosestPlayerToEntity", "getClosestPlayerToEntity", "nms_DamageSource_func_35532_a", "func_35532_a", "nms_EntityLiving_b", "b", "nms_World_setEntityState", "setEntityState", "nms_EntityLiving_knockBack",
+        "knockBack", "nms_EntityLiving_onDeath", "onDeath", "nms_EntityLiving_getDeathSound", "getDeathSound", "nms_EntityLiving_getHurtSound", "getHurtSound", "nms_DamageSource_func_35529_d", "func_35529_d", "nms_EntityWolf_setWolfAngry", "setWolfAngry", "nms_EntityMinecart_setEntityDead", "nms_EntityMinecart_getStackInSlot", "nms_EntityMinecart_getSizeInventory", "nms_EntityPigZombie_becomeAngryAt", "becomeAngryAt", "nms_EntitySheep_getSheared", "getSheared", "nms_ItemStack_damageItem", "damageItem", "nms_EntitySheep_setSheared",
+        "setSheared", "nms_EntitySheep_getFleeceColor", "getFleeceColor", "nms_Entity_entityDropItem", "entityDropItem", "nms_EntityWolf_showHeartsOrSmokeFX", "showHeartsOrSmokeFX", "nms_EntityWolf_setIsTamed", "setIsTamed", "nms_EntityCreature_setPathToEntity", "setPathToEntity", "nms_EntityWolf_setOwner", "setOwner", "nms_ItemFood_getIsWolfsFavoriteMeat", "getIsWolfsFavoriteMeat", "nms_DataWatcher_getWatchableObjectInt", "getWatchableObjectInt", "nms_ItemFood_getHealAmount", "getHealAmount", "nms_EntityLiving_heal",
+        "heal", "nms_EntityPig_getSaddled", "getSaddled", "nms_WorldInfo_getNBTTagCompoundWithPlayer", "getNBTTagCompoundWithPlayer", "ji_DataInputStream_readChar", "readChar", "nms_IChunkLoader_loadChunk", "nms_IChunkLoader_saveChunk", "saveChunk", "nms_IChunkLoader_saveExtraChunkData", "saveExtraChunkData", "juz_Deflater__init_0", "nms_EnumArt__clinit_", "jl_Float_valueOf", "nms_Entity_setFlag", "nms_EntityCrit2FX_onUpdate", "nms_WorldChunkManager__init_0", "nms_GenLayer_func_35497_a", "func_35497_a", "nms_ContainerDispenser__init_",
+        "nms_ContainerChest__init_", "nms_ContainerWorkbench__init_", "nms_ContainerFurnace__init_", "nms_World_setBlockAndMetadata", "setBlockAndMetadata", "nms_BlockFlowing_calculateFlowCost", "calculateFlowCost", "nms_BlockFluid_triggerLavaMixEffects", "triggerLavaMixEffects", "nms_Material_getBurning", "getBurning", "nms_EntityFallingSand__init_0", "nms_TileEntityDispenser_getRandomStackFromInventory", "getRandomStackFromInventory", "nms_EntityArrow_setArrowHeading", "setArrowHeading", "nms_EntityEgg__init_",
+        "nms_EntityEgg_setEggHeading", "setEggHeading", "nms_EntitySnowball__init_0", "nms_EntitySnowball_setSnowballHeading", "setSnowballHeading", "nms_BlockFire_getChanceToEncourageFire", "getChanceToEncourageFire", "nms_World_isBlockIndirectlyProvidingPowerTo", "isBlockIndirectlyProvidingPowerTo", "nms_RedstoneUpdateInfo__init_", "nms_EntityWeatherEffect__init_", "nms_World_doChunksNearChunkExist", "doChunksNearChunkExist", "npem_FontRenderer_isFormatColor", "isFormatColor", "npem_FontRenderer_isFormatSpecial",
+        "isFormatSpecial", "nms_MapGenCavesHell__init_", "nms_NoiseGeneratorOctaves__init_", "nms_MapGenCaves__init_", "nms_MapGenStronghold__init_", "nms_MapGenVillage__init_", "nms_MapGenMineshaft__init_", "nms_MapGenRavine__init_", "nms_BlockRail_func_27043_a", "func_27043_a", "nms_BlockRail_isPoweredBlockRail", "isPoweredBlockRail", "nms_RailLogic_setConnections", "setConnections", "nms_RailLogic_getAdjacentTracks", "getAdjacentTracks", "nms_RailLogic_func_792_a", "func_792_a", "nms_BlockPistonBase_isIndirectlyPowered",
+        "isIndirectlyPowered", "nms_BlockPistonBase_canExtend", "canExtend", "nms_World_playNoteAt", "playNoteAt", "nms_BlockTorch_canPlaceBlockAt", "nms_BlockRedstoneWire_calculateCurrentChanges", "calculateCurrentChanges", "nms_BlockLever_canPlaceBlockAt", "nms_BlockButton_canPlaceBlockAt", "nms_BlockSnow_canPlaceBlockAt", "nms_Path_clearPath", "clearPath", "nms_Pathfinder_openPoint", "openPoint", "nms_PathPoint__init_", "nms_Pathfinder_addToPath", "addToPath", "nms_MapDataBase_writeToNBT", "writeToNBT", "nms_NBTTagCompound_setCompoundTag",
+        "setCompoundTag", "nms_EntityCritFX__init_0", "nms_EntityNoteFX__init_0", "nms_EntityReddustFX__init_0", "nms_EntitySnowShovelFX__init_0", "nms_EntityHeartFX__init_0", "nms_Entity_onEntityUpdate", "onEntityUpdate", "nms_EntityDamageSourceIndirect__init_", "nms_World_createExplosion", "createExplosion", "nms_EnumArt__init_", "nms_EnumArt_$values", "jl_Float__init_", "nms_BiomeCache__init_", "nms_LayerIsland__init_", "nms_GenLayerZoomFuzzy__init_", "nms_GenLayerIsland__init_", "nms_GenLayerZoom__init_",
+        "nms_GenLayerZoom_func_35515_a", "func_35515_a", "nms_GenLayerRiverInit__init_", "nms_GenLayerRiver__init_", "nms_GenLayerSmooth__init_", "nms_GenLayerVillageLandscape__init_", "nms_GenLayerTemperature__init_", "nms_GenLayerDownfall__init_", "nms_GenLayerRiverMix__init_", "nms_GenLayerSmoothZoom_func_35517_a", "func_35517_a", "nms_GenLayerZoomVoronoi__init_", "nms_GenLayerRiverMix_func_35496_b", "func_35496_b", "nms_GenLayer_func_35496_b", "nms_GenLayerSmoothZoom__init_", "nms_GenLayerTemperatureMix__init_",
+        "nms_GenLayerDownfallMix__init_", "nms_IInventory_func_35142_x_", "func_35142_x_", "nms_ContainerWorkbench_onCraftMatrixChanged", "nms_SlotFurnace__init_", "nms_MapGenBase__init_", "nms_NoiseGenerator__init_", "nms_NoiseGeneratorPerlin__init_", "nms_MapGenStructure__init_", "nms_MapGenVillage__clinit_", "nms_RailLogic_isMinecartTrack", "isMinecartTrack", "nms_BlockPistonBase_canPushBlock", "canPushBlock", "nms_Block_getMobilityFlag", "getMobilityFlag", "nms_BlockRedstoneWire_getMaxCurrentStrength", "getMaxCurrentStrength",
+        "nms_PathPoint_func_22329_a", "func_22329_a", "nms_PathPoint_distanceTo", "nms_Path_addPoint", "addPoint", "nms_Path_dequeue", "dequeue", "nms_PathPoint_equals", "nms_Pathfinder_createEntityPath", "createEntityPath", "nms_Pathfinder_findPathOptions", "findPathOptions", "nms_PathPoint_isAssigned", "isAssigned", "nms_Path_changeDistance", "changeDistance", "nms_Path_isPathEmpty", "isPathEmpty", "nms_EntityCritFX_onUpdate", "nms_GenLayer__init_", "nms_Block_getHardness", "getHardness", "nms_PathEntity__init_",
+        "nms_Pathfinder_getVerticalOffset", "getVerticalOffset", "nms_Pathfinder_getSafePoint", "getSafePoint", "nms_BlockDoor_isOpen", "nms_McRegionChunkLoader_func_814_a", "nms_McRegionChunkLoader_saveExtraData", "nms_McRegionChunkLoader_loadChunk", "nms_McRegionChunkLoader_saveChunk", "nms_McRegionChunkLoader_saveExtraChunkData", "nms_EntityMob_getCanSpawnHere", "ju_AbstractMap_toString", "nms_WorldChunkManagerHell_func_35554_b", "nms_WorldChunkManagerHell_func_35558_c", "nms_WorldChunkManagerHell_getBiomeGenAt",
+        "nms_WorldChunkManagerHell_func_4069_a", "nms_WorldChunkManagerHell_func_35556_a", "nms_WorldChunkManagerHell_getBiomeGenAtChunkCoord", "ju_TreeMap$EntrySet_iterator", "nms_ChunkProviderHell_provideChunk", "nms_ChunkProviderHell_unload100OldestChunks", "nms_ChunkProviderGenerate_provideChunk", "nms_ChunkProviderGenerate_unload100OldestChunks", "nms_ChunkProviderFlat_provideChunk", "nms_ChunkProviderFlat_unload100OldestChunks", "nms_ChunkProviderSky_provideChunk", "nms_ChunkProviderSky_unload100OldestChunks",
+        "nms_EntityAnimal_getCanSpawnHere", "nms_EntityWolf_getMaxSpawnedInChunk", "nms_EntityGhast_getCanSpawnHere", "nms_EntityGhast_getMaxSpawnedInChunk", "nms_EntityPigZombie_getCanSpawnHere", "nms_EntitySlime_getCanSpawnHere", "nms_EntityWaterMob_getCanSpawnHere", "otrfm_InMemoryVirtualFile$1_close", "otrfm_InMemoryVirtualFile$1_write", "otrfm_InMemoryVirtualFile$1_size", "otrfm_InMemoryVirtualFile$1_seek", "otrfm_InMemoryVirtualFile$1_tell", "otrfm_InMemoryVirtualFile$1_read", "nms_RegionFileChunkBuffer_close",
+        "nms_ContainerDispenser_getStackInSlot", "nms_ContainerDispenser_canInteractWith", "nms_ContainerChest_onCraftGuiClosed", "nms_ContainerChest_getStackInSlot", "nms_ContainerChest_canInteractWith", "nms_ContainerWorkbench_onCraftGuiClosed", "nms_ContainerWorkbench_getStackInSlot", "nms_ContainerWorkbench_canInteractWith", "nms_ContainerFurnace_getStackInSlot", "nms_ContainerFurnace_canInteractWith", "nms_InventoryLargeChest_getStackInSlot", "nms_InventoryLargeChest_onInventoryChanged", "nms_InventoryLargeChest_getInventoryStackLimit",
+        "nms_InventoryLargeChest_setInventorySlotContents", "nms_InventoryLargeChest_decrStackSize", "nms_EntityEgg_entityInit", "nms_EntityLightningBolt_entityInit", "nms_ItemBlock_onItemUse", "nms_ItemFlintAndSteel_onItemUse", "nms_ItemHoe_onItemUse", "nms_ItemSeeds_onItemUse", "nms_ItemPainting_onItemUse", "nms_ItemSign_onItemUse", "nms_ItemDoor_onItemUse", "nms_ItemMinecart_onItemUse", "nms_ItemRedstone_onItemUse", "nms_ItemReed_onItemUse", "nms_ItemDye_onItemUse", "nms_ItemBed_onItemUse", "nms_ItemRecord_onItemUse",
+        "nms_ItemFood_onItemRightClick", "nms_ItemBow_onItemRightClick", "nms_ItemSword_onItemRightClick", "nms_ItemBucket_onItemRightClick", "nms_ItemSnowball_onItemRightClick", "nms_ItemBoat_onItemRightClick", "nms_ItemEgg_onItemRightClick", "nms_ItemFishingRod_onItemRightClick", "nms_ItemFood_func_35412_b", "nms_ItemBow_func_35412_b", "nms_ItemSword_func_35412_b", "nms_ItemFood_func_35411_c", "nms_ItemBow_func_35411_c", "nms_ItemSword_func_35411_c", "nms_ItemMap_onCreated", "nms_EmptyChunk_func_4143_d", "nms_EmptyChunk_onChunkLoad",
+        "nms_EmptyChunk_getBlockID", "nms_EmptyChunk_getChunkBlockTileEntity", "nms_EmptyChunk_getBlockMetadata", "nms_EmptyChunk_getSavedLightValue", "nms_EmptyChunk_getEntitiesWithinAABBForEntity", "nms_EmptyChunk_getEntitiesOfTypeWithinAAAB", "nms_EmptyChunk_removeEntity", "nms_EmptyChunk_removeChunkBlockTileEntity", "nms_EmptyChunk_setChunkBlockTileEntity", "nms_EmptyChunk_addEntity", "ju_HashSet_isEmpty", "nms_J_LeafFunctor_applyTo", "nms_J_ChainedFunctor_applyTo", "nms_ChunkPosition_hashCode", "nms_ChunkPosition_equals",
+        "ju_AbstractMap_hashCode", "ju_AbstractMap_equals", "nms_NetClientHandler_handleFlying", "nms_NetClientHandler_func_35784_a", "nms_NetClientHandler_handleRespawn", "nms_NetClientHandler_handleSpawnPosition", "nms_NetClientHandler_handleUpdateTime", "nms_NetClientHandler_handleHandshake", "nms_NetClientHandler_handleChat", "nms_NetClientHandler_handleArmAnimation", "nms_NetClientHandler_handleSleep", "nms_NetClientHandler_handleHealth", "nms_NetClientHandler_handlePlayerInventory", "nms_NetClientHandler_handleLogin",
+        "nms_NetClientHandler_handleEntityStatus", "nms_NetClientHandler_handleAuxSFX", "nms_NetClientHandler_handleStatistic", "nms_NetClientHandler_handleExplosion", "nms_NetClientHandler_handleCollect", "nms_NetClientHandler_handleBlockChange", "nms_NetClientHandler_processItemData", "nms_NetClientHandler_handleSetSlot", "nms_NetClientHandler_func_35777_a", "nms_NetClientHandler_handleEntityPainting", "nms_NetClientHandler_handleEntityTeleport", "nms_NetClientHandler_handleMultiBlockChange", "nms_NetClientHandler_func_35780_a",
+        "nms_NetClientHandler_handleMobSpawn", "nms_NetClientHandler_handleAttachEntity", "nms_NetClientHandler_handleMapChunk", "nms_NetClientHandler_handleNotePlay", "nms_NetClientHandler_handleEntity", "nms_NetClientHandler_handleCloseWindow", "nms_NetClientHandler_handleKickDisconnect", "nms_NetClientHandler_handleEntityVelocity", "nms_NetClientHandler_handleOpenWindow", "nms_NetClientHandler_handleBedUpdate", "nms_NetClientHandler_func_35778_a", "nms_NetClientHandler_handlePreChunk", "nms_NetClientHandler_handleCraftingProgress",
+        "nms_NetClientHandler_func_35783_a", "nms_NetClientHandler_handleWindowItems", "nms_NetClientHandler_func_35779_a", "nms_NetClientHandler_handleWeather", "nms_NetClientHandler_handleContainerTransaction", "nms_NetClientHandler_handleEntityMetadata", "nms_NetClientHandler_handleDestroyEntity", "nms_NetClientHandler_handlePickupSpawn", "nms_NetClientHandler_handleUpdateSign", "nms_NetClientHandler_handleNamedEntitySpawn", "nms_NetClientHandler_handleVehicleSpawn", "nms_EntityCrit2FX_getFXLayer", "ju_LinkedHashMap_keySet",
+        "nms_J_JsonStringNodeBuilder_buildNode", "nms_J_JsonNumberNodeBuilder_buildNode", "nms_J_JsonTrueNodeBuilder_buildNode", "nms_J_JsonNullNodeBuilder_buildNode", "nms_J_JsonFalseNodeBuilder_buildNode", "nms_RenderGlobal_playAuxSFX", "nms_EmptyChunk_setBlockMetadata", "nms_BlockFlower_getCollisionBoundingBoxFromPool", "nms_BlockFluid_getCollisionBoundingBoxFromPool", "nms_BlockRail_getCollisionBoundingBoxFromPool", "nms_BlockWeb_getCollisionBoundingBoxFromPool", "nms_BlockPistonMoving_getCollisionBoundingBoxFromPool",
+        "nms_BlockTorch_getCollisionBoundingBoxFromPool", "nms_BlockFire_getCollisionBoundingBoxFromPool", "nms_BlockStairs_getCollisionBoundingBoxFromPool", "nms_BlockRedstoneWire_getCollisionBoundingBoxFromPool", "nms_BlockFarmland_getCollisionBoundingBoxFromPool", "nms_BlockSign_getCollisionBoundingBoxFromPool", "nms_BlockDoor_getCollisionBoundingBoxFromPool", "nms_BlockLadder_getCollisionBoundingBoxFromPool", "nms_BlockLever_getCollisionBoundingBoxFromPool", "nms_BlockPressurePlate_getCollisionBoundingBoxFromPool",
+        "nms_BlockButton_getCollisionBoundingBoxFromPool", "nms_BlockSnow_getCollisionBoundingBoxFromPool", "nms_BlockCactus_getCollisionBoundingBoxFromPool", "nms_BlockReed_getCollisionBoundingBoxFromPool", "nms_BlockFence_getCollisionBoundingBoxFromPool", "nms_BlockSoulSand_getCollisionBoundingBoxFromPool", "nms_BlockPortal_getCollisionBoundingBoxFromPool", "nms_BlockCake_getCollisionBoundingBoxFromPool", "nms_BlockTrapDoor_getCollisionBoundingBoxFromPool", "nms_BlockVine_getCollisionBoundingBoxFromPool",
+        "nms_BlockFenceGate_getCollisionBoundingBoxFromPool", "nms_EmptyChunk_setBlockID", "nms_BlockRedstoneTorch_onBlockAdded", "nms_EmptyChunk_canBlockSeeTheSky", "nms_EmptyChunk_getBlockLightValue", "nms_RenderGlobal_releaseEntitySkin", "nms_RenderGlobal_markBlockAndNeighborsNeedsUpdate", "nms_BlockFlower_canPlaceBlockAt", "nms_BlockRail_canPlaceBlockAt", "nms_BlockPistonExtension_canPlaceBlockAt", "nms_BlockPistonMoving_canPlaceBlockAt", "nms_BlockStairs_canPlaceBlockAt", "nms_BlockChest_canPlaceBlockAt",
+        "nms_BlockDoor_canPlaceBlockAt", "nms_BlockLadder_canPlaceBlockAt", "nms_BlockPressurePlate_canPlaceBlockAt", "nms_BlockCactus_canPlaceBlockAt", "nms_BlockReed_canPlaceBlockAt", "nms_BlockFence_canPlaceBlockAt", "nms_BlockPumpkin_canPlaceBlockAt", "nms_BlockCake_canPlaceBlockAt", "nms_BlockRedstoneRepeater_canPlaceBlockAt", "nms_BlockLockedChest_canPlaceBlockAt", "nms_BlockFenceGate_canPlaceBlockAt", "nms_BlockFluid_canCollideCheck", "nms_BlockStairs_canCollideCheck", "nms_BlockRail_collisionRayTrace",
+        "nms_BlockTorch_collisionRayTrace", "nms_BlockDoor_collisionRayTrace", "nms_BlockTrapDoor_collisionRayTrace", "nms_RenderGlobal_obtainEntitySkin", "nms_EntityPlayerSP_readEntityFromNBT", "nms_RenderSpider_getDeathMaxRotation", "nms_RenderSilverfish_getDeathMaxRotation", "nms_ModelPig_setRotationAngles", "nms_ModelCow_setRotationAngles", "nms_EntitySkeleton_getHeldItem", "nms_EntityPigZombie_getHeldItem", "nms_ItemTool_isFull3D", "nms_ItemSword_isFull3D", "nms_ItemHoe_isFull3D", "nms_ItemFishingRod_isFull3D",
+        "jl_Long_intValue", "jl_Short_intValue", "jm_BigDecimal_intValue", "nms_ShapedRecipes_matches", "nms_ShapelessRecipes_matches", "nms_ShapedRecipes_getCraftingResult", "nms_ShapelessRecipes_getCraftingResult", "nms_SaveHandler_checkSessionLock", "nms_EntityHugeExplodeFX_getFXLayer", "nms_EntityLargeExplodeFX_getFXLayer", "nms_EntityFootStepFX_getFXLayer", "nms_EntitySlimeFX_getFXLayer", "nms_EntityPlayerSP_onLivingUpdate", "nms_EntityMob_onLivingUpdate", "nms_EntityWolf_onLivingUpdate", "nms_EntityChicken_onLivingUpdate",
+        "nms_EntityEnderman_onLivingUpdate", "nms_EntitySkeleton_onLivingUpdate", "nms_EntityZombie_onLivingUpdate", "nms_EntitySquid_onLivingUpdate", "nms_EntityPigZombie_onLivingUpdate", "nms_EntityItem_canTriggerWalking", "nms_EntityItem_dealFireDamage", "nms_EntityDamageSourceIndirect_func_35532_a", "nms_ContainerCreative_canInteractWith", "nms_ContainerPlayer_canInteractWith", "nms_EntityMinecart_getCollisionBox", "nms_EntityMinecart_canTriggerWalking", "nms_EntityLiving_canBePushed", "nms_EntityMinecart_canBePushed",
+        "nms_EntityBoat_canBePushed", "nms_EntityMinecart_applyEntityCollision", "nms_EntityTNTPrimed_canTriggerWalking", "nms_EntityBoat_getCollisionBox", "nms_EntityBoat_canTriggerWalking", "nms_EntityFallingSand_canTriggerWalking", "nms_EntityXPOrb_canTriggerWalking", "nms_EntityXPOrb_dealFireDamage", "nms_EntityDamageSource_func_35532_a", "nms_EntityPlayer_b", "nms_EntityPlayer_onDeath", "nms_EntityCreeper_onDeath", "nms_EntitySkeleton_onDeath", "nms_EntitySpider_getDeathSound", "nms_EntityPig_getDeathSound",
+        "nms_EntitySheep_getDeathSound", "nms_EntityCow_getDeathSound", "nms_EntityWolf_getDeathSound", "nms_EntityChicken_getDeathSound", "nms_EntitySilverfish_getDeathSound", "nms_EntityCreeper_getDeathSound", "nms_EntityEnderman_getDeathSound", "nms_EntitySkeleton_getDeathSound", "nms_EntityZombie_getDeathSound", "nms_EntitySlime_getDeathSound", "nms_EntityGhast_getDeathSound", "nms_EntitySquid_getDeathSound", "nms_EntityPigZombie_getDeathSound", "nms_EntityCow_getSoundVolume", "nms_EntityGhast_getSoundVolume",
+        "nms_EntitySquid_getSoundVolume", "nms_EntitySpider_getHurtSound", "nms_EntityPig_getHurtSound", "nms_EntitySheep_getHurtSound", "nms_EntityCow_getHurtSound", "nms_EntityWolf_getHurtSound", "nms_EntityChicken_getHurtSound", "nms_EntitySilverfish_getHurtSound", "nms_EntityCreeper_getHurtSound", "nms_EntityEnderman_getHurtSound", "nms_EntitySkeleton_getHurtSound", "nms_EntityZombie_getHurtSound", "nms_EntitySlime_getHurtSound", "nms_EntityGhast_getHurtSound", "nms_EntitySquid_getHurtSound", "nms_EntityPigZombie_getHurtSound",
+        "nms_EntityMinecart_onInventoryChanged", "nms_EntityMinecart_getInventoryStackLimit", "nms_EntityMinecart_setInventorySlotContents", "nms_EntityMinecart_decrStackSize", "nms_EntityMinecart_func_35142_x_", "nms_InventoryLargeChest_getSizeInventory", "nms_EntityLiving_onEntityUpdate", "nms_InventoryLargeChest_func_35142_x_", "nms_BlockBed_getMobilityFlag", "nms_BlockRail_getMobilityFlag", "nms_BlockDoor_getMobilityFlag", "nms_BlockPressurePlate_getMobilityFlag", "nms_BlockIce_getMobilityFlag", "nms_EmptyChunk_needsSaving",
+        "nms_MapData_writeToNBT", "nms_SlotFurnace_isItemValid", "nms_SlotFurnace_onPickupFromSlot", "nms_EntityLavaFX_func_35115_a", "nms_EntityLargeExplodeFX_func_35115_a", "nms_EntityPortalFX_func_35115_a", "nms_EntityFlameFX_func_35115_a", "nms_EntityLavaFX_renderParticle", "nms_EntityHugeExplodeFX_renderParticle", "nms_EntityExplodeFX_renderParticle", "nms_EntityReddustFX_renderParticle", "nms_EntityCritFX_renderParticle", "nms_EntityLargeExplodeFX_renderParticle", "nms_EntityCrit2FX_renderParticle", "nms_EntityPortalFX_renderParticle",
+        "nms_EntityFlameFX_renderParticle", "nms_EntityFootStepFX_renderParticle", "nms_EntityCloudFX_renderParticle", "nms_EntityNoteFX_renderParticle", "nms_EntitySlimeFX_renderParticle", "nms_EntityEgg_isInRangeToRenderDist", "nms_EntityEgg_getShadowSize", "nms_EntityLavaFX_onUpdate", "nms_EntityHugeExplodeFX_onUpdate", "nms_EntityExplodeFX_onUpdate", "nms_EntityReddustFX_onUpdate", "nms_EntityAuraFX_onUpdate", "nms_EntityLargeExplodeFX_onUpdate", "nms_EntitySuspendFX_onUpdate", "nms_EntityEgg_onUpdate",
+        "nms_EntityBubbleFX_onUpdate", "nms_EntityPortalFX_onUpdate", "nms_EntityFlameFX_onUpdate", "nms_EntityFootStepFX_onUpdate", "nms_EntityCloudFX_onUpdate", "nms_EntityNoteFX_onUpdate", "nms_GuiDispenser_drawGuiContainerBackgroundLayer", "nms_GuiChest_drawGuiContainerBackgroundLayer", "nms_GuiCrafting_drawGuiContainerBackgroundLayer", "nms_GuiFurnace_drawGuiContainerBackgroundLayer", "nms_GuiDispenser_drawGuiContainerForegroundLayer", "nms_GuiChest_drawGuiContainerForegroundLayer", "nms_GuiCrafting_drawGuiContainerForegroundLayer",
+        "nms_GuiFurnace_drawGuiContainerForegroundLayer", "nms_GuiContainer_initGui", "nms_GuiContainer_updateScreen", "nms_GuiCrafting_onGuiClosed", "nms_EntitySnowShovelFX_renderParticle", "nms_EntityHeartFX_renderParticle", "nms_EntitySnowShovelFX_onUpdate", "nms_EntityHeartFX_onUpdate", "nms_RegionFileCache_getChunkInputStream", "getChunkInputStream", "nms_ChunkLoader_loadChunkIntoWorldFromCompound", "loadChunkIntoWorldFromCompound", "nms_Chunk_isAtLocation", "isAtLocation", "nms_Chunk_func_25124_i", "func_25124_i",
+        "nms_RegionFileCache_getChunkOutputStream", "getChunkOutputStream", "nms_ChunkLoader_storeChunkInCompound", "storeChunkInCompound", "nms_RegionFileCache_getSizeDelta", "getSizeDelta", "nms_WorldInfo_setSizeOnDisk", "setSizeOnDisk", "nms_EntityCreature_getCanSpawnHere", "nms_EntityLiving_getLivingSound", "getLivingSound", "nms_WorldChunkManagerHell_loadBlockGeneratorData", "loadBlockGeneratorData", "nms_WorldChunkManager_loadBlockGeneratorData", "nms_BiomeCache_func_35724_a", "func_35724_a", "nms_BiomeCache_func_35722_b",
+        "func_35722_b", "nms_BiomeCache_func_35727_c", "func_35727_c", "nms_BiomeCache_func_35725_a", "func_35725_a", "nms_BiomeCache_func_35723_d", "func_35723_d", "nms_GenLayer_func_35500_a", "func_35500_a", "ju_TreeMap$EntrySet_descendingIterator", "descendingIterator", "ju_TreeMap$EntrySet_ascendingIterator", "ascendingIterator", "nms_ChunkProviderHell_func_4059_a", "func_4059_a", "nms_ChunkProviderHell_func_4058_b", "func_4058_b", "nms_MapGenBase_generate", "generate", "nms_ChunkProviderGenerate_generateTerrain",
+        "generateTerrain", "nms_ChunkProviderGenerate_replaceBlocksForBiome", "replaceBlocksForBiome", "nms_Chunk_generateSkylightMap", "generateSkylightMap", "nms_MapGenStructure_generate", "nms_ChunkProviderFlat_func_46051_a", "func_46051_a", "nms_ChunkProviderSky_generateTerrain", "nms_ChunkProviderSky_replaceBlocksForBiome", "ju_Currency_getCurrencyCode", "getCurrencyCode", "otciu_CLDRHelper_resolveCurrency", "resolveCurrency", "nms_World_checkIfAABBIsClear", "checkIfAABBIsClear", "nms_World_getIsAnyLiquid",
+        "getIsAnyLiquid", "nms_Chunk_func_997_a", "func_997_a", "otrfm_InMemoryVirtualFile_expandData", "expandData", "nlesse_RandomAccessMemoryFile_getByteArray", "nms_Entity_handleWaterMovement", "handleWaterMovement", "nms_Entity_handleLavaMovement", "handleLavaMovement", "nms_Entity_setOnFireFromLava", "setOnFireFromLava", "nms_Entity_kill", "kill", "nms_RegionFile_write", "nms_TileEntityDispenser_canInteractWith", "nms_IInventory_func_35141_y_", "func_35141_y_", "nms_IInventory_canInteractWith", "nms_TileEntityFurnace_canInteractWith",
+        "nms_Item_getPlacedBlockMetadata", "getPlacedBlockMetadata", "nms_Block_onBlockPlaced", "onBlockPlaced", "nms_Block_onBlockPlacedBy", "onBlockPlacedBy", "nms_EntityPainting__init_0", "nms_EntityPlayer_displayGUIEditSign", "displayGUIEditSign", "nms_ItemDoor_func_35434_a", "func_35434_a", "nms_EntityMinecart__init_0", "nms_BlockCrops_fertilize", "fertilize", "nms_BlockStem_func_35294_i", "func_35294_i", "nms_BlockMushroom_func_35293_c", "func_35293_c", "nms_BlockJukeBox_ejectRecord", "ejectRecord", "nms_EntityPlayer_func_35199_b",
+        "func_35199_b", "nms_InventoryPlayer_func_35157_d", "func_35157_d", "nms_World_rayTraceBlocks_do", "rayTraceBlocks_do", "nms_World_canMineBlock", "canMineBlock", "nms_EntitySnowball__init_1", "nms_EntityBoat__init_0", "nms_EntityEgg__init_0", "nms_EntityFish_catchFish", "catchFish", "nms_EntityFish__init_", "nms_PlayerList_func_35568_g", "func_35568_g", "nms_PlayerList_func_35573_a", "func_35573_a", "nms_PlayerList_func_35570_a", "func_35570_a", "nms_IChunkProvider_populate", "populate", "ju_AbstractMap_isEmpty",
+        "nms_PlayerList_func_35572_e", "func_35572_e", "nms_PlayerList_func_35569_c", "func_35569_c", "cjj_Drft_fdrffti", "fdrffti", "nms_J_LeafFunctor_typeSafeApplyTo", "typeSafeApplyTo", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_func_27322_a", "func_27322_a", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_func_27323_a", "func_27323_a", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_func_27321_b", "func_27321_b", "nms_Entity_setPositionAndRotation", "setPositionAndRotation",
+        "nms_Packet0KeepAlive__init_0", "nms_WorldClient__init_", "nms_GuiDownloadTerrain__init_", "nms_PlayerControllerMP_func_35648_a", "func_35648_a", "nms_NetHandler_registerPacket", "registerPacket", "nms_Packet1Login__init_0", "nms_NetClientHandler_getEntityByID", "getEntityByID", "nms_Entity_performHurtAnimation", "performHurtAnimation", "nms_EntityPlayerSP_setHealth", "setHealth", "nms_FoodStats_func_35764_a", "func_35764_a", "nms_FoodStats_func_35767_b", "func_35767_b", "nms_Entity_outfitWithItem",
+        "outfitWithItem", "nms_PlayerControllerMP__init_", "nms_Entity_handleHealthUpdate", "handleHealthUpdate", "nms_EntityClientPlayerMP_func_27027_b", "func_27027_b", "nms_EntityPickupFX__init_", "nms_WorldClient_removeEntityFromWorld", "removeEntityFromWorld", "nms_WorldClient_setBlockAndMetadataAndInvalidate", "setBlockAndMetadataAndInvalidate", "nms_ItemMap_func_28013_a", "func_28013_a", "nms_MapData_func_28171_a", "func_28171_a", "nms_Container_putStackInSlot", "putStackInSlot", "nms_EntityPlayerSP_func_35219_c",
+        "func_35219_c", "nms_EntityPainting__init_1", "nms_WorldClient_func_712_a", "func_712_a", "nms_Entity_setPositionAndRotation2", "setPositionAndRotation2", "nms_Chunk_setBlockIDWithMetadata", "setBlockIDWithMetadata", "nms_WorldClient_invalidateBlockReceiveRegion", "invalidateBlockReceiveRegion", "nms_PotionEffect__init_", "nms_EntityLiving_func_35165_a", "func_35165_a", "nms_Packet24MobSpawn_getMetadata", "getMetadata", "nms_Entity_getDataWatcher", "getDataWatcher", "nms_DataWatcher_updateWatchedObjectsFromList",
+        "updateWatchedObjectsFromList", "nms_World_setChunkData", "setChunkData", "nms_Entity_setVelocity", "setVelocity", "nms_TileEntityFurnace__init_", "nms_TileEntityDispenser__init_", "nms_World_setRainStrength", "setRainStrength", "nms_EntityXPOrb__init_0", "nms_WorldClient_doPreChunk", "doPreChunk", "nms_Container_func_20112_a", "func_20112_a", "nms_EntityLiving_damageEntity", "damageEntity", "nms_Container_putStacksInSlots", "putStacksInSlots", "nms_GuiSavingLevelString__init_", "nms_Container_func_20110_b",
+        "func_20110_b", "nms_Packet106Transaction__init_0", "nms_Container_func_20113_a", "func_20113_a", "nms_Packet40EntityMetadata_func_21047_b", "func_21047_b", "nms_EntityOtherPlayerMP__init_", "nms_EntityFish__init_0", "nms_EntityFireball__init_", "nms_Item_getDamageVsEntity", "nms_Item_hitEntity", "nms_Item_saddleEntity", "saddleEntity", "nms_Item_onBlockDestroyed", "onBlockDestroyed", "nms_DataWatcher_getWatchableObjectString", "getWatchableObjectString", "nms_World__init_0", "nms_Teleporter__init_",
+        "nms_Teleporter_placeInPortal", "placeInPortal", "nms_WorldInfo_setSpawnY", "setSpawnY", "nms_WorldInfo_setSpawnX", "setSpawnX", "nms_WorldInfo_setSpawnZ", "setSpawnZ", "nms_ChunkCoordinates__init_0", "ju_LinkedHashMap_sequencedKeySet", "sequencedKeySet", "nms_J_JsonStringNodeBuilder_func_27243_a", "func_27243_a", "nms_J_JsonNodeFactories_func_27313_b", "func_27313_b", "nms_J_JsonNodeFactories_func_27310_a", "func_27310_a", "nms_J_JsonNodeFactories_func_27314_c", "func_27314_c", "nms_Block_getExplosionResistance",
+        "getExplosionResistance", "nms_Entity_getDistance", "getDistance", "nms_World_func_675_a", "func_675_a", "nms_Block_dropBlockAsItemWithChance", "dropBlockAsItemWithChance", "nms_Block_onBlockDestroyedByExplosion", "onBlockDestroyedByExplosion", "nms_EffectRenderer_addBlockDestroyEffects", "addBlockDestroyEffects", "nms_StepSound_stepSoundDir", "stepSoundDir", "nms_IWorldAccess_playRecord", "nms_Material_getIsHarvestable", "getIsHarvestable", "nms_ItemStack_canHarvestBlock", "nms_ItemStack_getStrVsBlock",
+        "nms_TileEntity_getBlockType", "getBlockType", "nms_TileEntity_getBlockMetadata", "nms_TileEntitySpecialRenderer_bindTextureByName", "bindTextureByName", "nms_SignModel_renderSign", "renderSign", "nms_TileEntitySpecialRenderer_getFontRenderer", "getFontRenderer", "nms_TileEntityMobSpawner_getMobID", "getMobID", "nms_Entity_setWorld", "setWorld", "nms_TileEntityPiston_func_31017_b", "func_31017_b", "nms_TileEntityPiston_func_31014_c", "func_31014_c", "nms_TileEntityPiston_func_31013_d", "func_31013_d",
+        "nms_TileEntityPiston_func_31012_k", "func_31012_k", "nms_RenderBlocks_func_31079_a", "func_31079_a", "nms_RenderBlocks_func_31075_a", "func_31075_a", "nms_BlockPistonBase_func_31040_i", "func_31040_i", "nms_BlockPistonExtension_func_31052_a_", "func_31052_a_", "nms_BlockPistonExtension_func_31051_a", "func_31051_a", "nms_RenderBlocks_func_31078_d", "func_31078_d", "nms_ModelChest_func_35402_a", "func_35402_a", "nms_TileEntityChest_func_35147_g", "func_35147_g", "nms_BlockChest_func_35306_h", "func_35306_h",
+        "nms_BlockPistonMoving_func_31035_a", "func_31035_a", "nms_World_func_35459_c", "func_35459_c", "nms_WorldGenTaiga2__init_", "nms_WorldGenerator_generate", "nms_BlockMushroom_canThisPlantGrowOnThisBlockID", "canThisPlantGrowOnThisBlockID", "nms_BlockFlower_canThisPlantGrowOnThisBlockID", "nms_RenderEngine_releaseImageData", "releaseImageData", "nms_Entity_updateRidden", "updateRidden", "nms_Chunk_removeEntityAtIndex", "removeEntityAtIndex", "ju_TreeMap_size", "ju_TreeMap_firstKey", "firstKey", "nms_Chunk_func_35839_k",
+        "func_35839_k", "nms_Material_getIsGroundCover", "getIsGroundCover", "nms_BlockChest_isThereANeighborChest", "isThereANeighborChest", "nms_Block_isCollidable", "isCollidable", "nms_Block_isVecInsideYZBounds", "isVecInsideYZBounds", "nms_Block_isVecInsideXZBounds", "isVecInsideXZBounds", "nms_Block_isVecInsideXYBounds", "isVecInsideXYBounds", "jl_NoSuchMethodException__init_", "jlr_Constructor_getModifiers", "getModifiers", "jlr_Modifier_isPublic", "isPublic", "jlr_Constructor_getParameterTypes", "getParameterTypes",
+        "nms_NBTTagShort__init_0", "nms_Entity_updateCloak", "updateCloak", "nms_EntityPlayer_readEntityFromNBT", "cjj_Tree_build_tree", "build_tree", "cjj_Deflate_build_bl_tree", "build_bl_tree", "cjj_Deflate_set_data_type", "set_data_type", "cjj_Deflate_compress_block", "compress_block", "cjj_Deflate_send_all_trees", "send_all_trees", "nms_EntityWolf_setTailRotation", "setTailRotation", "nms_RenderSpider_setSpiderDeathMaxRotation", "setSpiderDeathMaxRotation", "nms_RenderSilverfish_func_35447_a", "func_35447_a",
+        "nms_EntityPlayer_getBedOrientationInDegrees", "getBedOrientationInDegrees", "nms_EntitySpider_func_35188_k_", "func_35188_k_", "nms_EntityCreeper_setCreeperFlashTime", "setCreeperFlashTime", "nms_ModelRenderer_func_35969_a", "func_35969_a", "nms_EntityEnderman_func_35115_a", "nms_EntityEnderman_func_35180_s", "func_35180_s", "nms_ModelBiped_renderEars", "renderEars", "nms_EntityCreeper_getPowered", "getPowered", "nmc_Minecraft_isGuiEnabled", "isGuiEnabled", "nms_Entity_getDistanceToEntity", "getDistanceToEntity",
+        "nms_Render_getFontRendererFromRenderManager", "getFontRendererFromRenderManager", "nms_RenderLiving_renderLivingLabel", "renderLivingLabel", "oj_JSONArray_get", "oj_JSONArray_wrongValueFormatException", "nms_WorldInfo_updateTagCompound", "updateTagCompound", "nms_NBTTagByte__init_0", "nms_ShapedRecipes_func_21137_a", "func_21137_a", "nms_InventoryCrafting_getStackInRowAndColumn", "getStackInRowAndColumn", "oj_JSONObject_length", "oj_JSONObject_entrySet", "oj_JSONObject_writeValue", "writeValue", "oj_JSONObject_indent",
+        "indent", "oj_JSONArray_length", "nms_World_isBlockProvidingPowerTo", "isBlockProvidingPowerTo", "nms_BlockReed_canBlockStay", "nms_MinecraftException__init_", "dcev_VFileFilter_accept", "otp_Platform_getDeclaringClass", "nms_J_CompactJsonFormatter_formatJsonNode", "formatJsonNode", "nms_MathHelper_bucketInt", "bucketInt", "nms_GuiAchievement_queueAchievementInformation", "queueAchievementInformation", "nms_MovementInput_updatePlayerMoveState", "updatePlayerMoveState", "nms_EntityPlayerSP_pushOutOfBlocks",
+        "nms_EntityPlayer_onLivingUpdate", "nms_PotionEffect_func_35802_b", "func_35802_b", "nms_EntityLiving_isMovementBlocked", "isMovementBlocked", "nms_EntityLiving_moveEntityWithHeading", "moveEntityWithHeading", "nms_EntityLiving_jump", "jump", "nms_EntityLiving_updateEntityActionState", "updateEntityActionState", "nms_EntityLiving_hasCurrentTarget", "hasCurrentTarget", "nms_EntityCreature_hasPath", "hasPath", "nms_EntityLiving_getCurrentTarget", "getCurrentTarget", "nms_EntityEnderman_func_35177_b", "func_35177_b",
+        "nms_EntityEnderman_func_35181_c", "func_35181_c", "nms_EntityLiving_faceEntity", "faceEntity", "nms_Entity_getDistanceSqToEntity", "getDistanceSqToEntity", "nms_EntityEnderman_func_35183_c", "func_35183_c", "nms_EntityEnderman_func_35178_q", "func_35178_q", "nms_EntityEnderman_func_35182_c", "func_35182_c", "nms_EntitySquid_isInWater", "nms_EntityPlayer_func_35194_au", "func_35194_au", "nms_ItemStack_func_35863_b", "func_35863_b", "nms_MathHelper_abs_max", "abs_max", "nms_Block_canPlaceBlockOnSide",
+        "canPlaceBlockOnSide", "nms_DamageSource_func_35534_b", "func_35534_b", "nms_EntityPlayer_func_35162_ad", "func_35162_ad", "nms_EntityLiving_func_35162_ad", "nms_DamageSource_func_35533_c", "func_35533_c", "nms_InventoryPlayer_damageArmor", "damageArmor", "nms_InventoryPlayer_dropAllItems", "dropAllItems", "nms_Entity_addToPlayerScore", "addToPlayerScore", "nms_Entity_onKillEntity", "onKillEntity", "nms_EntityLiving_a", "a", "nms_DamageSource_func_35526_e", "func_35526_e", "nms_EntityPlayer_triggerAchievement",
+        "triggerAchievement", "nms_Entity_writeToNBT", "nms_Block_isPoweringTo", "isPoweringTo", "nms_RailLogic_func_786_c", "func_786_c", "nms_RailLogic_getMinecartTrackLogic", "getMinecartTrackLogic", "nms_RailLogic_func_785_b", "func_785_b", "nms_RailLogic_handleKeyPress", "handleKeyPress", "nms_RailLogic_func_788_d", "func_788_d", "nms_Block_playBlock", "playBlock", "nms_EntityLiving_getTalkInterval", "getTalkInterval", "nms_EntityLiving_canBreatheUnderwater", "canBreatheUnderwater", "nms_EntityLiving_a0",
+        "nms_EntityLiving_func_35163_av", "func_35163_av", "nms_EntityLiving_onEntityDeath", "onEntityDeath", "nms_EntityXPOrb_func_35121_b", "func_35121_b", "nms_EntityLiving_dropFewItems", "dropFewItems", "nms_Material_getMaterialMobility", "getMaterialMobility", "nms_Path_sortBack", "sortBack", "nms_Path_sortForward", "sortForward", "nms_NBTTagCompound_setByteArray", "setByteArray", "nms_TileEntityFurnace_isBurning", "nms_TileEntityFurnace_getCookProgressScaled", "getCookProgressScaled", "nms_TileEntityFurnace_getBurnTimeRemainingScaled",
+        "getBurnTimeRemainingScaled", "nms_IInventory_getInvName", "getInvName", "nms_RegionFile_getChunkDataInputStream", "getChunkDataInputStream", "nms_NBTTagCompound_getByteArray", "nms_NibbleArray__init_0", "nms_NibbleArray_isValid", "nms_Chunk_func_1014_a", "func_1014_a", "nms_EntityList_createEntityFromNBT", "createEntityFromNBT", "nms_TileEntity_createAndLoadEntity", "createAndLoadEntity", "nms_Chunk_addTileEntity", "addTileEntity", "nms_NBTTagCompound_setLong", "setLong", "nms_Entity_addEntityID", "addEntityID",
+        "nms_TileEntity_writeToNBT", "nms_RegionFile_getSizeDelta", "nms_EntityCreature_getBlockPathWeight", "getBlockPathWeight", "ju_TreeMap_pathToFirst", "pathToFirst", "ju_TreeMap_pathToNext", "pathToNext", "ju_TreeMap_pathToExactOrNext", "pathToExactOrNext", "ju_TreeMap$EntryIterator__init_", "otciu_CLDRHelper_getCurrencyMap", "getCurrencyMap", "nms_EntityPainting_func_412_b", "func_412_b", "nms_EntityFish_calculateVelocity", "calculateVelocity", "nms_PlayerList_func_35571_a", "func_35571_a", "nms_PlayerListEntry__init_",
+        "nms_PlayerList_func_35567_b", "func_35567_b", "cjj_Drft_drfti1", "drfti1", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException__init_", "ju_LinkedList__init_1", "nms_SaveHandlerMP__init_", "nms_World__init_2", "nms_World_setSpawnPoint", "setSpawnPoint", "nms_WorldClient_func_709_b", "func_709_b", "nms_EntityFish__init_1", "nms_WorldInfo__init_1", "nms_Chunk_getHeightValue", "getHeightValue", "nms_World_getHeightValue", "nms_Chunk_checkSkylightNeighborHeight", "checkSkylightNeighborHeight", "jl_ReflectiveOperationException__init_",
+        "jlr_Modifier__clinit_", "nms_EntityLiving_readEntityFromNBT", "nms_InventoryPlayer_readFromNBT", "nms_FoodStats_func_35766_a", "func_35766_a", "oj_JSONString_toJSONString", "toJSONString", "oj_JSONObject_numberToString", "numberToString", "oj_JSONObject__init_2", "oj_JSONArray__init_1", "oj_JSONArray__init_2", "nms_J_JsonNode_getType", "ji_Writer_append", "nms_J_JsonNode_getElements", "ju_TreeSet__init_0", "ju_TreeSet_iterator", "nms_J_JsonEscapedString__init_", "nms_J_JsonEscapedString_toString", "ji_Writer_append0",
+        "nms_InventoryPlayer_decrementAnimations", "decrementAnimations", "nms_EntityPlayer_collideWithPlayer", "collideWithPlayer", "nms_EntityLiving_canEntityBeSeen", "canEntityBeSeen", "nms_RailLogic_isConnectedTo", "isConnectedTo", "nms_RailLogic_isInTrack", "isInTrack", "npems_TileEntitySupplier_createTileEntity", "createTileEntity", "nms_TileEntity_readFromNBT", "ju_TreeMap$EntryIterator_checkFinished", "checkFinished", "otciu_CLDRHelper_getCurrencyMap$$create", "getCurrencyMap$$create", "nms_PlayerList_func_35579_a",
+        "func_35579_a", "nms_J_JsonConstants__clinit_", "nms_Chunk_func_35842_d", "func_35842_d", "oj_JSONParserConfiguration__init_", "oj_JSONObject__init_3", "oj_JSONArray__init_3", "oj_JSONArray_addAll", "nms_EnumJsonNodeTypeMappingHelper__clinit_", "nms_Entity_onCollideWithPlayer", "onCollideWithPlayer", "nms_J_JsonConstants__init_", "oj_ParserConfiguration__init_", "oj_ParserConfiguration_getMaxNestingDepth", "getMaxNestingDepth", "oj_JSONObject_wrap", "oj_JSONArray_addAll0", "oj_JSONArray_addAll1", "nms_EnumJsonNodeType_values",
+        "nms_EnumJsonNodeType__clinit_", "oj_JSONObject_wrap0", "oj_JSONArray_put", "jlr_Array_get", "oj_JSONArray_addAll2", "nms_EnumJsonNodeType__init_", "nms_EnumJsonNodeType_$values", "jl_Class_getPackage", "getPackage", "jl_Package_getName", "jl_Class_getClassLoader", "getClassLoader", "jlr_Array_getImpl", "getImpl", "oj_JSONObject_wrap1", "oj_JSONObject_wrap2", "jl_Package__clinit_", "nms_BiomeGenSky_getSkyColorByTemp", "nms_EntityAnimal_getBlockPathWeight", "nms_EmptyChunk_onChunkUnload", "nms_PlayerControllerMP_setPartialTime",
+        "nms_PlayerControllerMP_updateController", "nms_PlayerControllerMP_func_35638_c", "nms_PlayerControllerMP_func_35641_g", "nms_PlayerControllerMP_sendUseItem", "nms_PlayerControllerMP_attackEntity", "nms_PlayerControllerMP_interactWithEntity", "nms_PlayerControllerMP_clickBlock", "nms_PlayerControllerMP_sendPlaceBlock", "nms_PlayerControllerMP_func_35640_h", "nms_PlayerControllerMP_resetBlockRemoving", "nms_PlayerControllerMP_sendBlockRemoving", "nms_PlayerControllerMP_getBlockReachDistance", "nms_PlayerControllerMP_func_35636_i",
+        "nms_PlayerControllerMP_func_20086_a", "nms_PlayerControllerMP_shouldDrawHUD", "nms_PlayerControllerMP_func_35642_f", "nms_PlayerControllerMP_func_717_a", "nms_PlayerControllerMP_createPlayer", "nms_PlayerControllerMP_flipPlayer", "nms_PlayerControllerMP_windowClick", "nms_PlayerControllerMP_func_35637_a", "nms_PlayerControllerMP_func_35639_a", "nms_EmptyChunk_setBlockIDWithMetadata", "nms_WorldClient_setBlock", "nms_WorldClient_setBlockAndMetadata", "nms_WorldClient_setBlockMetadata", "nms_WorldClient_scheduleBlockUpdate",
+        "nms_WorldClient_obtainEntitySkin", "nms_WorldClient_entityJoinedWorld", "nms_EntityFish_setVelocity", "nms_EntityArrow_setVelocity", "nms_EntitySnowball_setVelocity", "nms_EntityEgg_setVelocity", "nms_EntityBoat_setVelocity", "nms_J_JsonNumberNode_equals", "nms_J_JsonNumberNode_hashCode", "nms_WorldGenTaiga2_generate", "nms_WorldGenTrees_generate", "nms_WorldGenForest_generate", "nms_WorldGenBigTree_generate", "nms_PathPoint_toString", "ju_TreeMap$EntryIterator_next", "ju_TreeMap$EntryIterator_hasNext",
+        "ju_TreeMap$EntryIterator_remove", "nms_EntityFish_entityInit", "nms_EntityLiving_performHurtAnimation", "nms_EntityPlayer_handleHealthUpdate", "nms_EntityLiving_setPositionAndRotation2", "nms_EmptyChunk_func_997_a", "nms_EntityPig_fall", "nms_EntityChicken_fall", "nms_EntityFlying_fall", "nms_EntitySlime_onCollideWithPlayer", "nms_EntityArrow_onCollideWithPlayer", "nms_EntitySnowball_onCollideWithPlayer", "nms_EntityEgg_onCollideWithPlayer", "nms_EntityItem_onCollideWithPlayer", "nms_EntityXPOrb_onCollideWithPlayer",
+        "nms_EntityFireball_entityInit", "nms_J_JsonElementNodeSelector_toString", "nms_J_JsonObjectNodeSelector_toString", "nms_J_JsonArrayNodeSelector_toString", "nms_J_JsonStringNodeSelector_toString", "nms_J_JsonFieldNodeSelector_toString", "nms_SaveHandlerMP_getChunkLoader", "nms_SaveHandlerMP_saveWorldInfoAndPlayer", "nms_SaveHandlerMP_checkSessionLock", "nms_SaveHandlerMP_func_28113_a", "oj_JSONArray_iterator", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_toString", "nms_J_JsonNumberNode_toString",
+        "nms_PathPoint_hashCode", "nms_EntitySkeleton_getLivingSound", "nms_EntitySpider_getLivingSound", "nms_EntityZombie_getLivingSound", "nms_GenLayerTemperature_func_35500_a", "nms_GenLayerDownfall_func_35500_a", "nms_GenLayerRiverMix_func_35500_a", "nms_GenLayerZoomVoronoi_func_35500_a", "nms_GenLayerSmoothZoom_func_35500_a", "nms_GenLayerTemperatureMix_func_35500_a", "nms_GenLayerDownfallMix_func_35500_a", "nms_EntityItem_handleWaterMovement", "nms_EntityXPOrb_handleWaterMovement", "nms_EntityLiving_kill",
+        "nms_InventoryLargeChest_func_35141_y_", "nms_EntityMinecart_func_35141_y_", "nms_InventoryLargeChest_canInteractWith", "nms_EntityMinecart_canInteractWith", "nms_ItemCloth_getPlacedBlockMetadata", "nms_ItemLog_getPlacedBlockMetadata", "nms_ItemSlab_getPlacedBlockMetadata", "nms_ItemSapling_getPlacedBlockMetadata", "nms_ItemLeaves_getPlacedBlockMetadata", "nms_ItemVine_getPlacedBlockMetadata", "nms_ItemPiston_getPlacedBlockMetadata", "nms_BlockTorch_onBlockPlaced", "nms_BlockLadder_onBlockPlaced", "nms_BlockLever_onBlockPlaced",
+        "nms_BlockButton_onBlockPlaced", "nms_BlockTrapDoor_onBlockPlaced", "nms_BlockVine_onBlockPlaced", "nms_BlockDispenser_onBlockPlacedBy", "nms_BlockPistonBase_onBlockPlacedBy", "nms_BlockStairs_onBlockPlacedBy", "nms_BlockChest_onBlockPlacedBy", "nms_BlockFurnace_onBlockPlacedBy", "nms_BlockPumpkin_onBlockPlacedBy", "nms_BlockRedstoneRepeater_onBlockPlacedBy", "nms_BlockFenceGate_onBlockPlacedBy", "nms_EntityPlayerSP_displayGUIEditSign", "nms_ChunkProvider_populate", "nms_J_JsonStringNodeSelector_matchsNode",
+        "matchsNode", "nms_J_JsonArrayNodeSelector_matchsNode", "nms_J_JsonElementNodeSelector_matchsNode", "nms_J_JsonObjectNodeSelector_matchsNode", "nms_J_JsonFieldNodeSelector_matchsNode", "nms_J_JsonStringNodeSelector_typeSafeApplyTo", "nms_J_JsonArrayNodeSelector_typeSafeApplyTo", "nms_J_JsonElementNodeSelector_typeSafeApplyTo", "nms_J_JsonObjectNodeSelector_typeSafeApplyTo", "nms_J_JsonFieldNodeSelector_typeSafeApplyTo", "nms_Packet10Flying_writePacketData", "nms_Packet11PlayerPosition_writePacketData",
+        "nms_Packet12PlayerLook_writePacketData", "nms_Packet13PlayerLookMove_writePacketData", "nms_Packet0KeepAlive_writePacketData", "nms_EmptyChunk_removeEntityAtIndex", "nms_WorldClient_releaseEntitySkin", "nms_WorldClient_updateWeather", "nms_WorldClient_tickUpdates", "nms_WorldClient_updateBlocksAndPlayCaveSounds", "nms_WorldClient_tick", "nms_WorldClient_sendQuittingDisconnectingPacket", "nms_WorldClient_setSpawnLocation", "nms_WorldClient_setEntityDead", "nms_Packet1Login_writePacketData", "nms_InventoryBasic_func_35141_y_",
+        "nms_InventoryBasic_canInteractWith", "nms_InventoryBasic_getInvName", "nms_InventoryBasic_getSizeInventory", "nms_InventoryBasic_func_35142_x_", "nms_TileEntityFurnace_getStackInSlot", "nms_TileEntityFurnace_getInventoryStackLimit", "nms_TileEntityFurnace_setInventorySlotContents", "nms_TileEntityFurnace_decrStackSize", "nms_TileEntityDispenser_getStackInSlot", "nms_TileEntityDispenser_getInventoryStackLimit", "nms_TileEntityDispenser_setInventorySlotContents", "nms_TileEntityDispenser_decrStackSize",
+        "nms_ContainerFurnace_func_20112_a", "nms_Packet106Transaction_writePacketData", "nms_EntityMinecart_setVelocity", "nms_ItemTool_getDamageVsEntity", "nms_ItemSword_getDamageVsEntity", "nms_ItemTool_hitEntity", "nms_ItemSword_hitEntity", "nms_ItemSaddle_hitEntity", "nms_ItemSaddle_saddleEntity", "nms_ItemDye_saddleEntity", "nms_ItemTool_onBlockDestroyed", "nms_ItemSword_onBlockDestroyed", "nms_ItemShears_onBlockDestroyed", "nms_EntityPlayer_setEntityDead", "nms_BlockStairs_getExplosionResistance", "nms_BlockBed_dropBlockAsItemWithChance",
+        "nms_BlockPistonMoving_dropBlockAsItemWithChance", "nms_BlockStairs_dropBlockAsItemWithChance", "nms_BlockCrops_dropBlockAsItemWithChance", "nms_BlockJukeBox_dropBlockAsItemWithChance", "nms_BlockStem_dropBlockAsItemWithChance", "nms_BlockTNT_onBlockDestroyedByExplosion", "nms_BlockStairs_onBlockDestroyedByExplosion", "nms_StepSoundSand_stepSoundDir", "nms_StepSoundStone_stepSoundDir", "nms_RenderGlobal_playRecord", "nms_EntityPlayer_updateRidden", "nms_EntityLiving_updateRidden", "nms_BlockDeadBush_canThisPlantGrowOnThisBlockID",
+        "nms_BlockCrops_canThisPlantGrowOnThisBlockID", "nms_BlockStem_canThisPlantGrowOnThisBlockID", "nms_BlockFire_isCollidable", "nms_BlockStairs_isCollidable", "nms_EntityPlayer_updateCloak", "nms_EntityCaveSpider_func_35188_k_", "nms_ChunkFolderPattern_accept", "nms_MovementInputFromOptions_updatePlayerMoveState", "nms_EntityPlayer_isMovementBlocked", "nms_EntityCreature_func_35166_t_", "nms_EntityPlayer_moveEntityWithHeading", "nms_EntityFlying_moveEntityWithHeading", "nms_EntitySquid_moveEntityWithHeading",
+        "nms_EntityPlayer_jump", "nms_EntityPlayerSP_updateEntityActionState", "nms_EntityCreature_updateEntityActionState", "nms_EntityWolf_updateEntityActionState", "nms_EntitySilverfish_updateEntityActionState", "nms_EntitySlime_updateEntityActionState", "nms_EntityGhast_updateEntityActionState", "nms_EntitySquid_updateEntityActionState", "nms_BlockPistonExtension_canPlaceBlockOnSide", "nms_BlockPistonMoving_canPlaceBlockOnSide", "nms_BlockLever_canPlaceBlockOnSide", "nms_BlockButton_canPlaceBlockOnSide",
+        "nms_BlockTrapDoor_canPlaceBlockOnSide", "nms_BlockVine_canPlaceBlockOnSide", "nms_EntityPlayer_addToPlayerScore", "nms_EntityPlayer_onKillEntity", "nms_EntitySheep_a", "nms_EntityCow_a", "nms_EntityChicken_a", "nms_EntityEnderman_a", "nms_EntitySkeleton_a", "nms_EntitySquid_a", "nms_BlockDetectorRail_isPoweringTo", "nms_BlockRedstoneWire_isPoweringTo", "nms_BlockLever_isPoweringTo", "nms_BlockPressurePlate_isPoweringTo", "nms_BlockRedstoneTorch_isPoweringTo", "nms_BlockButton_isPoweringTo", "nms_BlockRedstoneRepeater_isPoweringTo",
+        "nms_BlockContainer_playBlock", "nms_BlockNote_playBlock", "nms_BlockPistonBase_playBlock", "nms_EntityAnimal_getTalkInterval", "nms_EntityWaterMob_getTalkInterval", "nms_EntityPig_getLivingSound", "nms_EntitySheep_getLivingSound", "nms_EntityCow_getLivingSound", "nms_EntityWolf_getLivingSound", "nms_EntityChicken_getLivingSound", "nms_EntitySilverfish_getLivingSound", "nms_EntityEnderman_getLivingSound", "nms_EntityGhast_getLivingSound", "nms_EntitySquid_getLivingSound", "nms_EntityPigZombie_getLivingSound",
+        "nms_EntityWolf_getEyeHeight", "nms_EntityWaterMob_canBreatheUnderwater", "nms_EntityPlayer_a", "nms_EntityAnimal_a", "nms_EntityWaterMob_a", "nms_EntityPlayer_func_35163_av", "nms_EntitySlime_setEntityDead", "nms_InventoryLargeChest_getInvName", "nms_EntityMinecart_getInvName", "nms_InventoryPlayer_getInvName", "nms_EntityMob_getBlockPathWeight", "nms_EmptyChunk_getHeightValue", "nms_J_JsonArray_getType", "ji_StringWriter_append", "nms_J_JsonArray_getElements", "nms_J_JsonArray_getFields", "nms_J_JsonArray_getText",
+        "ji_StringWriter_append0", "nms_EntityItem_readEntityFromNBT", "nms_EntityXPOrb_readEntityFromNBT", "nms_EntityArrow_readEntityFromNBT", "nms_EntitySnowball_readEntityFromNBT", "nms_EntityPainting_readEntityFromNBT", "nms_EntityMob_readEntityFromNBT", "nms_EntityCreeper_readEntityFromNBT", "nms_EntitySkeleton_readEntityFromNBT", "nms_EntitySpider_readEntityFromNBT", "nms_EntitySlime_readEntityFromNBT", "nms_EntityPigZombie_readEntityFromNBT", "nms_EntityEnderman_readEntityFromNBT", "nms_EntitySilverfish_readEntityFromNBT",
+        "nms_EntityPig_readEntityFromNBT", "nms_TileEntity$_clinit_$lambda$_15_0_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_1_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_2_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_3_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_4_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_5_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_6_createTileEntity", "nms_TileEntity$_clinit_$lambda$_15_7_createTileEntity", "nms_WorldClient_getChunkProvider",
+        "jl_Float_toString", "nms_EntityPickupFX_getFXLayer", "nms_EntitySheep_readEntityFromNBT", "jl_Float_intValue", "nms_EntityFish_isInRangeToRenderDist", "nms_EntityLightningBolt_isInRangeToRenderVec3D", "nms_EntityFish_getShadowSize", "nms_EntityFish_onUpdate", "nms_EntityLightningBolt_onUpdate", "nms_GuiDownloadTerrain_drawScreen", "jl_Float_equals", "nms_PotionEffect_hashCode", "jl_Float_hashCode", "nms_J_JsonNodeSelector_toString", "nms_EntityMinecart_readEntityFromNBT", "nms_EntityWolf_readEntityFromNBT",
+        "nms_EntityBoat_readEntityFromNBT", "nms_EntitySquid_readEntityFromNBT", "nms_EntityTNTPrimed_readEntityFromNBT", "nms_EntityChicken_readEntityFromNBT", "nms_EntityFallingSand_readEntityFromNBT", "nms_EntityCow_readEntityFromNBT", "nms_GuiDownloadTerrain_initGui", "nms_GuiDownloadTerrain_updateScreen", "nms_EntityPickupFX_renderParticle", "nms_EntityPickupFX_onUpdate", "nms_GuiDownloadTerrain_actionPerformed", "nms_GuiDownloadTerrain_keyTyped", "npja_Color_getHSBColor", "getHSBColor", "nms_PlayerControllerMP_syncCurrentPlayItem",
+        "syncCurrentPlayItem", "nms_Packet14BlockDig__init_0", "nms_Packet15Place__init_0", "nms_Packet7UseEntity__init_0", "nms_PlayerControllerMP_sendBlockRemoved", "nms_EntityClientPlayerMP__init_", "nms_Container_func_20111_a", "func_20111_a", "nms_Packet102WindowClick__init_0", "nms_Packet107CreativeSetSlot__init_0", "nms_PlayerControllerTest_func_35645_e", "func_35645_e", "nms_World_func_35458_d", "func_35458_d", "nms_World_func_35460_a", "func_35460_a", "nms_World_setLightValue", "nms_WorldBlockPositionType__init_",
+        "nms_Block_isIndirectlyPoweringTo", "isIndirectlyPoweringTo", "nms_WorldGenBigTree_validTreeLocation", "validTreeLocation", "nms_WorldGenBigTree_generateLeafNodeList", "generateLeafNodeList", "nms_WorldGenBigTree_generateLeaves", "generateLeaves", "nms_WorldGenBigTree_generateTrunk", "generateTrunk", "nms_WorldGenBigTree_generateLeafNodeBases", "generateLeafNodeBases", "nleiv_VFile2_listFiles4", "nms_World_handleMaterialAcceleration", "handleMaterialAcceleration", "nms_World_isMaterialInBB", "isMaterialInBB",
+        "nms_ChunkBlockMap_func_26002_a", "func_26002_a", "ju_TreeMap$EntryIterator_next0", "nms_EntityLiving_handleHealthUpdate", "nms_PotionEffect_func_35799_a", "func_35799_a", "nms_EntityLiving_func_35164_b", "func_35164_b", "nms_PotionEffect_func_35796_a", "func_35796_a", "nms_EntityLiving_func_35161_c", "func_35161_c", "nms_MapCoord__init_", "nms_DamageSource_func_35525_a", "func_35525_a", "nms_EntityPlayer_onItemPickup", "onItemPickup", "nms_EntityPlayer_func_35204_c", "func_35204_c", "nms_World_func_35455_a",
+        "func_35455_a", "nms_World_unloadEntities", "unloadEntities", "nms_BlockContainer_getBlockEntity", "getBlockEntity", "nms_World_setBlockTileEntity", "setBlockTileEntity", "nms_NibbleArray_getNibble", "getNibble", "nms_TileEntity_invalidate", "nms_TileEntity_validate", "validate", "nle_EagRuntime_dumpStack", "dumpStack", "nms_NibbleArray_setNibble", "setNibble", "nms_Block_onBlockRemoval", "onBlockRemoval", "nms_World_scheduleLightingUpdate", "scheduleLightingUpdate", "nms_Chunk_propagateSkylightOcclusion",
+        "propagateSkylightOcclusion", "nms_Chunk_relightBlock", "relightBlock", "nms_World_addTileEntity", "nms_World_addLoadedEntities", "addLoadedEntities", "nms_BiomeCache_func_35726_e", "func_35726_e", "nms_BiomeCacheBlock_func_35650_b", "func_35650_b", "nms_BiomeCacheBlock_func_35652_c", "func_35652_c", "nms_BiomeCacheBlock_func_35651_a", "func_35651_a", "nms_WorldChunkManager_func_35555_a", "func_35555_a", "nms_IntCache_func_35267_a", "func_35267_a", "nms_BiomeGenBase_func_35474_f", "func_35474_f", "nms_BiomeGenBase_func_35476_e",
+        "func_35476_e", "nms_GenLayer_func_35499_a", "func_35499_a", "nms_GenLayer_func_35498_a", "func_35498_a", "nms_ChunkProviderHell_func_4057_a", "func_4057_a", "nms_NoiseGeneratorOctaves_generateNoiseOctaves", "generateNoiseOctaves", "nms_MapGenBase_recursiveGenerate", "recursiveGenerate", "nms_WorldChunkManager_func_35557_b", "func_35557_b", "nms_ChunkProviderGenerate_func_4061_a", "func_4061_a", "nms_ChunkProviderSky_func_28073_a", "func_28073_a", "nms_RegionFile_func_22197_a", "func_22197_a", "nms_RegionFile_write0",
+        "nms_RegionFile_setChunkTimestamp", "setChunkTimestamp", "nms_RegionFile_setOffset", "setOffset", "nlesse_RandomAccessMemoryFile_write0", "nms_BlockButton_getOrientation", "nms_BlockPistonBase_determineOrientation", "determineOrientation", "nms_GuiEditSign__init_", "nms_WorldGenBigMushroom__init_", "nms_WorldGenBigMushroom_generate", "nms_Chunk_setChunkModified", "setChunkModified", "nms_J_JsonStringNodeSelector_func_27072_a", "func_27072_a", "nms_J_JsonArrayNodeSelector_matchsNode_", "matchsNode_",
+        "nms_J_JsonElementNodeSelector_matchsNode_", "nms_J_JsonObjectNodeSelector_func_27070_a", "func_27070_a", "nms_J_JsonFieldNodeSelector_func_27065_a", "func_27065_a", "nms_J_JsonStringNodeSelector_func_27073_b", "func_27073_b", "nms_J_JsonArrayNodeSelector_typeSafeApplyTo0", "nms_J_JsonElementNodeSelector_typeSafeApplyTo_", "typeSafeApplyTo_", "nms_J_JsonObjectNodeSelector_func_27071_b", "func_27071_b", "nms_J_JsonFieldNodeSelector_func_27064_b", "func_27064_b", "nms_Packet255KickDisconnect__init_0",
+        "nms_NetClientHandler_func_28117_a", "func_28117_a", "nms_Chunk_setChunkData", "nms_World_updateTileEntityChunkAndDoNothing", "updateTileEntityChunkAndDoNothing", "nms_ChunkProviderClient_func_539_c", "func_539_c", "nms_ChunkProviderClient_loadChunk", "nms_EntityPig_setSaddled", "setSaddled", "nms_Teleporter_placeInExistingPortal", "placeInExistingPortal", "nms_Teleporter_createPortal", "createPortal", "ju_LinkedHashMapKeySet__init_", "nms_Block_quantityDropped", "quantityDropped", "nms_Block_idDropped",
+        "idDropped", "nms_Block_damageDropped", "damageDropped", "nms_TileEntityPiston_getBlockMetadata", "nms_GuiIngame_setRecordPlayingMessage", "setRecordPlayingMessage", "nms_Item_canHarvestBlock", "nms_Item_getStrVsBlock", "nms_TileEntityRenderer_getFontRenderer", "nms_EntityPlayer_addMountedMovementStat", "addMountedMovementStat", "nms_Entity_updateRiderPosition", "updateRiderPosition", "ju_TreeMap_firstNode", "firstNode", "jl_Class_initReflection", "initReflection", "jlr_Constructor__init_", "cjj_Deflate_pqdownheap",
+        "pqdownheap", "cjj_Tree_gen_bitlen", "gen_bitlen", "cjj_Tree_gen_codes", "gen_codes", "cjj_Deflate_scan_tree", "scan_tree", "cjj_Deflate_send_tree", "send_tree", "nms_RenderManager_getFontRenderer", "oj_JSONArray_opt", "nms_EntityPlayerSP_isBlockTranslucent", "isBlockTranslucent", "nms_EntityPlayer_addMovementStat", "addMovementStat", "nms_Entity_moveFlying", "moveFlying", "nms_Entity_isOffsetPositionInLiquid", "isOffsetPositionInLiquid", "nms_EntityPlayer_updateEntityActionState", "nms_EntityLiving_despawnEntity",
+        "despawnEntity", "nms_EntityLiving_getVerticalFaceSpeed", "getVerticalFaceSpeed", "nms_EntityCreature_isMovementCeased", "isMovementCeased", "nms_EntityCreature_findPlayerToAttack", "findPlayerToAttack", "nms_World_getPathToEntity", "getPathToEntity", "nms_EntityCreature_func_31026_E", "func_31026_E", "nms_PathEntity_getPosition", "nms_Vec3D_squareDistanceTo0", "nms_PathEntity_incrementPathIndex", "incrementPathIndex", "nms_PathEntity_isFinished", "isFinished", "nms_EntityCreature_attackBlockedEntity",
+        "attackBlockedEntity", "nms_EntityCreature_attackEntity", "nms_World_getPlayerEntityByName", "getPlayerEntityByName", "nms_EntityWolf_getPathOrWalkableBlock", "getPathOrWalkableBlock", "nms_BlockSilverfish_func_35305_d", "func_35305_d", "nms_BlockSilverfish_func_35304_f", "func_35304_f", "nms_EntityGhast_isCourseTraversable", "isCourseTraversable", "nms_EntityFireball__init_0", "nms_EntityLiving_updateRotation", "updateRotation", "nms_EntityEnderman_func_35179_a_", "func_35179_a_", "nms_EntityLiving_getDropItemId",
+        "getDropItemId", "nms_EntityEnderman_getDropItemId", "nms_Entity_newDoubleNBTList", "newDoubleNBTList", "nms_Entity_newFloatNBTList", "newFloatNBTList", "nms_NBTTagCompound_setFloat", "setFloat", "nms_Entity_writeEntityToNBT", "writeEntityToNBT", "nms_TileEntity_func_35143_b", "func_35143_b", "nms_BlockPistonBase_tryExtend", "tryExtend", "nms_BlockPistonMoving_getNewTileEntity", "getNewTileEntity", "nms_TileEntityPiston_clearPistonTileEntity", "clearPistonTileEntity", "nms_PotionEffect_func_35798_a",
+        "func_35798_a", "nms_EntityLiving_func_35158_d", "func_35158_d", "nms_NBTTagByteArray__init_0", "nms_RegionFile_debugln0", "nlesse_RandomAccessMemoryFile_readByte", "nlesse_RandomAccessMemoryFile_read0", "juz_InflaterInputStream__init_0", "nms_NBTTagLong__init_0", "nms_Entity_getEntityString", "ju_TreeMap_height", "height", "ju_TreeMap$TreeNode_forward", "forward", "ju_TreeMap$TreeNode_down", "down", "nms_EntityPainting_func_411_c", "func_411_c", "nms_ItemStack_func_35864_a", "func_35864_a", "ji_StringWriter_append1",
+        "ji_StringWriter_append2", "nms_ItemStack_updateAnimation", "updateAnimation", "nms_EntityAnimal_readEntityFromNBT", "nms_TileEntityRecordPlayer__init_", "nms_TileEntitySign__init_", "nms_TileEntityMobSpawner__init_", "nms_TileEntityNote__init_", "nms_TileEntityPiston__init_", "nms_J_Functor_shortForm", "nms_ChunkProviderClient__init_", "jl_Package_getPackage", "jl_ClassLoader_getSystemClassLoader", "getSystemClassLoader", "jl_Float_toString0", "nms_Entity_onStruckByLightning", "onStruckByLightning",
+        "jl_Float_equals0", "jl_Float_hashCode0", "nms_NBTTagCompound_getDouble", "getDouble", "nms_EntityWaterMob_readEntityFromNBT", "npja_Color__init_1", "nms_Packet16BlockItemSwitch__init_0", "nms_ChunkBlockMap__clinit_", "nms_World_markBlocksDirtyVertical", "markBlocksDirtyVertical", "nms_BiomeCacheBlock__init_", "nms_IntCache__clinit_", "nms_NoiseGeneratorOctaves_func_4109_a", "func_4109_a", "nlesse_RandomAccessMemoryFile_writeByte", "nlesse_RandomAccessMemoryFile_write1", "nms_GuiEditSign__clinit_", "jl_Math_round0",
+        "nms_ChunkCoordinates_getSqDistanceTo", "getSqDistanceTo", "jl_Class_createMetadata", "createMetadata", "jlr_AccessibleObject__init_", "cjj_Tree_bi_reverse", "bi_reverse", "nms_TileEntityPiston__init_0", "nms_RegionFile_func_22199_a", "func_22199_a", "nms_ItemStack__init_7", "nms_ItemStack_readFromNBT", "jl_Package__init_", "jl_ClassLoader__clinit_", "nms_BiomeCache_func_35721_a", "func_35721_a", "nms_WorldChunkManager_getTemperatures", "getTemperatures", "nms_WorldChunkManager_func_35560_b", "func_35560_b",
+        "jl_Math_signum0", "jl_SystemClassLoader__init_", "jl_Math_sign", "jl_ClassLoader__init_", "jl_ClassLoader__init_0", "nms_EntityClientPlayerMP_addStat", "nms_EntityClientPlayerMP_joinEntityItemWithWorld", "nms_EntityClientPlayerMP_dropCurrentItem", "nms_EntityClientPlayerMP_swingItem", "nms_EntityClientPlayerMP_b", "nms_EntityClientPlayerMP_attackEntityFrom", "nms_EntityClientPlayerMP_closeScreen", "nms_EntityClientPlayerMP_sendChatMessage", "nms_EntityClientPlayerMP_respawnPlayer", "nms_EntityClientPlayerMP_setHealth",
+        "nms_MapGenStructure_recursiveGenerate", "ju_LinkedHashMapKeySet_iterator", "ju_LinkedHashMapKeySet_size", "nms_MapData_readFromNBT", "jlr_Constructor_toString", "ju_AbstractMap$SimpleEntry_equals", "ju_AbstractMap$SimpleEntry_toString", "nms_J_JsonNumberNode_getType", "nms_J_JsonObject_getType", "nms_J_JsonConstants_getType", "nms_J_JsonNumberNode_getElements", "nms_J_JsonObject_getElements", "nms_J_JsonConstants_getElements", "nms_J_JsonNumberNode_getFields", "nms_J_JsonObject_getFields", "nms_J_JsonConstants_getFields",
+        "nms_J_JsonNumberNode_getText", "nms_J_JsonObject_getText", "nms_J_JsonConstants_getText", "nms_TileEntityFurnace_readFromNBT", "nms_TileEntityChest_readFromNBT", "nms_TileEntityRecordPlayer_readFromNBT", "nms_TileEntityDispenser_readFromNBT", "nms_TileEntitySign_readFromNBT", "nms_TileEntityMobSpawner_readFromNBT", "nms_TileEntityNote_readFromNBT", "nms_TileEntityPiston_readFromNBT", "nms_EntityOtherPlayerMP_getEyeHeight", "nms_Packet19EntityAction_writePacketData", "nms_WorldChunkManagerHell_getTemperatures",
+        "nms_WorldChunkManagerHell_func_35560_b", "nms_EntityPlayerSP_moveEntity", "nms_EntityPlayerSP_onItemPickup", "nms_EntityClientPlayerMP_heal", "nms_EntityClientPlayerMP_onUpdate", "nms_J_JsonStringNode_getType", "nms_J_JsonStringNode_getElements", "nms_J_JsonStringNode_getFields", "nms_J_JsonStringNode_equals", "nms_J_JsonStringNode_hashCode", "nms_J_JsonStringNode_toString", "ju_AbstractMap$SimpleEntry_hashCode", "nms_ChunkProviderClient_provideChunk", "nms_ChunkProviderClient_unload100OldestChunks",
+        "nms_ChunkProviderClient_canSave", "nms_ChunkProviderClient_saveChunks", "nms_ChunkProviderClient_makeString", "nms_ChunkProviderClient_chunkExists", "nms_EntityPlayerSP_writeEntityToNBT", "nms_J_JsonStringNode_compareTo", "nms_EntityLiving_writeEntityToNBT", "nms_EntitySpider_writeEntityToNBT", "nms_EntityPig_writeEntityToNBT", "nms_EntitySheep_writeEntityToNBT", "nms_EntityCow_writeEntityToNBT", "nms_EntityWolf_writeEntityToNBT", "nms_EntityChicken_writeEntityToNBT", "nms_EntitySilverfish_writeEntityToNBT",
+        "nms_EntityCreeper_writeEntityToNBT", "nms_EntityEnderman_writeEntityToNBT", "nms_EntitySkeleton_writeEntityToNBT", "nms_EntityMob_writeEntityToNBT", "nms_EntitySlime_writeEntityToNBT", "nms_EntitySquid_writeEntityToNBT", "nms_EntityPainting_writeEntityToNBT", "nms_EntityArrow_writeEntityToNBT", "nms_EntitySnowball_writeEntityToNBT", "nms_EntityEgg_writeEntityToNBT", "nms_EntityItem_writeEntityToNBT", "nms_EntityXPOrb_writeEntityToNBT", "nms_EntityTNTPrimed_writeEntityToNBT", "nms_EntityFallingSand_writeEntityToNBT",
+        "nms_EntityMinecart_writeEntityToNBT", "nms_EntityBoat_writeEntityToNBT", "nms_EntityFish_writeEntityToNBT", "nms_EntityLightningBolt_writeEntityToNBT", "nms_EntityFX_writeEntityToNBT", "nms_EntityPigZombie_writeEntityToNBT", "nms_Packet14BlockDig_writePacketData", "nms_Packet15Place_writePacketData", "nms_Packet7UseEntity_writePacketData", "nms_Packet102WindowClick_writePacketData", "nms_Packet107CreativeSetSlot_writePacketData", "nms_BlockDetectorRail_isIndirectlyPoweringTo", "nms_BlockRedstoneWire_isIndirectlyPoweringTo",
+        "nms_BlockLever_isIndirectlyPoweringTo", "nms_BlockPressurePlate_isIndirectlyPoweringTo", "nms_BlockRedstoneTorch_isIndirectlyPoweringTo", "nms_BlockButton_isIndirectlyPoweringTo", "nms_BlockRedstoneRepeater_isIndirectlyPoweringTo", "nms_BlockDispenser_getBlockEntity", "nms_BlockNote_getBlockEntity", "nms_BlockPistonMoving_getBlockEntity", "nms_BlockMobSpawner_getBlockEntity", "nms_BlockChest_getBlockEntity", "nms_BlockFurnace_getBlockEntity", "nms_BlockSign_getBlockEntity", "nms_BlockJukeBox_getBlockEntity",
+        "nms_BlockLog_onBlockRemoval", "nms_BlockLeaves_onBlockRemoval", "nms_BlockSponge_onBlockRemoval", "nms_BlockDispenser_onBlockRemoval", "nms_BlockContainer_onBlockRemoval", "nms_BlockPistonExtension_onBlockRemoval", "nms_BlockPistonMoving_onBlockRemoval", "nms_BlockStairs_onBlockRemoval", "nms_BlockChest_onBlockRemoval", "nms_BlockRedstoneWire_onBlockRemoval", "nms_BlockFurnace_onBlockRemoval", "nms_BlockLever_onBlockRemoval", "nms_BlockPressurePlate_onBlockRemoval", "nms_BlockRedstoneTorch_onBlockRemoval",
+        "nms_BlockButton_onBlockRemoval", "nms_BlockJukeBox_onBlockRemoval", "nms_BlockFlowing_onBlockAdded", "nms_BlockFluid_onBlockAdded", "nms_BlockSand_onBlockAdded", "nms_BlockSponge_onBlockAdded", "nms_BlockDispenser_onBlockAdded", "nms_BlockContainer_onBlockAdded", "nms_BlockRail_onBlockAdded", "nms_BlockPistonBase_onBlockAdded", "nms_BlockPistonMoving_onBlockAdded", "nms_BlockStep_onBlockAdded", "nms_BlockTNT_onBlockAdded", "nms_BlockFire_onBlockAdded", "nms_BlockStairs_onBlockAdded", "nms_BlockChest_onBlockAdded",
+        "nms_BlockRedstoneWire_onBlockAdded", "nms_BlockFurnace_onBlockAdded", "nms_BlockPressurePlate_onBlockAdded", "nms_BlockPumpkin_onBlockAdded", "nms_BlockRedstoneRepeater_onBlockAdded", "nms_LayerIsland_func_35500_a", "nms_GenLayerZoomFuzzy_func_35500_a", "nms_GenLayerIsland_func_35500_a", "nms_GenLayerZoom_func_35500_a", "nms_GenLayerRiverInit_func_35500_a", "nms_GenLayerRiver_func_35500_a", "nms_GenLayerVillageLandscape_func_35500_a", "nms_GenLayerSmooth_func_35500_a", "nms_MapGenCavesHell_recursiveGenerate",
+        "nms_MapGenCaves_recursiveGenerate", "nms_MapGenRavine_recursiveGenerate", "nms_EmptyChunk_setChunkModified", "nms_ChunkProviderHell_populate", "nms_ChunkProviderGenerate_populate", "nms_ChunkProviderFlat_populate", "nms_ChunkProviderSky_populate", "nms_EmptyChunk_setChunkData", "nms_BlockFluid_quantityDropped", "nms_BlockOre_quantityDropped", "nms_BlockLog_quantityDropped", "nms_BlockLeaves_quantityDropped", "nms_BlockGlass_quantityDropped", "nms_BlockRail_quantityDropped", "nms_BlockPistonExtension_quantityDropped",
+        "nms_BlockStep_quantityDropped", "nms_BlockTNT_quantityDropped", "nms_BlockBookshelf_quantityDropped", "nms_BlockObsidian_quantityDropped", "nms_BlockFire_quantityDropped", "nms_BlockMobSpawner_quantityDropped", "nms_BlockStairs_quantityDropped", "nms_BlockCrops_quantityDropped", "nms_BlockLadder_quantityDropped", "nms_BlockRedstoneOre_quantityDropped", "nms_BlockSnow_quantityDropped", "nms_BlockIce_quantityDropped", "nms_BlockSnowBlock_quantityDropped", "nms_BlockClay_quantityDropped", "nms_BlockGlowStone_quantityDropped",
+        "nms_BlockPortal_quantityDropped", "nms_BlockCake_quantityDropped", "nms_BlockSilverfish_quantityDropped", "nms_BlockMushroomCap_quantityDropped", "nms_BlockMelon_quantityDropped", "nms_BlockStem_quantityDropped", "nms_BlockVine_quantityDropped", "nms_BlockStone_idDropped", "nms_BlockGrass_idDropped", "nms_BlockFluid_idDropped", "nms_BlockGravel_idDropped", "nms_BlockOre_idDropped", "nms_BlockLog_idDropped", "nms_BlockLeaves_idDropped", "nms_BlockDispenser_idDropped", "nms_BlockBed_idDropped", "nms_BlockWeb_idDropped",
+        "nms_BlockTallGrass_idDropped", "nms_BlockDeadBush_idDropped", "nms_BlockPistonMoving_idDropped", "nms_BlockStep_idDropped", "nms_BlockObsidian_idDropped", "nms_BlockMobSpawner_idDropped", "nms_BlockStairs_idDropped", "nms_BlockRedstoneWire_idDropped", "nms_BlockCrops_idDropped", "nms_BlockFarmland_idDropped", "nms_BlockFurnace_idDropped", "nms_BlockSign_idDropped", "nms_BlockDoor_idDropped", "nms_BlockRedstoneOre_idDropped", "nms_BlockRedstoneTorch_idDropped", "nms_BlockSnow_idDropped", "nms_BlockSnowBlock_idDropped",
+        "nms_BlockClay_idDropped", "nms_BlockReed_idDropped", "nms_BlockGlowStone_idDropped", "nms_BlockCake_idDropped", "nms_BlockRedstoneRepeater_idDropped", "nms_BlockMushroomCap_idDropped", "nms_BlockMelon_idDropped", "nms_BlockStem_idDropped", "nms_BlockVine_idDropped", "nms_BlockSapling_damageDropped", "nms_BlockOre_damageDropped", "nms_BlockLog_damageDropped", "nms_BlockLeaves_damageDropped", "nms_BlockCloth_damageDropped", "nms_BlockStep_damageDropped", "nms_BlockStoneBrick_damageDropped", "nms_ItemSpade_canHarvestBlock",
+        "nms_ItemPickaxe_canHarvestBlock", "nms_ItemSword_canHarvestBlock", "nms_ItemShears_canHarvestBlock", "nms_ItemTool_getStrVsBlock", "nms_ItemSword_getStrVsBlock", "nms_ItemShears_getStrVsBlock", "nms_EntityBoat_updateRiderPosition", "nms_EntitySpider_canTriggerWalking", "nms_EntityWolf_canTriggerWalking", "nms_EntitySilverfish_canTriggerWalking", "nms_EntitySpider_func_35112_o", "nms_EntityPlayer_setInPortal", "nms_EntitySpider_isOnLadder", "nms_EntityFlying_isOnLadder", "nms_EntityWolf_getVerticalFaceSpeed",
+        "nms_EntityWolf_isMovementCeased", "nms_EntitySpider_findPlayerToAttack", "nms_EntityWolf_findPlayerToAttack", "nms_EntitySilverfish_findPlayerToAttack", "nms_EntityMob_findPlayerToAttack", "nms_EntityEnderman_findPlayerToAttack", "nms_EntityPigZombie_findPlayerToAttack", "nms_EntityCreeper_attackBlockedEntity", "nms_EntitySpider_attackEntity", "nms_EntityWolf_attackEntity", "nms_EntitySilverfish_attackEntity", "nms_EntityCreeper_attackEntity", "nms_EntityMob_attackEntity", "nms_EntitySkeleton_attackEntity",
+        "nms_EntitySpider_getDropItemId", "nms_EntityPig_getDropItemId", "nms_EntitySheep_getDropItemId", "nms_EntityCow_getDropItemId", "nms_EntityWolf_getDropItemId", "nms_EntityChicken_getDropItemId", "nms_EntitySilverfish_getDropItemId", "nms_EntityCreeper_getDropItemId", "nms_EntitySkeleton_getDropItemId", "nms_EntityZombie_getDropItemId", "nms_EntitySlime_getDropItemId", "nms_EntityGhast_getDropItemId", "nms_EntitySquid_getDropItemId", "nms_EntityPigZombie_getDropItemId", "nms_J_JsonStringNodeSelector_shortForm",
+        "nms_J_JsonArrayNodeSelector_shortForm", "nms_J_ChainedFunctor_shortForm", "nms_J_JsonElementNodeSelector_shortForm", "nms_J_JsonObjectNodeSelector_shortForm", "nms_J_JsonFieldNodeSelector_shortForm", "nms_EntityPig_onStruckByLightning", "nms_EntityCreeper_onStruckByLightning", "nms_J_ChainedFunctor_toString", "nms_Packet16BlockItemSwitch_writePacketData", "nms_EntityOtherPlayerMP_resetHeight", "nms_EntityOtherPlayerMP_attackEntityFrom", "nms_EntityOtherPlayerMP_onLivingUpdate", "nms_EntityOtherPlayerMP_onUpdate",
+        "nms_EntityFireball_onUpdate", "nms_TileEntityChest_writeToNBT", "nms_TileEntitySign_writeToNBT", "nms_TileEntityDispenser_writeToNBT", "nms_TileEntityRecordPlayer_writeToNBT", "nms_TileEntityMobSpawner_writeToNBT", "nms_TileEntityFurnace_writeToNBT", "nms_TileEntityPiston_writeToNBT", "nms_TileEntityNote_writeToNBT", "nms_TileEntityChest_getSizeInventory", "nms_TileEntityChest_getStackInSlot", "nms_TileEntityChest_getInventoryStackLimit", "nms_TileEntityChest_setInventorySlotContents", "nms_TileEntityChest_decrStackSize",
+        "nms_TileEntityChest_func_35142_x_", "nms_TileEntityChest_func_35141_y_", "nms_TileEntityChest_canInteractWith", "nms_TileEntityChest_func_35143_b", "nms_TileEntityChest_invalidate", "nms_EntityOtherPlayerMP_func_6420_o", "nms_EntityBoat_performHurtAnimation", "nms_EntityMinecart_performHurtAnimation", "nms_EntityOtherPlayerMP_outfitWithItem", "nms_EntityWolf_handleHealthUpdate", "nms_EntityOtherPlayerMP_getShadowSize", "nms_EntityFireball_getShadowSize", "nms_EntityFish_setPositionAndRotation2", "nms_EntityOtherPlayerMP_setPositionAndRotation2",
+        "nms_EntityBoat_setPositionAndRotation2", "nms_EntityMinecart_setPositionAndRotation2", "jl_Float_compareTo", "nms_EntityFireball_isInRangeToRenderDist", "nms_EntityFireball_attackEntityFrom", "nms_EntityFireball_canBeCollidedWith", "nms_EntityFireball_getCollisionBorderSize", "nms_EntityPlayer_writeEntityToNBT", "nms_GuiEditSign_drawScreen", "jl_Byte_toString", "nms_TileEntityChest_getInvName", "nms_TileEntityFurnace_updateEntity", "nms_TileEntityMobSpawner_updateEntity", "nms_TileEntityPiston_updateEntity",
+        "nms_TileEntityChest_updateEntity", "nms_EntityFireball_writeEntityToNBT", "nms_GuiEditSign_initGui", "nms_GuiEditSign_updateScreen", "nms_GuiEditSign_onGuiClosed", "jl_Byte_intValue", "nms_GuiEditSign_actionPerformed", "nms_GuiEditSign_keyTyped", "jl_Byte_hashCode", "jl_Byte_compareTo", "nms_Packet18Animation__init_0", "nms_Packet101CloseWindow__init_0", "nms_Packet3Chat__init_0", "nms_EntityClientPlayerMP_sendInventoryChanged", "sendInventoryChanged", "nms_Packet9Respawn__init_0", "nms_Entity_getMountedYOffset",
+        "getMountedYOffset", "nms_Entity_getYOffset", "getYOffset", "nms_WatchableObject_getDataValueId", "getDataValueId", "nms_MapGenStructure_func_35628_a", "func_35628_a", "nms_MapGenStructure_func_35630_b", "func_35630_b", "nms_Item_func_35414_a", "func_35414_a", "nms_Item_func_35413_b", "func_35413_b", "ju_LinkedHashMapIterator$KeyIterator__init_", "jl_InstantiationException__init_", "jl_IllegalAccessException__init_", "otcir_Converter_arrayFromJava", "arrayFromJava", "jl_Class_newEmptyInstance", "newEmptyInstance",
+        "otcir_Converter_toJava", "toJava", "otcir_Flags_getModifiers", "jlr_Modifier_toString", "nms_TileEntityFurnace_getSizeInventory", "nms_TileEntityFurnace_getItemBurnTime", "getItemBurnTime", "nms_TileEntityDispenser_getSizeInventory", "nms_Chunk_func_21167_h", "func_21167_h", "ju_Arrays_fill6", "ju_Arrays_fill3", "nms_IntCache_func_35268_a", "func_35268_a", "nms_EntityLiving_canDespawn", "canDespawn", "nms_EntityPlayer_func_35203_aG", "func_35203_aG", "nms_EntityClientPlayerMP_func_4056_N", "func_4056_N",
+        "nms_NBTTagDouble__init_0", "nms_NBTTagFloat__init_0", "nms_J_JsonStringNode_func_27223_a", "func_27223_a", "ju_AbstractMap_values", "nms_EntityAnimal_writeEntityToNBT", "nms_EntityWaterMob_writeEntityToNBT", "nms_ItemStack_writeToNBT", "nms_NBTTagCompound_setDouble", "setDouble", "ji_DataOutputStream_writeBoolean", "writeBoolean", "nms_Chunk_setLightValue", "nms_WorldGenBigTree_checkBlockLine", "checkBlockLine", "nms_WorldGenBigTree_func_528_a", "func_528_a", "nms_WorldGenBigTree_generateLeafNode",
+        "generateLeafNode", "nms_WorldGenBigTree_placeBlockLine", "placeBlockLine", "nms_WorldGenBigTree_leafNodeNeedsBase", "leafNodeNeedsBase", "dcev_VFilenameFilter_accept", "nms_Block_velocityToAddToEntity", "velocityToAddToEntity", "jl_RuntimeException__init_5", "nms_World_removeBlockTileEntity", "removeBlockTileEntity", "nms_BlockRedstoneWire_notifyWireNeighborsOfNeighborChange", "notifyWireNeighborsOfNeighborChange", "nms_BlockDispenser_setDispenserDefaultDirection", "setDispenserDefaultDirection", "nms_BlockPortal_tryToCreatePortal",
+        "tryToCreatePortal", "nms_BlockFurnace_setDefaultDirection", "setDefaultDirection", "nms_GenLayerZoomFuzzy_func_35511_a", "func_35511_a", "nms_GenLayerZoomFuzzy_func_35510_b", "func_35510_b", "nms_GenLayerZoom_func_35516_a", "func_35516_a", "nms_GenLayerZoom_func_35514_b", "func_35514_b", "nms_MathHelper_func_35599_c", "func_35599_c", "nms_NoiseGeneratorPerlin_func_805_a", "func_805_a", "nms_MapGenCavesHell_generateLargeCaveNode", "generateLargeCaveNode", "nms_MapGenCavesHell_generateCaveNode", "generateCaveNode",
+        "nms_MapGenCaves_generateLargeCaveNode", "nms_MapGenCaves_generateCaveNode", "nms_MapGenRavine_func_35626_a", "func_35626_a", "nlesse_RandomAccessMemoryFile_writeBytes", "writeBytes", "nms_WorldGenHellLava__init_", "nms_WorldGenHellLava_generate", "nms_WorldGenFire__init_", "nms_WorldGenFire_generate", "nms_WorldGenGlowStone1__init_", "nms_WorldGenGlowStone1_generate", "nms_WorldGenGlowStone2__init_", "nms_WorldGenGlowStone2_generate", "nms_WorldGenFlowers_generate", "nms_MapGenStructure_func_35629_a",
+        "func_35629_a", "nms_WorldGenLakes__init_", "nms_WorldGenLakes_generate", "nms_BiomeGenBase_func_35477_a", "func_35477_a", "nms_SpawnerAnimals_func_35957_a", "func_35957_a", "nms_WorldGenDungeons__init_", "nms_WorldGenDungeons_generate", "nms_WorldGenClay_generate", "nms_WorldGenMinable_generate", "nms_NoiseGeneratorOctaves_func_806_a", "func_806_a", "nms_BiomeGenBase_getRandomWorldGenForTrees", "getRandomWorldGenForTrees", "nms_WorldGenerator_func_517_a", "func_517_a", "nms_WorldGenReed_generate", "nms_WorldGenPumpkin__init_",
+        "nms_WorldGenPumpkin_generate", "nms_WorldGenCactus_generate", "nms_WorldGenLiquids__init_", "nms_WorldGenLiquids_generate", "nms_Chunk_generateHeightMap", "generateHeightMap", "nms_IWorldAccess_doNothingWithTileEntity", "doNothingWithTileEntity", "nms_EnumToolMaterial_getHarvestLevel", "getHarvestLevel", "nms_EntityBoat_getMountedYOffset", "cjj_Deflate_smaller", "smaller", "nms_World_getEntityPathToXYZ", "getEntityPathToXYZ", "nms_EntityMob_func_35175_b", "func_35175_b", "nms_EntityArrow__init_1", "nms_Potion_func_35660_a",
+        "func_35660_a", "nms_PotionEffect_func_35797_d", "func_35797_d", "nms_PotionEffect_func_35800_b", "func_35800_b", "nlesse_RandomAccessMemoryFile_readBytes", "nms_Item_onUpdate", "nms_Entity_func_35114_R", "func_35114_R", "nms_DamageSource_func_35530_a", "func_35530_a", "jl_Float_compareTo0", "nms_Entity_getLookVec", "getLookVec", "nms_InventoryPlayer_writeToNBT", "nms_FoodStats_func_35763_b", "func_35763_b", "jl_Byte_toString0", "nms_TileEntityFurnace_canSmelt", "canSmelt", "nms_TileEntityFurnace_smeltItem",
+        "smeltItem", "nms_BlockFurnace_updateFurnaceBlockState", "updateFurnaceBlockState", "nms_TileEntityMobSpawner_anyPlayerInRange", "anyPlayerInRange", "nms_TileEntityMobSpawner_updateDelay", "updateDelay", "nms_TileEntityPiston_func_31010_a", "func_31010_a", "nmc_Minecraft_getSendQueue", "getSendQueue", "nms_Packet130UpdateSign__init_0", "jl_Byte_hashCode0", "jl_Byte_compareTo0", "ju_LinkedHashMapIterator__init_", "jlr_Modifier_getModifierNames", "getModifierNames", "ju_Arrays_fill7", "nms_BiomeGenBase_getBiome",
+        "getBiome", "nms_World_getTopSolidOrLiquidBlock", "getTopSolidOrLiquidBlock", "nms_FurnaceRecipes_getSmeltingResult", "getSmeltingResult", "nms_ItemStack_isItemEqual", "isItemEqual", "ju_LinkedHashMapIterator$KeyIterator_next", "ju_LinkedHashMapIterator_hasNext", "ju_LinkedHashMapIterator_remove", "nms_Packet18Animation_writePacketData", "nms_Packet101CloseWindow_writePacketData", "nms_Packet3Chat_writePacketData", "nms_Packet9Respawn_writePacketData", "nms_EntitySpider_getMountedYOffset", "nms_EntityMinecart_getMountedYOffset",
+        "nms_EntityPlayer_getYOffset", "nms_MapGenStronghold_func_35628_a", "nms_MapGenVillage_func_35628_a", "nms_MapGenMineshaft_func_35628_a", "nms_MapGenStronghold_func_35630_b", "nms_MapGenVillage_func_35630_b", "nms_MapGenMineshaft_func_35630_b", "nms_ItemBow_func_35414_a", "nms_ItemFood_func_35413_b", "nms_ItemBow_func_35413_b", "nms_ItemSoup_func_35413_b", "nms_EmptyChunk_func_21167_h", "nms_EntityAnimal_canDespawn", "nms_EntityWolf_canDespawn", "nms_EmptyChunk_setLightValue", "nms_ChunkFilePattern_accept",
+        "nms_BlockFluid_velocityToAddToEntity", "nms_BlockStairs_velocityToAddToEntity", "nms_BiomeGenForest_getRandomWorldGenForTrees", "nms_BiomeGenTaiga_getRandomWorldGenForTrees", "nms_BiomeGenSwamp_getRandomWorldGenForTrees", "nms_Packet255KickDisconnect_writePacketData", "nms_EmptyChunk_generateHeightMap", "nms_RenderGlobal_doNothingWithTileEntity", "nms_EntitySilverfish_getBlockPathWeight", "nms_EntityGiantZombie_getBlockPathWeight", "nms_EntityCaveSpider_func_35175_b", "nms_PotionHealth_func_35660_a",
+        "nms_ItemMap_onUpdate", "nms_EntityLiving_getLookVec", "nms_EntityPainting_moveEntity", "jnc_Charset_compareTo0", "jl_Short_compareTo", "ju_LinkedHashMapIterator_makeNext", "ju_LinkedHashMapIterator_checkConcurrentMod", "nms_World_func_35462_u", "func_35462_u", "nms_WorldChunkManager_func_35562_a", "func_35562_a", "nms_StructureStrongholdStart__init_", "nms_StructureVillageStart__init_", "nms_StructureMineshaftStart__init_", "nms_InventoryPlayer_consumeInventoryItem", "consumeInventoryItem", "nms_FoodStats_func_35761_a",
+        "func_35761_a", "nms_Packet13PlayerLookMove__init_0", "nms_Packet11PlayerPosition__init_0", "nms_Packet10Flying__init_0", "nms_Packet12PlayerLook__init_0", "nms_WorldGenBigTree_func_526_b", "func_526_b", "nms_WorldGenBigTree_func_523_a", "func_523_a", "nms_NoiseGeneratorPerlin_func_4110_a", "func_4110_a", "nms_NoiseGeneratorPerlin_grad", "grad", "nms_NoiseGeneratorPerlin_lerp", "lerp", "nms_BiomeDecorator_func_35881_a", "func_35881_a", "nms_StructureStart_func_35715_c", "func_35715_c", "nms_StructureStart_func_35712_a",
+        "func_35712_a", "nms_StructureBoundingBox_func_35746_a", "func_35746_a", "nms_StructureBoundingBox__init_", "nms_StructureStart_func_35711_a", "func_35711_a", "nms_WorldGenDungeons_pickMobSpawner", "pickMobSpawner", "nms_TileEntityMobSpawner_setMobID", "setMobID", "nms_WorldGenDungeons_pickCheckLootItem", "pickCheckLootItem", "nms_WorldGenTaiga1__init_", "nms_NoiseGeneratorPerlin_func_801_a", "func_801_a", "nms_Pathfinder_createEntityPathTo1", "nms_Potion_func_35662_a", "func_35662_a", "nms_MapData_func_28169_a",
+        "func_28169_a", "nms_ItemMap_updateMapData", "updateMapData", "jl_Float_compare", "jl_Byte_compare", "jnc_Charset_compareTo", "jl_Short_compareTo0", "nms_StructureStart__init_", "nms_StructureStrongholdPieces_func_35849_a", "func_35849_a", "nms_ComponentStrongholdStairs2__init_", "nms_ComponentStrongholdStairs_func_35004_a", "func_35004_a", "nms_StructureComponent_func_35004_a", "nms_StructureStart_func_35714_b", "func_35714_b", "nms_StructureStart_func_35713_a", "func_35713_a", "nms_StructureVillagePieces_func_35705_a",
+        "func_35705_a", "nms_ComponentVillageStartPiece__init_", "nms_ComponentVillageWell_func_35004_a", "nms_ComponentMineshaftRoom__init_", "nms_ComponentMineshaftRoom_func_35004_a", "nms_StructureStrongholdPieces__clinit_", "nms_ComponentStrongholdStairs__init_", "nms_MathHelper_func_35598_a", "func_35598_a", "nms_StructureVillagePieceWeight__init_", "nms_ComponentVillageWell__init_", "nms_StructureComponent__init_", "nms_StructureBoundingBox__init_0", "nms_StructureStrongholdPieceWeight__init_", "nms_StructureStrongholdPieceWeight2__init_",
+        "nms_StructureStrongholdStones__init_", "nms_ComponentStronghold__init_", "nms_ComponentVillage__init_", "nms_StructureStrongholdStones__init_0", "nms_EnumDoor__clinit_", "nms_StructurePieceBlockSelector__init_", "nms_EnumDoor__init_", "nms_EnumDoor_$values", "nms_WorldGenBigTree_func_517_a", "nms_WorldGenTaiga1_generate", "nms_WorldGenSwamp_generate", "nms_Packet130UpdateSign_writePacketData", "nms_WorldChunkManagerHell_func_35562_a", "nms_StructureVillageStart_func_35715_c", "nms_EnumDoor_values",
+        "nms_WorldGenSwamp_func_35265_a", "func_35265_a", "nms_StructureComponent_func_35012_c", "func_35012_c", "nms_StructureBoundingBox_func_35743_c", "func_35743_c", "nms_StructureBoundingBox_func_35744_b", "func_35744_b", "nms_StructureMineshaftPieces_func_35585_a", "func_35585_a", "nms_StructureBoundingBox_func_35739_d", "func_35739_d", "nms_StructureComponent_func_35021_b", "func_35021_b", "nms_ComponentStronghold_func_35028_a", "func_35028_a", "nms_StructureVillagePieces_func_35701_b", "func_35701_b",
+        "nms_ItemFood_func_35426_m", "func_35426_m", "nms_BiomeDecorator_func_35882_b", "func_35882_b", "nms_StructureBoundingBox_func_35740_a", "func_35740_a", "nms_StructureComponent_func_35023_a", "func_35023_a", "nms_NoiseGeneratorPerlin_generateNoise", "generateNoise", "nms_MapInfo__init_", "nms_InventoryPlayer_func_28018_c", "func_28018_c", "nms_MapData_func_28170_a", "func_28170_a", "jl_String_compareToIgnoreCase", "compareToIgnoreCase", "jl_Short_compare", "nms_StructureBoundingBox_func_35741_a", "func_35741_a",
+        "nms_StructureBoundingBox_func_35738_b", "func_35738_b", "nms_StructureBoundingBox_func_35745_a", "func_35745_a", "nms_StructureMineshaftPieces__clinit_", "nms_StructureMineshaftPieces_func_35587_b", "func_35587_b", "nms_StructureVillagePieces_func_35698_e", "func_35698_e", "nms_BiomeDecorator_func_35880_a", "func_35880_a", "nms_WorldGenTallGrass__init_", "nms_WorldGenTallGrass_generate", "nms_WorldGenDeadBush__init_", "nms_WorldGenDeadBush_generate", "nms_StructurePieceTreasure__init_", "nms_StructureMineshaftPieces_func_35586_a",
+        "func_35586_a", "nms_ComponentVillagePathGen_func_35087_a", "func_35087_a", "nms_ComponentVillagePathGen__init_", "nms_ComponentVillageStartPiece_func_35105_a", "func_35105_a", "nms_ComponentMineshaftCross_func_35071_a", "func_35071_a", "nms_ComponentMineshaftCross__init_", "nms_ComponentMineshaftCorridor_func_35066_a", "func_35066_a", "nms_ComponentMineshaftStairs_func_35027_a", "func_35027_a", "nms_ComponentMineshaftStairs__init_", "nms_ComponentMineshaftCorridor__init_", "nms_StructureBoundingBox_func_35747_a",
+        "func_35747_a", "nms_StructureComponent_func_35020_a", "func_35020_a", "nms_ComponentVillageRoadPiece__init_", "nms_ComponentMineshaftCross_func_35004_a", "nms_ComponentMineshaftStairs_func_35004_a", "nms_ComponentMineshaftCorridor_func_35004_a", "nms_ComponentStrongholdStairs_func_35023_a", "nms_ComponentVillageWell_func_35023_a", "nms_ComponentMineshaftRoom_func_35023_a", "nms_WorldGenSand_generate", "nms_ComponentMineshaftCross_func_35023_a", "nms_ComponentMineshaftStairs_func_35023_a", "nms_ComponentMineshaftCorridor_func_35023_a",
+        "nms_StructureBoundingBox_toString", "nms_ComponentVillagePathGen_func_35023_a", "nms_ComponentVillagePathGen_func_35004_a", "nms_StructureStrongholdPieces_func_35850_a", "func_35850_a", "nms_StructureComponent_func_35013_a", "func_35013_a", "nms_StructureStrongholdPieces_func_35852_b", "func_35852_b", "nms_StructureComponent_func_35022_a", "func_35022_a", "nms_ComponentStronghold_func_35033_a", "func_35033_a", "nms_StructureComponent_func_35018_a", "func_35018_a", "nms_StructureComponent_func_35011_a",
+        "func_35011_a", "nms_ComponentVillage_func_35075_b", "func_35075_b", "nms_StructureComponent_func_35016_b", "func_35016_b", "nms_StructureComponent_func_35015_a", "func_35015_a", "nms_ItemStack_isStackEqual", "isStackEqual", "nms_BiomeDecorator_func_35884_a", "func_35884_a", "nms_BiomeDecorator_func_35883_b", "func_35883_b", "nms_StructureComponent_func_35010_a", "func_35010_a", "nms_StructureComponent_func_35014_a", "func_35014_a", "nms_StructureMineshaftPieces_func_35588_a", "func_35588_a", "nms_StructureComponent_func_35003_a",
+        "func_35003_a", "nms_StructureComponent_func_35008_a", "func_35008_a", "nms_StructureComponent_func_35017_a", "func_35017_a", "nms_StructureComponent_func_35006_b", "func_35006_b", "nms_StructureBoundingBox_func_35742_b", "func_35742_b", "nms_StructureComponent_func_35007_a", "func_35007_a", "nms_StructureComponent_func_35009_c", "func_35009_c", "nms_ComponentVillage_func_35077_a", "func_35077_a", "nms_ComponentVillage_func_35076_b", "func_35076_b", "nms_StructureStrongholdPieces_func_35848_c", "func_35848_c",
+        "nms_StructureStrongholdPieces_func_35847_b", "func_35847_b", "nms_StructureStrongholdPieces_func_35853_c", "func_35853_c", "nms_ComponentStrongholdCorridor_func_35051_a", "func_35051_a", "nms_StructureStrongholdPieceWeight_func_35613_a", "func_35613_a", "nms_StructureStrongholdPieces_func_35851_a", "func_35851_a", "nms_StructureStrongholdPieceWeight_func_35614_a", "func_35614_a", "nms_ComponentStrongholdCorridor__init_", "nms_ComponentStrongholdStraight_func_35047_a", "func_35047_a", "nms_ComponentStrongholdPrison_func_35063_a",
+        "func_35063_a", "nms_ComponentStrongholdLeftTurn_func_35045_a", "func_35045_a", "nms_ComponentStrongholdRoomCrossing_func_35059_a", "func_35059_a", "nms_ComponentStrongholdStairsStraight_func_35053_a", "func_35053_a", "nms_ComponentStrongholdStairs_func_35034_a", "func_35034_a", "nms_ComponentStrongholdCrossing_func_35039_a", "func_35039_a", "nms_ComponentStrongholdLibrary_func_35055_a", "func_35055_a", "nms_ComponentStronghold_func_35030_a", "func_35030_a", "nms_ComponentStrongholdStraight__init_",
+        "nms_ComponentStrongholdPrison__init_", "nms_ComponentStrongholdLeftTurn__init_", "nms_ComponentStrongholdRoomCrossing__clinit_", "nms_ComponentStrongholdRoomCrossing__init_", "nms_ComponentStrongholdStairsStraight__init_", "nms_ComponentStrongholdStairs__init_0", "nms_ComponentStrongholdCrossing__init_", "nms_ComponentStrongholdLibrary__clinit_", "nms_ComponentStrongholdLibrary__init_", "nms_ComponentStronghold_func_35031_a", "func_35031_a", "nms_StructureStrongholdPieceWeight2_func_35613_a", "nms_ComponentStrongholdStraight_func_35023_a",
+        "nms_ComponentStrongholdStairsStraight_func_35023_a", "nms_ComponentStrongholdRoomCrossing_func_35023_a", "nms_ComponentStrongholdLibrary_func_35023_a", "nms_ComponentStrongholdLeftTurn_func_35023_a", "nms_ComponentStrongholdCorridor_func_35023_a", "nms_ComponentStrongholdPrison_func_35023_a", "nms_ComponentStrongholdCrossing_func_35023_a", "nms_ComponentStrongholdPrison_func_35004_a", "nms_ComponentStrongholdStairsStraight_func_35004_a", "nms_ComponentStrongholdLeftTurn_func_35004_a", "nms_ComponentStrongholdLibrary_func_35004_a",
+        "nms_ComponentStrongholdCrossing_func_35004_a", "nms_ComponentStrongholdStraight_func_35004_a", "nms_ComponentStrongholdRoomCrossing_func_35004_a", "nms_ComponentStrongholdCorridor_func_35004_a", "nms_StructurePieceBlockSelector_func_35706_a", "func_35706_a", "nms_StructurePieceBlockSelector_func_35707_a", "func_35707_a", "nms_StructurePieceBlockSelector_func_35708_b", "func_35708_b", "nms_StructureComponent_func_35019_a", "func_35019_a", "nms_StructureVillagePieces_func_35704_a", "func_35704_a", "nms_ComponentStronghold_func_35032_b",
+        "func_35032_b", "nms_ComponentStronghold_func_35029_c", "func_35029_c", "nms_EnumDoorHelper__clinit_", "nms_WeightedRandom_func_35735_a", "func_35735_a", "nms_StructureVillagePieces_func_35702_d", "func_35702_d", "nms_WeightedRandom_func_35737_a", "func_35737_a", "nms_WeightedRandom_func_35732_a", "func_35732_a", "nms_StructureVillagePieces_func_35700_c", "func_35700_c", "nms_StructureVillagePieces_func_35703_a", "func_35703_a", "nms_ComponentVillageTorch_func_35099_a", "func_35099_a", "nms_StructureVillagePieceWeight_func_35602_a",
+        "func_35602_a", "nms_StructureVillagePieces_func_35699_a", "func_35699_a", "nms_StructureVillagePieceWeight_func_35603_a", "func_35603_a", "nms_ComponentVillageTorch__init_", "nms_ComponentVillageHouse4_Garden_func_35082_a", "func_35082_a", "nms_ComponentVillageChurch_func_35097_a", "func_35097_a", "nms_ComponentVillageHouse1_func_35095_a", "func_35095_a", "nms_ComponentVillageWoodHut_func_35091_a", "func_35091_a", "nms_ComponentVillageHall_func_35078_a", "func_35078_a", "nms_ComponentVillageField_func_35080_a",
+        "func_35080_a", "nms_ComponentVillageField2_func_35089_a", "func_35089_a", "nms_ComponentVillageHouse2_func_35085_a", "func_35085_a", "nms_ComponentVillageHouse3_func_35101_a", "func_35101_a", "nms_ComponentVillageHouse4_Garden__init_", "nms_ComponentVillage_func_35074_a", "func_35074_a", "nms_ComponentVillageChurch__init_", "nms_ComponentVillageHouse1__init_", "nms_ComponentVillageWoodHut__init_", "nms_ComponentVillageHall__init_", "nms_ComponentVillageField__init_", "nms_ComponentVillageField2__init_",
+        "nms_ComponentVillageHouse2__init_", "nms_ComponentVillageHouse3__init_", "nms_StructureStrongholdStones_func_35706_a", "nms_ComponentVillageField2_func_35023_a", "nms_ComponentVillageField_func_35023_a", "nms_ComponentVillageHouse2_func_35023_a", "nms_ComponentVillageHouse3_func_35023_a", "nms_ComponentVillageHouse1_func_35023_a", "nms_ComponentVillageHall_func_35023_a", "nms_ComponentVillageTorch_func_35023_a", "nms_ComponentVillageChurch_func_35023_a", "nms_ComponentVillageWoodHut_func_35023_a", "nms_ComponentVillageHouse4_Garden_func_35023_a",
+        "nms_ComponentVillageChurch_func_35004_a", "nms_ComponentVillageHouse1_func_35004_a", "nms_ComponentVillageHouse4_Garden_func_35004_a", "nms_ComponentVillageHouse3_func_35004_a", "nms_ComponentVillageHouse2_func_35004_a", "nms_ComponentVillageField_func_35004_a", "nms_ComponentVillageWoodHut_func_35004_a", "nms_ComponentVillageHall_func_35004_a", "nms_ComponentVillageTorch_func_35004_a", "nms_ComponentVillageField2_func_35004_a", "nms_StructureComponent_func_35005_b", "func_35005_b", "nms_StructureComponent_func_35002_a",
+        "func_35002_a" ], "ABCD", "jur_AbstractCharClass$LazyBlank", "3vCFz4ErzD" , "EFGH", "cjj_Inflate", "xkDFykDzkDkrD4Bh2Dy7Co2Dp2DsgEtgEthFuhFvhFwhFxhFuhFzhF0hF" , "IJKLMN", "nleib_EaglerArrayByteBuffer", "5eF3zCnN4zC5D5zCkT6zCmT7zC9UgzDx1BhzDpNy7EpN27E01B37E41B47E7Uq2F01Bw4F21Bx4FkTy4FphF94FpN+4FokFv5F5D45FktFtgIphFugI74HvgIorEx5I21By5I5Dy0JpN6vK5D" , "IOPQ", "nms_StatCollector", "qcrcupB4B6pB7pB" , "ARS", "jl_Integer", "nBoB9B4B3C4CuJvJlRFmRnR6kB7kBywB7kB93B+3B36B46BknCOqrCOryDHjzDkzDw+DHx+Dy+Dz+D0+D1+D2+D2gE3gElhEmhEn3EJg7EOi9En8CwgF30B7rFn8CiyGptClhHx1G14Ir0H"
+        , "IOPT", "nms_TileEntity$_clinit_$lambda$_15_7", "n7HFg/N90N" , "EFUV", "cjj_Floor0$InfoFloor0", "vjKF" , "IOPW", "nms_TileEntity$_clinit_$lambda$_15_5", "l7HF++N90N" , "AXY", "jm_BigDecimal$1", "s5I4B" , "ABZ", "ju_Vector", "/2GFq5GFr5G4B9pJ+pJ9iK+iK" , "IOPa", "nms_TileEntity$_clinit_$lambda$_15_6", "m7HF/+N90N" , "ABCb", "jur_AbstractCharClass$LazyAlpha", "yvCFu4ErzD" , "IOPc", "nms_GuiCrafting", "3hMFnhNruGrhNxuGvhNm9D" , "IOPd", "nms_MapItemRenderer", "6lEFhuHiuH" , "IOPe", "nms_NibbleArray", "kqLFoyNFpyNplH/hOgiOmiOniO"
+        , "EFGf", "cjj_Tree", "xzGFi3G4B8mM9mM3sN4sN8lO9lO+lO/lOkqOlqO" , "IOPgB", "nms_Packet130UpdateSign", "niLFiuLimKuvLkmKyxL7/Jo7OFhgPtmK" , "IOPhB", "nms_EntityHugeExplodeFX", "7sMFv9M+oGpgN7mH4gN9kF" , "IOPiB", "nms_BiomeGenBase$_init_$lambda$_0_10", "p1FFs3L/uI" , "jBkBBlBmB", "olug_GLU", "poDqoD4sG5sG" , "IOPnB", "nms_EnumWorldType", "4tJterwJswJtwJ4BwxJFxxJrdulKvlK" , "ARoB", "jl_CharSequence", "73Bf83BhBu+Bv+B" , "IOPpB", "nms_Packet255KickDisconnect", "siLFgtLimKsuLkmKixL7/J1kOF18OtmK" , "jBqBrBsBtBuB",
+        "otcit_DateTimeZoneProvider$1", "7sCF36E30B5mF30B" , "IOPvB", "nms_SaveHandler", "9kLFqoLroLsoL4BgrLlzEjrLwoK01LggLp6Lq6Ls6LvmLu9MtmL" , "IOPwB", "nms_BlockDispenser", "/mBFt2CgyBx3JouJ0tK64J8yLo6Dh2LglL6jM7jM4qMtvJy5NrkN8tO8hOnuOpiO4uOjkM8wOolO83O93O" , "IOPxB", "nms_GuiSlotStats", "wxIFwmJyrHrzJljIzzJ0gJk0J+gJl0JghJm0JihJx7J4gJ+8J/8Ji9Jj9Jq9Jr9Js9Jt9Jz9J09J" , "ABCyB", "jur_AbstractCharClass$LazyCategory", "wwCFzwCFs5ErzD" , "ABCzB", "jur_BehindFSet", "9/BF0+GkB87IysI" , "IOP0B", "nms_WorldInfo", "2mI3mI1pI2pI3pI4pIv5JFw5Jx5Jy5Jz5J05J15J25J35JxoKyoKzoKFgpKhpKhrKirKjrKkrKt2KgrK05KrvI96KxvIy7K9gGz7K07Kt8Ku8Kx8Ky8K8/K9/K3iL4iLklMllMmlMnlMolMplMqlMrlMslMtlMulMvlM+pM/pMjqMkqM5wM6wMiiNjiNhpNipNjpNkpNlpNmpNguNhuN3zNF"
+        , "IOP1B", "nms_ItemFishingRod", "95BF5qLuuHv4M75Lm9M9oM" , "IOP2B", "nms_WorldGenTaiga1", "t+OF//O/iN" , "IOP3B", "nms_WorldGenTaiga2", "wrNFw3N/iN" , "jBqB4B5B6B7B", "otrfm_AbstractInMemoryVirtualFile", "q8GFlhJv4GmhJx4GnhJr4GohJt4G+mJjnC39J49J+0K/0Kj1K8lEk1Kl1K6jLkB" , "jB8B9B", "oj_JSONObject$Null", "rxJF6sKOytKHztKJ" , "ABC+B", "jur_LowHighSurrogateRangeSet", "unCFjyD7jCu7HkB+1JysI" , "IOP/B", "nms_BlockStairs", "2nBFj2Cj4Bu2CgyB1wDg9C89G9jGg8HjnHt8HlnHq/HlzHz6I6jIw7IisIv3JmuJ53JquJg4JsuJ6tK64JpuKl5J0yLqrIizLo6D3zLt7Ky1L1/Kr7M6iMo8MmkM28MimM05NrkNx7NzpN07N5pN57N7pNj8NlsNruOpiOgvOjkMlwOmlOlxOolOx8O23O"
+        , "IOPgC", "nms_EntityMinecart", "0sJF/vJ4B4yJ/yFs+Kt+Ku+Kv+K83L5yFr4L9kF34L4mKk5LnoJv5Lt0Kz5L6jF4vMhxH5vM9wH6vMyqKh+Mh5Ki+M2rIk+MxuMm+MzuMz/MhtH0/MjtH1/MqqG2/MnoI3/M60MxkNFi5NjkNk5N5tMl7N8nNh+NkyNw/NzmMqtO9nOv0OsmN30OrnN/7O11O" , "AhCiCsBjC", "jnci_AsciiEncoder", "wlFFs6IgjI" , "ABkC", "ju_Currency", "gjC9wBxmC9wBhrCirChuCFv2FOjjLkjLrjNsjN" , "IJKLlC", "nlei_PlatformRuntime$downloadRemoteURIFetch$lambda$_37_1", "q1BF88B00BlhCx8B" , "IJKLmC", "nlei_PlatformRuntime$downloadRemoteURIFetch$lambda$_37_0",
+        "p1BF78B00BkhCx8B" , "ABnCoC", "juf_Supplier", "pwF5D" , "ABpC", "ju_LinkedHashMap", "y2GFk5GpNh9GtqBvrH5DuwH87CvwHwwHxwHywH3oI4oI+qIwnD/qIgrIirIjrI6xLntC86MsjDopNppN" , "ABCqC", "jur_PosPlusGroupQuantifierSet", "noCFw8IysI" , "ARrC", "jl_StringBuffer", "1pCF4pCrB7pCrBisCOjsCfmsChBkxD9C9yDrBj0D9CtiErBurFrBxrFrB/2F63B75F9C6pG9C08G9C8iH9CvjIrB4xJrBt4JrBsrKF6qL9Ck6L9C" , "IOPsC", "nms_J_JsonTrueNodeBuilder", "2yIF/6M6sH" , "ABCtC", "jur_AbstractCharClass$PredefinedCharacterClasses", "6mC7mCorCFkuC4B" ,
+        "IOPuC", "nms_ComponentStrongholdStairs2", "++OF" , "IOPvC", "nms_GenLayerIsland", "l0MFpvO1iN" , "jB8BwC", "oj_JSONParserConfiguration", "o1NF" , "IOPxC", "nms_RenderGhast", "twEFs0Lx9K6nM7nM" , "IJKLqByC", "nleit_TeaVMUtils", "/KgLyZzZ0b1bzd0d1iB2iB8iB9iB49B59Bx8Cy8C88Cy8CqgDrgDzhDy8CpkDqkD+pD/pD/qDgrDj3Hk3H5nK6nK" , "IJKLMzC", "nleib_EaglerArrayBufferAllocator$WrongBufferClassType", "90BF" , "IOP0C", "nms_EntityMob", "3sJFi4L9kF94LnoJr2MnlL09MxtMj+N5yNw+NzmM/sO9nO0yO2mO8yOsoEk6Ol6O" , "AB1C2C", "juz_ZipFile$ZipInflaterInputStream",
+        "zrHFw7H2tBx7Hi1E" , "IOP3C", "nms_MaterialLogic", "y4BF7xDm4Bg+ItwIlrLpxH" , "ABC4C", "jur_NegativeLookAhead", "ygCF6+GkBi8IysIl2JopJ" , "AR5C6C", "jlr_Array", "rCsCrzCszCxzCyzC61N5Dj2Nk2N" , "EFG7C", "cjj_InfCodes", "gqEFtuE4B0pF9zCvjGshF0jGhPypHzpH" , "IOP8C", "nms_TileEntityNote", "22K32K42K52KjpOF7rOw8Ki0OyzM" , "IOP9C", "nms_StructurePieceTreasure", "6hPF" , "IOP+C", "nms_NetHandler", "wtEF3/J4/J8/J9/Jl8Lm8Ln8Lo8Lp8Lq8Lr8Ls8Lt8Lu8Lv8Lw8Lx8Ly8Lz8L08L18L28L38L48L58L68L78L88L98L+8L/8Lg9Lh9Li9Lj9Lk9Ll9Lm9Ln9Lo9Lp9Lq9Lr9Ls9Lt9Lu9Lv9Lw9Lx9Ly9Lz9L09L19L29L39L49L59L69L79L89L99L+9L/9Lg+Lh+Li+Lj+Lk+Ll+Lm+Ln+Lo+Lp+Lq+Lr+Ls+Lt+Lu+Lv+Lw+Lx+Ly+Lz+L0+L1+L2+L3+L4+L5+L6+L7+L8+L9+L++L/+Lg/Lh/Li/Lj/Lk/Ll/Lm/Ln/Lo/Lp/Lq/Lr/Ls/Lt/Lu/Lv/Lw/Lx/Ly/Lz/L0/L1/L2/L3/L4/LmmNnmN"
         , "IOP/C", "nms_ItemCloth", "gpBFk7EzmEn0JqhJl5NnkN" , "ABCgD", "jur_AbstractCharClass$LazyJavaDigit", "/vCF74ErzD" , "IOPhD", "nms_BlockFurnace", "8nBFtxB4Bo2CgyBz3JouJ9tK64J5zLt7K25NrkNhuO8hOuuOpiOjvOjkMpxOolOg4Oh4O+6O/6O" , "IJKLiD", "nlei_PlatformFilesystem$FilesystemDatabaseLockedException", "/uBF" , "IOPjD", "nms_PlayerControllerSP", "8lJFkyJn/ClyJ06DmyJwoEnyJyoEoyJ4oEpyJ6oEqyJmjFryJ9/FsyJngGtyJwlGuyJ3lGvyJ8lGo5Jp5J" , "IOPkD", "nms_StatCrafting", "8pBFyxIzxI" , "IlDAmDnD", "npja_Color", "klEllErsE4B1vEFqyEF9zE+zE+gG/gG+/N//NypOF"
-        , "IOPoD", "nms_ModelBiped", "2HF2PF0lBFrhGshGriHsiHytNztN" , "IJKpDqD", "nleo_SoftGLVertexArray", "liBFoiBpiBqiBriBilBjlBn0CniB67EgzEo5F9lD0zG1zG" , "IOPrD", "nms_MapInfo", "hhPF" , "EFUsD", "cjj_Mapping0", "szIFy3I4B75ImiI85IqiIj3JsqJo3JouI" , "IOPtD", "nms_BlockLog", "7mBFswDg9CkyL+3KkuOpiO6vOmlO6wOolO7xOqlO" , "ARuD", "jl_Object$monitorEnterWait$lambda$_6_0", "w7BF5xDmF" , "jB8BvD", "oj_JSONString", "j0Nk0N" , "ABCwD", "jur_AbstractCharClass$LazyPrint", "2vCFy4ErzD" , "IOPxD", "nms_ChestItemRenderHelper",
+        , "IOPoD", "nms_ModelBiped", "2HF2PF0lBFrhGshGriHsiHytNztN" , "IJKpDqD", "nleo_SoftGLVertexArray", "liBFoiBpiBqiBriBilBjlBo0CniB67EgzEo5F9lD0zG1zG" , "IOPrD", "nms_MapInfo", "hhPF" , "EFUsD", "cjj_Mapping0", "szIFy3I4B75ImiI85IqiIj3JsqJo3JouI" , "IOPtD", "nms_BlockLog", "7mBFswDg9CkyL+3KkuOpiO6vOmlO6wOolO7xOqlO" , "ARuD", "jl_Object$monitorEnterWait$lambda$_6_0", "w7BF5xDmF" , "jB8BvD", "oj_JSONString", "j0Nk0N" , "ABCwD", "jur_AbstractCharClass$LazyPrint", "2vCFy4ErzD" , "IOPxD", "nms_ChestItemRenderHelper",
         "4qH5qHjzH4By1HF" , "AhCiCsByD", "jnci_AsciiCharset", "ntBF+xDp8Cs6EqrD" , "IOPzD", "nms_ItemRecord", "k6BFn4M55L" , "AR0D", "jl_ArrayStoreException", "yCF" , "IOP1D", "nms_ItemBed", "h6BFm4M55L" , "IOP2D", "nms_ComponentVillageWell", "p/Og/Ox/OF0iP+gP" , "ABC3D", "jur_MatchResultImpl", "wtFFxtFytF6wFvhBq8Fr8Fs8F37Ct8Fw2DoqGpxBklHo8FolHplHqlHrlHslH37CtlHw2D1xHvhB2xHujC3xH4xHyjIzjItsIusIvsIwsIzsI0sIqoJroJsoJtoJuoJvoJwoJxoJyoJzoJ5oJ6oJppJqpJrpJspJvpJwpJzpJ0pJ6qJiwI6iK7iK" , "jBqBrBsBtB4D", "otcit_DateTimeZone",
-        "wsCxsCzsC0sChtCitCjtCktC0uCF8qE9qE" , "IOP5D", "nms_BlockSnow", "loBF21Cj4Bm8HjnHz/HlzH63JquJnyL+3KpzLo6D12LglL1rM2rMpzMmkM07M6iMpwOmlOuxOolO" , "IOP6D", "nms_J_JsonStringNodeSelector", "pkLFo4NO85N95Ni6N4lNjkOkkOskOtkOszO3qL" , "ABC7D", "jur_AbstractCharClass$LazyGraph", "1vCFx4ErzD" , "IOP8D", "nms_IStatType", "j4KvH" , "AhCiC9D", "jnc_Charset", "utBvtB2yBFs1B8f81B91Bg9Bh9BshCthCo8Cp8C0jDrhCprDqrD/8On8C5+On8C" , "IOP+D", "nms_Particle", "g7Fh7Fi7FzMzzG4B" , "IOP/D", "nms_TileEntitySpecialRenderer",
-        "72H82H73HFyjJzjJ2jJzhIoqNpqNsqNtqN" , "IJKLqBgE", "nleit_TeaVMFetchJS", "oLpL/rBgsBhsBisB" , "ABChE", "jur_DecomposedCharSet", "joCFs1C7jC62CukC79C39Cq/GkBu8IysI/oJgpJv2JopJ" , "ARiE", "jl_AbstractStringBuilder", "gCFhCrBiCrBjCO7CF8C9C+C9CsgBrBykBF/sBrBgtBrBvwBFi1B9C/mCfnsChBngDrBkhDrBxhD9CwlDjnC7lDrBinDl+CmnDlnD9pD9CtqDrBlrDrBmrDnrDytD63BszDrB4iE9C3pE9CiyErB8zE9ClvF9CmvF9C/tGrBhzGizG90G9CulHk9FrqI+VstI9CkwIv+BsyIizG6uJ+V2vJsP" , "IOPjE", "nms_J_JsonObjectNodeBuilder", "xyIFj6I6sHkiJliJzlK0lKq1Kr1K"
+        "wsCxsCzsC0sChtCitCjtCktC0uCF8qE9qE" , "IOP5D", "nms_BlockSnow", "loBF11Cj4Bm8HjnHz/HlzH63JquJnyL+3KpzLo6D12LglL1rM2rMpzMmkM07M6iMpwOmlOuxOolO" , "IOP6D", "nms_J_JsonStringNodeSelector", "pkLFq4NO85N95Ni6N4lNjkOkkOskOtkOszO3qL" , "ABC7D", "jur_AbstractCharClass$LazyGraph", "1vCFx4ErzD" , "IOP8D", "nms_IStatType", "j4KvH" , "AhCiC9D", "jnc_Charset", "utBvtB2yBFs1B8f81B91Bg9Bh9BshCthCo8Cp8C0jDrhCprDqrD/8On8C5+On8C" , "IOP+D", "nms_Particle", "g7Fh7Fi7FzMzzG4B" , "IOP/D", "nms_TileEntitySpecialRenderer",
+        "72H82H73HFyjJzjJ2jJzhIoqNpqNsqNtqN" , "IJKLqBgE", "nleit_TeaVMFetchJS", "oLpL/rBgsBhsBisB" , "ABChE", "jur_DecomposedCharSet", "joCFs1C7jC32CukC89C99Cq/GkBu8IysI/oJgpJv2JopJ" , "ARiE", "jl_AbstractStringBuilder", "gCFhCrBiCrBjCO7CF8C9C+C9CsgBrBykBF/sBrBgtBrBvwBFi1B9C/mCfnsChBngDrBkhDrBxhD9CwlDjnC7lDrBinDl+CmnDlnD9pD9CtqDrBlrDrBmrDnrDytD63BszDrB4iE9C3pE9CiyErB8zE9ClvF9CmvF9C/tGrBhzGizG90G9CulHk9FrqI+VstI9CkwIv+BsyIizG6uJ+V2vJsP" , "IOPjE", "nms_J_JsonObjectNodeBuilder", "xyIFj6I6sHkiJliJzlK0lKq1Kr1K"
         , "AhCiCkE", "jnc_IllegalCharsetNameException", "i9BF" , "AlEmE", "ji_PrintStream", "nDoDlIF1JoDm5Cn5Co5Cp5CjnDp5CxrDyrDviEwiE6hFp5C7hFoD" , "IOPnE", "nms_RenderBlocks", "/bF1lB4B+jG/jGikGjkGgnHhnHkqHlqHoqHpqHqqHrqHsqHtqHwqHxqHyqHzqH0qH1qH2qH3qH6qH7qH8qH9qHmrHFmhInhI/jIgkImiJniJoiJpiJqiJriJsiJtiJuiJviJwiJxiJyiJziJ0iJ1iJ2iJ3iJ4iJ5iJ6iJ7iJ8iJ9iJ+iJ/iJgjJhjJijJjjJkjJljJmjJnjJojJpjJqjJrjJsjJtjJujJvjJwjJxjJ/kJglJtuJuuJvuJwuJxuJyuJn+Jo+Jp+Jq+Jr+Js+Jv+Jw+Jz+J0+J14K24Kq+Kr+K6qN7qN8qN9qNkrNlrN" , "ABCoE", "jur_NegativeLookBehind",
-        "0gCF8+GkBk8IysIn2JopJ" , "IOPpE", "nms_Packet32EntityLook", "thLFktLimKwuLkmK" , "IOPqE", "nms_BiomeCache", "i0MFqiNriNsiNtiNuiNviNwiNxiNyiNziNziO0iOtqOuqO" , "IOPrE", "nms_EntitySmokeFX", "5uFFsxFFthH9kF57H7mH" , "IJKsE", "nle_IOUtils", "4gB5gBjhBkhB0tB4Bh2Bi2Bk9Bi2B" , "ABCtE", "jur_AbstractCharClass$LazyJavaJavaIdentifierPart", "iwCF+4ErzD" , "ABuE", "ju_UnknownFormatConversionException", "1mGF" , "IOPvE", "nms_TileEntity$_clinit_$lambda$_15_0", "+6HF5+N90N" , "IOPwE", "nms_TileEntity$_clinit_$lambda$_15_3",
-        "j7HF8+N90N" , "IOPxE", "nms_TileEntity$_clinit_$lambda$_15_4", "k7HF9+N90N" , "IOPyE", "nms_TileEntity$_clinit_$lambda$_15_1", "h7HF6+N90N" , "IOPzE", "nms_TileEntity$_clinit_$lambda$_15_2", "i7HF7+N90N" , "AB0E", "ju_IllegalFormatCodePointException", "yxGF" , "IOP1E", "nms_GenLayerVillageLandscape", "s0MFtvO1iN" , "IJKL2E", "nlei_PlatformAudio", "gNoK1X4B6X7X8X9XmYnY3iB4iBkvBlvBmvB4iB0hD1hD2hD3hDjiDkiDj3Dk3DloHmoHnoHooHpoHqoHwyHxyH/3Kg4K" , "IOP3E", "nms_Packet21PickupSpawn", "ihLFrtLimK3uLkmKlxL7/J"
-        , "ABC4E", "jur_UnifiedQuantifierSet", "vkCFp8IysIz9Iu2D" , "IJKLqB5E", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageLoadHook$lambda$_2_0", "wzDF/5F5D" , "AB6E", "ju_BitSet", "nnCFrrCF7kD7U8kDrHxlDylDzlD0lDlmDmmDnmDomDpmDqmDrmDsmDtmDnM/mD7UgnDrH/nDi+Ck0D5D4gE5gE6gE63BthEuhEvhEwhE" , "IOP7E", "nms_BlockWorkbench", "5nBFr2CgyB8tK64J" , "AR8E", "jl_Float", "wvFyoFwxF4B0yF1yF7yG8yG9yG+yG42G52Gn5Go5GmqInqIpqIoBsqKoqKtqKrqKjxMvJ/zMFi/NOl/N46Bs/NJu/NHqpOOtpOJupOH40On8Cz6On8C3+O30B" , "AB1C9E", "juz_GZIPInputStream",
-        "/1EFu2EFy2E5gBz2E02E22E32Eu3E2hBv3E2tBggFhgF/sFgtF" , "IOP+E", "nms_GuiSlotStatsBlock", "4nIF5zJ4gJ/zJ8gJyuKt9J" , "IOP/E", "nms_J_ChainedFunctor", "ppLFl5M37LuzO3qL0zOO" , "IOPgF", "nms_ModelCow", "9vEFx0LshGg9MsiH" , "IOPhF", "nms_MapGenCavesHell", "tyMFvvOsjOu4Ov4Ow4Ox4O" , "IOPiF", "nms_Frustrum", "g+FFh+F1xF47HxmHhkIikI" , "ABCjF", "jur_AbstractCharClass$LazyCategoryScope", "xwCFywCFt5ErzD" , "IOPkF", "nms_EntityPigZombie", "jtJFnwJ4Bq4L9kFi5LnoJ2vM3vMg3MnlLi9M7oM79M1tMg/MxvMy/MzvM49NmiN1+NzmMvtO9nO2yO2mOrzO0nO"
-        , "IOPlF", "nms_Packet20NamedEntitySpawn", "hhLFltLimKxuLkmKzxL7/J" , "IOPmF", "nms_ComponentVillageHall", "5nP6nPpoPFzoP+gPhpPg/O" , "ABCnF", "jur_AbstractCharClass$LazyJavaTitleCase$1", "ghFFm2FqZ" , "IOPoF", "nms_DataWatcher", "6yFF8yF9yF/zF4B99J+9JxkKykK+7L/7LxwMywM4nN5nN7oN8oN" , "pFqFKrFsF", "dcec_TeleportCommand", "t1HFxgImF0uI1uI2uI3uI" , "ABtF", "ju_Collections$_clinit_$lambda$_59_0", "kfF" , "IOPuF", "nms_ItemAxe", "g5BF3+B4B" , "IOPvF", "nms_Packet42RemoveEntityEffect", "0hLF2tLimKivLkmK0wL7/J"
-        , "IOPwF", "nms_ModelPig", "3vEF4vEFv0LshG/8MsiH" , "AhCiCxF", "jnc_UnsupportedCharsetException", "g2BF" , "ABCyF", "jur_AbstractCharClass$LazyJavaISOControl$1", "6gFFg2FqZ" , "IOPzF", "nms_EntitySheep", "ktJFowJ4BgzJ/yFyoLzoL0oL1oLr5Lt0K9vM+vMhwMiwMjwMkwM0+MxvMm/MzvM98N1wNw9NmiNk/NzmM3sO9nOgzO0nO" , "IOP0F", "nms_Packet61DoorChange", "8hLF5tLimKlvLkmKkxL7/J" , "IOP1F", "nms_EntityCreature", "jwJFpgMqgMtgMugMrwMswMkiNnlLqvNrvN4yN5yNp8Nx0Kv8NnvNzmO0mO1mO2mO5mO6mOhnOinOjnOsoE" , "ABC2F", "jur_LowSurrogateCharSet",
+        "0gCF8+GkBk8IysIn2JopJ" , "IOPpE", "nms_Packet32EntityLook", "thLF7sLimKnuLkmK" , "IOPqE", "nms_BiomeCache", "i0MFqiNriNsiNtiNuiNviNwiNxiNyiNziNziO0iOtqOuqO" , "IOPrE", "nms_EntitySmokeFX", "5uFFsxFFshH9kF57H7mH" , "IJKsE", "nle_IOUtils", "4gB5gBjhBkhB0tB4Bh2Bi2Bk9Bi2B" , "ABCtE", "jur_AbstractCharClass$LazyJavaJavaIdentifierPart", "iwCF+4ErzD" , "ABuE", "ju_UnknownFormatConversionException", "1mGF" , "IOPvE", "nms_TileEntity$_clinit_$lambda$_15_0", "+6HF5+N90N" , "IOPwE", "nms_TileEntity$_clinit_$lambda$_15_3",
+        "j7HF8+N90N" , "IOPxE", "nms_TileEntity$_clinit_$lambda$_15_4", "k7HF9+N90N" , "IOPyE", "nms_TileEntity$_clinit_$lambda$_15_1", "h7HF6+N90N" , "IOPzE", "nms_TileEntity$_clinit_$lambda$_15_2", "i7HF7+N90N" , "AB0E", "ju_IllegalFormatCodePointException", "yxGF" , "IOP1E", "nms_GenLayerVillageLandscape", "s0MFtvO1iN" , "IJKL2E", "nlei_PlatformAudio", "gNoK1X4B6X7X8X9XmYnY3iB4iBkvBlvBmvB4iB0hD1hD2hD3hDjiDkiDj3Dk3DloHmoHnoHooHpoHqoHwyHxyH/3Kg4K" , "IOP3E", "nms_Packet21PickupSpawn", "ihLFhuLimKtvLkmKxxL7/J"
+        , "ABC4E", "jur_UnifiedQuantifierSet", "vkCFp8IysIz9Iu2D" , "IJKLqB5E", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageLoadHook$lambda$_2_0", "wzDF/5F5D" , "AB6E", "ju_BitSet", "nnCFrrCF7kD7U8kDrHxlDylDzlD0lDlmDmmDnmDomDpmDqmDrmDsmDtmDnM/mD7UgnDrH/nDi+Ck0D5D4gE5gE6gE63BthEuhEvhEwhE" , "IOP7E", "nms_BlockWorkbench", "5nBFr2CgyB8tK64J" , "AR8E", "jl_Float", "wvFyoFwxF4B0yF1yF7yG8yG9yG+yG42G52Gn5Go5GmqInqIpqIoBsqKoqKtqKrqKkxMvJh0MFi/NOl/N46Bs/NJu/NHqpOOtpOJupOH40On8Cz6On8C3+O30B" , "AB1C9E", "juz_GZIPInputStream",
+        "/1EFu2EFy2E5gBz2E02E22E32Eu3E2hBv3E2tBggFhgF/sFgtF" , "IOP+E", "nms_GuiSlotStatsBlock", "4nIF5zJ4gJ/zJ8gJyuKt9J" , "IOP/E", "nms_J_ChainedFunctor", "ppLFl5M37LuzO3qL0zOO" , "IOPgF", "nms_ModelCow", "9vEFx0LshGg9MsiH" , "IOPhF", "nms_MapGenCavesHell", "tyMFvvOsjOu4Ov4Ow4Ox4O" , "IOPiF", "nms_Frustrum", "g+FFh+F1xF47HxmHhkIikI" , "ABCjF", "jur_AbstractCharClass$LazyCategoryScope", "xwCFywCFt5ErzD" , "IOPkF", "nms_EntityPigZombie", "mtJFowJ4Bs4L9kFl5LnoJ7vM8vMg3MnlLi9M7oM79MxtMg/MxvMy/MzvM49NmiN1+NzmMvtO9nO2yO2mOrzO0nO"
+        , "IOPlF", "nms_Packet20NamedEntitySpawn", "hhLFjuLimKvvLkmKzxL7/J" , "IOPmF", "nms_ComponentVillageHall", "5nP6nPpoPF0oP+gPgpPg/O" , "ABCnF", "jur_AbstractCharClass$LazyJavaTitleCase$1", "ghFFm2FqZ" , "IOPoF", "nms_DataWatcher", "6yFF8yF9yF/zF4B99J+9JxkKykKg8Lh8LxwMywM3nN4nN7oN8oN" , "pFqFKrFsF", "dcec_TeleportCommand", "t1HFxgImF0uI1uI2uI3uI" , "ABtF", "ju_Collections$_clinit_$lambda$_59_0", "kfF" , "IOPuF", "nms_ItemAxe", "g5BF3+B4B" , "IOPvF", "nms_Packet42RemoveEntityEffect", "0hLFstLimK4uLkmKqxL7/J"
+        , "IOPwF", "nms_ModelPig", "3vEF4vEFv0LshG/8MsiH" , "AhCiCxF", "jnc_UnsupportedCharsetException", "g2BF" , "ABCyF", "jur_AbstractCharClass$LazyJavaISOControl$1", "6gFFg2FqZ" , "IOPzF", "nms_EntitySheep", "4sJFiwJ4BkzJ/yFyoLzoL0oL1oLr5Lt0K9vM+vMhwMiwMjwMkwM0+MxvMm/MzvM98N1wNw9NmiNk/NzmM3sO9nOgzO0nO" , "IOP0F", "nms_Packet61DoorChange", "8hLFltLimKxuLkmKuwL7/J" , "IOP1F", "nms_EntityCreature", "hwJFpgMqgMtgMugMrwMswMkiNnlLqvNrvN4yN5yNp8Nx0Kv8NnvNzmO0mO1mO2mO5mO6mOhnOinOjnOsoE" , "ABC2F", "jur_LowSurrogateCharSet",
         "2rCFu1C7jC42CukCigHkBx9IysI59Iu2D61J3oJ82JopJ" , "AR3F", "jl_Error", "/CFznDFkqDFrxHF" , "AR4F", "jl_AssertionError", "v8CF3gDFr7HF" , "AB1C5F", "juz_DeflaterOutputStream", "t0FF52FyrDg9FyrDxrGyrGwgH2hBntHotHg4IF97LF" , "jBqBrBsB6F7F", "otcit_FloatSynthesizer", "xxFyxFxyF4B" , "AB8F", "ju_TreeSet", "uoKF4qK4B35Kr2B0lMrM1lMukC2lMntCt0NFu0Nve" , "jBqB4B5B9F", "otrf_VirtualFileSystem", "g4Gh4GmwHnwHptIqtI" , "ABC+F", "jur_CompositeQuantifierSet", "9oCFv/GkBi9IysI" , "AX/F", "jm_Division", "qzGrzG3hJ4hJ7hJn2I7tJ8tJ9tJ+tJz7L07L"
-        , "AXgG", "jm_BitLevel", "ohIpzGgsJhiJhsJn1I6tJn1I/tJhiJuwJ91Is4J91InnKonK" , "ABChG", "jur_SupplRangeSet", "1nCFq1C7jCp3CukC69CqZm+Cl+Cj/GkBs8IysIs2JopJ" , "ARiG", "jl_String", "EFGHIJdFefgBhB3B4BoCF2J3J3K4KrPsP8R9R7V8V9V+VhWFiWjWnZoZpZqZqgB+VrgBsPygBFshBthB1kB+V5kB3J9qB+VqtBrtB/tBguB+1B/1Bk4BvJ38B48B/8BnM1/B2/B9qC+qC84Cv+Bl5COk7Cl7Cm7Cn7Cw8C8Vv9C+qC5iD6iD7iD8iDpnDF/uDvH4xDn8Cq1Dn8Cx1Ey1E9qF48BonGvJ8nG/1B2xGvJ67GFj8GFllHvJhwH+qC0xHoZ06HvJvqIguB5qIvJ6qI+qCi6Jj6Jz8KvHmhPnhP" , "IJKjG", "nle_Base64", "zU0U5f4B6fFzgB0gB6sBFstBttB+0BF71BttB67B77By8BF+8BttB/gCFnhCFsyD+kDv6E8f06ErhC1lF2lF3lF4lF"
-        , "IOPkG", "nms_DamageSource", "yvJ4B2wJF3wJ4wJ5wJ6wJ0zK1zK7tM8tMkvMlvMmvMnvM4vM5vMlwNmwNqwNrwN2wN3wNwhOxhOx6Oy6O" , "AhCiCsBlG", "jnci_UTF8Encoder", "uiEFr6IgjI" , "IOPmG", "nms_NBTTagByte", "g2EFz3E61Em4FqkCr6FOzgH40FiuNF" , "EFUnG", "cjj_PsyInfo", "viI9zC" , "ABoG", "ju_Properties", "uiCFxiCyiCj9ColBz2DolB" , "IOPpG", "nms_StructureStrongholdStones", "2/OF5/OFuoPumP" , "IOPqG", "nms_Session", "iIFiQ4B" , "AlErG", "ji_StringWriter", "/pKFstKOwyKyrDxyKyrDyyKyrDm+NrBq+NrB7oOrB8oOrB" , "EFGsG", "cjj_ZStream",
-        "uhCF8kCFv7Cw7Cz7Cy7C47C37Ci2Dj2Dm2Dl2D9sHitFopIyrGwgKxgK7jK8rJ4mM5mM" , "IOPtG", "nms_EntityEgg", "7xMF8xM9xM53M/yF1gNq2K2gN4mKihN9kFklNFl3NxnNj4Nu1NltO9nO" , "IOPuG", "nms_UnexpectedThrowable", "4/CF" , "IJKLvG", "nlei_PlatformAudio$BrowserAudioResource", "yyHF" , "AhCiCsBwG", "jnci_UTF8Charset", "5c4B/pBFiyDp8C+yDqrD" , "IOPxG", "nms_PathPoint", "uzMFq1Mr1Ms1MujFx1MJ21M31M03NOz4NH" , "IOPyG", "nms_WorldProviderHell", "lrKF7xLv2K9xLx2K/xL72KyzLl6K+zL97K31L3oK51L6iL" , "IOPzG", "nms_ItemRenderer", "+4DFpoEqoEzoE0oE4kF5kF2tG3tG4tG5tGvuHwuHzuH0uH3uH4uH5uH6uH"
-        , "IOP0G", "nms_Packet4UpdateTime", "xgLFwrLimKxrLkmK7vL7/J" , "AB1G", "ju_ArrayDeque", "rwBFpyDqyDq+DrMr+D63Bs+Dt+D" , "IOP2G", "nms_PlayerCapabilities", "/nKF" , "IOP3G", "nms_Packet71Weather", "+hLFotLimK0uLkmKixL7/J" , "IJKL4G", "nlei_ContextLostError", "pPF" , "IOP5G", "nms_BlockSapling", "tmBFrwDg9C3yLo6D/iMgjM5xOqlO" , "IOP6G", "nms_BlockSponge", "9mBFmuOpiO3uOjkM" , "IJKLM7G", "nleib_Buffer", "q7Cr7C" , "IOP8G", "nms_GuiEditSign", "+jOF9pO4B+0Or+Em1O1+En1O/6Do1Om9Dq1OliGr1Oh/E" , "IOP9G", "nms_EntitySpider",
-        "8sJFy+MxvMk/MzvMptNqtN04NmiNz+NzmM1sO9nOoyO2rIryOjoJtyOxzKxyO2mO4yOsoE+yO0nO+7O11O" , "A6F+G", "jt_DecimalFormatSymbols", "h7BFr7BFo/Bp/Bs/BLlxGmxGs1Gt1Gm2Gn2GwqIxqI7pK8pKjgLkgLlgLmgL9iL+iLhjLijLljLmjL" , "IOP/G", "nms_EmptyChunk", "0nLF34M86L44M+6L54M6kJ64M8kJ74MnpF84M3iM94Mr5K+4Mt5K/4Mn6Kg5Mw6Kh5M06Ki5Mo8Kj7M23K+7M8iMg8M75Kh8M8mKggNs7Lq2Ng7Ln3NonN83N0jNr6N6rNk+N5zNyvOikO3vO7nNr8Oy2Ou8O3mB28O65O" , "gHhHiH", "cm_Bits", "lpGmpGnpGopGppGopGmzHnzHqzHrzH" , "ABjH", "ju_Formatter", "nvDFovDvHpvDO0vDF2iEvHznF0nFymLF"
-        , "AB1CkH", "juz_ZipFile$RAFStream", "94GFi9G2tBj9G2tBwrH6tBv7Hi1E" , "ARlH", "jl_Object$Monitor", "iqBF" , "IOPmH", "nms_BiomeGenHell$_init_$lambda$_0_1", "q0FFg3L/uI" , "IOPnH", "nms_BlockMushroomCap", "6oBF/wDg9CxwOmlO1xOolO" , "IOPoH", "nms_GuiGameOver", "y9DFj3E1/Co3Fr+Ew3F1+E83Fh/Et9GliG" , "IOPpH", "nms_BiomeGenHell$_init_$lambda$_0_0", "p0FF/2L/uI" , "IOPqH", "nms_EntitySkeleton", "0sJFhwJ4B/4LnoJh9M7oM49M1tMx+MvvM7+MxvMt/MzvM14NmiNh9N1wNy+NzmM+sO9nO9yOsoEmzO0nO" , "IOPrH", "nms_TextureLavaFX",
+        , "AXgG", "jm_BitLevel", "ohIpzGgsJhiJhsJn1I6tJn1I/tJhiJuwJ91Is4J91InnKonK" , "ABChG", "jur_SupplRangeSet", "1nCFq1C7jCp3CukC79CqZm+Cl+Cj/GkBs8IysIs2JopJ" , "ARiG", "jl_String", "EFGHIJdFefgBhB3B4BoCF2J3J3K4KrPsP8R9R7V8V9V+VhWFiWjWnZoZpZqZqgB+VrgBsPygBFshBthB1kB+V5kB3J9qB+VqtBrtB/tBguB+1B/1Bk4BvJ38B48B/8BnM1/B2/B9qC+qC84Cv+Bl5COk7Cl7Cm7Cn7Cw8C8Vv9C+qC5iD6iD7iD8iDpnDF/uDvH4xDn8Cq1Dn8Cx1Ey1E9qF48BonGvJ8nG/1B2xGvJ67GFj8GFllHvJhwH+qC0xHoZ06HvJvqIguB5qIvJ6qI+qCi6Jj6Jz8KvHmhPnhP" , "IJKjG", "nle_Base64", "zU0U5f4B6fFzgB0gB6sBFstBttB+0BF71BttB67B77By8BF+8BttB/gCFnhCFsyD+kDv6E8f06ErhC1lF2lF3lF4lF"
+        , "IOPkG", "nms_DamageSource", "yvJ4B2wJF3wJ4wJ5wJ6wJ0zK1zK0tM1tMguMhuMmvMnvM0vM1vMlwNmwNqwNrwN2wN3wNxhOyhOx6Oy6O" , "AhCiCsBlG", "jnci_UTF8Encoder", "uiEFr6IgjI" , "IOPmG", "nms_NBTTagByte", "g2EFz3E61Em4FqkCt6FOzgH40FiuNF" , "EFUnG", "cjj_PsyInfo", "viI9zC" , "ABoG", "ju_Properties", "uiCFxiCyiCj9ColBz2DolB" , "IOPpG", "nms_StructureStrongholdStones", "2/OF5/OFuoPumP" , "IOPqG", "nms_Session", "iIFiQ4B" , "AlErG", "ji_StringWriter", "/pKFstKOwyKyrDxyKyrDyyKyrDm+NrBq+NrB7oOrB8oOrB" , "EFGsG", "cjj_ZStream",
+        "uhCF8kCFv7Cw7Cz7Cy7C47C37Ci2Dj2Dm2Dl2D9sHitFopIyrGwgKxgK7jK8rJ4mM5mM" , "IOPtG", "nms_EntityEgg", "7xMF8xM9xM53M/yF1gNq2K2gN4mK+gN9kFklNFs3N8nNj4Nu1NltO9nO" , "IOPuG", "nms_UnexpectedThrowable", "4/CF" , "IJKLvG", "nlei_PlatformAudio$BrowserAudioResource", "yyHF" , "AhCiCsBwG", "jnci_UTF8Charset", "5c4B/pBFiyDp8C+yDqrD" , "IOPxG", "nms_PathPoint", "uzMFq1Mr1Ms1MujFx1MJ21M31M03NOz4NH" , "IOPyG", "nms_WorldProviderHell", "lrKF7xLv2K9xLx2K/xL72KyzLl6K+zL97K31L3oK51L6iL" , "IOPzG", "nms_ItemRenderer", "+4DFpoEqoEzoE0oE4kF5kF2tG3tG4tG5tGvuHwuHzuH0uH3uH4uH5uH6uH"
+        , "IOP0G", "nms_Packet4UpdateTime", "xgLFwrLimKxrLkmK+vL7/J" , "AB1G", "ju_ArrayDeque", "rwBFpyDqyDq+DrMr+D63Bs+Dt+D" , "IOP2G", "nms_PlayerCapabilities", "/nKF" , "IOP3G", "nms_Packet71Weather", "+hLF5tLimKlvLkmKtxL7/J" , "IJKL4G", "nlei_ContextLostError", "pPF" , "IOP5G", "nms_BlockSapling", "tmBFrwDg9C3yLo6D/iMgjM5xOqlO" , "IOP6G", "nms_BlockSponge", "9mBFmuOpiO3uOjkM" , "IJKLM7G", "nleib_Buffer", "q7Cr7C" , "IOP8G", "nms_GuiEditSign", "+jOF9pO4B+0Or+Em1O1+En1O/6Do1Om9Dq1OliGr1Oh/E" , "IOP9G", "nms_EntitySpider",
+        "ltJFy+MxvMk/MzvMptNqtN14NmiNz+NzmM1sO9nOoyO2rIryOjoJtyOxzKxyO2mO4yOsoE+yO0nO+7O11O" , "A6F+G", "jt_DecimalFormatSymbols", "h7BFr7BFo/Bp/Bs/BLlxGmxGs1Gt1Gm2Gn2GwqIxqI7pK8pKjgLkgLlgLmgL9iL+iLhjLijLljLmjL" , "IOP/G", "nms_EmptyChunk", "0nLF34M86L44M+6L54M6kJ64M8kJ74MnpF84M3iM94Mr5K+4Mt5K/4Mn6Kg5Mw6Kh5M06Ki5Mo8Kj7M23K+7M8iMg8M75Kh8M8mKggNs7Lq2Ng7Li3NtnN83N0jNs6N6rNk+N5zNyvOikO3vO6nNr8Oy2Ou8O3mB28O65O" , "gHhHiH", "cm_Bits", "lpGmpGnpGopGppGopGmzHnzHqzHrzH" , "ABjH", "ju_Formatter", "nvDFovDvHpvDO0vDF2iEvHznF0nFymLF"
+        , "AB1CkH", "juz_ZipFile$RAFStream", "94GFi9G2tBj9G2tBwrH6tBv7Hi1E" , "ARlH", "jl_Object$Monitor", "iqBF" , "IOPmH", "nms_BiomeGenHell$_init_$lambda$_0_1", "q0FFg3L/uI" , "IOPnH", "nms_BlockMushroomCap", "6oBF/wDg9CxwOmlO1xOolO" , "IOPoH", "nms_GuiGameOver", "y9DFj3E1/Co3Fr+Ew3F1+E83Fh/Et9GliG" , "IOPpH", "nms_BiomeGenHell$_init_$lambda$_0_0", "p0FF/2L/uI" , "IOPqH", "nms_EntitySkeleton", "5sJFjwJ4Bi5LnoJh9M7oM49MxtMx+MvvM7+MxvMt/MzvM04NmiNh9N1wNy+NzmM+sO9nO9yOsoEmzO0nO" , "IOPrH", "nms_TextureLavaFX",
         "5HF24FliF" , "IOPsH", "nms_TexturePackCustom", "2oFF3oF4oF46FilE56Fs9E76F7oFzoG0oGgrGhrG9qLv8J" , "IJKpDtH", "nleo_SoftGLVertexState", "9OF" , "IJKuHvH", "nlev_Matrix4f", "+kBF0wB1wBuiD1wB+tD/tD1rEyiCgsEhsEw/Ex/EmqFyiC" , "IOPwH", "nms_EntityDiggingFX", "opFFppFqpFw5I+oGh6I7mH" , "IOPxH", "nms_J_JsonNodeDoesNotMatchJsonNodeSelectorException", "xpLF" , "yHzH0H1H2H3H", "iudfo_ObjectArrays$ArrayHashStrategy", "ruDF" , "IJKLqB4H", "nleit_MessageChannel", "kjBljBmjB8I" , "IOP5H", "nms_WorldProvider", "usGvsG0sG1sGwtGxtG5lH6lH3nH4nH0oK1oK+oK/oKzrKFu2Kv2Kw2Kx2K62K72Kk6Kl6K87K97KviL3oK1iL2iL5iL6iL"
-        , "IOP6H", "nms_BlockFlowing", "ymBF4yLo6DjjMkjMljMmjMojMpjMsjMtjMujMvjMwjMxjMwxMxxM0uOjkM" , "IOP7H", "nms_ISaveHandler", "kzElzEvoKwoK//KggLtiLuiLumLvmLisMtmL" , "IOP8H", "nms_TileEntityChestRenderer", "62HFxyLzhIyiMziM" , "IOP9H", "nms_GuiSlotStatsGeneral", "2nIFqzJljIuzJyrHyzJ0gJ3zJ2gJ9zJ8gJj0J+gJ" , "IOP+H", "nms_EntityEnderman", "1sJFiwJ4BizJ/yFi+Kj+Kz4Lp/F39M1tM6+MxvMs/MzvMvtNztGwtNxtNuvNvvNwvNxvN2vN3vN4vN5vN6vN7vNg9N1wN19NmiN2+NzmMxnOynO1nO0nO9sO9nO1yO2mO" , "IJKLqB/H", "nleit_Base64VarIntArray",
+        , "IOP6H", "nms_BlockFlowing", "ymBF4yLo6DjjMkjMljMmjMojMpjMsjMtjMujMvjMwjMxjMwxMxxM0uOjkM" , "IOP7H", "nms_ISaveHandler", "kzElzEvoKwoK//KggLtiLuiLumLvmLisMtmL" , "IOP8H", "nms_TileEntityChestRenderer", "62HFxyLzhIyiMziM" , "IOP9H", "nms_GuiSlotStatsGeneral", "2nIFqzJljIuzJyrHyzJ0gJ3zJ2gJ9zJ8gJj0J+gJ" , "IOP+H", "nms_EntityEnderman", "gtJFnwJ4BgzJ/yFi+Kj+Kz4Lp/F39MxtM6+MxvMs/MzvMvtNztGwtNxtNuvNvvNwvNxvN2vN3vN4vN5vN6vN7vNg9N1wN19NmiN2+NzmMxnOynO1nO0nO9sO9nO1yO2mO" , "IJKLqB/H", "nleit_Base64VarIntArray",
         "8zB9zB" , "IJKpDgI", "nleo_GLObjectRecycler", "kiB9EsiBtiBvkBFohDphD" , "IOPhI", "nms_RecipesDyes", "9lCF+lCylC" , "AhCiI", "jn_BufferOverflowException", "5jJF" , "AB1CjI", "juz_InflaterInputStream", "w2EFx3E2tB9/E2hB//E2tB5sF9xC5+Hi1EuoOF" , "IOPkI", "nms_IBlockAccess", "2rH0uF9rHnpFwkIgpEnwI8jI1+J2uHi/Jj/Jm/Jn/Ju/JxnHskKjxHtkKzwJukKvkKwkK3kF" , "IOPlI", "nms_RedstoneUpdateInfo", "lyMF" , "ABCmI", "jur_AbstractCharClass$LazyJavaLetterOrDigit", "lwCFh5ErzD" , "jBqBrBsBnIoI", "otciu_UnicodeHelper$Range",
-        "mzCF" , "IJKpDpI", "nleo_DisplayList", "+yEF" , "IOPqI", "nms_GuiMainMenu", "95DFhnE4B/2E1/Cg3E/6Dk3Fr+Es3F1+Ez3F9+E43Fh/EuhGvhG8hG9hGkuGluGmuGnuGp9GliG" , "IOPrI", "nms_Packet7UseEntity", "0gLF2rLimK3rLkmKiwL7/JkgOFytOtmK" , "IOPsI", "nms_J_JsonNumberNode", "54IFv5I4Bu3NJv3NHy4NOprOqkCsrOyqDvrOm0EyrOr0E" , "ABCtI", "jur_AbstractLineTerminator$2", "7rCF/2J2pJh3J4pJ" , "IOPuI", "nms_ChunkCache", "0jIF2jIgpE7jI8jIs0JnpF0uK0uF1uK2uH2uKj/J3uKn/J4uKxnH2vKjxH3vKzwJ4vKvkK5vK3kF34K44Kn/Ko/K0iM1iM5pM6pM" , "ABCvI",
-        "jur_AbstractLineTerminator$1", "6rCF+2J2pJg3J4pJ" , "jBqBwIxIyI", "otjc_JSWeakRef", "2I3I" , "AlEzI", "ji_OutputStream", "4cFzrDyrDn1E2hBw0FyrDxqGurDyqGyrD" , "AR5C0I", "jlr_AccessibleObject", "jqOF" , "IOP1I", "nms_GuiChat", "77DF+7D/7DgoE4Bo6E1/Cp6E/6Dq6Em9Dm3Fr+Eu3F1+E13F9+E63Fh/Er9GliG" , "IOP2I", "nms_BiomeGenBase", "3uF4uFwyF4BozFpzFqzFrzFszFtzFvzFwzFyzFzzF2zF3zFl0FF90F+0FunHvnHi6Kj6KgmLhmL/iOgjOhjOijOl5Om5Ov5Ow5Ov7Ow7O" , "ABC3I", "jur_CharClass", "3jCF8jCr2BpuCFsuCr2BtuCuuCvuCwuCxuCr2B94CwnCg5C9wB8lD9lDlxDqZuyD2lDygFF92FO"
-        , "IOP4I", "nms_GuiInventory", "47DFm6E/6Dl3Fr+Et3F1+Eq9GliG7gHruG8gHxuG" , "IOP5I", "nms_ComponentStronghold", "3/OFngPogPljPmjPulPvlP6lP7lP3mP4mP5mP6mP" , "AhC6I", "jn_BufferUnderflowException", "/oGF" , "AhCiCsB7I", "jnci_BufferedEncoder", "2qEFz7HmiH/iIgjI" , "IOP8I", "nms_ItemSeeds", "q5BF+3M55L" , "IOP9I", "nms_MapGenRavine", "zyMFxvOsjO04O14O" , "IOP+I", "nms_BlockClay", "poBFswOmlOwxOolO" , "IJKL/I", "nlei_PlatformAudio$1", "o3BF+9B/9B7hC8hC" , "IJKLgJ", "nlei_PlatformAudio$2", "p3BFg+Bh+B9hC+hC"
-        , "IOPhJ", "nms_EntityPlayerSP", "tuFuuFggGhgGviGwiG0iG1iG1oH2oH94JFgsK/nE2xL9zK3xL/zK+xL12KgyL6pDhyLn3KiyLp3KjyLr3Ko1LorI8gM9gM88MzmMz9M1tMwmNxmNmoNnoN8uN5uM65NukNu8NnvNmmOnmOhsO/wHisOzhOysO9nO" , "IOPiJ", "nms_ChunkProviderSky", "nqMF62Mh6K72Mj7KpjNhjNqjNjjNxjOyjO2vOvlN" , "IJKuHjJ", "nlev_Vector4f", "/kBFx9BF1hCrH" , "ARkJ", "jl_CloneNotSupportedException", "s0BF" , "IOPlJ", "nms_GuiSlotStatsItem", "3nIF4zJ4gJ+zJ8gJxuKt9J" , "IOPmJ", "nms_NBTTagEnd", "71EFy3E61El4FqkCs6FOygH40F" , "IOPnJ", "nms_ColorizerGrass",
+        "mzCF" , "IJKpDpI", "nleo_DisplayList", "+yEF" , "IOPqI", "nms_GuiMainMenu", "95DFhnE4B/2E1/Cg3E/6Dk3Fr+Es3F1+Ez3F9+E43Fh/EuhGvhG8hG9hGkuGluGmuGnuGp9GliG" , "IOPrI", "nms_Packet7UseEntity", "0gLF2rLimK3rLkmK9vL7/JkgOFytOtmK" , "IOPsI", "nms_J_JsonNumberNode", "54IFv5I4Bu3NJv3NHy4NOprOqkCsrOyqDvrOm0EyrOr0E" , "ABCtI", "jur_AbstractLineTerminator$2", "7rCF/2J2pJh3J4pJ" , "IOPuI", "nms_ChunkCache", "0jIF2jIgpE7jI8jIs0JnpF0uK0uF1uK2uH2uKj/J3uKn/J4uKxnH2vKjxH3vKzwJ4vKvkK5vK3kF34K44Kn/Ko/K0iM1iM5pM6pM" , "ABCvI",
+        "jur_AbstractLineTerminator$1", "6rCF+2J2pJg3J4pJ" , "jBqBwIxIyI", "otjc_JSWeakRef", "2I3I" , "AlEzI", "ji_OutputStream", "4cFzrDyrDn1E2hBw0FyrDxqGurDyqGyrD" , "AR5C0I", "jlr_AccessibleObject", "jqOF" , "IOP1I", "nms_GuiChat", "77DF+7D/7DgoE4Bo6E1/Cp6E/6Dq6Em9Dm3Fr+Eu3F1+E13F9+E63Fh/Er9GliG" , "IOP2I", "nms_BiomeGenBase", "3uF4uFwyF4BozFpzFqzFrzFszFtzFvzFwzFyzFzzF2zF3zFl0FF90F+0FunHvnHi6Kj6KgmLhmL/iOgjOhjOijOl5Om5Ov5Ow5Ov7Ow7O" , "ABC3I", "jur_CharClass", "3jCF8jCr2BpuCFsuCr2BtuCuuCvuCwuCxuCr2B94CwnCg5C9wB8lD9lDlxDqZuyD2lDygFF+2FO"
+        , "IOP4I", "nms_GuiInventory", "47DFm6E/6Dl3Fr+Et3F1+Eq9GliG7gHruG8gHxuG" , "IOP5I", "nms_ComponentStronghold", "3/OFzgP0gPljPmjPulPvlP6lP7lP3mP4mP5mP6mP" , "AhC6I", "jn_BufferUnderflowException", "/oGF" , "AhCiCsB7I", "jnci_BufferedEncoder", "2qEFz7HmiH/iIgjI" , "IOP8I", "nms_ItemSeeds", "q5BF+3M55L" , "IOP9I", "nms_MapGenRavine", "zyMFxvOsjO04O14O" , "IOP+I", "nms_BlockClay", "poBFswOmlOwxOolO" , "IJKL/I", "nlei_PlatformAudio$1", "o3BF+9B/9B7hC8hC" , "IJKLgJ", "nlei_PlatformAudio$2", "p3BFg+Bh+B9hC+hC"
+        , "IOPhJ", "nms_EntityPlayerSP", "tuFuuFggGhgGviGwiG0iG1iG1oH2oH94JFgsK/nE2xL9zK3xL/zK+xL12KgyL6pDhyLn3KiyLp3KjyLr3Ko1LorI8gM9gM88MzmMz9MxtMtmNumNlnNmnN8uNztM65NukNu8NnvNmmOnmOhsO/wHisO0hOysO9nO" , "IOPiJ", "nms_ChunkProviderSky", "nqMF62Mh6K72Mj7KpjNhjNqjNjjNxjOyjO2vOvlN" , "IJKuHjJ", "nlev_Vector4f", "/kBFx9BF1hCrH" , "ARkJ", "jl_CloneNotSupportedException", "s0BF" , "IOPlJ", "nms_GuiSlotStatsItem", "3nIF4zJ4gJ+zJ8gJxuKt9J" , "IOPmJ", "nms_NBTTagEnd", "71EFy3E61El4FqkCm6FOygH40F" , "IOPnJ", "nms_ColorizerGrass",
         "54D64DxlE4B7rH8rH" , "IOPoJ", "nms_StructureVillageStart", "o9OFjgP/9O" , "IOPpJ", "nms_InventoryCrafting", "uqKF/sK9wHgtKhtHhtKjtHitKqqGjtKnoIs2KyqKluNmuN" , "IOPqJ", "nms_BlockRedstoneTorch", "joBFvxB4B6wDg9CgwK9lKnzLo6D7zLt7Kz2LglL1kM2kM3kM4kMyrMtvJ/7MjkMn9N8wN5tO0gOxuOpiOtxOolO" , "jBqBwIxIrJ", "otjc_JSArray", "usBvsB40BxF50B60B04C5D14CsC" , "IOPsJ", "nms_BlockChest", "3nBFi1Cj4Bx2CgyB99G9jGy3JouJ7tK64Jr2LglLp8MmkMqrNrrNisNjsN15NrkNguO8hOsuOpiOhvOjkM" , "ABtJ", "ju_EnumSet", "/dgeh0BF" , "IOPuJ",
-        "nms_MapGenBase", "90MF+iN/iNrjOsjO" , "IJKuHvJ", "nlev_Vector3f", "tvDF" , "IOPwJ", "nms_GuiTextField", "miFniFhuFr0EmhGnhG6hGFmiG9+EriGsiGtiGuiG8oH9oHrtJstJ" , "IJKpDxJ", "nleo_OpenGlHelper", "2mH3mH" , "A6FyJ", "jt_DateFormatElement$NumericMonth", "piEFz5FzrF" , "IOPzJ", "nms_ContainerChest", "rxMFs3MvkFt3M9wHu3MxuM" , "IOP0J", "nms_MaterialPortal", "14BF/xDm4Bh+ItwIlrLpxH" , "jBqBrBsB1J", "otci_Base46", "ssCtsCusC8fyuCzuC0yC1yCpzCqzC" , "IOP2J", "nms_RenderGlobal", "45DFq8Dr8Dz9D09D7mE8mEilFjlF+9F/9Fi+Fj+Fm+Fn+Fo+Fp+Fs+Ft+F4+F5+F6+F7+F8+F9+Fg/Fh/F+kG/kG9lGnlFl0Gm0G/lHgmHonHpnH1nH2nH5nH6nH7nH8nH+3Ls5J/3L1wJg4Lx5KutMvtMi7Mz/Ki8Mp6Kj8MjlM78Mq8K87N7hM38O85O"
-        , "jBqBwI3J4J", "otjt_Int8Array", "3e4e1sB5IsjIytB" , "IOP5J", "nms_J_JsonFieldBuilder", "6tI7tI8tI9tI5yIF1lK2lK3lK4lKo1Kp1K" , "IOP6J", "nms_StructureMineshaftStart", "p9OF" , "ABC7J", "jur_CompositeRangeSet", "0nCFp1C7jCq3CukCh/GkBr8IysIr2JopJ" , "IJKL8J", "nlei_IWebSocketFrame", "grJhrJirJu1Ex/Jy/J" , "AB9J", "ju_Hashtable$Entry", "vgEwgEjqEFjmFkmF" , "IOP+J", "nms_J_CompactJsonFormatter", "upLFv3LvHxsMvH0uN1uN" , "IlD/JOgK", "npem_Tessellator", "tpDupDvpDwpDxpDypDzpD0pDjuD4B0uDF30D40DplEqlErlEslEmhFg1D8oF9oFouGpuG+0G/0Gg1Gh1G+mH/mHiqHjqHuqHvqHzoI0oI"
-        , "ABChK", "jur_FinalSet", "ggCF2+GkB+7IysI" , "IOPgK", "nms_Tessellator", "/sD4BiuDF4mH5mH" , "IOPiK", "nms_ComponentVillageChurch", "znP0nPmoPFyoP+gPgpPg/O" , "IOPjK", "nms_BlockGlass", "+mBFy6I6jI8vOmlO" , "IJKLkK", "nlei_EnumPlatformOS", "7N6Nga4BrkBFskBrdu4Ctei7EO" , "ARlK", "jl_StackTraceElement", "2qBO" , "A6FmK", "jt_DateFormatElement$MonthText", "qiEFn8EvHx8EH78EJ" , "IJKpDnK", "nleo_GLSLHeader", "gPhPsa4B6a7ahbib" , "IOPoK", "nms_FontRenderer", "04DF" , "IJKLpK", "nlei_AbstractWebSocketClient",
-        "8zIFp3J9qJrnKsnK5uKw/J" , "ABqK", "ju_LinkedHashMap$LinkedHashMapEntry", "tyIF" , "IJKLqBrK", "nleit_ClientMain$showCrashScreen$lambda$_9_0", "gKFlgIvdrtIvd" , "IOPsK", "nms_MapCoord", "2hOF" , "IOPtK", "nms_WorldProviderSurface", "mrKF" , "IOPuK", "nms_StepSoundSand", "+lBF67N/pN" , "IJKLqBvK", "nleit_TeaVMRuntimeDeobfuscator", "1doK4d5d3qB4B4qB5qB7qB8qB+qB/qBgrBhrB3zB4zBugD5d" , "IOPwK", "nms_RenderPainting", "ywEF+0JhqI2hK3hKk+Kl+KzmL0mL" , "IOPxK", "nms_ItemBow", "j5BFp4M75Lx4M95L04M/5Ln8O/1Op8Oh2O"
-        , "AByK", "ju_AbstractList$1", "jhDFgwD5JhwD7JmzDnzDw+GntC" , "AB1CzK", "juz_CRC32", "x2EF12EzM42EyhB52EvhB62EzM" , "IOP0K", "nms_RenderEntity", "xwEF90JhqI" , "IOP1K", "nms_ModelLargeChest", "+3HF" , "IOP2K", "nms_BlockStone", "/lBF1wOolO" , "IOP3K", "nms_SorterStatsItem", "xxIF/qL30Bn6Lo6L" , "IJKL4K", "nlei_PlatformRuntime$checkImmediateContinueSupport0$lambda$_51_0", "ojBFy6EmF" , "AR5K", "jl_Runnable", "1/DmF" , "IOP6K", "nms_ContainerWorkbench", "sxMF70M1qKv3MvkFw3M9wHx3MxuM" , "IOP7K", "nms_EntitySquid",
-        "wsJFs5Lt0K69M1tM/+MxvMj/M5tMx/MzvM8vNzzKs8NjvN08NnvNi9N1wN39NmiNw/NzmMhtO9nOqzO0nO" , "ABC8K", "jur_PossessiveQuantifierSet", "1oCF78IysI" , "AhCiCsB9K", "jnci_BufferedDecoder$Controller", "5iIF6jJ7jJ8jJ9jJ+jJ/jJmkJ/jJnkJokJ" , "AB+K", "ju_Locale", "tPuPxb4BklBFrlBF76B86B96B+6Bz2FJ12FH" , "AR/K", "jl_Short", "uzEvJ70E4B80EFz1FJ41FHt2FOt7FHy8FOzxG0xGjyGptCo9M46Bg9On8C6+On8CohP30B" , "ARgL", "jl_DefaultUncaughtExceptionHandler", "7yBF" , "pFqFKhLiL", "dceu_SaveUtils", "h6Di6D4mI5mI1wI2wI" , "ARjL", "jl_InstantiationException",
-        "j2OF" , "A6FkL", "jt_DecimalFormat$1", "0rK4B" , "IOPlL", "nms_EntityList$_clinit_$lambda$_8_26", "t3IF7+I/uI" , "IOPmL", "nms_WorldGenBigTree", "60FFt1F4Bz3N/iN1gO2gO3gO4gO5gO6gO7gO8gO9gO+gOq3Or3Os3Ot3Ou3Ov3Ow3Ox3Oy3Oz3Oy9Oz9O09O19O+/Oy5O" , "IOPnL", "nms_EntityList$_clinit_$lambda$_8_25", "s3IFk/I/uI" , "EFGoL", "cjj_Deflater", "r1FFu1FFv1FhPnpIyrG8jK9jK" , "IOPpL", "nms_EntityList$_clinit_$lambda$_8_27", "u3IF6+I/uI" , "IJKLqBqL", "nleit_ClientMain$1", "pEFgGhGyIzI" , "jBqBrLsL", "otp_PlatformRunnable",
-        "w0BmF" , "IJKLqBtL", "nleit_ClientMain$2", "oEF/5E/6C" , "IOPuL", "nms_StructureStart", "+9O/9Og+Oh+Ol+Om+O7+OFi/Oj/Ok/Ol/O" , "IOPvL", "nms_SaveConverterMcRegion", "u4DFxyJzwI9uKlgK+uKzmI0vKpkKkwKxmKlwKngK4/K5/K6/K7/KhgLigL" , "AhCiCsBwL", "jnci_Iso8859Decoder", "t1DFn6I7iI" , "IOPxL", "nms_BlockDoor", "+nBF40Cj4B5wDg9Ch0Di0Dh+G9jGi8HjnHv8HlnHu/HlzHukIvkI+tK64JquKl5Jv2LglLurMvrMl2MnlIv7M6iMq8MmkM58MkmM9/Mn1MrxOolO" , "AByL", "ju_HashMap$HashEntry", "3rDF" , "IOPzL", "nms_EntityDamageSource", "5jLFt+MnvM"
-        , "IOP0L", "nms_NBTTagList", "o2EF73E61Et4FqkCt6FO6gH40FgxIhxIkxIlxIznKunK" , "E1L2L3L", "cch_ObjectArrayList", "syH7UtyHrMuyHr2BvyH5D80HF92HF+2H4B/3HF0hI1hI" , "IOP4L", "nms_EntityPickupFX", "+mNFj/N+oG6/N7mH7/N9kF" , "IOP5L", "nms_StatBase", "tcucvcwcxpBFypB4BzpBF86EO48J58JjzKkzKmiMniMpiMqiM" , "IOP6L", "nms_WorldGenHellLava", "44OF54O/iN" , "IOP7L", "nms_EntityList$_clinit_$lambda$_8_15", "i3IFy+I/uI" , "IOP8L", "nms_EntityList$_clinit_$lambda$_8_14", "h3IFg/I/uI" , "IOP9L", "nms_Achievement", "uyBFvyBwyBxyByyBzyBF0yB1yBu7BFh5Di5DqmJrmJsmJtmJ1xLkzK"
-        , "IOP+L", "nms_EntityList$_clinit_$lambda$_8_17", "k3IFp+I/uI" , "IOP/L", "nms_EntityList$_clinit_$lambda$_8_16", "j3IF/+I/uI" , "IOPgM", "nms_EntityList$_clinit_$lambda$_8_19", "m3IFh/I/uI" , "IOPhM", "nms_EntityList$_clinit_$lambda$_8_18", "l3IF++I/uI" , "IOPiM", "nms_BiomeGenOcean", "nzFF" , "pFqFKjMkM", "dces_ServerMOTDDispatcher", "pxIFqxIzM7qJotH" , "IJKlMmM", "nlep_SkinConverter", "ziF0iF6tF7tF8tF7tF" , "IJKLqBnM", "nleit_TeaVMBlobURLManager$HandleRealBlobURL", "gjBFm0CjY8yDjrD" , "ABoM", "ju_HashSet",
-        "sxBFr3BF54BF16Br2B26Bvei5CntCx6EqZs8GrM3sL7Uj5MnM" , "IJKpDpM", "nleo_IExtPipelineCompiler", "6uE7uE6xE7xE8xE9xE1zE2zE5zE6zE7/E8/E" , "IOPqM", "nms_EntityChicken", "3sJF29M1tM3+MxvMp/MzvM+3N5nJ/8N1wNz9NmiN0/NzmM6sO9nOjzO0nO" , "pFqFKrM", "dce_EaglercraftVersion", "/mEgnE" , "AlEsM", "ji_OutputStreamWriter", "jlGFmvGnvGovGFp1GFo+H2hB1oIurD4mJ5mJmwKyrD" , "IOPtM", "nms_EntityList$_clinit_$lambda$_8_20", "n3IFi/I/uI" , "IOPuM", "nms_EntityList$_clinit_$lambda$_8_22", "p3IFt+I/uI" , "IOPvM", "nms_ContainerDispenser",
-        "qxMFq3M9wHr3MxuM" , "IOPwM", "nms_EntityList$_clinit_$lambda$_8_21", "o3IF0+I/uI" , "IOPxM", "nms_EntityList$_clinit_$lambda$_8_24", "r3IF8+I/uI" , "IOPyM", "nms_EntityList$_clinit_$lambda$_8_23", "q3IFw+I/uI" , "IOPzM", "nms_Packet23VehicleSpawn", "khLF/sLimKruLkmK4wL7/J" , "IOP0M", "nms_Packet50PreChunk", "2hLFttLimK5uLkmKxwL7/J" , "IOP1M", "nms_J_JsonArrayNodeBuilder", "wyIF55I6sHuhJvhJm1Kn1K" , "IOP2M", "nms_GuiOptions", "voHF3yH4B58H1+E68HliG78Hr+E" , "IJKuHZ", "nlev_Vector", "3wBF" , "IOP3M",
-        "nms_GenLayerTemperature", "t0MF34N1iN" , "IOP4M", "nms_BlockPane", "7oBFl2Cj4Bp+G9jGq8HjnHl+HnqH7/HlzHzkI0kI+3JquJk/Jl/J1yLqrI" , "jBqBrBsBtB5M", "otcit_DateTimeZoneBuilder$PrecalculatedZone", "uxCvxCkyCFlyCmyCpxD0sCuxDktC0xDitCx7E9qEnoF9E" , "IOP6M", "nms_ItemSpade", "84BF1+B4BgyO43K" , "ABC7M", "jur_AbstractCharClass$LazyJavaTitleCase", "nwCFj5ErzD" , "IOP8M", "nms_GuiErrorScreen", "kgDFi3E/6Di3Fr+Eq3F1+E23Fh/En9GliG" , "IOP9M", "nms_MovingObjectPosition", "hkFFlhIF" , "ABC+M", "jur_PreviousMatch",
-        "ipCFy/GkBl9IysIy2JopJ" , "IOP/M", "nms_ModelSheep2", "6vEF" , "IOPgN", "nms_EntityList$_clinit_$lambda$_8_11", "+2IFz+I/uI" , "IOPhN", "nms_EntityList$_clinit_$lambda$_8_10", "92IF4+I/uI" , "ABCiN", "jur_NonCapFSet", "7/BFy+GkB67IysIg2JopJ" , "EFGjN", "cjj_Adler32", "7kCFz4FyhB04FvhBu5FvhB55FzM" , "IOPkN", "nms_ModelSheep1", "7vEF" , "IOPlN", "nms_EntityList$_clinit_$lambda$_8_13", "g3IFr+I/uI" , "jB8BmN", "oj_JSONArray", "orJu1E6kKF2nKFizKO0jLOwqMyrD+tN5D/tN5jKtuNfo0NFp0NFq1NFr1Nt3B01Nt3B11Nt3B51NpN71Nt3Bw4NvelmOlxJ"
-        , "IOPnN", "nms_EntityList$_clinit_$lambda$_8_12", "/2IF3+I/uI" , "IOPoN", "nms_J_JsonNullNodeBuilder", "3yIFg7M6sH" , "IOPpN", "nms_BlockPistonMoving", "rnBFj1Cj4B59G9jG/7HjnHm/HlzHkkIlkI4tK64Jn2LglLo7M6iMn8MmkMsrNtrNz7N5pN28N+vNioOjoO+tO8hOquOpiO8uOjkMhxOolO" , "IOPqN", "nms_TexturePackDefault", "+kEF36F7oF8qLv8J" , "IOPrN", "nms_J_Functor", "27L37LlpO3qL" , "IOPsN", "nms_ItemStack", "t7BFv7BFu/BFv/BF/lCFjmCFkmCFulDvlDj9EO8hF9hF+hF/hF5jG6jG2uGy9CmpHnpHopHppHspHtpHpuHquHruHsuH7uH8uH9uH+uH/uHgvHqoIroIxpIypIrhJshJx4Jy4J74J84JrzKszKg0Kh0Ki0Kj0Ku0Kv0K73K83KsjLtjLkoLloL//L7+B/vMgwMjqN43KkqNgiMjwNkwN5oO6oO9oO+oOpqOFqqOw8Kk3OyzM17O27OxjPyjP"
-        , "ABCtN", "jur_AbstractCharClass$LazyJavaLowerCase$1", "zgFF51FqZ" , "IOPuN", "nms_Path", "woLFqzMrzMt1Mu1Mv1Mw1M41M51M61M71M4xN5xN6xN7xN" , "jBqBwIvNwN", "otji_IDBObjectStoreParameters", "7gE8gE9gE+gE" , "ARxN", "jl_Object$monitorExit$lambda$_8_0", "mqBF70CmF" , "IOPyN", "nms_SaveFormatOld", "5kEFwyJ1mIs3J0tJ1vKrkKl/Km/K+/KzmI" , "AlEzN", "ji_PrintWriter", "klGFllG2hBmlGoD8uGp5CpvGF/qHgrHhrHoDrvHyrD2oIurDkqIyrDqnJyrDyiKziK" , "IOP0N", "nms_BlockCrops", "6nBF3wDg9C/9G9jGjzLo6DvkMwkMykNzkN17N5pNg8NzrNmwOmlOnxOolO"
-        , "ABC1N", "jur_AbstractCharClass$LazyPunct", "0vCFw4ErzD" , "E1L2L2N", "cch_AbstractObjectCollection", "n6HF" , "jBqBrBsB3N4N", "otcic_Console", "vnFwnFxnFynFnvFovFpvFqvF" , "jBqBwI5N6N", "otjw_WebSocket", "9zI1I" , "IJKL7N", "nlei_PlatformAssets", "sMtM1U2UxV4B9f2U7sB8sB9sB2UlkDmkDnkDokD/sE2UhxE2U" , "IJKL8N", "nlei_OpenGLObjects$ProgramGL", "3fF4sB4B" , "IOP9N", "nms_Packet15Place", "8gLFmsLimKnsLkmKnwL7/JjgOFxtOtmK" , "IOP+N", "nms_NoiseGeneratorOctaves", "uyMFpjOqjO5pO6pOt5Ou5O" , "IOP/N", "nms_GuiScreenServerList",
-        "nnIFq/I1+Ew/IliG2/I9+E6/Ih/E+/I/6DigJm9DmgJr+E" , "ABgO", "ju_Dictionary", "2tCF2kDpN" , "ARhO", "jl_Throwable", "STUVlCFgDhD7EOjQF1qB/EtvBFziC0iC58C68C7nD8nD42D0iCnyFF" , "ABCiO", "jur_AbstractCharClass$LazySpace", "tvCFp4ErzD" , "jBqB4B5BjO", "otrf_VirtualFileSystemProvider", "27G9wBi8G9E" , "IOPkO", "nms_ComponentStrongholdPrison", "glPhlPxlPFhmP+gPqmPg/O" , "AXlO", "jm_Elementary", "5hJ6hJr4Jr2BglK2qJmlKr2BnlK2qJ7nKr2B8nK2qJ6rK7rK" , "IOPmO", "nms_MapGenCaves", "vyMFwvOsjOy4Ov4Oz4Ox4O" , "ABnO",
-        "ju_LinkedList$SequentialListIterator", "89DFk3E5Jl3E7Ji/EnzDx8GntCv+Gr2B6iH7iH" , "IJKLoO", "nlei_EnumEaglerConnectionState", "uwI4B6zIF7zIrdj+Ite" , "IJKLqBpOqO", "nleito_JSEaglercraftXOptsAssetsURI", "zE0E1E2E" , "IOPrO", "nms_GuiMultiplayer", "xoHF5yH4B/8H1+Eg9HliGh9H9+Ei9Hh/Ej9H/6Dk9Hm9Dl9Hr+E9mI+mIgnIhnIinIjnIknIlnIqnIrnIsnItnImxInxIr3JytJn6Jo6J56J66J76J86J96J+6J/6Jg7Jh7Ji7Jj7Jk7Ji8Jj8Jk8Jl8Jm8Jn8Jo8Jp8JmkKnkK" , "IOPsO", "nms_Packet18Animation", "/gLFssLimKtsLkmK/vL7/Ju1OF67OtmK" , "IOPtO", "nms_J_JsonArray",
-        "ylKFloK3dzvLH1vLJqwLOl+NqkCn+NyqDo+Nm0Ep+Nr0E" , "IJKuO", "nle_Filesystem", "6M7MgX4B" , "IJKLqBvO", "nleit_ES6ShimStatus", "lKmKqKrKwKxKwR4BxRyRzRF" , "IOPwO", "nms_GuiControls", "+lIF/6I1+Eg7IliGh7I9+Ei7Ih/Ej7Ir+EwlJxlJ" , "ABxO", "ju_FormatterClosedException", "rvFF" , "IJKyO", "nle_EagRuntime$debugPrintStackTraceToSTDERR0$lambda$_25_0", "iJFh4CvdihDvd" , "IOPzO", "nms_BlockRedstoneRepeater", "zoBFwxB4B11Cj4By2CgyB19Cg9Cn+G9jG5/HlzH93JquJkuK64JiwK9lKuzLo6D9zLt7K62LglL5kM6kM7rM/jMy8MmkM45NrkNp9N8wN7tO0gOmvOjkM0xOolO"
-        , "AB0O", "ju_TemplateCollections$AbstractImmutableSet", "ksBF" , "IOP1O", "nms_NoiseGenerator", "+0MF" , "AhCiCsB2O", "jnci_UTF16Decoder", "u1DFo6I7iIgkJhkJikJjkJ" , "IOP3O", "nms_EnumArt", "t3LtekxM4Bg0MFh0Mrd" , "EFU4O", "cjj_Residue0$LookResidue0", "8+KF" , "AB5O", "ju_AbstractList", "8dFqgCr2Bi4Cveo9CntCq9Cr2BvgDwgDujD+V7lFwgD11FJtoH7U+pLrH" , "ABC6O", "jur_ReluctantCompositeQuantifierSet", "6oCFg9IysI" , "IOP7O", "nms_ModelChicken", "hwEFz0LshGsoMsiH" , "IOP8O", "nms_J_JsonListenerToJdomAdapter",
-        "spGFwpGxpGr+HvsHs+H4sH+/H0zH//H4zHggI6zHhgI+zHmgI31HngI71HogIi2HpgIk2HqgIm2HrgIo2HsgIq2H5sI6sIvtIwtI" , "IOP9O", "nms_ComponentStrongholdCrossing", "qlPrlP3lPFjmP+gPmmPg/O" , "IJKL+O", "nlei_PlatformInput$MobilePressAnyKeyHandler", "/iDzI" , "AhC/O", "jn_ByteBuffer", "r1BXmhCF1jDu1B2jD5D3jD61BorDX0rD7UyvD01BiyFhwFjyFmTkiHpNoiHvhHthI5D9iIpN" , "ABCgP", "jur_SOLSet", "gpCFw/GkBj9IysIw2JopJ" , "IOPhP", "nms_Packet24MobSpawn", "lhLF7sLimKnuLkmK+wL7/J8nN9nN" , "IOPiP", "nms_J_JsonArrayNodeSelector", "ykLFn4NO+5N95Nj6N4lNlkOmkOukO4lNtzO3qL"
-        , "IOPjP", "nms_IRecipe", "z6B06B22D32DqqMysIrqMsqM" , "yHzH0H1H2HkP", "iudfo_AbstractObjectList", "s2Br2ByhCF" , "IOPlP", "nms_EnumStatus", "1kL4BmoLFnoLrd71Lte" , "IOPmP", "nms_MaterialWeb", "44BFi+ItwI" , "IOPnP", "nms_BiomeGenRiver", "6zFF" , "IOPoP", "nms_TexturedQuad", "7gDF8gD9gDoqDF5vI0pD" , "ABpPqP", "jul_Logger", "ypLnIwqL4BxqLF" , "A6FrP", "jt_DateFormatElement$Iso8601Timezone", "oiEFp8EvHz8EH98EJ" , "IOPsP", "nms_GuiVideoSettings", "9lIFxwI4B86I1+E96IliG+6Ir+E" , "EFGtP", "cjj_Inflater",
+        "nms_MapGenBase", "90MF+iN/iNrjOsjO" , "IJKuHvJ", "nlev_Vector3f", "tvDF" , "IOPwJ", "nms_GuiTextField", "miFniFhuFr0EmhGnhG6hGFmiG9+EriGsiGtiGuiG8oH9oHrtJstJ" , "IJKpDxJ", "nleo_OpenGlHelper", "2mH3mH" , "A6FyJ", "jt_DateFormatElement$NumericMonth", "piEFz5FzrF" , "IOPzJ", "nms_ContainerChest", "rxMFs3MvkFt3M9wHu3M5tM" , "IOP0J", "nms_MaterialPortal", "14BF/xDm4Bh+ItwIkrLpxH" , "jBqBrBsB1J", "otci_Base46", "ssCtsCusC8fyuCzuC0yC1yCpzCqzC" , "IOP2J", "nms_RenderGlobal", "45DFq8Dr8Dz9D09D7mE8mEilFjlF+9F/9Fi+Fj+Fm+Fn+Fo+Fp+Fs+Ft+F4+F5+F6+F7+F8+F9+Fg/Fh/F+kG/kG9lGnlFl0Gm0G/lHgmHonHpnH1nH2nH5nH6nH7nH8nH+3Ls5J/3L1wJg4Lx5KutMvtMi7Mz/Ki8Mp6Kj8MjlM78Mq8K87N7hM38O85O"
+        , "jBqBwI3J4J", "otjt_Int8Array", "3e4e1sB5IsjIytB" , "IOP5J", "nms_J_JsonFieldBuilder", "6tI7tI8tI9tI5yIF1lK2lK3lK4lKm1Kn1K" , "IOP6J", "nms_StructureMineshaftStart", "p9OF" , "ABC7J", "jur_CompositeRangeSet", "0nCFp1C7jCo3CukCh/GkBr8IysIr2JopJ" , "IJKL8J", "nlei_IWebSocketFrame", "grJhrJirJu1Ex/Jy/J" , "AB9J", "ju_Hashtable$Entry", "vgEwgEjqEFjmFkmF" , "IOP+J", "nms_J_CompactJsonFormatter", "upLFv3LvHxsMvH0uN1uN" , "IlD/JOgK", "npem_Tessellator", "tpDupDvpDwpDxpDypDzpD0pDjuD4B0uDF30D40DplEqlErlEslEmhFg1D8oF9oFouGpuG+0G/0Gg1Gh1G+mH/mHiqHjqHuqHvqHzoI0oI"
+        , "ABChK", "jur_FinalSet", "ggCF2+GkB+7IysI" , "IOPgK", "nms_Tessellator", "/sD4BiuDF4mH5mH" , "IOPiK", "nms_ComponentVillageChurch", "znP0nPmoPF2oP+gP5oPg/O" , "IOPjK", "nms_BlockGlass", "+mBFy6I6jI8vOmlO" , "IJKLkK", "nlei_EnumPlatformOS", "7N6Nga4BrkBFskBrdu4Ctei7EO" , "ARlK", "jl_StackTraceElement", "2qBO" , "A6FmK", "jt_DateFormatElement$MonthText", "qiEFm8EvHw8EH68EJ" , "IJKpDnK", "nleo_GLSLHeader", "gPhPsa4B6a7ahbib" , "IOPoK", "nms_FontRenderer", "04DF" , "IJKLpK", "nlei_AbstractWebSocketClient",
+        "8zIFp3J9qJrnKsnK5uKw/J" , "ABqK", "ju_LinkedHashMap$LinkedHashMapEntry", "tyIF" , "IJKLqBrK", "nleit_ClientMain$showCrashScreen$lambda$_9_0", "gKFlgIvdrtIvd" , "IOPsK", "nms_MapCoord", "whOF" , "IOPtK", "nms_WorldProviderSurface", "mrKF" , "IOPuK", "nms_StepSoundSand", "+lBF67N/pN" , "IJKLqBvK", "nleit_TeaVMRuntimeDeobfuscator", "1doK4d5d3qB4B4qB5qB7qB8qB+qB/qBgrBhrB3zB4zBugD5d" , "IOPwK", "nms_RenderPainting", "ywEF+0JhqI2hK3hKk+Kl+KzmL0mL" , "IOPxK", "nms_ItemBow", "j5BFp4M75Lx4M95L04M/5Ln8O/1Op8Oh2O"
+        , "AByK", "ju_AbstractList$1", "jhDFgwD5JhwD7JmzDnzDw+GntC" , "AB1CzK", "juz_CRC32", "x2EF12EzM42EyhB52EvhB62EzM" , "IOP0K", "nms_RenderEntity", "xwEF90JhqI" , "IOP1K", "nms_ModelLargeChest", "+3HF" , "IOP2K", "nms_BlockStone", "/lBF1wOolO" , "IOP3K", "nms_SorterStatsItem", "xxIF+qL30Bl6Lm6L" , "IJKL4K", "nlei_PlatformRuntime$checkImmediateContinueSupport0$lambda$_51_0", "ojBFy6EmF" , "AR5K", "jl_Runnable", "1/DmF" , "IOP6K", "nms_ContainerWorkbench", "sxMF70M1qKv3MvkFw3M9wHx3M5tM" , "IOP7K", "nms_EntitySquid",
+        "7sJFs5Lt0K69MxtM/+MxvMj/MnuMx/MzvM8vNzzKs8NjvN08NnvNi9N1wN39NmiNz/NzmMhtO9nOqzO0nO" , "ABC8K", "jur_PossessiveQuantifierSet", "1oCF78IysI" , "AhCiCsB9K", "jnci_BufferedDecoder$Controller", "5iIF6jJ7jJgkJhkJikJjkJmkJ7jJnkJokJ" , "AB+K", "ju_Locale", "tPuPxb4BklBFrlBF76B86B96B+6Bz2FJ22FH" , "AR/K", "jl_Short", "uzEvJ70E4B80EF01FJ21FHt2FOt7FHy8FOzxG0xGjyGptCo9M46Bg9On8C6+On8CohP30B" , "ARgL", "jl_DefaultUncaughtExceptionHandler", "7yBF" , "pFqFKhLiL", "dceu_SaveUtils", "h6Di6D4mI5mI1wI2wI" , "ARjL", "jl_InstantiationException",
+        "j2OF" , "A6FkL", "jt_DecimalFormat$1", "0rK4B" , "IOPlL", "nms_EntityList$_clinit_$lambda$_8_26", "t3IFx+I/uI" , "IOPmL", "nms_WorldGenBigTree", "60FFt1F4Bz3N/iN1gO2gO3gO4gO5gO6gO7gO8gO9gO+gOq3Or3Os3Ot3Ou3Ov3Ow3Ox3Oy3Oz3Oy9Oz9O09O19O+/Oy5O" , "IOPnL", "nms_EntityList$_clinit_$lambda$_8_25", "s3IF5+I/uI" , "EFGoL", "cjj_Deflater", "r1FFu1FFv1FhPnpIyrG8jK9jK" , "IOPpL", "nms_EntityList$_clinit_$lambda$_8_27", "u3IFv+I/uI" , "IJKLqBqL", "nleit_ClientMain$1", "pEFgGhGyIzI" , "jBqBrLsL", "otp_PlatformRunnable",
+        "w0BmF" , "IJKLqBtL", "nleit_ClientMain$2", "oEF/5E/6C" , "IOPuL", "nms_StructureStart", "+9O/9Og+Oh+Ol+Om+O7+OFi/Oj/Ok/Ol/O" , "IOPvL", "nms_SaveConverterMcRegion", "u4DFxyJzwI9uKlgK+uKzmI0vKnkKkwKxmKlwKngK4/K5/K6/K7/KhgLigL" , "AhCiCsBwL", "jnci_Iso8859Decoder", "u1DFo6I7iI" , "IOPxL", "nms_BlockDoor", "+nBF40Cj4B5wDg9Ch0Di0Dh+G9jGi8HjnHv8HlnHu/HlzHukIvkI+tK64JquKl5Jv2LglLurMvrMl2MnlIv7M6iMq8MmkM58MkmM9/Mn1MrxOolO" , "AByL", "ju_HashMap$HashEntry", "3rDF" , "IOPzL", "nms_EntityDamageSource", "5jLFt+MnvM"
+        , "IOP0L", "nms_NBTTagList", "o2EF73E61Et4FqkCo6FO6gH40FgxIhxIkxIlxIznKunK" , "E1L2L3L", "cch_ObjectArrayList", "syH7UtyHrMuyHr2BvyH5D80HF92HF+2H4B/3HF0hI1hI" , "IOP4L", "nms_EntityPickupFX", "6mNFj/N+oG6/N7mH7/N9kF" , "IOP5L", "nms_StatBase", "tcucvcwcxpBFypB4BzpBF86EO48J58JjzKkzKmiMniMpiMqiM" , "IOP6L", "nms_WorldGenHellLava", "44OF54O/iN" , "IOP7L", "nms_EntityList$_clinit_$lambda$_8_15", "i3IF9+I/uI" , "IOP8L", "nms_EntityList$_clinit_$lambda$_8_14", "h3IFj/I/uI" , "IOP9L", "nms_Achievement", "uyBFvyBwyBxyByyBzyBF0yB1yBu7BFh5Di5DqmJrmJsmJtmJ1xLkzK"
+        , "IOP+L", "nms_EntityList$_clinit_$lambda$_8_17", "k3IF7+I/uI" , "IOP/L", "nms_EntityList$_clinit_$lambda$_8_16", "j3IFu+I/uI" , "IOPgM", "nms_EntityList$_clinit_$lambda$_8_19", "m3IF1+I/uI" , "IOPhM", "nms_EntityList$_clinit_$lambda$_8_18", "l3IFy+I/uI" , "IOPiM", "nms_BiomeGenOcean", "nzFF" , "pFqFKjMkM", "dces_ServerMOTDDispatcher", "pxIFqxIzM7qJotH" , "IJKlMmM", "nlep_SkinConverter", "ziF0iF6tF7tF8tF7tF" , "IJKLqBnM", "nleit_TeaVMBlobURLManager$HandleRealBlobURL", "gjBFm0CjY8yDjrD" , "ABoM", "ju_HashSet",
+        "sxBFr3BF54BF16Br2B26Bvei5CntCx6EqZs8GrM3sL7Uj5MnM" , "IJKpDpM", "nleo_IExtPipelineCompiler", "6uE7uE6xE7xE8xE9xE1zE2zE5zE6zE7/E8/E" , "IOPqM", "nms_EntityChicken", "6sJF29MxtM3+MxvMp/MzvM+3N5nJ/8N1wNz9NmiN1/NzmM6sO9nOjzO0nO" , "pFqFKrM", "dce_EaglercraftVersion", "/mEgnE" , "AlEsM", "ji_OutputStreamWriter", "jlGFmvGnvGovGFp1GFo+H2hB1oIurD4mJ5mJmwKyrD" , "IOPtM", "nms_EntityList$_clinit_$lambda$_8_20", "n3IFz+I/uI" , "IOPuM", "nms_EntityList$_clinit_$lambda$_8_22", "p3IF4+I/uI" , "IOPvM", "nms_ContainerDispenser",
+        "qxMFq3M9wHr3M5tM" , "IOPwM", "nms_EntityList$_clinit_$lambda$_8_21", "o3IF3+I/uI" , "IOPxM", "nms_EntityList$_clinit_$lambda$_8_24", "r3IFq+I/uI" , "IOPyM", "nms_EntityList$_clinit_$lambda$_8_23", "q3IF6+I/uI" , "IOPzM", "nms_Packet23VehicleSpawn", "khLFluLimKxvLkmK0xL7/J" , "IOP0M", "nms_Packet50PreChunk", "2hLFxtLimK9uLkmKoxL7/J" , "IOP1M", "nms_J_JsonArrayNodeBuilder", "wyIF55I6sHuhJvhJo1Kp1K" , "IOP2M", "nms_GuiOptions", "voHF3yH4B58H1+E68HliG78Hr+E" , "IJKuHZ", "nlev_Vector", "3wBF" , "IOP3M",
+        "nms_GenLayerTemperature", "t0MF34N1iN" , "IOP4M", "nms_BlockPane", "7oBFk2Cj4Bp+G9jGq8HjnHl+HnqH7/HlzHzkI0kI+3JquJk/Jl/J1yLqrI" , "jBqBrBsBtB5M", "otcit_DateTimeZoneBuilder$PrecalculatedZone", "uxCvxCkyCFlyCmyCnxD0sCsxDktCyxDitCx7E9qEnoF9E" , "IOP6M", "nms_ItemSpade", "84BF1+B4BgyO43K" , "ABC7M", "jur_AbstractCharClass$LazyJavaTitleCase", "nwCFj5ErzD" , "IOP8M", "nms_GuiErrorScreen", "kgDFh3E/6Di3Fr+Eq3F1+E23Fh/En9GliG" , "IOP9M", "nms_MovingObjectPosition", "hkFFlhIF" , "ABC+M", "jur_PreviousMatch",
+        "ipCFy/GkBl9IysIy2JopJ" , "IOP/M", "nms_ModelSheep2", "6vEF" , "IOPgN", "nms_EntityList$_clinit_$lambda$_8_11", "+2IFt+I/uI" , "IOPhN", "nms_EntityList$_clinit_$lambda$_8_10", "92IFr+I/uI" , "ABCiN", "jur_NonCapFSet", "7/BFy+GkB67IysIg2JopJ" , "EFGjN", "cjj_Adler32", "7kCFz4FyhB04FvhBu5FvhB55FzM" , "IOPkN", "nms_ModelSheep1", "7vEF" , "IOPlN", "nms_EntityList$_clinit_$lambda$_8_13", "g3IFs+I/uI" , "jB8BmN", "oj_JSONArray", "orJu1E6kKF2nKFizKO0jLOwqMyrD+tN5D/tN5jKtuNfo0NFp0NFq1NFr1Nt3B01Nt3B11Nt3B51NpN71Nt3Bw4NvelmOlxJ"
+        , "IOPnN", "nms_EntityList$_clinit_$lambda$_8_12", "/2IF8+I/uI" , "IOPoN", "nms_J_JsonNullNodeBuilder", "3yIFg7M6sH" , "IOPpN", "nms_BlockPistonMoving", "rnBFj1Cj4B59G9jG/7HjnHm/HlzHkkIlkI4tK64Jn2LglLo7M6iMn8MmkMsrNtrNz7N5pN28NkwNioOjoO+tO8hOquOpiO8uOjkMhxOolO" , "IOPqN", "nms_TexturePackDefault", "+kEF36F7oF8qLv8J" , "IOPrN", "nms_J_Functor", "27L37LlpO3qL" , "IOPsN", "nms_ItemStack", "t7BFv7BFu/BFv/BF/lCFjmCFkmCFulDvlDj9EO8hF9hF+hF/hF5jG6jG2uGy9CmpHnpHopHppHspHtpHpuHquHruHsuH7uH8uH9uH+uH/uHgvHqoIroIxpIypIrhJshJx4Jy4J74J84JrzKszKg0Kh0Ki0Kj0Ku0Kv0K73K83KsjLtjLkoLloL//L7+B/vMgwMjqN43KkqNgiM/vNgwN5oO6oO9oO+oOpqOFqqOw8Kk3OyzM17O27OxjPyjP"
+        , "ABCtN", "jur_AbstractCharClass$LazyJavaLowerCase$1", "zgFF51FqZ" , "IOPuN", "nms_Path", "woLFqzMrzMt1Mu1Mv1Mw1M41M51M61M71M4xN5xN6xN7xN" , "jBqBwIvNwN", "otji_IDBObjectStoreParameters", "7gE8gE9gE+gE" , "ARxN", "jl_Object$monitorExit$lambda$_8_0", "mqBF70CmF" , "IOPyN", "nms_SaveFormatOld", "5kEFwyJ1mIr3JytJ1vKpkKl/Km/K+/KzmI" , "AlEzN", "ji_PrintWriter", "klGFllG2hBmlGoD8uGp5CpvGF/qHgrHhrHoDrvHyrD2oIurDkqIyrDqnJyrDyiKziK" , "IOP0N", "nms_BlockCrops", "6nBF3wDg9C/9G9jGjzLo6DvkMwkMykNzkN17N5pNg8NzrNmwOmlOnxOolO"
+        , "ABC1N", "jur_AbstractCharClass$LazyPunct", "0vCFw4ErzD" , "E1L2L2N", "cch_AbstractObjectCollection", "n6HF" , "jBqBrBsB3N4N", "otcic_Console", "vnFwnFxnFynFnvFovFpvFqvF" , "jBqBwI5N6N", "otjw_WebSocket", "9zI1I" , "IJKL7N", "nlei_PlatformAssets", "sMtM1U2UxV4B9f2U7sB8sB9sB2UlkDmkDnkDokD/sE2UhxE2U" , "IJKL8N", "nlei_OpenGLObjects$ProgramGL", "3fF4sB4B" , "IOP9N", "nms_Packet15Place", "8gLFmsLimKnsLkmKgwL7/JjgOFxtOtmK" , "IOP+N", "nms_NoiseGeneratorOctaves", "uyMFpjOqjO5pO6pOt5Ou5O" , "IOP/N", "nms_GuiScreenServerList",
+        "nnIFv/I1+E1/IliG5/I9+E9/Ih/EhgJ/6DlgJm9DrgJr+E" , "ABgO", "ju_Dictionary", "2tCF2kDpN" , "ARhO", "jl_Throwable", "STUVlCFgDhD7EOjQF1qB/EtvBFziC0iC58C68C7nD8nD42D0iCnyFF" , "ABCiO", "jur_AbstractCharClass$LazySpace", "tvCFp4ErzD" , "jBqB4B5BjO", "otrf_VirtualFileSystemProvider", "27G9wBi8G9E" , "IOPkO", "nms_ComponentStrongholdPrison", "glPhlPxlPFjmP+gPlmPg/O" , "AXlO", "jm_Elementary", "5hJ6hJr4Jr2BglK2qJmlKr2BnlK2qJ7nKr2B8nK2qJ6rK7rK" , "IOPmO", "nms_MapGenCaves", "vyMFwvOsjOy4Ov4Oz4Ox4O" , "ABnO",
+        "ju_LinkedList$SequentialListIterator", "89DFk3E5Jl3E7Ji/EnzDx8GntCv+Gr2B6iH7iH" , "IJKLoO", "nlei_EnumEaglerConnectionState", "uwI4B6zIF7zIrdj+Ite" , "IJKLqBpOqO", "nleito_JSEaglercraftXOptsAssetsURI", "zE0E1E2E" , "IOPrO", "nms_GuiMultiplayer", "xoHF5yH4B/8H1+Eg9HliGh9H9+Ei9Hh/Ej9H/6Dk9Hm9Dl9Hr+E9mI+mIgnIhnIinIjnIknIlnIqnIrnIsnItnImxInxIt3J0tJn6Jo6J56J66J76J86J96J+6J/6Jg7Jh7Ji7Jj7Jk7Ji8Jj8Jk8Jl8Jm8Jn8Jo8Jp8JqkKrkK" , "IOPsO", "nms_Packet18Animation", "/gLFssLimKtsLkmKkwL7/Ju1OF67OtmK" , "IOPtO", "nms_J_JsonArray",
+        "ylKFloK3d0vLH2vLJqwLOl+NqkCn+NyqDo+Nm0Ep+Nr0E" , "IJKuO", "nle_Filesystem", "6M7MgX4B" , "IJKLqBvO", "nleit_ES6ShimStatus", "lKmKqKrKwKxKwR4BxRyRzRF" , "IOPwO", "nms_GuiControls", "+lIF/6I1+Eg7IliGh7I9+Ei7Ih/Ej7Ir+EwlJxlJ" , "ABxO", "ju_FormatterClosedException", "rvFF" , "IJKyO", "nle_EagRuntime$debugPrintStackTraceToSTDERR0$lambda$_25_0", "iJFh4CvdihDvd" , "IOPzO", "nms_BlockRedstoneRepeater", "zoBFwxB4B01Cj4By2CgyB19Cg9Cn+G9jG5/HlzH93JquJkuK64JiwK9lKuzLo6D9zLt7K62LglL5kM6kM7rM/jMy8MmkM45NrkNp9N8wN7tO0gOmvOjkM0xOolO"
+        , "AB0O", "ju_TemplateCollections$AbstractImmutableSet", "ksBF" , "IOP1O", "nms_NoiseGenerator", "+0MF" , "AhCiCsB2O", "jnci_UTF16Decoder", "t1DFn6I7iI8jJ9jJ+jJ/jJ" , "IOP3O", "nms_EnumArt", "t3LtejxM4B/zMFg0Mrd" , "EFU4O", "cjj_Residue0$LookResidue0", "8+KF" , "AB5O", "ju_AbstractList", "8dFqgCr2Bi4Cveo9CntCq9Cr2BvgDwgDujD+V7lFwgDz1FJtoH7U+pLrH" , "ABC6O", "jur_ReluctantCompositeQuantifierSet", "6oCFg9IysI" , "IOP7O", "nms_ModelChicken", "hwEFz0LshGsoMsiH" , "IOP8O", "nms_J_JsonListenerToJdomAdapter",
+        "spGFwpGxpGr+HvsHs+H4sH+/H0zH//H4zHggI6zHhgI+zHmgI31HngI71HogIi2HpgIk2HqgIm2HrgIo2HsgIq2H5sI6sIvtIwtI" , "IOP9O", "nms_ComponentStrongholdCrossing", "qlPrlP3lPFkmP+gPpmPg/O" , "IJKL+O", "nlei_PlatformInput$MobilePressAnyKeyHandler", "/iDzI" , "AhC/O", "jn_ByteBuffer", "r1BXmhCF1jDu1B2jD5D3jD61BorDX0rD7UyvD01BiyFhwFjyFmTkiHpNoiHvhHthI5D9iIpN" , "ABCgP", "jur_SOLSet", "gpCFw/GkBj9IysIw2JopJ" , "IOPhP", "nms_Packet24MobSpawn", "lhLFztLimK/uLkmK6wL7/JznN0nN" , "IOPiP", "nms_J_JsonArrayNodeSelector", "ykLFp4NO+5N95Nj6N4lNlkOmkOukO4lNtzO3qL"
+        , "IOPjP", "nms_IRecipe", "z6B06B22D32DqqMysIrqMsqM" , "yHzH0H1H2HkP", "iudfo_AbstractObjectList", "s2Br2ByhCF" , "IOPlP", "nms_EnumStatus", "1kL4BmoLFnoLrd71Lte" , "IOPmP", "nms_MaterialWeb", "44BFi+ItwI" , "IOPnP", "nms_BiomeGenRiver", "6zFF" , "IOPoP", "nms_TexturedQuad", "7gDF8gD9gDoqDF5vI0pD" , "ABpPqP", "jul_Logger", "ypLnIwqL4BxqLF" , "A6FrP", "jt_DateFormatElement$Iso8601Timezone", "oiEFo8EvHy8EH88EJ" , "IOPsP", "nms_GuiVideoSettings", "9lIFxwI4B86I1+E96IliG+6Ir+E" , "EFGtP", "cjj_Inflater",
         "k2BFm2BFl9BFvhChPx7Cy7C27C37Ck2Dl2D" , "IOPuP", "nms_PlayerControllerTest", "7lJF5xJmoE6xJwoE7xJyoE8xJ2oE9xJ4oE+xJ6oE/xJmjFgyJsjFhyJ9/FiyJwlGjyJ/lG34J44J+4J/4JrgOsgO" , "A6FvP", "jt_DecimalFormat$MinusField", "//DFi4EJn4EHsyKshG" , "IOPwP", "nms_J_JsonRootNode", "koKF" , "ABxP", "ju_LinkedHashMapIterator$KeyIterator", "i2OF37O5J" , "jBqBrBsB6FyP", "otcit_DoubleAnalyzer", "ryIgzGp2I4Br2IzyFs2I82Gt2I+2G" , "ABCzP", "jur_EOLSet", "jpCFz/GkBm9IysIz2JopJ" , "IJKL0P", "nlei_IEaglerFilesystem", "oXpXipFjpF4qF5qF+iG/iGhpGipGpvHqvH7mJ8mJklKllK"
-        , "IOP1P", "nms_J_ObjectNodeContainer", "itIFusK0yIwsKguI" , "ABC2P", "jur_Lexer", "m8BFp8BnMs8BOt8Bu8B3/B4/B5/B6/BhgCigCjgCkgClgCmgCrgCsgCugCvgC8gC5JhjCijCjjCkjCljCmjCpjCqjCrjCsjCtjCujCvjCwjCxjCyjChkCikCjkCigCkkClkCykCzkC2mC3mC/nCgoCpoCqoClpCmpCnpCopClrCmrCzrCzkC1rClkC5kD6kD9oJ+oJhpJipJjpJkpJ" , "IlD/JO3P", "npem_AudioUtils", "joHkoHpyH4B" , "ABC4P", "jur_AbstractCharClass$LazyNonSpace", "swCFo5ErzD" , "IOP5P", "nms_WorldGenDungeons", "p5OFq5O/iNn+Oo+Or+Os+O" , "IOP6P", "nms_ItemMinecart", "25BFi4M55L"
-        , "IOP7P", "nms_EnumOS1", "qwB4Bz3BF03Brdw4Cte" , "A6F8P", "jt_SimpleDatePatternParser", "uqDFvqDwqDxqDyqD4hE5hE6hE7hE8hE9hE" , "IOP9P", "nms_EntityWaterMob", "/vJFi3MnlLu9NqxN69NsxN99N1wNvpOzmMj3O9nO" , "IOP+P", "nms_ItemRedstone", "45BFj4M55L" , "AB1C/P", "juz_ZipEntry$LittleEndianReader", "x2GF/4Gg5Gh5G64G" , "IOPgQ", "nms_EntityList", "+uI/uImvInvIovIpvImzI4BozIpzIqzIpzIz2Ig7HsyNtyN" , "EFUhQ", "cjj_Floor1$InfoFloor1", "wjKFxjK9zC" , "IJKLMiQ", "nleib_EaglerArrayIntBuffer", "4rBFu0CpNv0CmT8vDpN9vD7Uz7EorE07E5Dg3F5D15F01B25F21Bg6FpN26Ix1B"
-        , "IOPjQ", "nms_WorldGenCactus", "4rGF25O/iN" , "EFUkQ", "cjj_CodeBook", "oqJFpqJqqJkjKljKmjK7Us1K8fv1Kw1K1+K2+KjkLkkLlkLmkLnkLokL" , "IOPlQ", "nms_BlockFire", "0nBF/1Cj4Bm2CtpBz9C09C79G9jGp/HlzH2+J3+JhzLo6D2zLt7Kq2LglLlkMmkMokMtvJpkMqkMrkMskMtkMukMhyMiyMq7M6iMi8NlsN/uOjkMjwOmlO" , "IOPmQ", "nms_WorldRenderer", "7pD4B5kG6kG7kGF8kG9kGlvG1xFziH0iH7lH8lH9lH+lHimHjmHkmHp8D8xH9xH3jI4jI" , "jBnQoQpQqQ", "oacl_StringUtils", "sgDtgDhqDiqDntDnM" , "ARrQ", "jl_AbstractStringBuilder$Constants", "32G4B" , "IOPsQ",
+        , "IOP1P", "nms_J_ObjectNodeContainer", "itIFtsK0yIxsKguI" , "ABC2P", "jur_Lexer", "m8BFp8BnMs8BOt8Bu8B3/B4/B5/B6/BhgCigCjgCkgClgCmgCrgCsgCugCvgC8gC5JhjCijCjjCkjCljCmjCpjCqjCrjCsjCtjCujCvjCwjCxjCyjChkCikCjkCigCkkClkCykCzkC2mC3mC/nCgoCpoCqoClpCmpCnpCopClrCmrCzrCzkC1rClkC5kD6kD9oJ+oJhpJipJjpJkpJ" , "IlD/JO3P", "npem_AudioUtils", "joHkoHpyH4B" , "ABC4P", "jur_AbstractCharClass$LazyNonSpace", "swCFo5ErzD" , "IOP5P", "nms_WorldGenDungeons", "p5OFq5O/iNn+Oo+Or+Os+O" , "IOP6P", "nms_ItemMinecart", "25BFi4M55L"
+        , "IOP7P", "nms_EnumOS1", "qwB4Bz3BF03Brdw4Cte" , "A6F8P", "jt_SimpleDatePatternParser", "uqDFvqDwqDxqDyqD4hE5hE6hE7hE8hE9hE" , "IOP9P", "nms_EntityWaterMob", "kwJFi3MnlLu9NqxN69NsxN99N1wNxpOzmMj3O9nO" , "IOP+P", "nms_ItemRedstone", "45BFj4M55L" , "AB1C/P", "juz_ZipEntry$LittleEndianReader", "x2GF/4Gg5Gh5G64G" , "IOPgQ", "nms_EntityList", "+uI/uImvInvIovIpvImzI4BozIpzIqzIpzIz2Ig7HsyNtyN" , "EFUhQ", "cjj_Floor1$InfoFloor1", "wjKFxjK9zC" , "IJKLMiQ", "nleib_EaglerArrayIntBuffer", "4rBFu0CpNv0CmT8vDpN9vD7Uz7EorE07E5Dg3F5D15F01B25F21Bg6FpN26Ix1B"
+        , "IOPjQ", "nms_WorldGenCactus", "4rGF25O/iN" , "EFUkQ", "cjj_CodeBook", "oqJFpqJqqJkjKljKmjK7Us1K8fv1Kw1K1+K2+KjkLkkLlkLmkLnkLokL" , "IOPlQ", "nms_BlockFire", "0nBF+1Cj4Bm2CtpBz9C09C79G9jGp/HlzH2+J3+JhzLo6D2zLt7Kq2LglLlkMmkMokMtvJpkMqkMrkMskMtkMukMhyMiyMq7M6iMi8NlsN/uOjkMjwOmlO" , "IOPmQ", "nms_WorldRenderer", "7pD4B5kG6kG7kGF8kG9kGlvG1xFziH0iH7lH8lH9lH+lHimHjmHkmHp8D8xH9xH3jI4jI" , "jBnQoQpQqQ", "oacl_StringUtils", "sgDtgDhqDiqDntDnM" , "ARrQ", "jl_AbstractStringBuilder$Constants", "32G4B" , "IOPsQ",
         "nms_NBTTagDouble", "l2EF43E61Eq4FqkCq6FO3gH40F92OF" , "EFtQuQ", "cjj_StreamState", "j4Hk4Hn4Ho4H94H7Ui5HFq5HhPs6HhP+hI/hIgiIhiI" , "IJKLqBvQ", "nleit_EnumES6ShimStatus", "heiesetenrB4B/zBFg0Brd" , "ABCwQ", "jur_BackReferencedSingleSet", "pzDF+2Em9C89Iu2D91J3oJ" , "jBqBrLxQ", "otp_PlatformQueue", "kqBlqBx7By7Bw/BX6rD7rD1tDoG" , "IOPyQ", "nms_SignModel", "83HFqqNrqN" , "IOPzQ", "nms_WorldGenBigMushroom", "/jOFgkO/iN" , "AB0Q", "ju_MissingResourceException", "u9CF" , "IJKL1Q", "nlei_RuntimeInitializationFailureException",
         "0KF0NF" , "IOP2Q", "nms_LayerIsland", "j0MFnvO1iN" , "AhC3Q", "jn_ByteOrder", "hqC4BosCF" , "IOP4Q", "nms_EntityWeatherEffect", "myMF" , "IOP5Q", "nms_StructureVillagePieceWeight", "w/OFqnPrnPunPvnP" , "IJK6Q", "nle_Mouse", "g7D5Jh7Di7Dj7Dk7Dp7Dq7Dg+Eh+Ei+Ej+E2+E3+E4+E5+EoiFpiFx9Fy9Fz9F09FvkGwkG" , "jBqBrBsBtB7Q", "otcit_DateTimeZoneBuilder$Rule", "uyCFloGt0DpoG5JroGsoG" , "IOP8Q", "nms_TextureWaterFX", "4HF14FliF" , "ABC9Q", "jur_ReluctantGroupQuantifierSet", "soCFz8IysI" , "AR+Q", "jl_ReflectiveOperationException",
-        "9zNF" , "IOP/Q", "nms_TileEntity", "55HFz6H4B/6Hg7HwhIxhIs6Kt6Ku6Kr6K8hMhtHqrMprMlqNmqNnqNnpFuyNvyN2yNyzM+0Nw8KhiOphDiiOjiO+nO/nO" , "IOPgR", "nms_EntityFireball", "vnNFm4N/yFunOF6zO9kFy0O4mK50Oq2K60OnoJ70O6jF80O8jFl1O9nO" , "IOPhR", "nms_BlockFenceGate", "/oBF81Cj4Bs+G9jG9/HlzHo/Jp/Jq/Jr/JmuK64J97M6iM08MmkM55NrkN" , "IOPiR", "nms_EntityPortalFX", "itMFngNztGvgN7mH+gN9kF" , "IOPjR", "nms_ShapedRecipes", "rlDF93E32Do4E06Bq9MysIs9MsqMjuNkuN" , "IOPkR", "nms_BiomeGenPlains", "uzFF" , "IOPlR", "nms_SlotCrafting",
+        "9zNF" , "IOP/Q", "nms_TileEntity", "55HFz6H4B/6Hg7HwhIxhIs6Kt6Ku6Kr6K8hMhtHqrMprMlqNmqNnqNnpFuyNvyN2yNyzM+0Nw8KhiOphDiiOjiO+nO/nO" , "IOPgR", "nms_EntityFireball", "0oNFm4N/yFunOF6zO9kFz0O4mK50Oq2K60OnoJ70O6jF80O8jFl1O9nO" , "IOPhR", "nms_BlockFenceGate", "/oBF71Cj4Bs+G9jG9/HlzHo/Jp/Jq/Jr/JmuK64J97M6iM08MmkM55NrkN" , "IOPiR", "nms_EntityPortalFX", "itMFmgNztGvgN7mHghN9kF" , "IOPjR", "nms_ShapedRecipes", "rlDF93E32Do4E06Bq9MysIs9MsqMjuNkuN" , "IOPkR", "nms_BiomeGenPlains", "uzFF" , "IOPlR", "nms_SlotCrafting",
         "wqKF9yKhoIgzKpoI" , "IOPmR", "nms_StatStringFormatKeyInv", "g5DFjvK0yG" , "IOPnR", "nms_J_JsonStringNodeBuilder", "yyIF96M6sHqpNrpN" , "AhCiCsBoR", "jnci_AsciiDecoder", "v1DFp6I7iI" , "IOPpR", "nms_ChunkCoordIntPair", "1lLF3vLH4vLJx6Ly6L" , "IOPqR", "nms_ModelChest", "93HFmrNnrN" , "IOPrR", "nms_MapGenMineshaft", "yyMFj8O71Om8O91O" , "IOPsR", "nms_MinecraftException", "xuNF" , "IOPtR", "nms_Material", "/wB4Bl4Bm4Bo4BFp4Bq4Br4Bs4Bu4Bv4Bw4Bx4Bz4B04B24B34BkxHlxHoxHpxHswItwI85K95K0xM1xMhqNiqNgsNhsN2xN3xN"
-        , "AlEuR", "ji_StringReader", "jrFFlzJ2hBmzJ2tBh4J2tBk4JzxJk6Jl6J" , "E1L2LvR", "cch_IntObjectHashMap", "maFwkBFxkB4BswBF13B23B53B63B/3C5Dg4CpN1gD2gD4gD5gDljDmjDnjDnMojDpjDh+DrMnvEntCuqFvqF" , "pFqFKrFwR", "dcec_FlyCommand", "x1HF1gImF" , "ABxR", "ju_PriorityQueue", "8sCF8uC9uChyDrMyyDzyD0yD1yDnhE63BohEphE" , "IJKLqByR", "nleit_EarlyLoadScreen", "kMlM0M1M2M3MkPlPwU4BvXwX" , "ABzR", "ju_AbstractCollection", "irBFu2Br2BvtCnM24Ct3B44C54Cv2FOs5Ft5Fs7FqZuoH7U4kJntC" , "AlE0R", "ji_ByteArrayInputStream", "z/JF0/J2hB+lKFpsK2tBqsK2tBrsKi1E"
-        , "jBqBrBsB1R", "otci_IntegerUtil", "+B/B5rD/B" , "AB2R3R4R", "juca_AtomicInteger", "p+Bq+B/hCF" , "IOP5R", "nms_LoadingScreenRenderer", "g6DFplGqlGrlGslGqvGrvGirHjrHl+Ik0I" , "IOP6R", "nms_InventoryLargeChest", "l3KF03M9wH13MhtH23MjtH33MqqG43MnoI4/MyqK6/M60Mh5NjkNj5NxuMg+NkyN" , "IJK7R", "nle_EaglercraftUUID", "rjBsjBtjBOsvBFz8C08C" , "IOP8R", "nms_RenderLiving", "wwEFsyEtyE10JhqIkhKlhKm9Kn9Kq9Kr9Ks9Kt9Ku9Kv9Kw9Kx9K29K39K49K59K69K79K89K99K+9K/9KonMpnM8tN9tN" , "AB1C9R", "juz_ZipFile", "woGhjGxoG7yEyoG2hB3oGF6yGF12G22GtrHurH"
-        , "IOP+R", "nms_WeightedRandomChoice", "q1FF" , "IOP/R", "nms_BlockGlowStone", "woBFtwOmlOyxOolO" , "jBqBrBsBtBgS", "otcit_StorableDateTimeZone", "vsCFgxC2tBgyChyCiyCjyC9yC+yC" , "IOPhS", "nms_Packet43Experience", "1hLFntLimKzuLkmKnxL7/J" , "IOPiS", "nms_J_JsonNumberNodeBuilder", "1yIF+6M6sH" , "IJKjS", "nle_HFormatter$IllegalFormatWidthException", "8xGF" , "ABCkS", "jur_AbstractCharClass$LazyWord", "qwCFm5ErzD" , "ABClS", "jur_SequenceSet", "8pCFm3CukC+/GkB49Iu2D8pJ+Vw1J/9C51J3oJ3iK8V4iK+qC" , "AlEmS",
-        "ji_DataInput", "z1E01E31E41EigFjgFkgFlgFmgFngFogFpgFqgFrgFsgF5gBtzG5gB" , "IOPnS", "nms_MovementInput", "uvGF6uN7uN" , "IOPoS", "nms_BiomeGenForest$_init_$lambda$_0_0", "m0FF92L/uI" , "ABCpS", "jur_UCIRangeSet", "2nCFk/GkBs1J/9C" , "IOPqS", "nms_Packet$_clinit_$lambda$_12_20", "q6GF/wKsoK" , "ABnCrS", "juf_Function", "kmDikD" , "EFUsS", "cjj_FuncResidue", "tiIqiI3vI4B23IFyhJmiIxqJouIqjKsqJ" , "IOPtS", "nms_Packet$_clinit_$lambda$_12_19", "p6GF+wKsoK" , "IOPuS", "nms_BlockSnowBlock", "noBFrzLo6DrwOmlOvxOolO"
-        , "IOPvS", "nms_Packet$_clinit_$lambda$_12_18", "o6GF9wKsoK" , "IOPwS", "nms_Packet$_clinit_$lambda$_12_11", "h6GF2wKsoK" , "ARxS", "jl_Boolean", "5R6RwrB4BjsBvJo0BFzoF0oF22FH88FH81GOqwKO1yKJ4yKn8CojLn8CtqM30B" , "IOPyS", "nms_Packet$_clinit_$lambda$_12_10", "g6GF1wKsoK" , "IOPzS", "nms_Packet$_clinit_$lambda$_12_13", "j6GF4wKsoK" , "IOP0S", "nms_Packet$_clinit_$lambda$_12_12", "i6GF3wKsoK" , "AB1S", "ju_NoSuchElementException", "gmDF" , "IOP2S", "nms_Packet$_clinit_$lambda$_12_15", "l6GF6wKsoK" , "IOP3S",
-        "nms_GuiSlotServer", "/mIFhmJyrHozJljIwzJ0gJ1zJ2gJ7zJ8gJh0J+gJ" , "IOP4S", "nms_Packet$_clinit_$lambda$_12_14", "k6GF5wKsoK" , "IOP5S", "nms_Packet$_clinit_$lambda$_12_17", "n6GF8wKsoK" , "IOP6S", "nms_Packet$_clinit_$lambda$_12_16", "m6GF7wKsoK" , "IOP7S", "nms_SoundManager", "3HF5+C6+C/2Dg3Du5Dv5DiiGjiGnlGolG1sI2sIg5Jh5Jr5Js5JkkKlkK" , "IJKL8S", "nlei_OpenGLObjects$ShaderGL", "0fF2sB4B8zC9zC" , "IOP9S", "nms_EntityZombie", "2sJF59M1tM8+MxvMu/MzvM24NmiNnzO0nO" , "ABC+S", "jur_BackReferenceSet", "ypCFo3CukC7/GkBu9IysI39Iu2D41J3oJ"
-        , "IOP/S", "nms_EntityPainting", "ysJF3yJ/yFv4L9kFm5LnoJp5L7zK35L6jFgvMhvMskNF2mNFjzNkzNv+NzmM3oO4oOitO9nO+8O/wH" , "IOPgT", "nms_BiomeGenSky$_init_$lambda$_0_0", "r0FFh3L/uI" , "IJKpDhT", "nleo_WorldRenderer$_init_$lambda$_0_1", "svDF" , "IJKLiTjT", "nleiv_VFileInputStream", "6qFFx2F2hBy2F2tBn+I2tBo+Ii1E" , "IJKpDkT", "nleo_WorldRenderer$_init_$lambda$_0_0", "rvDF" , "IJKLlT", "nlei_OpenGLObjects$RenderbufferGL", "pfFtsB4B" , "jBnQpPmTnT", "oall_LogManager", "/F4BmInI" , "IOPoT", "nms_ItemDoor", "y5BFh4M55LvkNwkN"
-        , "IJKpDpT", "nleo_GlStateManager$TexGen", "zsF4B1wFF2wFrd35Fte" , "IOPqT", "nms_GuiIngameMenu", "/kFFj5F1+Ek5F/6Dl5Fr+Ev9GliG" , "ABrT", "ju_Arrays", "1VJ2d3dmf7LlgBmgBqsBrsB87B97B8xC9xCizC97BlzC97BygD9xCjqD9xC2rD97Bo0Dp0DkjEp0D4hF9xC5rFH6rFJptF9xCvwFmgB5wF9xC62Gp0Dp5Gp0Dg2HOq2Ip0D44Ip0D/nLOz2O9xC22O9xCu7O9xC" , "IOPsT", "nms_Packet$_clinit_$lambda$_12_40", "+6GFzxKsoK" , "IOPtT", "nms_Packet$_clinit_$lambda$_12_42", "g7GF1xKsoK" , "IOPuT", "nms_GenLayerSmooth", "r0MFuvO1iN" , "IOPvT", "nms_Packet$_clinit_$lambda$_12_41",
-        "/6GF0xKsoK" , "jBnQpPmTwT", "oall_Level", "2Q4BpdFqdrds4Cte71D81D" , "pFqFKhLxT", "dceu_ScuffedUtils", "2iG3iG1oG2oGsvItvI" , "ABCyT", "jur_DotSet", "upCFi3C7jCk3CqkC3/GkBq9IysI32JopJ" , "ABzT", "ju_GenericEnumSet$1", "lzDF72E5J82E7Jk9E5J" , "EFU0T", "cjj_FuncMapping", "liImiIpiIqiI0vI4Bx3IFrqJsqJyqJouI" , "IOP1T", "nms_EntityLavaFX", "ltMFkgNztGogN7mH3gN9kF" , "ABC2T", "jur_CICharSet", "+nCFp/GkBv1J/9C" , "ABC3T", "jur_SupplCharSet", "4rCF52CukC49C59CkgHkB79Iu2D01J/9C81J3oJ" , "IOP4T", "nms_Packet$_clinit_$lambda$_12_33",
+        , "AlEuR", "ji_StringReader", "jrFFlzJ2hBmzJ2tBh4J2tBk4JzxJk6Jl6J" , "E1L2LvR", "cch_IntObjectHashMap", "maFwkBFxkB4BswBF13B23B53B63B/3C5Dg4CpN1gD2gD4gD5gDljDmjDnjDnMojDpjDh+DrMnvEntCuqFvqF" , "pFqFKrFwR", "dcec_FlyCommand", "x1HF1gImF" , "ABxR", "ju_PriorityQueue", "8sCF8uC9uChyDrMyyDzyD0yD1yDnhE63BohEphE" , "IJKLqByR", "nleit_EarlyLoadScreen", "kMlM0M1M2M3MkPlPwU4BvXwX" , "ABzR", "ju_AbstractCollection", "irBFu2Br2BvtCnM24Ct3B44C54Cw2FOs5Ft5Fs7FqZuoH7U4kJntC" , "AlE0R", "ji_ByteArrayInputStream", "z/JF0/J2hB+lKFpsK2tBqsK2tBrsKi1E"
+        , "jBqBrBsB1R", "otci_IntegerUtil", "+B/B5rD/B" , "AB2R3R4R", "juca_AtomicInteger", "p+Bq+B/hCF" , "IOP5R", "nms_LoadingScreenRenderer", "g6DFplGqlGrlGslGqvGrvGirHjrHl+Ik0I" , "IOP6R", "nms_InventoryLargeChest", "l3KF03M9wH13MhtH23MjtH33MqqG43MnoI4/MyqK6/M60Mh5NjkNj5N5tMg+NkyN" , "IJK7R", "nle_EaglercraftUUID", "rjBsjBtjBOsvBFz8C08C" , "IOP8R", "nms_RenderLiving", "wwEFsyEtyE10JhqIkhKlhKm9Kn9Kq9Kr9Ks9Kt9Ku9Kv9Kw9Kx9K29K39K49K59K69K79K89K99K+9K/9KonMpnM8tN9tN" , "AB1C9R", "juz_ZipFile", "woGhjGxoG7yEyoG2hB3oGF6yGF12G22GtrHurH"
+        , "IOP+R", "nms_WeightedRandomChoice", "q1FF" , "IOP/R", "nms_BlockGlowStone", "woBFtwOmlOyxOolO" , "jBqBrBsBtBgS", "otcit_StorableDateTimeZone", "vsCFgxC2tBgyChyCiyCjyC9yC+yC" , "IOPhS", "nms_Packet43Experience", "1hLFutLimK6uLkmK1wL7/J" , "IOPiS", "nms_J_JsonNumberNodeBuilder", "1yIF+6M6sH" , "IJKjS", "nle_HFormatter$IllegalFormatWidthException", "8xGF" , "ABCkS", "jur_AbstractCharClass$LazyWord", "qwCFm5ErzD" , "ABClS", "jur_SequenceSet", "8pCFm3CukC+/GkB49Iu2D8pJ+Vw1J59C51J3oJ3iK8V4iK+qC" , "AlEmS",
+        "ji_DataInput", "z1E01E31E41EigFjgFkgFlgFmgFngFogFpgFqgFrgFsgF5gBtzG5gB" , "IOPnS", "nms_MovementInput", "uvGF6uN7uN" , "IOPoS", "nms_BiomeGenForest$_init_$lambda$_0_0", "m0FF92L/uI" , "ABCpS", "jur_UCIRangeSet", "2nCFk/GkBs1J59C" , "IOPqS", "nms_Packet$_clinit_$lambda$_12_20", "q6GF/wKsoK" , "ABnCrS", "juf_Function", "kmDikD" , "EFUsS", "cjj_FuncResidue", "tiIqiI3vI4B23IFyhJmiIxqJouIqjKsqJ" , "IOPtS", "nms_Packet$_clinit_$lambda$_12_19", "p6GF+wKsoK" , "IOPuS", "nms_BlockSnowBlock", "noBFrzLo6DrwOmlOvxOolO"
+        , "IOPvS", "nms_Packet$_clinit_$lambda$_12_18", "o6GF9wKsoK" , "IOPwS", "nms_Packet$_clinit_$lambda$_12_11", "h6GF2wKsoK" , "ARxS", "jl_Boolean", "5R6RwrB4BjsBvJo0BFzoF0oF12FH88FH81GOqwKO3yKJ7yKn8CrjLn8CuqM30B" , "IOPyS", "nms_Packet$_clinit_$lambda$_12_10", "g6GF1wKsoK" , "IOPzS", "nms_Packet$_clinit_$lambda$_12_13", "j6GF4wKsoK" , "IOP0S", "nms_Packet$_clinit_$lambda$_12_12", "i6GF3wKsoK" , "AB1S", "ju_NoSuchElementException", "gmDF" , "IOP2S", "nms_Packet$_clinit_$lambda$_12_15", "l6GF6wKsoK" , "IOP3S",
+        "nms_GuiSlotServer", "/mIFhmJyrHozJljIwzJ0gJ1zJ2gJ7zJ8gJh0J+gJ" , "IOP4S", "nms_Packet$_clinit_$lambda$_12_14", "k6GF5wKsoK" , "IOP5S", "nms_Packet$_clinit_$lambda$_12_17", "n6GF8wKsoK" , "IOP6S", "nms_Packet$_clinit_$lambda$_12_16", "m6GF7wKsoK" , "IOP7S", "nms_SoundManager", "3HF5+C6+C/2Dg3Du5Dv5DiiGjiGnlGolG1sI2sIg5Jh5Jr5Js5JkkKlkK" , "IJKL8S", "nlei_OpenGLObjects$ShaderGL", "0fF2sB4B8zC9zC" , "IOP9S", "nms_EntityZombie", "wsJF59MxtM8+MxvMu/MzvM24NmiNnzO0nO" , "ABC+S", "jur_BackReferenceSet", "ypCFr3CukC7/GkBu9IysI39Iu2D41J3oJ"
+        , "IOP/S", "nms_EntityPainting", "ntJF+yJ/yFv4L9kFm5LnoJp5L7zK15L6jF2uM3uMskNFnnNFjzNkzNv+NzmM3oO4oOitO9nO+8O/wH" , "IOPgT", "nms_BiomeGenSky$_init_$lambda$_0_0", "r0FFh3L/uI" , "IJKpDhT", "nleo_WorldRenderer$_init_$lambda$_0_1", "svDF" , "IJKLiTjT", "nleiv_VFileInputStream", "6qFFx2F2hBy2F2tBn+I2tBo+Ii1E" , "IJKpDkT", "nleo_WorldRenderer$_init_$lambda$_0_0", "rvDF" , "IJKLlT", "nlei_OpenGLObjects$RenderbufferGL", "pfFtsB4B" , "jBnQpPmTnT", "oall_LogManager", "/F4BmInI" , "IOPoT", "nms_ItemDoor", "y5BFh4M55LvkNwkN"
+        , "IJKpDpT", "nleo_GlStateManager$TexGen", "zsF4B1wFF2wFrd35Fte" , "IOPqT", "nms_GuiIngameMenu", "/kFFj5F1+Ek5F/6Dl5Fr+Ev9GliG" , "ABrT", "ju_Arrays", "1VJ2d3dmf7LlgBmgBqsBrsB87B97B8xC9xCizC97BlzC97BygD9xCjqD9xC2rD97Bl0Dm0DijEm0D4hF9xC5rFH6rFJptF9xCvwFmgB5wF9xC62Gm0Dp5Gm0Dg2HOq2Im0D44Im0D/nLOz2O9xC02O9xCu7O9xC" , "IOPsT", "nms_Packet$_clinit_$lambda$_12_40", "+6GFzxKsoK" , "IOPtT", "nms_Packet$_clinit_$lambda$_12_42", "g7GF1xKsoK" , "IOPuT", "nms_GenLayerSmooth", "r0MFuvO1iN" , "IOPvT", "nms_Packet$_clinit_$lambda$_12_41",
+        "/6GF0xKsoK" , "jBnQpPmTwT", "oall_Level", "2Q4BpdFqdrds4Cte71D81D" , "pFqFKhLxT", "dceu_ScuffedUtils", "2iG3iG1oG2oGsvItvI" , "ABCyT", "jur_DotSet", "upCFj3C7jCl3CqkC3/GkBq9IysI32JopJ" , "ABzT", "ju_GenericEnumSet$1", "lzDF72E5J82E7Jk9E5J" , "EFU0T", "cjj_FuncMapping", "liImiIpiIqiI0vI4Bx3IFrqJsqJyqJouI" , "IOP1T", "nms_EntityLavaFX", "ltMFkgNztGogN7mH3gN9kF" , "ABC2T", "jur_CICharSet", "+nCFp/GkBv1J59C" , "ABC3T", "jur_SupplCharSet", "4rCF52CukC+9C/9CkgHkB79Iu2D01J59C81J3oJ" , "IOP4T", "nms_Packet$_clinit_$lambda$_12_33",
         "36GFsxKsoK" , "IOP5T", "nms_Packet$_clinit_$lambda$_12_32", "26GFrxKsoK" , "IOP6T", "nms_Packet$_clinit_$lambda$_12_35", "56GFuxKsoK" , "IOP7T", "nms_WorldGenGlowStone2", "+4OF/4O/iN" , "IOP8T", "nms_Packet$_clinit_$lambda$_12_34", "46GFtxKsoK" , "IOP9T", "nms_Packet$_clinit_$lambda$_12_37", "76GFwxKsoK" , "IJKlM+T", "nlep_GuiScreenEditProfile", "+5DFinEjnEknE4Bi6E/6Dj6Ew7Dk6Em9D3iF4iFj3Fr+Er3F1+Ey3F9+E33Fh/Eo9GliG" , "IOP/T", "nms_Packet$_clinit_$lambda$_12_36", "66GFvxKsoK" , "IOPgU", "nms_WorldGenGlowStone1",
         "84OF94O/iN" , "IOPhU", "nms_Packet$_clinit_$lambda$_12_39", "96GFyxKsoK" , "IOPiU", "nms_Packet$_clinit_$lambda$_12_38", "86GFxxKsoK" , "ABCjU", "jur_AbstractLineTerminator", "zoC9wBouCF1pJ2pJ3pJ4pJ" , "EFUkU", "cjj_Info", "g5H7Ul5HFr5HhPw5Hx5Hw6H4BluImuIpuIquI" , "IOPlU", "nms_Packet$_clinit_$lambda$_12_31", "16GFqxKsoK" , "IOPmU", "nms_Packet$_clinit_$lambda$_12_30", "06GFpxKsoK" , "IOPnU", "nms_WorldGenDeadBush", "4hPF5hP/iN" , "AhCiCoU", "jnc_StandardCharsets", "xgB4B" , "IOPpU", "nms_Packet$_clinit_$lambda$_12_29",
-        "z6GFoxKsoK" , "IOPqU", "nms_Packet", "o1GF33G4B15G25G5/JnlJ6/J7/J//JggK/lKgmKhmKimKjmKkmKomKpmKsmKtmK2/K3/Kw6L0hF" , "ABCrU", "jur_AbstractCharClass$LazyJavaMirrored$1", "2gFF81FqZ" , "IOPsU", "nms_BlockTrapDoor", "3oBF60Cj4Bo+G9jGp8HjnHz8HlnHk+HnqH6/HlzHxkIykIilJjlJluK64JvuKl5J72LglL8rMvrM77M6iM68MkmMw5NpkN58N+vN" , "IOPtU", "nms_Packet$_clinit_$lambda$_12_22", "s6GFhxKsoK" , "IOPuU", "nms_ModelGhast", "1yEF50LshGyoMsiH" , "IOPvU", "nms_Packet$_clinit_$lambda$_12_21", "r6GFgxKsoK" , "IOPwU", "nms_Packet$_clinit_$lambda$_12_24",
+        "z6GFoxKsoK" , "IOPqU", "nms_Packet", "o1GF33G4B15G25G5/JnlJ6/J7/J//JggK/lKgmKhmKimKjmKkmKomKpmKsmKtmK2/K3/Kw6L0hF" , "ABCrU", "jur_AbstractCharClass$LazyJavaMirrored$1", "2gFF81FqZ" , "IOPsU", "nms_BlockTrapDoor", "3oBF60Cj4Bo+G9jGp8HjnHz8HlnHk+HnqH6/HlzHxkIykIilJjlJluK64JvuKl5J72LglL8rMvrM77M6iM68MkmMw5NpkN58NkwN" , "IOPtU", "nms_Packet$_clinit_$lambda$_12_22", "s6GFhxKsoK" , "IOPuU", "nms_ModelGhast", "1yEF50LshGyoMsiH" , "IOPvU", "nms_Packet$_clinit_$lambda$_12_21", "r6GFgxKsoK" , "IOPwU", "nms_Packet$_clinit_$lambda$_12_24",
         "u6GFjxKsoK" , "IOPxU", "nms_Packet$_clinit_$lambda$_12_23", "t6GFixKsoK" , "IOPyU", "nms_Packet$_clinit_$lambda$_12_26", "w6GFlxKsoK" , "IOPzU", "nms_Packet$_clinit_$lambda$_12_25", "v6GFkxKsoK" , "IOP0U", "nms_GuiDispenser", "qhMFlhNruGphNxuG" , "IOP1U", "nms_Packet$_clinit_$lambda$_12_28", "y6GFnxKsoK" , "IOP2U", "nms_Packet$_clinit_$lambda$_12_27", "x6GFmxKsoK" , "pFqFKrF3U", "dcec_SummonCommand", "v1HFy3H4BzgImFgvIhvI" , "ABC4U", "jur_UEOLSet", "vpCF4/GkBr9IysI42JopJ" , "IOP5U", "nms_Packet$_clinit_$lambda$_12_60",
-        "y7GFnyKsoK" , "IOP6U", "nms_TextureWaterFlowFX", "15DF64FliF" , "ABC7U", "jur_UCICharSet", "9nCFo/GkBu1J/9C" , "IOP8U", "nms_Packet$_clinit_$lambda$_12_62", "07GFpyKsoK" , "AhCiCsB9U", "jnci_Iso8859Charset", "otBF8xDp8Ct6EqrD" , "IOP+U", "nms_Packet$_clinit_$lambda$_12_61", "z7GFoyKsoK" , "IOP/U", "nms_NBTTagByteArray", "m2EF53E61Er4FqkCu6FO4gH40FqoOF" , "IOPgV", "nms_Packet$_clinit_$lambda$_12_63", "17GFqyKsoK" , "yHzH0H1H2H3L", "iudfo_ObjectArrayList", "huBrMkuB5Do2BFq2Br2Bo9BF9iD+iD" , "IOPhV", "nms_GLAllocation",
+        "y7GFnyKsoK" , "IOP6U", "nms_TextureWaterFlowFX", "15DF64FliF" , "ABC7U", "jur_UCICharSet", "9nCFo/GkBu1J59C" , "IOP8U", "nms_Packet$_clinit_$lambda$_12_62", "07GFpyKsoK" , "AhCiCsB9U", "jnci_Iso8859Charset", "otBF9xDp8Ct6EqrD" , "IOP+U", "nms_Packet$_clinit_$lambda$_12_61", "z7GFoyKsoK" , "IOP/U", "nms_NBTTagByteArray", "m2EF53E61Er4FqkCu6FO4gH40FqoOF" , "IOPgV", "nms_Packet$_clinit_$lambda$_12_63", "17GFqyKsoK" , "yHzH0H1H2H3L", "iudfo_ObjectArrayList", "huBrMkuB5Do2BFq2Br2Bo9BF9iD+iD" , "IOPhV", "nms_GLAllocation",
         "uvDvvD3vD4B92D+2D2jE3jE0lE1lE3mE4mEo9Ep9EslFtlF" , "ABiV", "ju_FormatFlagsConversionMismatchException", "0wGF" , "IJKLjV", "nlei_PlatformInput", "gMhMyMzM+M/MtNuN1N2NnPoPxPzH+P/PgQhQvU4BrWzMxXyXzX0X2X3XyYzYrZsZtZuZvZwZ3Z4Z5Z6Z7Z8Z9Z+Z2b3b7hB8hBjkBkkBlkB6ZmkBnkBokB8ZwlBxlBowBpwBoiDpiDqiDriDsiDtiD4jD5jD6jD7jD8jD9jDmoDy+C9oD+oDgsDhsDhtDitD6tD7tDwuDxuDyuDzuD3+D4+D5+D6+D7+D8+D9+D++Dh/Di/Dj/Dk/Dl/Dm/Dn/Do/Dp/Dp/Cs/Dt/Du/Dv/DxkEh4DykEk4DzkEm4DsnEtnEunEvnEwnExnE1nE2nE3nE4nE5nE6nE7nE8nEqpErpEspEtpEupEvpEwpExpEypEzpEztE0tE5tE6tE8tE9tE+tE/tEguEhuEiuEjuEkuEluEmuEnuEyxEzxEnsFosFpsFqsFrsFssFtsFusFvsFwsF1tF2tFmuFnuF+rG/rGgsGhsG"
         , "IOPkV", "nms_BiomeGenBase$_init_$lambda$_0_0", "/0FFi3L/uI" , "IOPlV", "nms_Timer", "0HF1+C2+C" , "IOPmV", "nms_BiomeGenBase$_init_$lambda$_0_1", "g1FFj3L/uI" , "IOPnV", "nms_MovementInputFromOptions", "1lGFn8N7uN" , "IOPoV", "nms_BiomeGenBase$_init_$lambda$_0_2", "h1FFk3L/uI" , "IOPpV", "nms_BiomeGenBase$_init_$lambda$_0_3", "i1FFl3L/uI" , "IOPqV", "nms_BiomeGenBase$_init_$lambda$_0_4", "j1FFm3L/uI" , "IOPrV", "nms_Packet$_clinit_$lambda$_12_55", "t7GFiyKsoK" , "jBqBrBsBsVtV", "otcir_Flags", "r2OusN"
         , "IOPuV", "nms_BiomeGenBase$_init_$lambda$_0_5", "k1FFn3L/uI" , "IOPvV", "nms_Packet$_clinit_$lambda$_12_54", "s7GFhyKsoK" , "IOPwV", "nms_J_JdomParser", "w0EFx0EgkDkrFlrF" , "IOPxV", "nms_BiomeGenBase$_init_$lambda$_0_6", "l1FFo3L/uI" , "IOPyV", "nms_Packet$_clinit_$lambda$_12_57", "v7GFkyKsoK" , "IOPzV", "nms_BiomeGenBase$_init_$lambda$_0_7", "m1FFp3L/uI" , "IOP0V", "nms_Packet$_clinit_$lambda$_12_56", "u7GFjyKsoK" , "IOP1V", "nms_BiomeGenBase$_init_$lambda$_0_8", "n1FFq3L/uI" , "IOP2V", "nms_Packet$_clinit_$lambda$_12_59",
         "x7GFmyKsoK" , "IOP3V", "nms_BiomeGenBase$_init_$lambda$_0_9", "o1FFr3L/uI" , "IOP4V", "nms_Packet$_clinit_$lambda$_12_58", "w7GFlyKsoK" , "IOP5V", "nms_Packet$_clinit_$lambda$_12_51", "p7GF+xKsoK" , "ABC6V", "jur_FSet$PossessiveFSet", "lnCFg/GkBq8IysIq2JopJ" , "IOP7V", "nms_Packet$_clinit_$lambda$_12_50", "o7GF9xKsoK" , "IOP8V", "nms_StructureStrongholdPieceWeight2", "1/OF8lP4kP" , "IOP9V", "nms_Packet$_clinit_$lambda$_12_53", "r7GFgyKsoK" , "IOP+V", "nms_Packet$_clinit_$lambda$_12_52", "q7GF/xKsoK"
-        , "AR/V", "jl_RuntimeException", "RFnFFwYF33OF" , "ABCgW", "jur_PosCompositeGroupQuantifierSet", "roCFy8IysI" , "IOPhW", "nms_Packet26EntityExpOrb", "nhLF0tLimKgvLkmKoxL7/J" , "IJKLqBiW", "nleit_MainClass", "ABwBxB" , "IJKLqBjW", "nleit_IndexedDBFilesystem$AsyncHandlers", "9uB+uBj3Bk3Bl3B+uBjlDklDmjInjIqjIrjIwoIxoI6oI7oI8oI9oI6vI7vI8vInjI9vI+vI/vIrjI5xI6xI7xIxoI8xI9xI+xI7oI/xIgyIhyI9oIzzI0zI+0I/0InsJosJqsJrsJ" , "IOPkW", "nms_StructureStrongholdPieces", "8+O9+Os/O4B9iP+iPhjPijPvkPwkPxkPykPzkP0kP5kP6kP"
-        , "IOPlW", "nms_Container", "ukFvkFjxFFnxFoxFgpHhpHipHjpH7nI9wH8nI9nI2qK1qKn2Ko2KwuMxuM5mN6mN8mN9mNynNznNroNsoNzoN0oNngOogO" , "IOPmW", "nms_RenderFish", "7wEFn1JhqIoiKpiK" , "IOPnW", "nms_Packet$_clinit_$lambda$_12_44", "i7GF3xKsoK" , "IOPoW", "nms_Packet$_clinit_$lambda$_12_43", "h7GF2xKsoK" , "IOPpW", "nms_Packet$_clinit_$lambda$_12_46", "k7GF5xKsoK" , "IOPqW", "nms_Packet$_clinit_$lambda$_12_45", "j7GF4xKsoK" , "IOPrW", "nms_Packet$_clinit_$lambda$_12_48", "m7GF7xKsoK" , "IOPsW", "nms_Packet$_clinit_$lambda$_12_47",
+        , "AR/V", "jl_RuntimeException", "RFnFFwYF33OF" , "ABCgW", "jur_PosCompositeGroupQuantifierSet", "roCFy8IysI" , "IOPhW", "nms_Packet26EntityExpOrb", "nhLFwtLimK8uLkmKnxL7/J" , "IJKLqBiW", "nleit_MainClass", "ABwBxB" , "IJKLqBjW", "nleit_IndexedDBFilesystem$AsyncHandlers", "9uB+uBj3Bk3Bl3B+uBjlDklDmjInjIqjIrjIwoIxoI6oI7oI8oI9oI6vI7vI8vInjI9vI+vI/vIrjI5xI6xI7xIxoI8xI9xI+xI7oI/xIgyIhyI9oIzzI0zI+0I/0InsJosJqsJrsJ" , "IOPkW", "nms_StructureStrongholdPieces", "8+O9+Os/O4B9iP+iPhjPijPvkPwkPxkPykPzkP0kP5kP6kP"
+        , "IOPlW", "nms_Container", "ukFvkFjxFFnxFoxFgpHhpHipHjpH7nI9wH8nI9nI2qK1qKn2Ko2K4tM5tMjnNknNkoNloNooNpoNroNsoNuoNvoNngOogO" , "IOPmW", "nms_RenderFish", "7wEFn1JhqIoiKpiK" , "IOPnW", "nms_Packet$_clinit_$lambda$_12_44", "i7GF3xKsoK" , "IOPoW", "nms_Packet$_clinit_$lambda$_12_43", "h7GF2xKsoK" , "IOPpW", "nms_Packet$_clinit_$lambda$_12_46", "k7GF5xKsoK" , "IOPqW", "nms_Packet$_clinit_$lambda$_12_45", "j7GF4xKsoK" , "IOPrW", "nms_Packet$_clinit_$lambda$_12_48", "m7GF7xKsoK" , "IOPsW", "nms_Packet$_clinit_$lambda$_12_47",
         "l7GF6xKsoK" , "IOPtW", "nms_RenderWolf", "gwEF30JhqIohKphKqvKlhKh0Lt9Kn0Lx9KinMjnMwnMxnM" , "ABCuW", "jur_AbstractCharClass$LazyJavaDigit$1", "4gFF+1FqZ" , "IOPvW", "nms_Packet$_clinit_$lambda$_12_49", "n7GF8xKsoK" , "IJKwW", "nle_Filesystem$FilesystemHandle", "rXF" , "IOPxW", "nms_RenderSpider", "2vEFm0Lx9K+0L79KunMvnMipMjpM98MpnMjtNktN" , "IOPyW", "nms_BlockStem", "9oBFhxDg9Cq+G9jGqgH8oGgsHhqHr8HjnHm+HnqHx+Jy+JwzLo6D7kM8kM0kN1kN37N5pNh8NzrNzwOmlO3xOolO" , "IOPzW", "nms_TextureCompassFX", "z5DF44FliF"
-        , "IOP0W", "nms_BlockGrass", "omBFqwDg9ClgH8oG39H/pH89HhqHw3JouJ2yLo6D2wOolO" , "AR1W", "jl_NullPointerException", "vCF6wBF" , "IOP2W", "nms_BlockStep", "vnBFrxB4B20Cj4B/0CgyB/8Cg9Cn/HlzH43JquJ9uOjkM/vOmlOixOolO+xOqlO" , "ABC3W", "jur_AbstractCharClass$LazyJavaSpaceChar$1", "/gFFl2FqZ" , "IOP4W", "nms_PlayerListEntry", "pzNF" , "IJKL5W", "nlei_PlatformApplication$FileChooserCallbackImpl", "6yI4Q7yI4Bw2Ivdx2IF" , "ABC6W", "jur_LeafQuantifierSet", "7oCF/+GkBo8IysI" , "IOP7W", "nms_AchievementList", "1c2c9pB4B"
+        , "IOP0W", "nms_BlockGrass", "omBFqwDg9ClgH8oG39H/pH89HhqHw3JouJ2yLo6D2wOolO" , "AR1W", "jl_NullPointerException", "vCF6wBF" , "IOP2W", "nms_BlockStep", "vnBFrxB4B20Cj4Bh1CgyB/8Cg9Cn/HlzH43JquJ9uOjkM/vOmlOixOolO+xOqlO" , "ABC3W", "jur_AbstractCharClass$LazyJavaSpaceChar$1", "/gFFl2FqZ" , "IOP4W", "nms_PlayerListEntry", "pzNF" , "IJKL5W", "nlei_PlatformApplication$FileChooserCallbackImpl", "6yI4Q7yI4Bw2Ivdx2IF" , "ABC6W", "jur_LeafQuantifierSet", "7oCF/+GkBo8IysI" , "IOP7W", "nms_AchievementList", "1c2c9pB4B"
         , "AR8W", "jl_Math", "lLmLmcnc2lB3lBosBpsB17CpsB/7Cg8C4qDg8C7qD8qDwmExmEjtEktEltEgkEmtE+jEghGhhGksGlsGmzG/6Ch0Gi0Gk0GmLl2GmLo3Gp3GhvHivHlvHmvHq0Hr0Hz2H02H1kIg8C2kIpsByqImLowIpwIqwIrwIkyIp3Gz4I04IgjKhjK+pOivHzqOr0H1qO02H" , "IOP9W", "nms_ModelBoat", "3yEFq1LshG" , "IJKpD+W", "nleo_FixedFunctionPipeline", "hrEirEjrEzMkrElrE1uE4B2uE3uE4uE5uE8uE9uE+uE/uEmxEnxE4xE5xE3zE4zE7zEF10H20H30H7W40Ho7F" , "IOP/W", "nms_EntitySorter", "glGFv8G30B1iH2iH" , "IOPgX", "nms_IWorldAccess", "k5Ks5Jp5K1wJw5Kx5K5hMz/K/kMp6KilMjlMtmMq8KgqN7hM75O85O"
-        , "ABChX", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierPart", "owCFk5ErzD" , "ABiX", "ju_AbstractSequentialList", "sRF53Cvew6EntCq5Fr2B5sK5D" , "ABCjX", "jur_AbstractCharClass$LazyJavaDefined", "+vCF64ErzD" , "AlEkX", "ji_FileNotFoundException", "n4GFy4GF" , "IOPlX", "nms_MapData", "zpIFhgNyzMkoNloNlrOw8Kz+O0+OkhPlhP" , "A6FmX", "jt_DecimalFormatParser", "+jDF/jDgkDhkDikD8/D9/D+/DwzC5pE6pE7pE8pE9pE+pE" , "IOPnX", "nms_TexturePackBase", "hlEilEqsEFr9Es9E5oF4oF6oF7oFirGhrGu8Jv8J" , "AlEoX", "ji_Writer",
-        "q1GF43GFsvHyrDlqIyrDrnJyrDtrKyrDurKyrDr0NrBx0NrB" , "IJKpDmQ", "nleo_WorldRenderer", "jvDFwvD4B10D20D70D80D90D+0D/0Dg1Dh1Di1Dj1Dk1Dl1Dm1DojEpjEqjErjEsjEtjEwjExjE0jEvhBqhF+iDjkI9kG" , "IOPpX", "nms_J_FieldNodeContainer", "huIFtsK0yIvsKguI" , "ABqX", "ju_Formattable", "q2Gr2G" , "IOPrX", "nms_ItemPickaxe", "/4BF2+B4BhyO43K" , "ABCsX", "jur_PosAltGroupQuantifierSet", "ooCF+2C7jCx8IysI" , "IJKtX", "nle_HFormatter$FloatUtil", "hxGFixGhsEqxGrxGsxGmxG1vHgkH2vHokH3vH4vH5vH6vH" , "IOPuX", "nms_EntityClientPlayerMP",
-        "goNhoNmgOF4qO/nE5qO8/L6qO67D7qOioE8qOpvM9qOnoJ+qOwiG/qO1iGgrO2oHhrOxmNjsO2wMksO9kFx1Oy1O72O82O" , "IOPvX", "nms_GenLayerZoomVoronoi", "y0MF64N1iN" , "IOPwX", "nms_Packet17Sleep", "+gLFqsLimKrsLkmKlwL7/J" , "IJKLiTxX", "nleiv_VFile2", "8M9MuX4Bt4DF2kE3kE4kEF7lE8lE+lEkB/lEgmEhmEimEksElsEmsEnsEzvE0vE6yE7yEr3EOn/E8lE1oFf+oF/oFgpFhpFwqFimE2qF3qFhlGilG5uGjnC3yG4yG3mJ9El4JHm4JJ/mL8lEgnL8lE6pL7pLnsM8lE/gO8lE" , "IOPyX", "nms_ItemArmor", "r5BF9+B4B" , "IOPzX", "nms_WorldGenClay", "zrGFr5O/iN" , "AhCiC0X", "jnc_UnmappableCharacterException",
+        , "ABChX", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierPart", "owCFk5ErzD" , "ABiX", "ju_AbstractSequentialList", "sRF53Cvew6EntCq5Fr2B5sK5D" , "ABCjX", "jur_AbstractCharClass$LazyJavaDefined", "+vCF64ErzD" , "AlEkX", "ji_FileNotFoundException", "n4GFy4GF" , "IOPlX", "nms_MapData", "zpIFhgNyzMhnNinNlrOw8Kz+O0+OkhPlhP" , "A6FmX", "jt_DecimalFormatParser", "+jDF/jDgkDhkDikD8/D9/D+/DwzC5pE6pE7pE8pE9pE+pE" , "IOPnX", "nms_TexturePackBase", "hlEilEqsEFr9Es9E5oF4oF6oF7oFirGhrGu8Jv8J" , "AlEoX", "ji_Writer",
+        "q1GF43GFsvHyrDlqIyrDrnJyrDtrKyrDurKyrDr0NrBx0NrB" , "IJKpDmQ", "nleo_WorldRenderer", "jvDFwvD4B10D20D70D80D90D+0D/0Dg1Dh1Di1Dj1Dk1Dl1Dm1DojEpjEqjErjEsjEtjEwjExjE0jEvhBqhF+iDjkI9kG" , "IOPpX", "nms_J_FieldNodeContainer", "huIFssK0yIwsKguI" , "ABqX", "ju_Formattable", "q2Gr2G" , "IOPrX", "nms_ItemPickaxe", "/4BF2+B4BhyO43K" , "ABCsX", "jur_PosAltGroupQuantifierSet", "ooCF82C7jCx8IysI" , "IJKtX", "nle_HFormatter$FloatUtil", "hxGFixGhsEqxGrxGsxGmxG1vHgkH2vHokH3vH4vH5vH6vH" , "IOPuX", "nms_EntityClientPlayerMP",
+        "4mN5mNmgOF4qO/nE5qO8/L6qO67D7qOioE8qOpvM9qOnoJ+qOwiG/qO1iGgrO2oHhrOumNjsO2wMksO9kFx1Oy1O72O82O" , "IOPvX", "nms_GenLayerZoomVoronoi", "y0MF64N1iN" , "IOPwX", "nms_Packet17Sleep", "+gLFqsLimKrsLkmKlwL7/J" , "IJKLiTxX", "nleiv_VFile2", "8M9MuX4Bt4DF2kE3kE4kEF7lE8lE+lEkB/lEgmEhmEimEksElsEmsEnsEzvE0vE6yE7yEr3EOn/E8lE1oFf+oF/oFgpFhpFwqFimE2qF3qFhlGilG5uGjnC3yG4yG3mJ9El4JHm4JJ/mL8lEgnL8lE6pL7pLnsM8lE/gO8lE" , "IOPyX", "nms_ItemArmor", "r5BF9+B4B" , "IOPzX", "nms_WorldGenClay", "zrGFr5O/iN" , "AhCiC0X", "jnc_UnmappableCharacterException",
         "3iIFsgJT" , "jBqBrBsB6F1X", "otcit_DoubleSynthesizer", "3rK4rK8rK4B9rK+rK" , "IOP2X", "nms_EnumMobType", "uxB4B64BF74Brdx4Cte" , "A6F3X", "jt_DateFormatSymbols", "ybFtlBLpqEqqEsqEtqEuqEvqEwqExqEyqEzqE0qE1qE" , "ABC4X", "jur_UCIDecomposedCharSet", "koCF" , "IOP5X", "nms_BlockTallGrass", "nnBFxwDg9CogH8oG69H/pH+9HhqHmyL+3K/wOolO" , "IlD/JOoK", "npem_FontRenderer", "y3Dz3D03D13DvlEF0rE4BusEvsEz9Ez3D09E19E29E39Et9Fu9Fv9Fw9FqgGrgG8rG9rG2tH3tHn0Ho0HumJvmJrgKsgK08K18K0mM1mM2mM3mMpyMqyMryMsyM" , "jBqB4B5B6B6X",
-        "otrfm_InMemoryVirtualFileSystem", "m8GFk9Gh4G3+HnwH99IqtI" , "IJK7X", "nle_Display", "iHjH+H/HgIhImP4Bx+Cy+Ci/Cj/Cl3Dp/Cg4Dh4Di4DzMj4Dk4Dl4Dm4Dp4Dq4D" , "IOP8X", "nms_MapColor", "y+B4BjiCF" , "pFqFKhL9X", "dceu_I18n", "16DvHpnE4B9yHvH6uI7uI" , "IOP+X", "nms_BlockPistonBase", "lnBFy0Cj4BwwDg9C7zD8zD9zD+zD29G9jG97HjnHg+HnqHj/HlzH3tK64JyyLqrIl2LglLirMjrM+yM/yMgzMhzMk1Ml1M+qN/qNz5NrkNs9NoxN8jO9jOgoOhoO7uOjkM" , "A6F/X", "jt_DateFormatElement$Rfc822Timezone", "giEFm8EvH" , "IOPgY", "nms_ComponentVillageRoadPiece",
-        "miPF" , "ARhY", "jl_IndexOutOfBoundsException", "qCF78CF" , "IOPiY", "nms_RenderCow", "+vEF20JhqImhKnhKpvKlhK" , "IOPjY", "nms_RenderPig", "5vEF/0L79KkpMlpM" , "IOPkY", "nms_GuiAchievement", "1HFs/Ct/Cm3Dn3DlzKmzK4uN5uN" , "IOPlY", "nms_J_JsonNodeSelector", "qkLFtkLyhBnpLopL2qL3qLv/NO" , "IOPmY", "nms_RenderArrow", "zwEF/0JhqI4hK5hK" , "IOPnY", "nms_RenderLightningBolt", "8wEFo1JhqIqiKriK" , "IOPoY", "nms_ChunkCoordinates", "17KFnpNF/pOgqO" , "IOPpY", "nms_BlockSilverfish", "4oBF9wDg9CpyL+3Kz1L1/KonOpnOqnOrnOwwOmlO"
-        , "IOPqY", "nms_ItemSoup", "o5BFq8Oh2O" , "IlDAlErY", "npji_FilterReader", "13HF/oI2tB/iK2tB" , "ARsY", "jl_Long", "7zBvJ47B4B57BFotCptC0nDoB0tD4C3yDHxhEHs3En8C96EOv7EJm/En8CsoFOxpFy+DypF0+DzpF2+D8iG30BgyGhyGkzGOuvIvvIrzIvvIk1ImhEv3Iw3Iy4Ir0H65Ix1Gn9M46B" , "IOPtY", "nms_GuiSlider", "2lIFm/I5wHn/I7wHo/I/hGp/IhiG" , "ABCuY", "jur_SequenceSet$IntHash", "ksCFlsCpN8iK5D" , "IOPvY", "nms_GuiYesNo", "qmIFv/I1+E1/IliGrgJr+E" , "ARwY", "jl_ArithmeticException", "v4IF" , "jBkBpDxY", "olo_GL11", "7+C8+CnoDooD/oDgpDhpDipDjpDkpDlpDmpDnpDopDppDqpDrpDspDo3Dp3Ds3Dt3Du3Dv3D23D33D43D53D83D93Dk5Dl5Dm5Dn5Do5Dp5Dq5Dr5Ds5Dt5D55D65D4jE5jE6jE7jEnlEolE5mE6mE9mE+mEqrErrEgtEhtElkFmkF9rF+rFn9Fo9Fp9Fq9F19F29Fq+Fr+FphGqhG7rGwiE6sG7sGmtGntGotGptGqtGrtGstGttGutGvtGq0Gr0Gi1Gj1GxlHylHzlH0lH8mH9mH6kI7kI"
-        , "IJKLqByY", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageSavedHook$lambda$_1_0", "zzDF95FmF" , "IJKpDzY", "nleo_VSHInputLayoutParser$ShaderInput", "8kBF" , "AX0Y", "jm_MathContext", "zqIFlyIFmyI4Bs1I4wGg2Ih2I" , "IOP1Y", "nms_Packet10Flying", "3gLF8rLimK9rLkmK6vL7/Jn6NtmKw9OF" , "ABC2Y", "jur_AbstractCharClass$LazyJavaLetterOrDigit$1", "+gFFk2FqZ" , "IOP3Y", "nms_EntityCaveSpider", "itJFl8NqtN68Ol6O" , "IOP4Y", "nms_Packet104WindowItems", "jiLFmuLimKyvLkmK0xL7/J" , "ABC5Y", "jur_CharClass$18",
-        "/lDFxyDqZ+2FO" , "ABC6Y", "jur_PossessiveGroupQuantifierSet", "moCFv8IysI" , "ABC7Y", "jur_CharClass$13", "5mDF55EqZ" , "ABC8Y", "jur_CharClass$12", "6mDF65EqZ" , "ABC9Y", "jur_CharClass$11", "3mDF35EqZ" , "jBnQpPmTqP", "oall_Logger", "vGwGpKwGuKvKvLvK3O4OvQFuR4BtX4OoYvK9d+djrBkrB+6C/6Cg7C/6Ch7C/6C91D+1D/1Dg2DtrEurE" , "ABC+Y", "jur_CharClass$10", "4mDF45EqZ" , "ABC/Y", "jur_CharClass$17", "9mDF95EqZ" , "IOPgZ", "nms_BlockTorch", "znBFh2Cj4B69G9jGo/HlzHgzLo6D1zLt7Kp2LglLikMjkMkrMlrMmrMnrMkzMmkMp7M6iM48MkmMs5NpkN"
-        , "ABChZ", "jur_CharClass$16", "+mDF+5EqZ" , "ABCiZ", "jur_CharClass$15", "7mDF75EqZ" , "ABCjZ", "jur_CharClass$14", "8mDF85EqZ" , "IOPkZ", "nms_NetworkManager", "ytEFmlInlIrlIslIklJllJmlJnlJolJqlIplJivG1/J2/J" , "IOPlZ", "nms_GuiSlot", "kmIlmIxmIliG8mIr+E0wIFuxIvxI60I70IvgJwgJxgJljIygJyrHzgJ0gJ1gJ2gJ3gJ4gJ5gJ6gJ7gJ8gJ9gJ+gJ/gJghJhhJihJo9Jp9J" , "IOPmZ", "nms_Packet22Collect", "jhLFiuLimKuvLkmKwwL7/J" , "ARnZ", "jl_StringBuilder", "pBFqBrBsBrBtBOmHrB/QrBgRrBwaFwerBngBrB9mCF+mCfinCjnCzzC9C1zC9Ct3C9Cq4C9Cr+C9C4iD9ChnDl+CknDlnD9nDrB5yD9C6yDrB/yD63B1hE9C3hErBkvErBp3ErB76E9C97E9Ck/ErB3nF9C8qF9Cr5FrB65F9Cj9Fk9F7gGrB5pG9CnxGhBr8G9CkhH9CviH9C/vH9C00H9CqqI+VjwIv+Bi4J+Vj4JsP"
-        , "IOPoZ", "nms_BlockCactus", "ooBF51Cj4Bq2CgyBk+G9jGx8HlnH0/HlzH27IqsIszLo6D22LglL3rM/jM17M6iMt8MmkM" , "IOPpZ", "nms_RenderGiantZombie", "swEFr0Lx9K4nM5nM" , "jBqB4B5B6BqZ", "otrfm_InMemoryVirtualDirectory", "p8GFlsKv4GmsKx4GnsKr4GosKt4GzuK49Jh1Ki1K5xL8lE" , "IOPrZ", "nms_StatFileWriter", "52D62D72D82D/4DFl6Dm6D3sE4sE4yE5yEt+Eu+EqqFrqFrkGskGtkGukG6uG7uG4oH5oH2xI3xIimJjmJkmJlmJ" , "IJKLsZ", "nlei_PlatformInput$asyncRequestAnimationFrame$lambda$_34_0", "hwBFu3Bv3Bj+Bk+B" , "IJKLqBtZ", "nleit_IndexedDBFilesystem$AsyncHandlers$11",
-        "1zIF43IlS64I+e" , "IOPuZ", "nms_GenLayerRiver", "q0MFsvO1iN" , "IJKLqBvZ", "nleit_IndexedDBFilesystem$AsyncHandlers$12", "2zIF53IlS74I+e" , "IJKLqBwZ", "nleit_IndexedDBFilesystem$AsyncHandlers$13", "g1IFk4IlSk5I+e" , "IJKLqBxZ", "nleit_IndexedDBFilesystem$AsyncHandlers$14", "h1IFl4IlSl5I+e" , "IOPyZ", "nms_ComponentMineshaftCross", "niPoiPpiPFwiPg/O6iP+gP" , "IJKLzZ", "nlei_PlatformInput$asyncRequestAnimationFrame$lambda$_34_1", "kwBFw3Bx3Bl+Bm+B" , "IJKLqB0Z", "nleit_IndexedDBFilesystem$AsyncHandlers$10",
+        "otrfm_InMemoryVirtualFileSystem", "m8GFk9Gh4G3+HnwH99IqtI" , "IJK7X", "nle_Display", "iHjH+H/HgIhImP4Bx+Cy+Ci/Cj/Cl3Dp/Cg4Dh4Di4DzMj4Dk4Dl4Dm4Dp4Dq4D" , "IOP8X", "nms_MapColor", "y+B4BjiCF" , "pFqFKhL9X", "dceu_I18n", "16DvHpnE4B9yHvH6uI7uI" , "IOP+X", "nms_BlockPistonBase", "lnBFy0Cj4BwwDg9C7zD8zD9zD+zD29G9jG97HjnHg+HnqHj/HlzH3tK64JyyLqrIl2LglLirMjrM+yM/yMgzMhzMk1Ml1M+qN/qNz5NrkNs9NoxN8jO9jOgoOhoO7uOjkM" , "A6F/X", "jt_DateFormatElement$Rfc822Timezone", "giEFl8EvH" , "IOPgY", "nms_ComponentVillageRoadPiece",
+        "viPF" , "ARhY", "jl_IndexOutOfBoundsException", "qCF78CF" , "IOPiY", "nms_RenderCow", "+vEF20JhqImhKnhKpvKlhK" , "IOPjY", "nms_RenderPig", "5vEF/0L79KkpMlpM" , "IOPkY", "nms_GuiAchievement", "1HFs/Ct/Cm3Dn3DlzKmzK4uN5uN" , "IOPlY", "nms_J_JsonNodeSelector", "qkLFtkLyhBnpLopL2qL3qLv/NO" , "IOPmY", "nms_RenderArrow", "zwEF/0JhqI4hK5hK" , "IOPnY", "nms_RenderLightningBolt", "8wEFo1JhqIqiKriK" , "IOPoY", "nms_ChunkCoordinates", "17KFnpNF/pOgqO" , "IOPpY", "nms_BlockSilverfish", "4oBF9wDg9CpyL+3Kz1L1/KonOpnOqnOrnOwwOmlO"
+        , "IOPqY", "nms_ItemSoup", "o5BFq8Oh2O" , "IlDAlErY", "npji_FilterReader", "13HF/oI2tB/iK2tB" , "ARsY", "jl_Long", "7zBvJ47B4B57BFotCptC0nDoB0tD4C3yDHxhEHs3En8C96EOv7EJm/En8CsoFOxpFy+DypF0+DzpF2+D8iG30BgyGhyGkzGOuvIvvIrzIvvIk1ImhEv3Iw3Iy4Ir0H65Ix1Gn9M46B" , "IOPtY", "nms_GuiSlider", "2lIFm/I5wHn/I7wHo/I/hGp/IhiG" , "ABCuY", "jur_SequenceSet$IntHash", "ksCFlsCpN8iK5D" , "IOPvY", "nms_GuiYesNo", "qmIFr/I1+Ex/IliGngJr+E" , "ARwY", "jl_ArithmeticException", "v4IF" , "jBkBpDxY", "olo_GL11", "7+C8+CnoDooD/oDgpDhpDipDjpDkpDlpDmpDnpDopDppDqpDrpDspDo3Dp3Ds3Dt3Du3Dv3D23D33D43D53D83D93Dk5Dl5Dm5Dn5Do5Dp5Dq5Dr5Ds5Dt5D55D65D4jE5jE6jE7jEnlEolE5mE6mE9mE+mEqrErrEgtEhtElkFmkF9rF+rFn9Fo9Fp9Fq9F19F29Fq+Fr+FphGqhG7rGwiE6sG7sGmtGntGotGptGqtGrtGstGttGutGvtGq0Gr0Gi1Gj1GxlHylHzlH0lH8mH9mH6kI7kI"
+        , "IJKLqByY", "nleit_TeaVMClientConfigAdapterHooks$callLocalStorageSavedHook$lambda$_1_0", "zzDF95FmF" , "IJKpDzY", "nleo_VSHInputLayoutParser$ShaderInput", "8kBF" , "AX0Y", "jm_MathContext", "zqIFlyIFmyI4Bs1I4wGg2Ih2I" , "IOP1Y", "nms_Packet10Flying", "3gLF8rLimK9rLkmK5vL7/Jn6NtmKw9OF" , "ABC2Y", "jur_AbstractCharClass$LazyJavaLetterOrDigit$1", "+gFFk2FqZ" , "IOP3Y", "nms_EntityCaveSpider", "xsJFl8NqtN68Ol6O" , "IOP4Y", "nms_Packet104WindowItems", "jiLF3tLimKjvLkmKrxL7/J" , "ABC5Y", "jur_CharClass$18",
+        "/lDFxyDqZ92FO" , "ABC6Y", "jur_PossessiveGroupQuantifierSet", "moCFv8IysI" , "ABC7Y", "jur_CharClass$13", "5mDF55EqZ" , "ABC8Y", "jur_CharClass$12", "6mDF65EqZ" , "ABC9Y", "jur_CharClass$11", "3mDF35EqZ" , "jBnQpPmTqP", "oall_Logger", "vGwGpKwGuKvKvLvK3O4OvQFuR4BtX4OoYvK9d+djrBkrB+6C/6Cg7C/6Ch7C/6C91D+1D/1Dg2DtrEurE" , "ABC+Y", "jur_CharClass$10", "4mDF45EqZ" , "ABC/Y", "jur_CharClass$17", "9mDF95EqZ" , "IOPgZ", "nms_BlockTorch", "znBFg2Cj4B69G9jGo/HlzHgzLo6D1zLt7Kp2LglLikMjkMkrMlrMmrMnrMkzMmkMp7M6iM48MkmMs5NpkN"
+        , "ABChZ", "jur_CharClass$16", "+mDF+5EqZ" , "ABCiZ", "jur_CharClass$15", "7mDF75EqZ" , "ABCjZ", "jur_CharClass$14", "8mDF85EqZ" , "IOPkZ", "nms_NetworkManager", "ytEFmlInlIrlIslIklJllJmlJnlJolJqlIplJivG1/J2/J" , "IOPlZ", "nms_GuiSlot", "kmIlmIxmIliG8mIr+E0wIFuxIvxI60I70IvgJwgJxgJljIygJyrHzgJ0gJ1gJ2gJ3gJ4gJ5gJ6gJ7gJ8gJ9gJ+gJ/gJghJhhJihJo9Jp9J" , "IOPmZ", "nms_Packet22Collect", "jhLFntLimKzuLkmKxwL7/J" , "ARnZ", "jl_StringBuilder", "pBFqBrBsBrBtBOmHrB/QrBgRrBwaFwerBngBrB9mCF+mCfinCjnCzzC9C1zC9Ct3C9Cq4C9Cr+C9C4iD9ChnDl+CknDlnD9nDrB5yD9C6yDrB/yD63B1hE9C3hErBkvErBp3ErB76E9C97E9Ck/ErB3nF9C8qF9Cr5FrB65F9Cj9Fk9F7gGrB5pG9CnxGhBr8G9CkhH9CviH9C/vH9C00H9CqqI+VjwIv+Bi4J+Vj4JsP"
+        , "IOPoZ", "nms_BlockCactus", "ooBF41Cj4Bq2CgyBk+G9jGx8HlnH0/HlzH27IqsIszLo6D22LglL3rM/jM17M6iMt8MmkM" , "IOPpZ", "nms_RenderGiantZombie", "swEFr0Lx9K4nM5nM" , "jBqB4B5B6BqZ", "otrfm_InMemoryVirtualDirectory", "p8GFlsKv4GmsKx4GnsKr4GosKt4GzuK49Jh1Ki1K5xL8lE" , "IOPrZ", "nms_StatFileWriter", "52D62D72D82D/4DFl6Dm6D3sE4sE4yE5yEt+Eu+EqqFrqFrkGskGtkGukG6uG7uG4oH5oH2xI3xIimJjmJkmJlmJ" , "IJKLsZ", "nlei_PlatformInput$asyncRequestAnimationFrame$lambda$_34_0", "hwBFu3Bv3Bj+Bk+B" , "IJKLqBtZ", "nleit_IndexedDBFilesystem$AsyncHandlers$11",
+        "1zIF43IlS64I+e" , "IOPuZ", "nms_GenLayerRiver", "q0MFsvO1iN" , "IJKLqBvZ", "nleit_IndexedDBFilesystem$AsyncHandlers$12", "2zIF53IlS74I+e" , "IJKLqBwZ", "nleit_IndexedDBFilesystem$AsyncHandlers$13", "g1IFk4IlSk5I+e" , "IJKLqBxZ", "nleit_IndexedDBFilesystem$AsyncHandlers$14", "h1IFl4IlSl5I+e" , "IOPyZ", "nms_ComponentMineshaftCross", "iiPjiPkiPFwiPg/O3iP+gP" , "IJKLzZ", "nlei_PlatformInput$asyncRequestAnimationFrame$lambda$_34_1", "kwBFw3Bx3Bl+Bm+B" , "IJKLqB0Z", "nleit_IndexedDBFilesystem$AsyncHandlers$10",
         "90IFj4IlSj5I+e" , "IOP1Z", "nms_RecipesFood", "3lCF4lCylC" , "IOP2Z", "nms_GenLayerDownfallMix", "40MF94N1iN" , "IJKL3Z", "nlei_PlatformInput$initHooks$lambda$_3_0", "iZF+jBhG8vBzI" , "IOP4Z", "nms_RenderSquid", "vwEF80JhqIyhKzhKvvKlhKj0Lt9Kl0Lv9Kt0Lx9KmnMnnMsnMtnM8nM9nM" , "IOP5Z", "nms_J_JsonNodeFactories", "u2Iv2I59J69Ji+Jj+JukLvkLnqLoqLspNtpNupNvpNwpNxpN" , "IJKL6Z", "nlei_PlatformInput$initHooks$lambda$_3_1", "0ZFikBhGgwBzI" , "AR7Z8Z", "jlr_SoftReference", "jpLF53L5D" , "IOP9Z", "nms_ComponentStrongholdRoomCrossing",
-        "klPllPzlP4B0lPF/lP+gPlmPg/O" , "IJKL+Z", "nlei_PlatformInput$VKeyEvent", "w/DF" , "IJK/Z", "nle_HFormatter$FormatToken", "inFjnFknFlnFmnFnnFrnFsnFumGFvmGwmG0vG1vG5vG6vG9vG+vG/vGgwGhwGiwGjwGkwGlwGmwGnwGowGpwGqwGrwGswGtwGuwGwwGxwGywGzwG3wG4wG3xG/Hu1Gv1G9iH+iH" , "ARga", "jl_IncompatibleClassChangeError", "uBF" , "EFUha", "cjj_Lookup", "7jL8jL9jL+jL/jLgkLhkLikL3nL4B" , "ABCia", "jur_AbstractCharClass$LazyASCII", "xvCFt4ErzD" , "IOPja", "nms_NBTTagString", "n2EF63E61Es4FqkCw6FOsqGF5gH40F" , "IOPka", "nms_ModelEnderman",
-        "zyEFovKsiH" , "ABCla", "jur_Quantifier", "hnCFjxDOlpJg8CmpJpsB" , "IOPma", "nms_Packet131MapData", "oiLF7tLimKnvLkmKmxL7/J" , "IOPna", "nms_Packet200Statistic", "piLFstLimK4uLkmKjxL7/J" , "IOPoa", "nms_Packet8UpdateHealth", "1gLF4rLimK5rLkmKpwL7/J" , "IOPpa", "nms_StructureStrongholdStart", "n9OF" , "IJKLqBqa", "nleit_TeaVMClientConfigAdapterHooks$lambda$callCrashReportHook$4$lambda$_14_0", "wzGFh3GhGs5GzI" , "IOPra", "nms_TileEntityMobSpawnerRenderer", "42HFvyLzhIuiMviM" , "IOPsa", "nms_MapStorage",
-        "xtEFsxEtxEi8Kj8Kk8KwpIl8Km8KwmLxmLlsMmsM" , "IOPta", "nms_RenderSilverfish", "jwEF50JhqIshKthKsvKlhKh1L79KopMppM+8MpnMltNmtN" , "IOPua", "nms_ChunkProvider", "wiLFwsLjzIxsLh6KysLj7KzsL37K0sL57K1sLh8K2sL74K16L26Lh7Li7Lj7Lk7Lp7Lq7L75NvlN" , "IJKLqBva", "nleit_TeaVMWebSocketClient", "wwIF35Ii0D45I2hBq3J/qJhkKikK/rKnlI8uK/qJ" , "ABCwa", "jur_ReluctantQuantifierSet", "4oCF+8IysI" , "IOPxa", "nms_StructureVillagePieces", "m/On/OrgPsgPvhPwhP1mP2mP+mP/mPknPlnPmnPnnPsnPtnP" , "IOPya", "nms_J_JsonConstants",
-        "l1N4Bv1NFrrOqkCurOyqDxrOm0E0rOr0E" , "IOPza", "nms_BlockFlower", "snBF10Cj4By9G9jG/+HlzH+yLo6D91LglL8jM9jMgkM/jMk7M6iMk8MmkM0rNzrN" , "ABC0a", "jur_AtomicJointSet", "1gCFg3C7jC9+GkBl8IysI" , "IJKlM1a", "nlep_EaglerProfile$EaglerProfileSkin", "guFF" , "IOP2a", "nms_WorldGenPumpkin", "05OF15O/iN" , "ABC3a", "jur_EOISet", "kpCF0/GkBn9IysI02JopJ" , "IOP4a", "nms_EntityLiving", "66D56DnjFojFpjFqjFvjFwjFs/Ft/F4tH5tH6tH7tH+pI/pItsJF9vJuxF0yJ/yF5mK6mKwzKxzKw0Kx0K1jL2jLmlLnlLylLzlLqmLrmLu3L5nJi4L9kF+4LnoJq5Lp0Ky5L6jF5/L30K6oM7oM8pM9pM0tM1tM6tM5tMovMpvMsvMtvMuvMvvMwvMxvMyvMzvM1wM2wMg+MruM5/M7zMliNmiNlnNmnNsnNtnNgvNhvNivNjvNkvNlvNmvNnvNovNpvNsvNtvNyvNzvNpwNowN0wN1wNpxNqxNrxNsxNtxN1wNuxNvxNwxNxxN0xN1xN/zNzmM20N30N53NrmN63NknNg5N/jN+7N4rNphOqhOthOuhOvhOxoNvmOwmOxmOymOvnOwnOznO0nOooOpoO0sO9nO32O42O98O16O"
-        , "AB5a", "ju_MapEntry", "ztDFh4EJm4EH/6EOu4FtzEv4FyhB" , "AlE6a", "ji_UTFDataFormatException", "g3GF" , "jBqB4B5B6B7a", "otrfm_InMemoryVirtualFile", "g1KFz3Lv4G03Lx4G13Lr4G23Lt4G33L8lE43L49J1jN2jN" , "IOP8a", "nms_BlockLockedChest", "0oBFv2CgyB03JouJvzLo6Dz8MmkM" , "IOP9a", "nms_RecipesCrafting", "5lCF6lCylC" , "IOP+a", "nms_EntitySnowShovelFX", "rtMF4zMFwhN7mHyhN9kF" , "IOP/a", "nms_ComponentMineshaftStairs", "siPtiPuiPFxiPg/O5iP+gP" , "IOPgb", "nms_Packet60Explosion", "7hLFztLimK/uLkmKyxL7/J" , "A6Fhb",
-        "jt_DateFormatElement$WeekdayText", "niEFi8EvHs8EH28EJ" , "ABib", "ju_TreeMap$EntrySet", "liMFz2Mve2iN3iN4iN5iN" , "EFUjb", "cjj_Lpc", "4+KhP3mLF" , "IOPkb", "nms_EntitySplashFX", "ntMF" , "IJKLqBpOlb", "nleito_JSEaglercraftXOptsHooks", "w1Dx1Dy1Dz1D01D11D21D31D" , "IOPmb", "nms_NBTBase", "szEtzE50E60E11E21E51E61Eq2EFtgFqkCj0Fk0F30F40FtqGuqG9qG+qG" , "IOPnb", "nms_WorldBlockPositionType", "ygOF" , "IOPob", "nms_GuiSleepMP", "i9DFr6Em9Dn3Fr+Ev3F1+E73Fh/E6iG7iGs9GliG" , "AlEpb", "ji_FilterInputStream",
-        "xhCFu7C2tB4kD2tBpzE2hBw3E2tB" , "IJKqbrbsbtb", "nlesse_RandomAccessMemoryFile", "4pLF5pLsC8pLrtH9pLyrD/pL44GgqLlgFvsM+iDwsM2tB3jNy/J6jOyrDsoO01EtoO2tB7pO00F8pOyrD24O34Ot6OuhF" , "AhCiC6I", "jnc_BufferUnderflowException", "0iIF" , "IJKLub", "nlei_OpenGLObjects$BufferGL", "wfF0sB4B4yDH" , "IOPvb", "nms_NetClientHandler", "nnEFhvGivG+kI/kIklIllIplIqlI6uK4/J7uK9/Jq5Mo8Lr5Mq8Ls5Ms8Lt5Mu8Lu5My8Lv5M28Lw5M68Lx5M88Ly5M+8Lz5Mg9L05Mk9L15Mm9L25Mo9L35Mq9L45Mu9L55Mw9L65My9L75M29L85M49L95M69L+5M89L/5M+9Lg6Mg+Lh6Mi+Li6Mk+Lj6Mm+Lk6Mo+Ll6Mq+Lm6Ms+Ln6Mw+Lo6My+Lp6M0+Lq6M2+Lr6M4+Ls6M6+Lt6M8+Lu6M++Lv6Mg/Lw6Mi/Lx6Mk/Ly6Mm/Lz6Mo/L06Mq/L16Ms/L26Mu/L36My/L46M0/L56M2/L66M4/LomNpmN2kO3kO"
-        , "ARwb", "jl_Appendable", "onFrB" , "IOPxb", "nms_StructureBoundingBox", "i+Oj+Ok+OFz/OFtgPugPvgPwgPzgP0gP7gP8gPphPqhPrhPshPthPuhPiiPjiP4iPO3jP4jP" , "IJKyb", "nle_HFormatter$MissingFormatArgumentException", "kvFF" , "IlD/Jzb0b1b", "npevv_Vec3D_112", "+rEF/rE6/ByvE4B" , "AB2b", "ju_IllegalFormatConversionException", "/wGF" , "EFU3b", "cjj_DspState", "t4Hu4Hv4Hw4Hx4Hy4H/4H7Uk5HFt5Hu5HjuIhPmqJnqJ" , "IOP4b", "nms_SaveFormatComparator", "4lJurF5lJ6lJ/lJgmJ45JF47J57J67J77J87J97J5yKn8CpjLqjL" , "IOP5b",
-        "nms_TextureWatchFX", "05DF54FliF" , "IOP6b", "nms_Packet38EntityStatus", "whLFkuLimKwvLkmKxxL7/J" , "AR7b", "jl_Object", "KLNOiBDlBmByBFnQoQpQqQrQsQtQuQkWJ7coQ8c9cidsQjdkdgqBhqB3yB4yB5yBhqB18C28C38C48CqnDH1nD2nDr1Ds1D" , "IOP8b", "nms_GuiSmallButton", "3lIF4lIF5lI6lIxnIF" , "IJKLqB9b", "nleit_LegacyKeycodeTranslator$LegacyKeycode", "wjBFz/DJ" , "IOP+b", "nms_MapGenStronghold", "wyMFh8O71Ok8O91O" , "ABC/b", "jur_LeafSet", "9jCFtrCFg+C/9C/7IysI0oJ1oJt2JopJ" , "ABCgc", "jur_JointSet", "5gCF+jCFl1C+gC/2C7jCn3CukC++GkBn8IysIo2JopJ"
-        , "IJKLMhc", "nleib_EaglerArrayFloatBuffer", "6rBF80CpN90CmT+vD7U/vDpN78G01B88G5D98G01B/8G21Bg9G5D" , "pFqFKicjc", "dceg_GuiScreenYap", "9uGFm1G4B9gH1+E+gH9+E/gHw7DghH/6DhhHr+E" , "IOPkc", "nms_Potion", "++B4BoiCFpiCqiCn6Oo6Ox+Oy+O" , "IJKLMlc", "nleib_IntBuffer", "oNpN3UpN4UmT6U7Ux0BFnrEorEprE5Dq9E5D/rF01BgsF21BywFpN5kIx1B" , "ABmc", "ju_LinkedList$Entry", "rrHF" , "IJKpDnc", "nleo_WorldVertexBufferUploader", "n1Do1D" , "IOPoc", "nms_NBTTagFloat", "k2EF33E61Ep4FqkCv6FO2gH40F+2OF" , "ARpc", "jl_InternalError",
-        "77GF" , "IOPqc", "nms_BlockDetectorRail", "knBFz7IqsIgoJhoJsvJtvJ8vK9lK9yLo6Dj9N8wN1tO0gO" , "ABCrc", "jur_HangulDecomposedCharSet", "7nCFr1C7jC32CukC29C39Cm/GkBt8IysIu2JopJ" , "IJKsc", "nle_KeyboardConstants", "q/Dr/D0pE4BouEpuEquEruEvmKjgK" , "IOPtc", "nms_Packet11PlayerPosition", "4gLF+rLimK/rLkmKo6NtmKv9OF" , "IJKuc", "nle_EagRuntime", "3E4E8E9E+E/EpG4BqGrGtGuGkHlHjJ/EhXiXnaiLtauaza0a2a3aziB0iBiuBjuBviCwiCnnDonDrqDsqDh3Di3DutEvtE0uEsN20E30EqiFriFsiFtiFxiFyiF9wF+wF0gG1gG2gG3gG4gG5gG+uG/uG2zGtW4zGvWroHsoHtvHuvHs0Ht0H/lIgmIuyIvyIkiOliO"
-        , "jBqB4B5B6Bvc", "otrfm_InMemoryVirtualFile$1", "0sMFj3M2hBk3MyrDl3MrMm3M44Gn3MtwHo3M2tB" , "IJKOwc", "nlem_FontMappingHelper", "vlHwlH" , "IOPxc", "nms_ComponentStrongholdStairsStraight", "mlPnlP1lPFgmP+gPpmPg/O" , "IJKLyc", "nlei_PlatformRuntime$immediateContinueTeaVM0$lambda$_49_2", "w9BF0hCx3B/kCm+B" , "IJKLzc", "nlei_PlatformRuntime$immediateContinueTeaVM0$lambda$_49_1", "v9BFzhCx3B+kCm+B" , "AX0c", "jm_Multiplication", "o1Ip1Ix1Iy1Io4I4Bp4Iq4Io5Ip5Iq5Ir5I9hJlsGksJt4IguJhuJgvJhvJ6vJ7vJtxJuxJ0xJ1xJ2xJ3xJ5rKp5I"
+        "klPllPzlP4B0lPF/lP+gPrmPg/O" , "IJKL+Z", "nlei_PlatformInput$VKeyEvent", "w/DF" , "IJK/Z", "nle_HFormatter$FormatToken", "inFjnFknFlnFmnFnnFrnFsnFumGFvmGwmG0vG1vG5vG6vG9vG+vG/vGgwGhwGiwGjwGkwGlwGmwGnwGowGpwGqwGrwGswGtwGuwGwwGxwGywGzwG3wG4wG3xG/Hu1Gv1G9iH+iH" , "ARga", "jl_IncompatibleClassChangeError", "uBF" , "EFUha", "cjj_Lookup", "7jL8jL9jL+jL/jLgkLhkLikL3nL4B" , "ABCia", "jur_AbstractCharClass$LazyASCII", "xvCFt4ErzD" , "IOPja", "nms_NBTTagString", "n2EF63E61Es4FqkCw6FOsqGF5gH40F" , "IOPka", "nms_ModelEnderman",
+        "zyEFovKsiH" , "ABCla", "jur_Quantifier", "hnCFjxDOlpJg8CmpJpsB" , "IOPma", "nms_Packet131MapData", "oiLF/tLimKrvLkmKzwL7/J" , "IOPna", "nms_Packet200Statistic", "piLF9sLimKpuLkmKvwL7/J" , "IOPoa", "nms_Packet8UpdateHealth", "1gLF4rLimK5rLkmKnwL7/J" , "IOPpa", "nms_StructureStrongholdStart", "n9OF" , "IJKLqBqa", "nleit_TeaVMClientConfigAdapterHooks$lambda$callCrashReportHook$4$lambda$_14_0", "wzGFh3GhGs5GzI" , "IOPra", "nms_TileEntityMobSpawnerRenderer", "42HFvyLzhIuiMviM" , "IOPsa", "nms_MapStorage",
+        "xtEFsxEtxEi8Kj8Kk8KwpIl8Km8KwmLxmLlsMmsM" , "IOPta", "nms_RenderSilverfish", "jwEF50JhqIshKthKsvKlhKh1L79KopMppM+8MpnMltNmtN" , "IOPua", "nms_ChunkProvider", "wiLFwsLjzIxsLh6KysLj7KzsL37K0sL57K1sLh8K2sL74K16L26Lh7Li7Lj7Lk7Lp7Lq7L75NvlN" , "IJKLqBva", "nleit_TeaVMWebSocketClient", "wwIF35Ii0D45I2hBq3J/qJhkKikK/rKnlI8uK/qJ" , "ABCwa", "jur_ReluctantQuantifierSet", "4oCF+8IysI" , "IOPxa", "nms_StructureVillagePieces", "m/On/O1gP2gPyhPzhP1mP2mP+mP/mPknPlnPmnPnnPsnPtnP" , "IOPya", "nms_J_JsonConstants",
+        "l1N4Bv1NFrrOqkCurOyqDxrOm0E0rOr0E" , "IOPza", "nms_BlockFlower", "snBF10Cj4By9G9jG/+HlzH+yLo6D91LglL8jM9jMgkM/jMk7M6iMk8MmkM0rNzrN" , "ABC0a", "jur_AtomicJointSet", "1gCF/2C7jC9+GkBl8IysI" , "IJKlM1a", "nlep_EaglerProfile$EaglerProfileSkin", "guFF" , "IOP2a", "nms_WorldGenPumpkin", "05OF15O/iN" , "ABC3a", "jur_EOISet", "kpCF0/GkBn9IysI02JopJ" , "IOP4a", "nms_EntityLiving", "66D56DnjFojFpjFqjFvjFwjFs/Ft/F4tH5tH6tH7tH+pI/pIssJF9vJuxF0yJ/yF5mK6mKwzKxzKw0Kx0K1jL2jLmlLnlLylLzlLqmLrmLu3L5nJj4L9kF+4LnoJq5Lp0Ky5L6jF5/L30K6oM7oM8pM9pMwtMxtMouMnuMovMpvMsvMtvMuvMvvMwvMxvMyvMzvM1wM2wMj+MxuM5/M7zMliNmiNxnNynNmoNnoNgvNhvNivNjvNkvNlvNmvNnvNovNpvNsvNtvNyvNzvNpwNowN0wN1wNpxNqxNrxNsxNtxN1wNuxNvxNwxNxxN0xN1xN/zNzmM20N30N53NsmN73NrnNg5N/jN+7N4rNnhO3mNqhOrhOuhOvhOvmOwmOxmOymOvnOwnOznO0nOooOpoO0sO9nO32O42O98O16O"
+        , "AB5a", "ju_MapEntry", "ztDFh4EJm4EH/6EOu4FtzEv4FyhB" , "AlE6a", "ji_UTFDataFormatException", "g3GF" , "jBqB4B5B6B7a", "otrfm_InMemoryVirtualFile", "g1KFz3Lv4G03Lx4G13Lr4G23Lt4G33L8lE43L49J1jN2jN" , "IOP8a", "nms_BlockLockedChest", "0oBFv2CgyB03JouJvzLo6Dz8MmkM" , "IOP9a", "nms_RecipesCrafting", "5lCF6lCylC" , "IOP+a", "nms_EntitySnowShovelFX", "rtMF4zMFwhN7mHyhN9kF" , "IOP/a", "nms_ComponentMineshaftStairs", "niPoiPpiPFxiPg/O4iP+gP" , "IOPgb", "nms_Packet60Explosion", "7hLFmtLimKyuLkmKwwL7/J" , "A6Fhb",
+        "jt_DateFormatElement$WeekdayText", "niEFr8EvH18EH/8EJ" , "ABib", "ju_TreeMap$EntrySet", "liMFz2Mve2iN3iN4iN5iN" , "EFUjb", "cjj_Lpc", "4+KhP3mLF" , "IOPkb", "nms_EntitySplashFX", "ntMF" , "IJKLqBpOlb", "nleito_JSEaglercraftXOptsHooks", "w1Dx1Dy1Dz1D01D11D21D31D" , "IOPmb", "nms_NBTBase", "szEtzE50E60E11E21E51E61Eq2EFtgFqkCj0Fk0F30F40FtqGuqG9qG+qG" , "IOPnb", "nms_WorldBlockPositionType", "ygOF" , "IOPob", "nms_GuiSleepMP", "i9DFr6Em9Dn3Fr+Ev3F1+E73Fh/E6iG7iGs9GliG" , "AlEpb", "ji_FilterInputStream",
+        "xhCFu7C2tB4kD2tBpzE2hBw3E2tB" , "IJKqbrbsbtb", "nlesse_RandomAccessMemoryFile", "4pLF5pLsC8pLrtH9pLyrD/pL44GgqLlgFvsM+iDwsM2tB3jNy/J6jOyrDsoO01EtoO2tB7pO00F8pOyrD24O34Ot6OuhF" , "AhCiC6I", "jnc_BufferUnderflowException", "0iIF" , "IJKLub", "nlei_OpenGLObjects$BufferGL", "wfF0sB4B4yDH" , "IOPvb", "nms_NetClientHandler", "nnEFhvGivG+kI/kIklIllIplIqlI6uK4/J7uK9/Jq5Mm8Lr5Mo8Ls5Mq8Lt5Ms8Lu5Mw8Lv5M28Lw5M48Lx5M88Ly5M+8Lz5Mi9L05Mk9L15Mm9L25Mo9L35Ms9L45Mu9L55Mw9L65My9L75M09L85M29L95M49L+5M69L/5M89Lg6M+9Lh6Mg+Li6Mi+Lj6Mk+Lk6Mo+Ll6Mq+Lm6Mu+Ln6Mw+Lo6My+Lp6M0+Lq6M4+Lr6M6+Ls6M8+Lt6M++Lu6Mg/Lv6Mi/Lw6Mk/Lx6Mm/Ly6Mo/Lz6Mq/L06Ms/L16Mu/L26Mw/L36My/L46M0/L56M2/L66M4/LpmNqmN2kO3kO"
+        , "ARwb", "jl_Appendable", "onFrB" , "IOPxb", "nms_StructureBoundingBox", "i+Oj+Ok+OFz/OFpgPqgPrgPsgPvgPwgP7gP8gPphPqhPrhPshPthPuhPriPsiP6iPOlkPmkP" , "IJKyb", "nle_HFormatter$MissingFormatArgumentException", "kvFF" , "IlD/Jzb0b1b", "npevv_Vec3D_112", "+rEF/rE6/ByvE4B" , "AB2b", "ju_IllegalFormatConversionException", "/wGF" , "EFU3b", "cjj_DspState", "t4Hu4Hv4Hw4Hx4Hy4H/4H7Uk5HFt5Hu5HjuIhPmqJnqJ" , "IOP4b", "nms_SaveFormatComparator", "4lJtrF5lJ6lJ/lJgmJ45JF47J57J67J77J87J97J6yKn8CpjLqjL" , "IOP5b",
+        "nms_TextureWatchFX", "05DF54FliF" , "IOP6b", "nms_Packet38EntityStatus", "whLFitLimKuuLkmKswL7/J" , "AR7b", "jl_Object", "KLNOiBDlBmByBFnQoQpQqQrQsQtQuQkWJ7coQ8c9cidsQjdkdgqBhqB3yB4yB5yBhqB18C28C38C48CqnDH1nD2nDr1Ds1D" , "IOP8b", "nms_GuiSmallButton", "3lIF4lIF5lI6lIxnIF" , "IJKLqB9b", "nleit_LegacyKeycodeTranslator$LegacyKeycode", "wjBFz/DJ" , "IOP+b", "nms_MapGenStronghold", "wyMFh8O71Ok8O91O" , "ABC/b", "jur_LeafSet", "9jCFtrCF69C59C/7IysI0oJ1oJt2JopJ" , "ABCgc", "jur_JointSet", "5gCF+jCFl1C+gCg3C7jCn3CukC++GkBn8IysIo2JopJ"
+        , "IJKLMhc", "nleib_EaglerArrayFloatBuffer", "6rBF80CpN90CmT+vD7U/vDpN78G01B88G5D98G01B/8G21Bg9G5D" , "pFqFKicjc", "dceg_GuiScreenYap", "9uGFm1G4B9gH1+E+gH9+E/gHw7DghH/6DhhHr+E" , "IOPkc", "nms_Potion", "++B4BoiCFpiCqiCn6Oo6Ox+Oy+O" , "IJKLMlc", "nleib_IntBuffer", "oNpN3UpN4UmT6U7Ux0BFnrEorEprE5Dq9E5D/rF01BgsF21BywFpN5kIx1B" , "ABmc", "ju_LinkedList$Entry", "rrHF" , "IJKpDnc", "nleo_WorldVertexBufferUploader", "n1Do1D" , "IOPoc", "nms_NBTTagFloat", "k2EF33E61Ep4FqkCn6FO2gH40F+2OF" , "ARpc", "jl_InternalError",
+        "77GF" , "IOPqc", "nms_BlockDetectorRail", "knBFz7IqsIgoJhoJsvJtvJ8vK9lK9yLo6Dj9N8wN1tO0gO" , "ABCrc", "jur_HangulDecomposedCharSet", "7nCFr1C7jC72CukCg+C99Cm/GkBt8IysIu2JopJ" , "IJKsc", "nle_KeyboardConstants", "q/Dr/D0pE4BouEpuEquEruEvmKjgK" , "IOPtc", "nms_Packet11PlayerPosition", "4gLF+rLimK/rLkmKo6NtmKv9OF" , "IJKuc", "nle_EagRuntime", "3E4E8E9E+E/EpG4BqGrGtGuGkHlHjJ/EhXiXnaiLtauaza0a2a3aziB0iBiuBjuBviCwiCnnDonDrqDsqDh3Di3DutEvtE0uEsN20E30EqiFriFsiFtiFxiFyiF9wF+wF0gG1gG2gG3gG4gG5gG+uG/uG2zGtW4zGvWroHsoHtvHuvHs0Ht0H/lIgmIuyIvyIkiOliO"
+        , "jBqB4B5B6Bvc", "otrfm_InMemoryVirtualFile$1", "0sMFj3M2hBk3MyrDl3MrMm3M44Gn3MtwHo3M2tB" , "IJKOwc", "nlem_FontMappingHelper", "vlHwlH" , "IOPxc", "nms_ComponentStrongholdStairsStraight", "mlPnlP1lPF+lP+gPmmPg/O" , "IJKLyc", "nlei_PlatformRuntime$immediateContinueTeaVM0$lambda$_49_2", "w9BF0hCx3B/kCm+B" , "IJKLzc", "nlei_PlatformRuntime$immediateContinueTeaVM0$lambda$_49_1", "v9BFzhCx3B+kCm+B" , "AX0c", "jm_Multiplication", "o1Ip1Ix1Iy1Io4I4Bp4Iq4Io5Ip5Iq5Ir5I9hJlsGksJt4IguJhuJgvJhvJ6vJ7vJtxJuxJ0xJ1xJ2xJ3xJ5rKp5I"
         , "IJKL1c", "nlei_PlatformRuntime$immediateContinueTeaVM0$lambda$_49_0", "t9BFz6EmF" , "AB2c", "ju_LinkedHashMapKeySet", "klOFjrOvekrOrM" , "IOP3c", "nms_Vec3D", "w+CoKloD4BlqDmqDotDF39D49DtjFujFxjFyjFouFpuF/wFgxF66FOssGtsG3gI4gI5gI6gI7gI8gIjhIkhI1qJ2qJ3qJ4qJ5qJ6/B++J/+Jg/Jh/Jw+Kx+K8mOkhI" , "jBqB4B5B6B4c", "otrfm_VirtualFileImpl", "9qIFz5Iv4G05Ix4G15Ir4G25It4Go7IjnCjhJkhJ" , "IJKL5c", "nlei_ITextureGL", "svEtvEuvEvvEwvE/HxvEhI5zG6zGm3Gn3G" , "EFU6c", "cjj_FuncTime", "riIqiI1vI4Bz3IFvqJouIojKsqJ" , "IOP7c",
-        "nms_RecipeSorter", "lmCFo1C30Br9Cs9C" , "IOP8c", "nms_GenLayerZoom", "m0MFn0Mo0MqvO1iNm4On4Oo4Op4O" , "IOP9c", "nms_Explosion", "rhMFshMthMuhMvhM" , "IOP+c", "nms_PlayerControllerMP", "lmNmmNnmNFr2Nn/Cs2N06Dt2Nh8Du2NmoEv2NooEw2NsoEx2NuoEy2NwoEz2NyoE02N2oE12N4oE22N6oE32NmjF42NsjF52NxkF62N9/F72NngG82NwlG92N3lG+2N8lG/2N/oHg3NlpHh3NrpHggOhgOlgOp5J" , "AR/c", "jl_VirtualMachineError", "53GF" , "IOPgd", "nms_Packet3Chat", "wgLFurLimKvrLkmKhwL7/Jw1OF87OtmK" , "EFUhd", "cjj_Lsp", "z1K01K" , "ABCid", "jur_IntHash",
-        "yrC5D" , "EFGjd", "cjj_GZIPException", "whCF" , "ABCkd", "jur_ReluctantAltQuantifierSet", "5oCF/8IysI" , "ARld", "jl_UnsupportedOperationException", "zfFx2BF" , "ABCmd", "jur_Matcher$1", "gwIFugJO" , "EFGzK", "cjj_CRC32", "rhBFuhBvhBwhBzMxhByhB9tB4Bp2FvhB" , "IOPnd", "nms_BlockIce", "moBF06I6jI73JquJoyL+3KqzLo6D//Mn1MqwOmlO" , "pFqFKicod", "dceg_GuiScreenInfo$TextLine", "00IF10IF20IF" , "IOPpd", "nms_EntityPlayer", "/+Cg/C46D56D57D67D87D97D+nE/nEhoEioE7oE8oE48F58F0/F1/F2/F3/F+/F//F0hG1hGxiGwiG4lG5lG3oH2oHnuHouHv4Jw4Jz4J04J14J24JolKFhsK/pI7sK/yFnzKozKpzKqzKtzKuzK2zK3zK+zK/zKk0Kl0Km0Kn0Kq0Kr0Ky0Kz0K00K10Kh2Ki2K02K12Kg3Kh3Kk3K6pDm3Kn3Ko3Kp3Kq3Kr3K33K43K53K63K2kL3kLwlLxlL4qL5nJ4xL30Kr4L9kFj5LnoJ7/L8/LngMogMzgM0gM1gM2gM+gM9gM/gMghMyhMzhMwlMxlM5sM6sMuuMvuM0uM1uM2uM3uMu+MpvMv+MvvMtkNukN6kN7kN2sNzmMntNotN9uN1tMhwNiwNnwNowN4wN5wN00N10N73NxoNw7NhxH97N4rNk8N1sNo8NhvNq8NjvNt8NlvN78NxwN88NzwN79N1wN+9NvxNyhOzhO0hO1hOxlOylOomOpmOumOnvNsyOpoJ90O9nO52O62Og8O31O"
-        , "IOPqd", "nms_WatchableObject", "wqGFy4K7mCp/Kq/Kr/Ks/K41O51O" , "ARrd", "jl_NumberFormatException", "/3BFr+BF" , "A6Fsd", "jt_DateFormatElement$NumericHour", "iiEFw8EH68EJx5FzrF" , "E1L2Ltd", "cch_BoundedProportionalArraySizingStrategy", "o6H4B66HFo7HFu0J+iD" , "ARud", "jl_Comparable", "m8Cn8C" , "ABCvd", "jur_IntArrHash", "zvJ5D" , "E1L2Lwd", "cch_BitUtil", "9qD+qD4pE+qD" , "IOPxd", "nms_RenderBoat", "6wEFm1JhqImiKniK" , "IJKLqBpOyd", "nleito_JSEaglercraftXOptsServer", "06C16C26C36C46C56C" , "IOPzd",
-        "nms_EntitySlimeFX", "qtMFttMFy9M+oGqgN7mH" , "IOP0d", "nms_RecipesIngots", "1lCF2lCylC" , "jBqBrL1d2d", "otpp_AsyncCallbackWrapper", "oepeqevKre9EsrBF" , "IOP3d", "nms_ColorizerWater", "34D44DwlE4B" , "pFqFK4d5d", "dcev_VFileFilter", "yuNvd" , "AR6d", "jl_Enum", "sKtKwqBFpwDn8C2zDn8Cq3EO+3EJj4EHugFvgFhoKthC" , "IJK7d", "nle_Keyboard", "1pD2pDx7D5Jy7Dz7D07D17D++E/+E5iF6iFigKjgK" , "AB8d", "ju_IllegalFormatException", "4vGF" , "IOP9d", "nms_ItemFlintAndSteel", "h5BF83M55L" , "IOP+d", "nms_GuiConflictWarning",
-        "//CFh3E/6Dh3Fr+Ep3F1+Em9GliG" , "IJKpD/d", "nleo_SoftGLVertexArray$Attrib", "97CFh8Ci8C/3EJk4EH" , "IOPge", "nms_RecipesWeapons", "zlCF0lCylC" , "IOPhe", "nms_BlockSandStone", "gnBF+0CgyB" , "IJKLqBie", "nleit_TeaVMClientConfigAdapterHooks$callHookSafeWithReturn$lambda$_9_0", "5qEFwuEx3B3xEm+B" , "IOPje", "nms_GuiConnecting", "/5DF08H1+E18HliG28Hh/E38H/6D48Hr+E" , "IJKLqBke", "nleit_TeaVMBlobURLHandle", "iYjYirDjrD" , "IOPle", "nms_BlockFarmland", "7nBF30Cj4B4wDg9Cs/HlzHx7IisIkzLo6Dt2LglLxkMykMzkM0kMt7M6iMoxOolO"
-        , "IOPme", "nms_EntityRenderer", "k/Cl/CisD4B94DFp6Dq6Do8Dp8D49E59Ek+El+Em+En+EykFzkF0kF1kF6kF7kF39F49F59F69F89F99Fu+Fv+F0+F1+F++F/+Fi/Fj/F2sG3sG8sG9sG+sG/sGgtGhtGktGltG" , "IOPne", "nms_RenderSnowball", "0wEFg1JhqI" , "IOPoe", "nms_WorldGenSand", "0rGF2iP/iN" , "EFGpe", "cjj_Deflate$Config", "j3GF" , "IOPqe", "nms_J_JsonStringNode", "q0Er0E0qLFlsOqkCmsOyqDnsOm0EosOJpsOHqsOOzsOn8C/2Og3O" , "ABCre", "jur_UMultiLineEOLSet", "wpCF5/GkBs9IysI52JopJ" , "IOPse", "nms_EntitySlime", "6sJFkwJlwJ5yJ/yFj4L9kF2tM3tM4tM5tMh3MnlL9+MxvMv/MzvMg4Nu1Ny8NnvN/9NhxH0+NzmMgtO9nOozO0nO"
-        , "IOPte", "nms_ChunkFile", "hnLFinLjnLknLlnLqnLrnL73Ln8C3sM4sM" , "IJKue", "nle_Random", "3PF4P5PocF5lB6lBqvBrvBxgD5JthDuhD4hD5PtmEumEntEotEynHznH1tJ2tJmuMnuM" , "ABve", "ju_Hashtable", "omCF1qCF2qC4B3tCtqB4tC5tC1kDpNy2D5DxgEpjDygEzgEo/EgvCgjGhjG" , "IOPwe", "nms_WorldGenTallGrass", "2hPF3hP/iN" , "ABxe", "ju_IllegalFormatFlagsException", "6wGF" , "IOPye", "nms_BlockNetherrack", "uoBF" , "IJKpDgK", "nleo_Tessellator", "t2H9wBu2Hv2Hw2H0pD63H4Bk6HF" , "IOPze", "nms_RecipesTools", "wlCFxlCylC" , "EFU0e",
-        "cjj_Comment", "s5HhPr6HF86H4BnuIouI0qJ7U" , "IOP1e", "nms_TextureFX", "8PFkiFliFjkFkkF" , "ABC2e", "jur_AbstractCharClass$LazyCntrl", "4vCF04ErzD" , "AlE3e", "ji_RandomAccessFile", "02GFz4GF04G4B14Gf34G44G74G84G37G2tB8kH2tB0rH2hBowHpwH" , "IOP4e", "nms_BlockCake", "yoBFz1Cj4B12CgyB8wDg9Co8HjnHy8HlnHj+HnqH4/HlzHjuK64JuuKl5Jx3Ky3K52LglL6rM/jM67M6iMx8MmkMvwOmlOzxOolO" , "AlE5e", "ji_BufferedInputStream", "0kDF3kD2tB0gE1gE+4GFohH2tB" , "pFqFK6e", "dce_SingleplayerCommands", "wpHxpH8yH4B+yH/yHsuItuI60K70K"
-        , "IOP7e", "nms_StatBasic", "scFxcFycwc" , "AhCiCsB8e", "jnci_BufferedEncoder$Controller", "+iIFpkJ7jJqkJ9jJrkJokJskJ/jJtkJ/jJwkJokJ" , "IOP9e", "nms_ItemSapling", "lpBFn7EzmEo5NnkN" , "IOP+e", "nms_TileEntityRenderer", "nmHomH0mH1mHmyH4B50HFuhIvhIyhIzhI9jI+jI0jJ1jJs/Jt/JwlOtqN" , "IOP/e", "nms_IChunkProvider", "izIjzIg6Kh6Ki7Kj7K27K37K47K57Kg8Kh8K+kL74KulNvlN" , "jB8Bgf", "oj_JSONException", "8DF5kKFv/KF" , "AhCiCsBhf", "jnci_UTF16Encoder", "ylFFu6IgjIxkJykJzkJ0kJ" , "IOPif", "nms_J_JsonObjectNodeSelector",
-        "mqLFr4NOg6N95Nl6N4lNokOpkOxkOykOwzO3qL" , "IOPjf", "nms_GenLayerDownfall", "u0MF44N1iN" , "A6Fkf", "jt_DateFormatElement$Year", "miEFk8EvHu8EH48EJ" , "IJKLlf", "nlei_IAudioHandle", "z3K03Kg/K37Ch/Ki/K" , "ABCmf", "jur_AbstractCharClass$LazyNonWord", "rwCFn5ErzD" , "ABCnf", "jur_CISequenceSet", "+pCFggHkBy1J/9C" , "ARof", "jl_LinkageError", "kCF" , "IOPpf", "nms_GenLayerTemperatureMix", "30MF84N1iN" , "IOPqf", "nms_RegionFile", "onLpnLsnLtnL8oL2hBipLF2pL3pLhqL4ByqLzqL57LitC67L77LgkNyrDlyNmyN3yNhiNzjO0jO1jOyrD2jO3jO4jO5jOroO3pLnqOoqO"
-        , "IOPrf", "nms_Packet9Respawn", "2gLF6rLimK7rLkmK8vL7/Jz1OF97OtmK" , "IOPsf", "nms_Packet19EntityAction", "gvGFghLFusLimKvsLkmK+vL7/J+rOtmK" , "IOPtf", "nms_BlockReed", "qoBF50Cj4Bl+G9jG1/HlzHtzLo6D32LglL4rM5rM27M6iMu8MmkMwuN/jMxxOolO" , "pFqFKrFuf", "dcec_TimeCommand", "w1HFz3H4B0gImF" , "IOPvf", "nms_StepSoundStone", "9lBF77N/pN" , "IOPwf", "nms_EntityGhast", "usJF/yJ/yFo4L9kF+2MnlL/2MrmL++MxvMi/M5tMw/MzvMz8NnvN29NmiNsnOtnOpzO0nO" , "IOPxf", "nms_EntityFish", "llNmlNnlNFunNFlzNmzN2zNFi3NxnN43N/yFm/Nq2Ko/N4mKp/N9kFstO9nO00OknN"
-        , "IOPyf", "nms_EntityWolf", "zsJFhzJ/yFn4L9kF04L7tHg5LnoJt5Lt0KjgMkgMlgMmgMrgMsgMvgMwgM+nM/nMgoMhoMioMjoMkoMloMmoMnoMjuM5tM0vM1vMnwMowMpwMqwMtwMuwM92MrmL19M1tM2+MxvMo/MzvMhtNitNw8NnvNy9NmiN59N30Kz/NzmMmnOnnO5sO9nOpyO2rIvyOymOwyO0mOyyO2mO5yOsoEizO0nO30OxoNt8O42O" , "AB1Czf", "juz_GZIPOutputStream", "izFFi0FFu0Fv0Fx0Fy0F42FyrDvgHurDu+HotH" , "IOP0f", "nms_ItemSlab", "kpBFm7EzmEp0JqhJn5NnkN" , "AlE1f", "ji_ByteArrayOutputStream", "yhFk1EntFFotFyrD4wFF02FyrD18F63BqkGOqrJrM" , "IOP2f", "nms_EnumDoor", "6/O4B8/OF9/OrdkgPte"
+        "nms_RecipeSorter", "lmCFo1C30Br9Cs9C" , "IOP8c", "nms_GenLayerZoom", "m0MFn0Mo0MqvO1iNm4On4Oo4Op4O" , "IOP9c", "nms_Explosion", "rhMFshMthMuhMvhM" , "IOP+c", "nms_PlayerControllerMP", "kmNlmN1mNFr2Nn/Cs2N06Dt2Nh8Du2NmoEv2NooEw2NsoEx2NuoEy2NwoEz2NyoE02N2oE12N4oE22N6oE32NmjF42NsjF52NxkF62N9/F72NngG82NwlG92N3lG+2N8lG/2N/oHg3NlpHh3NrpHggOhgOlgOp5J" , "AR/c", "jl_VirtualMachineError", "53GF" , "IOPgd", "nms_Packet3Chat", "wgLFurLimKvrLkmKiwL7/Jw1OF87OtmK" , "EFUhd", "cjj_Lsp", "x1Ky1K" , "ABCid", "jur_IntHash",
+        "yrC5D" , "EFGjd", "cjj_GZIPException", "whCF" , "ABCkd", "jur_ReluctantAltQuantifierSet", "5oCF/8IysI" , "ARld", "jl_UnsupportedOperationException", "zfFx2BF" , "ABCmd", "jur_Matcher$1", "gwIFugJO" , "EFGzK", "cjj_CRC32", "rhBFuhBvhBwhBzMxhByhB9tB4Bp2FvhB" , "IOPnd", "nms_BlockIce", "moBF06I6jI73JquJoyL+3KqzLo6D//Mn1MqwOmlO" , "pFqFKicod", "dceg_GuiScreenInfo$TextLine", "00IF10IF20IF" , "IOPpd", "nms_EntityPlayer", "/+Cg/C46D56D57D67D87D97D+nE/nEhoEioE7oE8oE48F58F0/F1/F2/F3/F+/F//F0hG1hGxiGwiG4lG5lG3oH2oHnuHouHv4Jw4Jz4J04J14J24JolKFhsK/pI7sK/yFnzKozKpzKqzKtzKuzK2zK3zK+zK/zKk0Kl0Km0Kn0Kq0Kr0Ky0Kz0K00K10Kh2Ki2K02K12Kg3Kh3Kk3K6pDm3Kn3Ko3Kp3Kq3Kr3K33K43K53K63K2kL3kLwlLxlL4qL5nJ4xL30Km4L9kFh5LnoJ7/L8/LngMogMzgM0gM1gM2gM+gM9gM/gMghMyhMzhMwlMxlM5sM6sM2tM3tM8tM9tM+tM/tMu+MpvMv+MvvMtkNukN6kN7kN2sNzmMntNotN9uNxtM9vN+vNnwNowN4wN5wN00N10N63N3mNw7NhxH97N4rNk8N1sNo8NhvNq8NjvNt8NlvN78NxwN88NzwN79N1wN+9NvxNzhO0hO1hO2hOxlOylOomOpmOumOnvNsyOpoJ90O9nO52O62Og8O31O"
+        , "IOPqd", "nms_WatchableObject", "wqGFy4K7mCp/Kq/Kr/Ks/K41O51O" , "ARrd", "jl_NumberFormatException", "/3BFr+BF" , "A6Fsd", "jt_DateFormatElement$NumericHour", "iiEFv8EH58EJx5FzrF" , "E1L2Ltd", "cch_BoundedProportionalArraySizingStrategy", "o6H4B66HFo7HFu0J+iD" , "ARud", "jl_Comparable", "m8Cn8C" , "ABCvd", "jur_IntArrHash", "zvJ5D" , "E1L2Lwd", "cch_BitUtil", "9qD+qD4pE+qD" , "IOPxd", "nms_RenderBoat", "6wEFm1JhqImiKniK" , "IJKLqBpOyd", "nleito_JSEaglercraftXOptsServer", "06C16C26C36C46C56C" , "IOPzd",
+        "nms_EntitySlimeFX", "qtMFttMFy9M+oG0gN7mH" , "IOP0d", "nms_RecipesIngots", "1lCF2lCylC" , "jBqBrL1d2d", "otpp_AsyncCallbackWrapper", "oepeqevKre9EsrBF" , "IOP3d", "nms_ColorizerWater", "34D44DwlE4B" , "pFqFK4d5d", "dcev_VFileFilter", "yuNvd" , "AR6d", "jl_Enum", "sKtKwqBFpwDn8C2zDn8Cq3EO+3EJj4EHugFvgFhoKthC" , "IJK7d", "nle_Keyboard", "1pD2pDx7D5Jy7Dz7D07D17D++E/+E5iF6iFigKjgK" , "AB8d", "ju_IllegalFormatException", "4vGF" , "IOP9d", "nms_ItemFlintAndSteel", "h5BF83M55L" , "IOP+d", "nms_GuiConflictWarning",
+        "//CFi3E/6Dh3Fr+Ep3F1+Em9GliG" , "IJKpD/d", "nleo_SoftGLVertexArray$Attrib", "97CFh8Ci8C/3EJk4EH" , "IOPge", "nms_RecipesWeapons", "zlCF0lCylC" , "IOPhe", "nms_BlockSandStone", "gnBFg1CgyB" , "IJKLqBie", "nleit_TeaVMClientConfigAdapterHooks$callHookSafeWithReturn$lambda$_9_0", "5qEFwuEx3B3xEm+B" , "IOPje", "nms_GuiConnecting", "/5DF08H1+E18HliG28Hh/E38H/6D48Hr+E" , "IJKLqBke", "nleit_TeaVMBlobURLHandle", "iYjYirDjrD" , "IOPle", "nms_BlockFarmland", "7nBF30Cj4B4wDg9Cs/HlzHx7IisIkzLo6Dt2LglLxkMykMzkM0kMt7M6iMoxOolO"
+        , "IOPme", "nms_EntityRenderer", "k/Cl/CisD4B94DFp6Dq6Do8Dp8D49E59Ek+El+Em+En+EykFzkF0kF1kF6kF7kF39F49F59F69F89F99Fu+Fv+F0+F1+F++F/+Fi/Fj/F2sG3sG8sG9sG+sG/sGgtGhtGktGltG" , "IOPne", "nms_RenderSnowball", "0wEFg1JhqI" , "IOPoe", "nms_WorldGenSand", "0rGF2iP/iN" , "EFGpe", "cjj_Deflate$Config", "j3GF" , "IOPqe", "nms_J_JsonStringNode", "q0Er0E0qLFlsOqkCmsOyqDnsOm0EosOJpsOHqsOOzsOn8C/2Og3O" , "ABCre", "jur_UMultiLineEOLSet", "wpCF5/GkBs9IysI52JopJ" , "IOPse", "nms_EntitySlime", "/sJFlwJmwJ6yJ/yFq4L9kFpuMquMruMnuMh3MnlL9+MxvMv/MzvMg4Nu1Ny8NnvN/9NhxH0+NzmMgtO9nOozO0nO"
+        , "IOPte", "nms_ChunkFile", "hnLFinLjnLknLlnLqnLrnL73Ln8C3sM4sM" , "IJKue", "nle_Random", "3PF4P5PocF5lB6lBqvBrvBxgD5JthDuhD4hD5PtmEumEntEotEynHznH1tJ2tJ6uM7uM" , "ABve", "ju_Hashtable", "omCF1qCF2qC4B3tCtqB4tC5tC1kDpNy2D5DxgEpjDygEzgEo/EgvCgjGhjG" , "IOPwe", "nms_WorldGenTallGrass", "2hPF3hP/iN" , "ABxe", "ju_IllegalFormatFlagsException", "6wGF" , "IOPye", "nms_BlockNetherrack", "uoBF" , "IJKpDgK", "nleo_Tessellator", "t2H9wBu2Hv2Hw2H0pD63H4Bk6HF" , "IOPze", "nms_RecipesTools", "wlCFxlCylC" , "EFU0e",
+        "cjj_Comment", "s5HhPr6HF86H4BnuIouI0qJ7U" , "IOP1e", "nms_TextureFX", "8PFkiFliFjkFkkF" , "ABC2e", "jur_AbstractCharClass$LazyCntrl", "4vCF04ErzD" , "AlE3e", "ji_RandomAccessFile", "02GFz4GF04G4B14Gf34G44G74G84G37G2tB8kH2tB0rH2hBowHpwH" , "IOP4e", "nms_BlockCake", "yoBFy1Cj4B12CgyB8wDg9Co8HjnHy8HlnHj+HnqH4/HlzHjuK64JuuKl5Jx3Ky3K52LglL6rM/jM67M6iMx8MmkMvwOmlOzxOolO" , "AlE5e", "ji_BufferedInputStream", "0kDF3kD2tB0gE1gE+4GFohH2tB" , "pFqFK6e", "dce_SingleplayerCommands", "wpHxpH8yH4B+yH/yHsuItuI60K70K"
+        , "IOP7e", "nms_StatBasic", "scFxcFycwc" , "AhCiCsB8e", "jnci_BufferedEncoder$Controller", "+iIFpkJhkJqkJjkJrkJokJskJ7jJtkJ7jJwkJokJ" , "IOP9e", "nms_ItemSapling", "lpBFn7EzmEo5NnkN" , "IOP+e", "nms_TileEntityRenderer", "nmHomH0mH1mHmyH4B50HFuhIvhIyhIzhI9jI+jI0jJ1jJs/Jt/JwlOtqN" , "IOP/e", "nms_IChunkProvider", "izIjzIg6Kh6Ki7Kj7K27K37K47K57Kg8Kh8K+kL74KulNvlN" , "jB8Bgf", "oj_JSONException", "8DF5kKFv/KF" , "AhCiCsBhf", "jnci_UTF16Encoder", "ylFFu6IgjIxkJykJzkJ0kJ" , "IOPif", "nms_J_JsonObjectNodeSelector",
+        "mqLFo4NOg6N95Nl6N4lNokOpkOxkOykOwzO3qL" , "IOPjf", "nms_GenLayerDownfall", "u0MF44N1iN" , "A6Fkf", "jt_DateFormatElement$Year", "miEFj8EvHt8EH38EJ" , "IJKLlf", "nlei_IAudioHandle", "z3K03Kg/K37Ch/Ki/K" , "ABCmf", "jur_AbstractCharClass$LazyNonWord", "rwCFn5ErzD" , "ABCnf", "jur_CISequenceSet", "+pCFggHkBy1J59C" , "ARof", "jl_LinkageError", "kCF" , "IOPpf", "nms_GenLayerTemperatureMix", "30MF84N1iN" , "IOPqf", "nms_RegionFile", "onLpnLsnLtnL8oL2hBipLF2pL3pLhqL4ByqLzqL57LitC67L77LgkNyrDlyNmyN3yNhiNzjO0jO1jOyrD2jO3jO4jO5jOroO3pLnqOoqO"
+        , "IOPrf", "nms_Packet9Respawn", "2gLF6rLimK7rLkmK7vL7/Jz1OF97OtmK" , "IOPsf", "nms_Packet19EntityAction", "gvGFghLFusLimKvsLkmKmwL7/J+rOtmK" , "IOPtf", "nms_BlockReed", "qoBF50Cj4Bl+G9jG1/HlzHtzLo6D32LglL4rM5rM27M6iMu8MmkMwuN/jMxxOolO" , "pFqFKrFuf", "dcec_TimeCommand", "w1HFz3H4B0gImF" , "IOPvf", "nms_StepSoundStone", "9lBF77N/pN" , "IOPwf", "nms_EntityGhast", "vsJF/yJ/yFt4L9kF+2MnlL/2MrmL++MxvMi/MnuMw/MzvMz8NnvN29NmiNsnOtnOpzO0nO" , "IOPxf", "nms_EntityFish", "llNmlNnlNFzoNFlzNmzN2zNFp3N8nN43N/yFm/Nq2Ko/N4mKp/N9kFstO9nO00OrnN"
+        , "IOPyf", "nms_EntityWolf", "9sJFizJ/yFp4L9kF04L7tHj5LnoJt5Lt0KjgMkgMlgMmgMrgMsgMvgMwgM+nM/nMgoMhoMioMjoMkoMloMmoMnoMmuMnuM2vM3vMnwMowMpwMqwMtwMuwM92MrmL19MxtM2+MxvMo/MzvMhtNitNw8NnvNy9NmiN59N30Kx/NzmMmnOnnO5sO9nOpyO2rIvyOymOwyO0mOyyO2mO5yOsoEizO0nOx0O3mNt8O42O" , "AB1Czf", "juz_GZIPOutputStream", "izFFi0FFu0Fv0Fx0Fy0F42FyrDvgHurDu+HotH" , "IOP0f", "nms_ItemSlab", "kpBFm7EzmEp0JqhJn5NnkN" , "AlE1f", "ji_ByteArrayOutputStream", "yhFk1EntFFotFyrD4wFF02FyrD18F63BqkGOqrJrM" , "IOP2f", "nms_EnumDoor", "6/O4B8/OF9/OrdkgPte"
         , "AR5C3f", "jlr_Constructor", "nmMszCtsNusNxsNysN5lOFmrOO" , "IJKLqB4f", "nleit_TeaVMDataURLManager", "qLrLiSjS6e7e8ejSl1Bm1BxjDyjD" , "IOP5f", "nms_CompressedStreamTools", "nzEozEp1Eq1EtyFuyFkzFlzF8wI9wIvnKwnKhqKiqK" , "AB6f", "ju_Calendar", "8wB9wBg4B4BrlCFulCvlCpqCFqqCrqCsqCtqCuqCvqCwqCxqCyqCzqCwtCxtCozC5DmlDpe59D61D69DgtC/gEghEhhEihElmFmmFxmFztC0mF1tC0rF1rFnjGrHpjGr2B7xG9wBsrH9wBxxHvlF6jKrH9+KrH4pMrH" , "AhC7G", "jn_Buffer", "v1Bu1Bw1Bx1Bz1B01B11B21B31B41B6kCFz0D01B00D7UpnForE9pG8pGhqGmTxvHktF"
         , "ABC7f", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierPart$1", "hhFFn2FqZ" , "IOP8f", "nms_BlockWeb", "mnBFz0Cj4B39G9jGk/HlzH07IqsIn7M6iM+wOolO" , "ABC9f", "jur_AbstractCharClass$LazyDigit", "uvCFq4ErzD" , "ABC+f", "jur_AbstractCharClass$LazyJavaLetter", "kwCFg5ErzD" , "jBqBwIsB/f", "otji_JSWrapper$_clinit_$lambda$_30_0", "6IF3Q4Qudvd" , "IOPggB", "nms_J_JsonNode", "j0Ek0El0Em0Es0Er0Ey0Ez0Et5IF71K81Kq0NqkCs0NyqD" , "IJKLhgB", "nlei_FileChooserResult", "jsJF" , "jBqBwIsBigB", "otji_JSWrapper$_clinit_$lambda$_30_1",
-        "9IF5Q4Qwdvd" , "IOPjgB", "nms_Packet101CloseWindow", "giLF4tLimKkvLkmK7wL7/Jv1OF77OtmK" , "IOPkgB", "nms_GuiStats", "0oHF7yH4By9H1+Ez9HliG09Hr+E5nI6nItxI+tF0xI1xI40I50Iy7Jz7J28J38J68J78J88J98Jg9Jh9Ju9Jv9Jw9JxhGx9Jy9J19J29JwlKz7JxlKh9JioKjoKk4Kl4Km4Kn4Ko4Kp4Kq4Kr4Ks4Kt4Ku4Kv4Kw4Kx4K" , "IOPlgB", "nms_Packet16BlockItemSwitch", "9gLFosLimKpsLkmKgwL7/JzpOF1zOtmK" , "IJKLmgB", "nlei_PlatformRuntime$DumbSleepHandler", "yrBFp4CmF" , "ABCngB", "jur_AheadFSet", "8/BFz+GkB77IysI" , "IOPogB", "nms_GameSettings",
-        "v4DFg9Dh9D7kE8kE9kE4BklFllFxoFyoFylIzlI0lI1lIulJvlJylJzlJ0lJ1lJ2lJ3lJptJqtJ" , "IOPpgB", "nms_Packet27Position", "ohLF9tLimKpvLkmK/wL7/J" , "IJKLqgB", "nlei_PlatformOpenGL", "0L1L2L3L4L5LiMjMuMvMwMxMjOkOlOmOnOoOpOqOrOsOtOuOvOwOxOyOzO0O1O2O5O6O+O/OmS4BvSwSxSySzS0S1S2S3S4S5S6S7S8S9S+S/SgThTiTnToTrTsTtTuTvTwTxTyTzT0T1T2T3T4T5T6T7T8T9T+T/TgUhUiUjUkUlUmUnUoUpUqUrUsUtUuUxUyU5U6ShViVjVsTkVlVmVnVoVpVqVrVtVuVvVwV8a9a+a/ajbkbrbsbtbubvbwbglBhlBouBpuBr9Bs9B4tD5tDguDhuD1uD2uDvrEwrE5sE6sE7sE8sE9sE+sEivEjvEhyEsTu/Ev/Ez/E0/E1/E2/E3/E4/E5/E6/EhxFixFprGqrGrrGsrG3zGsT/zGg0G70G80Gw3Gx3Gt5Gu5G60H70H"
-        , "IJKLM/O", "nleib_ByteBuffer", "mNnNqN5DjTkTlTmT8U9U7rBF3uDx1B8uDpNujE01BvjE21B+qEpNyuE01BzuE41BlxE7UnhFkTohFphFikFpNnkFokFlqF5DjtFktFz8F21B08F5D54HphF64H74H84HorE6mJpNjlK5D" , "ABCrgB", "jur_PositiveLookAhead", "xgCF5+GkBh8IysIk2JopJ" , "IOPsgB", "nms_NBTTagShort", "h2EF03E61Ek4FqkCm6FOxgH40FzsNF" , "IOPtgB", "nms_StructureMineshaftPieces", "xgPygPxhP4ByhPzhPgiPhiP9jP+jP" , "ABugB", "ju_TreeMap", "xiBFivBFv6IgvCw6I5Dp7IntCq7IpN1kJ2kJ/mJgnJhnJinJwuKo0Eh4Ki4K7rNrM8rN9rN6yN7yN8yN9yN+yN/yN1lO2lOxoOyoO"
-        , "IOPvgB", "nms_ItemSnowball", "55BFs4M75L" , "jBqBwI3JwgB", "otjt_DataView", "8rB9rB" , "IOPxgB", "nms_ChunkFilePattern", "+mLFgpLFhpL4Bv8Ovd" , "IOPygB", "nms_RenderSorter", "hmHFlmHmmHt7H30B" , "AhCzgB", "jn_ReadOnlyBufferException", "+pGF" , "IOP0gB", "nms_ComponentStrongholdStairs", "/+Og/Ot/OFziP+gPolPplP2lPF" , "IOP1gB", "nms_ContainerCreative", "ruFFpxFqxFk7I9nIk+MxuM" , "IOP2gB", "nms_IInventory", "8wH9wHxmJhtHzmJjtH0mJqqG1mJnoIyjLyqK50M60MikNjkNkkNxuMjyNkyN" , "IOP3gB", "nms_ModelWolf", "/vEFu0L19Ky0LshGpoMsiH"
-        , "IOP4gB", "nms_BlockPistonExtension", "pnBF00Cj4BzwDg9C/zDg0D49G9jG+7HjnHl/HlzHzyLqrIm2LglLm8MmkMgrNhrNirNjrN18N+vNpuOpiO+vOmlO" , "IOP5gB", "nms_EntityFootStepFX", "mtMFx9M+oGugN7mH8gN9kF" , "AR6gB", "jl_NoSuchFieldError", "PF" , "IJKLqB7gB", "nleit_TeaVMWebSocketFrame", "gkKFpnKqnK11LhrJ21Ly/Jw3Lu1EysMzsM" , "IOP8gB", "nms_EntityCrit2FX", "ggMFmxM9kF76M+oGwgN7mH" , "IOP9gB", "nms_EntityNoteFX", "htMF2zMFrgN7mH5gN9kF" , "IOP+gB", "nms_ChunkFolderPattern", "9mLF+oLF/oL4Bm8Nvd" , "ABC/gB", "jur_FSet",
-        "//BF0jC4B/jCgkCx+GkB57IysI/1JopJ" , "jBqBwIsBghB", "otji_JS", "WXYZ1B2BlDmDrDXyDzD4D5D6D7DjEkEqErEuEXnH7DqHrHuIvI8L7DvNwNpWXqW7DqfXrf7Duf7Dvf7D2f7D/gBghBnuB7D2sCXs7Ct7CkvD7D1iEXlqEX2yF3yF87G7D" , "IOPhhB", "nms_ItemPiston", "opBFr5NnkN" , "ABCihB", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierStart$1", "ihFFo2FqZ" , "AhCiCsBjhB", "jnci_UTF16Charset", "ptBF9xDp8Cu6EqrD" , "jBqBrBsBnIkhB", "otciu_UnicodeHelper", "kqClqCmxCnxCoxCpxCyyCzyCjzCkzC" , "IOPlhB", "nms_ChunkLoader", "2hN3hN+hN/hN" , "ABmhB",
+        "9IF5Q4Qwdvd" , "IOPjgB", "nms_Packet101CloseWindow", "giLFotLimK0uLkmKhxL7/Jv1OF77OtmK" , "IOPkgB", "nms_GuiStats", "0oHF7yH4By9H1+Ez9HliG09Hr+E5nI6nItxI+tF0xI1xI40I50Iy7Jz7J28J38J68J78J88J98Jg9Jh9Ju9Jv9Jw9JxhGx9Jy9J19J29JwlKz7JxlKh9JioKjoKk4Kl4Km4Kn4Ko4Kp4Kq4Kr4Ks4Kt4Ku4Kv4Kw4Kx4K" , "IOPlgB", "nms_Packet16BlockItemSwitch", "9gLFosLimKpsLkmKjwL7/JzpOF1zOtmK" , "IJKLmgB", "nlei_PlatformRuntime$DumbSleepHandler", "yrBFp4CmF" , "ABCngB", "jur_AheadFSet", "8/BFz+GkB77IysI" , "IOPogB", "nms_GameSettings",
+        "v4DFg9Dh9D7kE8kE9kE4BklFllFxoFyoFylIzlI0lI1lIulJvlJylJzlJ0lJ1lJ2lJ3lJptJqtJ" , "IOPpgB", "nms_Packet27Position", "ohLFhtLimKtuLkmKjxL7/J" , "IJKLqgB", "nlei_PlatformOpenGL", "0L1L2L3L4L5LiMjMuMvMwMxMjOkOlOmOnOoOpOqOrOsOtOuOvOwOxOyOzO0O1O2O5O6O+O/OmS4BvSwSxSySzS0S1S2S3S4S5S6S7S8S9S+S/SgThTiTnToTrTsTtTuTvTwTxTyTzT0T1T2T3T4T5T6T7T8T9T+T/TgUhUiUjUkUlUmUnUoUpUqUrUsUtUuUxUyU5U6ShViVjVsTkVlVmVnVoVpVqVrVtVuVvVwV8a9a+a/ajbkbrbsbtbubvbwbglBhlBouBpuBr9Bs9B4tD5tDguDhuD1uD2uDvrEwrE5sE6sE7sE8sE9sE+sEivEjvEhyEsTu/Ev/Ez/E0/E1/E2/E3/E4/E5/E6/EhxFixFprGqrGrrGsrG3zGsT/zGg0G70G80Gw3Gx3Gt5Gu5G60H70H"
+        , "IJKLM/O", "nleib_ByteBuffer", "mNnNqN5DjTkTlTmT8U9U7rBF3uDx1B8uDpNujE01BvjE21B+qEpNyuE01BzuE41BlxE7UnhFkTohFphFikFpNnkFokFlqF5DjtFktFz8F21B08F5D54HphF64H74H84HorE6mJpNjlK5D" , "ABCrgB", "jur_PositiveLookAhead", "xgCF5+GkBh8IysIk2JopJ" , "IOPsgB", "nms_NBTTagShort", "h2EF03E61Ek4FqkCs6FOxgH40FzsNF" , "IOPtgB", "nms_StructureMineshaftPieces", "tgPugPvhP4BwhPxhP7hP8hP7jP8jP" , "ABugB", "ju_TreeMap", "xiBFivBFv6IgvCw6I5Dp7IntCq7IpN1kJ2kJ/mJgnJhnJinJwuKo0Eh4Ki4K7rNrM8rN9rN6yN7yN8yN9yN+yN/yN1lO2lOxoOyoO"
+        , "IOPvgB", "nms_ItemSnowball", "55BFs4M75L" , "jBqBwI3JwgB", "otjt_DataView", "8rB9rB" , "IOPxgB", "nms_ChunkFilePattern", "+mLFgpLFhpL4Bv8Ovd" , "IOPygB", "nms_RenderSorter", "hmHFlmHmmHt7H30B" , "AhCzgB", "jn_ReadOnlyBufferException", "+pGF" , "IOP0gB", "nms_ComponentStrongholdStairs", "/+Og/Ot/OFziP+gPolPplP2lPF" , "IOP1gB", "nms_ContainerCreative", "ruFFpxFqxFk7I9nI/9M5tM" , "IOP2gB", "nms_IInventory", "8wH9wHxmJhtHzmJjtH0mJqqG1mJnoIyjLyqK50M60MikNjkNkkN5tMjyNkyN" , "IOP3gB", "nms_ModelWolf", "/vEFu0L19Ky0LshGpoMsiH"
+        , "IOP4gB", "nms_BlockPistonExtension", "pnBF00Cj4BzwDg9C/zDg0D49G9jG+7HjnHl/HlzHzyLqrIm2LglLm8MmkMgrNhrNirNjrN18NkwNpuOpiO+vOmlO" , "IOP5gB", "nms_EntityFootStepFX", "mtMFx9M+oGxgN7mHihN9kF" , "AR6gB", "jl_NoSuchFieldError", "PF" , "IJKLqB7gB", "nleit_TeaVMWebSocketFrame", "gkKFpnKqnK11LhrJ21Ly/Jw3Lu1EysMzsM" , "IOP8gB", "nms_EntityCrit2FX", "ggMFmxM9kF76M+oGugN7mH" , "IOP9gB", "nms_EntityNoteFX", "htMF2zMFzgN7mHkhN9kF" , "IOP+gB", "nms_ChunkFolderPattern", "9mLF+oLF/oL4Bm8Nvd" , "ABC/gB", "jur_FSet",
+        "//BF0jC4B/jCgkCx+GkB57IysI/1JopJ" , "jBqBwIsBghB", "otji_JS", "WXYZ1B2BlDmDrDXyDzD4D5D6D7DjEkEqErEuEXnH7DqHrHuIvI8L7DvNwNpWXqW7DqfXrf7Duf7Dvf7D2f7D/gBghBnuB7D2sCXs7Ct7CkvD7D1iEXlqEX2yF3yF87G7D" , "IOPhhB", "nms_ItemPiston", "opBFr5NnkN" , "ABCihB", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierStart$1", "ihFFo2FqZ" , "AhCiCsBjhB", "jnci_UTF16Charset", "ptBF8xDp8Cu6EqrD" , "jBqBrBsBnIkhB", "otciu_UnicodeHelper", "kqClqCmxCnxCoxCpxCyyCzyCjzCkzC" , "IOPlhB", "nms_ChunkLoader", "2hN3hN+hN/hN" , "ABmhB",
         "ju_TreeMap$EntryIterator", "gzNF/0Ng1N13N5J23N7J33NntCmhO5J" , "IJKLnhB", "nlei_PlatformRuntime$7", "ujBFr7EnpEt7EppE" , "IJKpDohB", "nleo_StreamBuffer", "gvEhvE+xE4B/xEgyE" , "IJKLphB", "nlei_PlatformRuntime$8", "7R4B" , "IJKLqhB", "nlei_GLObjectMap", "laFxrE5DlyE9zCmyFpuErqGo4D" , "ABCrhB", "jur_AbstractCharClass$LazyJavaSpaceChar", "mwCFi5ErzD" , "ABCshB", "jur_PositiveLookBehind", "zgCF7+GkBj8IysIm2JopJ" , "ABthB", "ju_Comparator$NaturalOrder", "qSrSlf4BnsBFt0C30B" , "AhCiCuhB", "jnc_CharsetEncoder",
-        "rrDr8CsrDt8CtrDurD1rDrhCk+DrhCuuEF1xEFzzE0zEl/En9Ek7F/6FjiHiiHliHmiHniHvhBpiHqiHhjIziI" , "IOPvhB", "nms_RenderChicken", "iwEF40JhqIqhKrhKrvKlhKi0Lt9KknMlnM" , "IOPwhB", "nms_BlockObsidian", "ynBFiwOmlOjxOolO" , "IOPxhB", "nms_RenderSlime", "qwEFp0Lx9Kk1L79K0nM1nMupMvpM" , "AlEyhB", "ji_DataInputStream", "mzEF/7E01Eg8E41EnrForFprFqrF93FjgF+3FlgF/3FngFg4FpgFh4FrgFi4F5gBijGjjGmjG5gBypGqrFuzGvzGunL2tBj8Lk8L7wM8wM" , "IOPzhB", "nms_ModelSkeleton", "mwEFmvKsiH" , "IOP0hB", "nms_GuiButton", "5hGF7hGF+hG/hGgiGhiGguGhuG4wH5wH6wH7wH"
+        "rrDr8CsrDt8CtrDurD1rDrhCk+DrhCuuEF1xEFzzE0zEl/En9Ek7F/6FjiHiiHliHmiHniHvhBpiHqiHhjIziI" , "IOPvhB", "nms_RenderChicken", "iwEF40JhqIqhKrhKrvKlhKi0Lt9KknMlnM" , "IOPwhB", "nms_BlockObsidian", "ynBFiwOmlOjxOolO" , "IOPxhB", "nms_RenderSlime", "qwEFp0Lx9Kk1L79K0nM1nMupMvpM" , "AlEyhB", "ji_DataInputStream", "mzEF/7E01Eg8E41EnrForFprFqrF93FjgF+3FlgF/3FngFg4FpgFh4FrgFi4F5gBijGjjGmjG5gBypGqrFuzGvzGunL2tB+7L/7L7wM8wM" , "IOPzhB", "nms_ModelSkeleton", "mwEFmvKsiH" , "IOP0hB", "nms_GuiButton", "5hGF7hGF+hG/hGgiGhiGguGhuG4wH5wH6wH7wH"
         , "IJKL1hB", "nlei_PlatformRuntime$1", "xNFpYlSjjB+eqhD+e" , "IJKL2hB", "nlei_PlatformRuntime$2", "sLFkSlS9e+elhD+e" , "ABC3hB", "jur_AbstractCharClass$LazyJavaJavaIdentifierPart$1", "7gFFh2FqZ" , "IJKL4hB", "nlei_PlatformRuntime$5", "u9BFs7EnpEu7EppE" , "IJKL5hB", "nlei_PlatformRuntime$6", "njBFpvBlSq3B+egjD+e" , "IJKL6hB", "nlei_PlatformApplication", "jKkKvR4BzV0VlWmWkuD4pD4uD5uD6uD7uDo1E0V3tFriF4tFtiF5tFyiFvyFmWn1G/uG13G23Gx5Gy5Gz5G23G+7G/7G2yHsoHg1Hh1Hi1Hj1Hk1Hl1H6mI7mIruItiF4wI5wI8yI9yI+yI/yIgzIhzI"
         , "IOP7hB", "nms_RenderHelper", "63D73DrkE4Bk+Fl+F" , "IJKLqB8hB", "nleit_TeaVMWebSocketClient$1", "+zIF83IlS+4I+e" , "IJKLqB9hB", "nleit_TeaVMWebSocketClient$4", "h0IF/3IlSh5I+e" , "IJKLqB+hB", "nleit_TeaVMWebSocketClient$2", "/zIF93IlS/4I+e" , "IJKLqB/hB", "nleit_TeaVMWebSocketClient$3", "g0IF+3IlSg5I+epsJ+e" , "IOPgiB", "nms_ItemHoe", "p5BF93M55Ll9M9oM" , "IOPhiB", "nms_PacketCounter", "lmKmmKnmKFtoKF" , "IJKLqBiiB", "nleit_TeaVMClientConfigAdapterHooks$callCrashReportHook$lambda$_4_0", "tzDF+5FmF"
-        , "ARjiB", "jl_Package", "g2NkBn2N4BnpO/1NrqOF" , "IJKpDkiB", "nleo_ImageData", "rkDF2lEF0mE2U1mEllEuiFviFwiF2UhsF/HisFhIztF0tF/tF2U" , "A6FliB", "jt_DecimalFormat$PerMillField", "gmFFx6FJy6FHtyKshG" , "IOPmiB", "nms_EntityFallingSand", "ntJF+yJ/yFo+Kp+Kl4L9kF24L4mKz5L6jF2xMF99M2rI2/NzmMptO9nO" , "ABnCniB", "juf_Consumer", "6dvd" , "IOPoiB", "nms_ComponentVillageHouse2", "/nPgoPsoPF1oP+gP5oPg/O" , "IOPpiB", "nms_ComponentVillageHouse1", "1nP2nPnoPF0oP+gPipPg/O" , "IOPqiB", "nms_ComponentVillageHouse3",
-        "hoPioPtoPFwoP+gP+oPg/O" , "ARriB", "jl_Class", "CDcFjBkBwCxCzC0C1C2CtwBuwB70B80B+7B/7BviDwiDxiDyiDziD0iD1iD2iDs2FOw8Fx8Fl9Fm9FgoLhoLlmMmmMomMpmMgsMhsMosMpsMqsMrsMssMvgFtsMusM+1N/1Nh2Ni2N3lO4lOhqOiqOn2Oo2O" , "IOPsiB", "nms_InventoryPlayer", "r7Ds7DjoEkoEhpEipE28F38F68F78Fm/Fn/F4uI5uI9nKFxqKyqKktK9wHltKhtHmtKjtHntKqqGotKnoIvzK7+B40K50K/1Kg2Kj2Kk2Kl2Km2KzkL0kL+hM43K/hMgiM8kN9kNswNtwNuwNvwNg0Nw8Ky0Nz0Ni+NkyN26OyzMq9Or9OihPjhP" , "IOPtiB", "nms_RenderEngine", "q3Dr3Dx4DF14D24Dw5Dx5D26D36DmlE4B3lE4lEt9Eu9Ev9Ew9Ex9Ey9EiiFjiFpkFqkFglFhlFjsFksFj7FmkEr9Fs9F1kG2kG/qGmvE9tH+tH1rN2rN"
-        , "IOPuiB", "nms_ScaledResolution", "r9DFs9Dt9Du9Dv9D" , "IOPviB", "nms_WorldGenMinable", "1rGFs5O/iN" , "ABCwiB", "jur_CharSet", "8nCF72CukC89C99Cn/GkB09Iu2Dq1J1oJt1J/9C31J3oJ" , "IOPxiB", "nms_TileEntityPiston", "mkInkIokIpkIqkIrkIskItkI5zI4ByqNzqN0qN1qN2qN3qN4qN5qNrlOnpFkoOloOkpOFmqOF8rOw8Ki0OyzMk1Or6Kk7Ol7O" , "IOPyiB", "nms_StructureComponent", "h/Og/Oy/OFpgPqgP1gP2gP9gP+gPkiPliP/iPgjPjjPkjPnjPojPpjPqjPtjPujPvjPwjP5jP6jP7jP8jP/jPgkPhkPikPjkPkkPlkPmkPnkPokPpkPqkPzmP0mPjpPkpPlpPmpP" , "IOPziB", "nms_J_JsonNodeBuilder",
-        "5sH6sH" , "IOP0iB", "nms_GuiFurnace", "4hMFohNruGshNxuG" , "jBqBrBsBtB1iB", "otcit_DateTimeZoneBuilder$RuleBasedZone", "yxCvxCsyCFqxD0sCvxDktC1xDitCq0Dr0D" , "AB2iB", "ju_Collections$5", "jfF" , "IOP3iB", "nms_TileEntityDispenser", "3xM4xMhkNxuMqoNFh7N9wHi7NjtHj7NqqGk7NnoI4rOw8Kg0OyzMw2OyqK" , "AB4iB", "ju_Collections$3", "hfF" , "AB5iB", "ju_TemplateCollections$AbstractImmutableList", "msBF" , "AB6iB", "ju_Collections$4", "ifF" , "IOP7iB", "nms_Packet102WindowClick", "hiLF+tLimKqvLkmKywL7/JpgOFztOtmK"
-        , "AB8iB", "ju_Collections$1", "/eF" , "AB9iB", "ju_Collections$2", "gfF" , "ABC+iB", "jur_QuantifierSet", "rkCskC5rCFn1CukClwD+gCp2JopJ" , "IOP/iB", "nms_Packet34EntityTeleport", "vhLFutLimK6uLkmKuxL7/J" , "IJKLqBgjB", "nleit_TeaVMRuntimeDeobfuscator$DeobfNameEntry", "+zBF" , "IOPhjB", "nms_CraftingManager", "r6B9wBs6Bt6Bh/B4BsiCFhmCimCnlDolD7iL8iL" , "IOPijB", "nms_BlockBookshelf", "xnBFs2CgyBhwOmlO" , "AhCjjB", "jn_CharBufferOverArray", "xtDFsgH99CugHgqGqxHFt+H/sH2+HzvHl6IqhIm6IshI" , "IOPkjB", "nms_AxisAlignedBB",
-        "u+Cv+CkoD4B19D29DzjF0jF1jF2jF9jF+jF/jFgkF4yF5yF+zFF98FpxB+8F/8FrhHOmnHnnH9gI+gI/gIghIhhIihIkrIlrImrIvlDrrIsrItrIurIvrIwrIxrIyrIlsImsIi5Kj5KmhMnhM" , "IJKLqBljB", "nleit_PCMToWAVLoader", "h3Hi3Hl3Hm3Hn3Ho3H" , "IOPmjB", "nms_WorldChunkManagerHell", "ohMFt2M4rHu2M6rHv2M2uFw2MtnHx2M0iLy2M/lLniNoiN/rOwqOgsOyqOigPm9O" , "IOPnjB", "nms_ComponentStrongholdLibrary", "slPtlP4lP4B5lPFkmP+gPsmPg/O" , "IOPojB", "nms_ChunkPosition", "6oLFm5MHn5MJ" , "IOPpjB", "nms_ComponentStrongholdLeftTurn", "ilPjlPylPF9lP+gPnmPg/O"
-        , "ABqjB", "ju_LinkedHashMapIterator", "r7OF47O7J57OntCh9O96Fi9O+kH" , "IJKLrjB", "nlei_PlatformAssets$1", "g1BFz8BlSghC+e" , "IJKLsjB", "nlei_PlatformAssets$2", "h1BF08BlShhC+e" , "IlDAlEtjB", "npji_PushbackReader", "yzHFz1HF+oI2tBjpIkpIlnJmnJi3J2tB" , "IOPujB", "nms_TexturePortalFX", "y5DF34FliF" , "IOPvjB", "nms_BlockPortal", "xoBF71Cj4Bn8HjnH3/HlzH16I6jI47IqsI83JquJ8zLt7K42LglL57M6iMuwOmlO+3O/3O" , "IOPwjB", "nms_RenderEnderman", "lwEF60JhqIuhKvhKtvKlhK60L39Kj1L79K4oM5oMspMtpM" , "EFGxjB", "cjj_GZIPHeader",
-        "2hFFvgKpNghKhhK" , "ABCyjB", "jur_AtomicFSet", "+/BF1+GkB97IysI4oJu8Bh2JopJ" , "EFtQzjB", "cjj_SyncState", "h4Hi4H14H24H34H44Hh5H7Um5HFn5HhPwiIxiI" , "IOP0jB", "nms_J_JsonFormatter", "vqLvH" , "IOP1jB", "nms_NBTTagCompound", "qzErzEr1Es1Et1Eu1Ev1Ew1Ep2EF83E61EpyFqyFryFsyFj4FqkCl6F40Fo6FO+wI/wIy0Iz0It5Ju5JrlKgtFslKtlKtnKunKy2Kz2KrgLsgLrmMsmMumMs3GvmM02EgqMhqMzzM0zM8xN9xNnyNy/JyyNzyN6nO7nOwpOxpOl3Om3O" , "IOP2jB", "nms_ComponentVillageStartPiece", "o/OF9hP+hP" , "IOP3jB", "nms_ItemBoat", "65BFt4M75L"
-        , "A6F4jB", "jt_NumberFormat", "kyBlyBj7Bk7Bl7Bm7Bn7Bo7Bq/BFigEjgEkgElgEmgEngEgxG9wB21G31G1iKvHjnKvHknKvHmpKnpKqpKrpKwpKxpK5pK6pKprKh2I/iLgjLoiMvHriMvH" , "IOP5jB", "nms_J_JsonObjectNodeList", "h+JF" , "IOP6jB", "nms_ItemBucket", "z5BFr4M75L" , "IOP7jB", "nms_BlockPumpkin", "toBFw2CgyB7wDg9Cw8MmkM35NrkNlvOjkM" , "jBqBrBsB3N8jB", "otcic_StderrOutputStream", "mQ4B6cF56EyrD" , "IOP9jB", "nms_BlockStationary", "1mBF5yLo6D/1LglLyjMzjM1qM2qM" , "IOP+jB", "nms_GuiCreateWorld", "tmIFt/I1+Ez/IliG4/I9+E8/Ih/EggJ/6DkgJm9DpgJr+EttJutJvtJwtJpwJqwJzyJvpH"
+        , "ARjiB", "jl_Package", "g2NkBn2N4BnpO/1NrqOF" , "IJKpDkiB", "nleo_ImageData", "rkDF2lEF0mE2U1mEllEuiFviFwiF2UhsF/HisFhIztF0tF/tF2U" , "A6FliB", "jt_DecimalFormat$PerMillField", "gmFFx6FJy6FHtyKshG" , "IOPmiB", "nms_EntityFallingSand", "8sJF5yJ/yFo+Kp+Kx4L9kF64L4mK35L6jF2xMFq+M2rI2/NzmMptO9nO" , "ABnCniB", "juf_Consumer", "6dvd" , "IOPoiB", "nms_ComponentVillageHouse2", "/nPgoPsoPFxoP+gP9oPg/O" , "IOPpiB", "nms_ComponentVillageHouse1", "1nP2nPnoPFzoP+gP6oPg/O" , "IOPqiB", "nms_ComponentVillageHouse3",
+        "hoPioPtoPFyoP+gP8oPg/O" , "ARriB", "jl_Class", "CDcFjBkBwCxCzC0C1C2CtwBuwB70B80B+7B/7BviDwiDxiDyiDziD0iD1iD2iDs2FOw8Fx8Fl9Fm9FgoLhoLlmMmmMomMpmMgsMhsMosMpsMqsMrsMssMvgFtsMusM+1N/1Nh2Ni2N3lO4lOhqOiqOn2Oo2O" , "IOPsiB", "nms_InventoryPlayer", "r7Ds7DjoEkoEhpEipE28F38F68F78Fm/Fn/F4uI5uI9nKFxqKyqKktK9wHltKhtHmtKjtHntKqqGotKnoIvzK7+B40K50K/1Kg2Kj2Kk2Kl2Km2KzkL0kL+hM43K/hMgiM8kN9kNswNtwNuwNvwNg0Nw8Ky0Nz0Ni+NkyN26OyzMq9Or9OihPjhP" , "IOPtiB", "nms_RenderEngine", "q3Dr3Dx4DF14D24Dw5Dx5D26D36DmlE4B3lE4lEt9Eu9Ev9Ew9Ex9Ey9EiiFjiFpkFqkFglFhlFjsFksFj7FmkEr9Fs9F1kG2kG/qGmvE9tH+tH1rN2rN"
+        , "IOPuiB", "nms_ScaledResolution", "r9DFs9Dt9Du9Dv9D" , "IOPviB", "nms_WorldGenMinable", "1rGFs5O/iN" , "ABCwiB", "jur_CharSet", "8nCF22CukC29C39Cn/GkB09Iu2Dq1J1oJt1J59C31J3oJ" , "IOPxiB", "nms_TileEntityPiston", "mkInkIokIpkIqkIrkIskItkI5zI4ByqNzqN0qN1qN2qN3qN4qN5qNrlOnpFkoOloOkpOFmqOF8rOw8Kh0OyzMj1Or6Kk7Ol7O" , "IOPyiB", "nms_StructureComponent", "h/Og/Oy/OFngPogPxgPygP9gP+gPtiPuiP/iPgjPjjPkjPnjPojPpjPqjPtjPujPvjPwjP3jP4jP5jP6jP9jP+jP/jPgkPhkPikPjkPkkPnkPokPpkPqkPzmP0mPjpPkpPlpPmpP" , "IOPziB", "nms_J_JsonNodeBuilder",
+        "5sH6sH" , "IOP0iB", "nms_GuiFurnace", "4hMFohNruGshNxuG" , "jBqBrBsBtB1iB", "otcit_DateTimeZoneBuilder$RuleBasedZone", "yxCvxCsyCFoxD0sCtxDktCzxDitCn0Do0D" , "AB2iB", "ju_Collections$5", "jfF" , "IOP3iB", "nms_TileEntityDispenser", "3xM4xMhkN5tM+nNF/6N9wHg7NjtHh7NqqGi7NnoI4rOw8K9zOyzMw2OyqK" , "AB4iB", "ju_Collections$3", "hfF" , "AB5iB", "ju_TemplateCollections$AbstractImmutableList", "msBF" , "AB6iB", "ju_Collections$4", "ifF" , "IOP7iB", "nms_Packet102WindowClick", "hiLF9tLimKpvLkmK7wL7/JpgOFztOtmK"
+        , "AB8iB", "ju_Collections$1", "/eF" , "AB9iB", "ju_Collections$2", "gfF" , "ABC+iB", "jur_QuantifierSet", "rkCskC5rCFn1CukClwD+gCp2JopJ" , "IOP/iB", "nms_Packet34EntityTeleport", "vhLF8tLimKovLkmK3wL7/J" , "IJKLqBgjB", "nleit_TeaVMRuntimeDeobfuscator$DeobfNameEntry", "+zBF" , "IOPhjB", "nms_CraftingManager", "r6B9wBs6Bt6Bh/B4BsiCFhmCimCnlDolD7iL8iL" , "IOPijB", "nms_BlockBookshelf", "xnBFs2CgyBhwOmlO" , "AhCjjB", "jn_CharBufferOverArray", "xtDFsgH39CugHgqGqxHFt+H/sH2+HzvHl6IqhIm6IshI" , "IOPkjB", "nms_AxisAlignedBB",
+        "u+Cv+CkoD4B19D29DzjF0jF1jF2jF9jF+jF/jFgkF4yF5yF+zFF98FpxB+8F/8FrhHOmnHnnH9gI+gI/gIghIhhIihIkrIlrImrIvlDrrIsrItrIurIvrIwrIxrIyrIlsImsIi5Kj5KmhMnhM" , "IJKLqBljB", "nleit_PCMToWAVLoader", "h3Hi3Hl3Hm3Hn3Ho3H" , "IOPmjB", "nms_WorldChunkManagerHell", "ohMFt2M4rHu2M6rHv2M2uFw2MtnHx2M0iLy2M/lLniNoiN/rOwqOgsOyqOigPm9O" , "IOPnjB", "nms_ComponentStrongholdLibrary", "slPtlP4lP4B5lPFgmP+gPomPg/O" , "IOPojB", "nms_ChunkPosition", "6oLFm5MHn5MJ" , "IOPpjB", "nms_ComponentStrongholdLeftTurn", "ilPjlPylPFhmP+gPnmPg/O"
+        , "ABqjB", "ju_LinkedHashMapIterator", "r7OF47O7J57OntCh9O96Fi9O+kH" , "IJKLrjB", "nlei_PlatformAssets$1", "g1BFz8BlSghC+e" , "IJKLsjB", "nlei_PlatformAssets$2", "h1BF08BlShhC+e" , "IlDAlEtjB", "npji_PushbackReader", "yzHFz1HF+oI2tBjpIkpIlnJmnJi3J2tB" , "IOPujB", "nms_TexturePortalFX", "y5DF34FliF" , "IOPvjB", "nms_BlockPortal", "xoBF61Cj4Bn8HjnH3/HlzH16I6jI47IqsI83JquJ8zLt7K42LglL57M6iMuwOmlO+3O/3O" , "IOPwjB", "nms_RenderEnderman", "lwEF60JhqIuhKvhKtvKlhK60L39Kj1L79K4oM5oMspMtpM" , "EFGxjB", "cjj_GZIPHeader",
+        "2hFFvgKpNghKhhK" , "ABCyjB", "jur_AtomicFSet", "+/BF1+GkB97IysI4oJu8Bh2JopJ" , "EFtQzjB", "cjj_SyncState", "h4Hi4H14H24H34H44Hh5H7Um5HFn5HhPwiIxiI" , "IOP0jB", "nms_J_JsonFormatter", "vqLvH" , "IOP1jB", "nms_NBTTagCompound", "qzErzEr1Es1Et1Eu1Ev1Ew1Ep2EF83E61EpyFqyFryFsyFj4FqkCl6F40Fr6FO+wI/wIy0Iz0It5Ju5JrlKgtFslKtlKtnKunKy2Kz2KrgLsgLrmMsmMumMs3GvmM02EgqMhqMzzM0zM8xN9xNnyNy/JyyNzyN6nO7nOvpOwpOl3Om3O" , "IOP2jB", "nms_ComponentVillageStartPiece", "o/OFgiPhiP" , "IOP3jB", "nms_ItemBoat", "65BFt4M75L"
+        , "A6F4jB", "jt_NumberFormat", "kyBlyBj7Bk7Bl7Bm7Bn7Bo7Bq/BFigEjgEkgElgEmgEngEgxG9wB21G31G1iKvHjnKvHknKvHmpKnpKqpKrpKwpKxpK5pK6pKprKh2I/iLgjLoiMvHriMvH" , "IOP5jB", "nms_J_JsonObjectNodeList", "h+JF" , "IOP6jB", "nms_ItemBucket", "z5BFr4M75L" , "IOP7jB", "nms_BlockPumpkin", "toBFw2CgyB7wDg9Cw8MmkM35NrkNlvOjkM" , "jBqBrBsB3N8jB", "otcic_StderrOutputStream", "mQ4B6cF56EyrD" , "IOP9jB", "nms_BlockStationary", "1mBF5yLo6D/1LglLyjMzjM1qM2qM" , "IOP+jB", "nms_GuiCreateWorld", "tmIFs/I1+Ey/IliG3/I9+E7/Ih/E//I/6DjgJm9DogJr+EttJutJvtJwtJpwJqwJzyJvpH"
         , "IOP/jB", "nms_GenLayerRiverMix", "v0MFz0M00M54N1iN" , "ABgkB", "ju_EmptyStackException", "/pJF" , "IJKhkB", "nle_HFormatter$DateTimeUtil", "4xGhsE5xGF/iHgjHhjHijHjjHkjHljHmjHnjHojHpjHqjHrjHsjHtjHujHvjHwjHxjHyjHzjH0jH1jH2jH3jH4jH5jH6jH7jH8jH9jH+jH/jHgkHhkHikHjkHkkHlkHmkHnkHokHpkHqkHrkHskHtkHukHvkHwkHxkHykHzkH0kH1kH2kH3kH4kH5kH6kHtxHuxHvxHwxH" , "IOPikB", "nms_J_JsonFalseNodeBuilder", "4yIFh7M6sH" , "IJKLjkB", "nlei_EnumPlatformANGLE", "+N/Nha4BtkBFukBrdv4Ctej7EO" , "IOPkkB", "nms_BlockBed", "inBFoxBpxBqxB4Bw0Cj4BuwDg9C3zD4zD5zD6zD09G9jG77HjnHh/HlzH2tK64J82K92Ki3Kj3KslLtlLj2LglL7/Mn1My7N5pN9wOolO"
-        , "EFUlkB", "cjj_FuncFloor", "siIqiI2vI4B03IFwhJxhJzhJ0hJwqJouIpjKsqJ" , "A6FmkB", "jt_DecimalFormat$TextField", "r/BFg4EJl4EHryKshG" , "IOPnkB", "nms_BiomeGenHell", "7zFF" , "IOPokB", "nms_ModelMinecart", "2yEFp1LshG" , "ABCpkB", "jur_MultiLineEOLSet", "xpCF6/GkBt9IysI62JopJ" , "IOPqkB", "nms_SaveOldDir", "54KFhrLuiLirLvmL" , "IOPrkB", "nms_EntityReddustFX", "ptMF3zMFxgN7mHghN9kF" , "AlEskB", "ji_BufferedReader", "muD2hBnuDouDquDF+uDFxiEyiEziE0iEu1L2tB" , "IOPtkB", "nms_EntityFlameFX", "ktMFmgNztGsgN7mH7gN9kF"
-        , "pFqFKrFukB", "dcec_Command", "gzHhzHizHmFx3HFuuIvuIwuIxuIyuIzuI8uI9uIivIjvI" , "EFtQvkB", "cjj_Page", "l4Hm4Hp4Hq4Ho5Hp5Hq6HF76H4Bp7Hq7H2hI3hI4hI5hI6hI7hI8hI9hI4jJwhF" , "AB1CtP", "juz_Inflater", "v2EF0sF37C1sF2sF3sFy7C4sFl2D6sF7sF9sF+sFhtFitF2pGj2D3pG4pGg8LFh8Lj2Di8Ly7C" , "ABwkB", "ju_HashMap$AbstractMapIterator", "8rFFx1F7J86F96F9kH+kHw0JntC" , "jBqBrBsBsVxkB", "otcir_Converter", "l2Om2Op2Oq2O" , "IOPykB", "nms_RegionFileChunkBuffer", "87LFp3M2hB" , "EFUzkB", "cjj_Residue0", "wzIF33I4Bg6IqiIn3JouI2sKmiIzvKsqJ11K21K31K41K"
-        , "EFU0kB", "cjj_Residue1", "xzIF4sKmiI" , "EFU1kB", "cjj_Residue2", "yzIF3sKmiI" , "IOP2kB", "nms_WorldGenFire", "64OF74O/iN" , "IOP3kB", "nms_ComponentVillage", "4/OFrjPsjPrkPskPtkPukPkoPloP" , "IOP4kB", "nms_EffectRenderer", "75DF28D38D9oE+oEvpFwpFw+Fx+Fy+Fz+FgmGhmG9nH+nH8pN9pN" , "EFU5kB", "cjj_Mdct", "1hJ2hJkqJFlqJhP75J85J" , "IOP6kB", "nms_Packet25EntityPainting", "mhLF+sLimKquLkmKswL7/J" , "IOP7kB", "nms_ContainerFurnace", "txMFy3M9wHz3MxuMl7NsoN" , "AhC8kB", "jn_CharBuffer", "t1Bu1By1B5D51B61BzjDXhrDXhvDFxvD01B8mFXiqF5DgwFhwFlwFmTgpG99C/pGgqGyvG5DzvGktF2vGv+B3vGOuhHvhH6hHpNphIqhIrhIshI4iIpN8iIpN"
+        , "EFUlkB", "cjj_FuncFloor", "siIqiI2vI4B03IFwhJxhJzhJ0hJwqJouIpjKsqJ" , "A6FmkB", "jt_DecimalFormat$TextField", "r/BFg4EJl4EHryKshG" , "IOPnkB", "nms_BiomeGenHell", "7zFF" , "IOPokB", "nms_ModelMinecart", "2yEFp1LshG" , "ABCpkB", "jur_MultiLineEOLSet", "xpCF6/GkBt9IysI62JopJ" , "IOPqkB", "nms_SaveOldDir", "54KFhrLuiLirLvmL" , "IOPrkB", "nms_EntityReddustFX", "ptMF3zMFrgN7mH6gN9kF" , "AlEskB", "ji_BufferedReader", "muD2hBnuDouDquDF+uDFxiEyiEziE0iEu1L2tB" , "IOPtkB", "nms_EntityFlameFX", "ktMFngNztGwgN7mHhhN9kF"
+        , "pFqFKrFukB", "dcec_Command", "gzHhzHizHmFx3HFuuIvuIwuIxuIyuIzuI8uI9uIivIjvI" , "EFtQvkB", "cjj_Page", "l4Hm4Hp4Hq4Ho5Hp5Hq6HF76H4Bp7Hq7H2hI3hI4hI5hI6hI7hI8hI9hI4jJwhF" , "AB1CtP", "juz_Inflater", "v2EF0sF37C1sF2sF3sFy7C4sFl2D6sF7sF9sF+sFhtFitF2pGj2D3pG4pGi8LFj8Lj2Dk8Ly7C" , "ABwkB", "ju_HashMap$AbstractMapIterator", "8rFFx1F7J86F96F9kH+kHw0JntC" , "jBqBrBsBsVxkB", "otcir_Converter", "l2Om2Op2Oq2O" , "IOPykB", "nms_RegionFileChunkBuffer", "87LFp3M2hB" , "EFUzkB", "cjj_Residue0", "wzIF33I4Bg6IqiIn3JouI4sKmiIzvKsqJ11K21K31K41K"
+        , "EFU0kB", "cjj_Residue1", "xzIF2sKmiI" , "EFU1kB", "cjj_Residue2", "yzIF3sKmiI" , "IOP2kB", "nms_WorldGenFire", "64OF74O/iN" , "IOP3kB", "nms_ComponentVillage", "4/OFrjPsjPrkPskPtkPukPkoPloP" , "IOP4kB", "nms_EffectRenderer", "75DF28D38D9oE+oEvpFwpFw+Fx+Fy+Fz+FgmGhmG9nH+nH8pN9pN" , "EFU5kB", "cjj_Mdct", "1hJ2hJkqJFlqJhP75J85J" , "IOP6kB", "nms_Packet25EntityPainting", "mhLFvtLimK7uLkmK2wL7/J" , "IOP7kB", "nms_ContainerFurnace", "txMFy3M9wHz3M5tMj7NloN" , "AhC8kB", "jn_CharBuffer", "t1Bu1By1B5D51B61BzjDXhrDXhvDFxvD01B8mFXiqF5DgwFhwFlwFmTgpG39C/pGgqGyvG5DzvGktF2vGv+B3vGOuhHvhH6hHpNphIqhIrhIshI4iIpN8iIpN"
         , "IOP9kB", "nms_SpawnListEntry", "n0FF" , "IJKL+kB", "nlei_RamdiskFilesystemImpl", "qXF+3CpX07HjpF27H5qF19H/iGp+HipGr7IqvHkvK8mJv1LllK" , "IOP/kB", "nms_RenderItem", "1PF+3D/3DgiFhiFkkGlkG6tG7tGjvHkvH00JhqIihKjhK" , "ABglB", "ju_List", "hN5DnfrH/+DntCy+Er2B/uF+V" , "jBqBrBsBtBhlB", "otcit_DateTimeZoneBuilder$Recurrence", "pyC2tB4yCFs0Dt0Du0Dv0DnjE5J" , "IOPilB", "nms_PlayerController", "m/Cn/Cz6D06Dg8Dh8DloEmoEnoEooEroEsoEtoEuoEvoEwoExoEyoE1oE2oE3oE4oE5oE6oEljFmjFrjFsjFwkFxkFw/Fx/F8/F9/FmgGngGvlGwlG2lG3lG7lG8lG+lG/lG+oH/oHkpHlpHqpHrpHzuJFq5Jp5J"
-        , "jBqBrBsBtBjlB", "otcit_DateTimeZoneBuilder$OfYear", "vyC2tB/yCFlhFv0DroF5JqjGrjGsjGtjGnoGooGtoGuoGjvGkvG" , "IOPklB", "nms_WorldGenLiquids", "35OF45O/iN" , "ABllB", "ju_AbstractSet", "10BF01FJ21FH1jIt5F" , "IJKmlB", "nle_BaseNCodec$Context", "l+DF" , "IOPnlB", "nms_J_JsonFieldNodeSelector", "1qLFq4NOh6N95Nm6N4lNqkOrkOzkO0kOxzO3qL" , "IOPolB", "nms_Teleporter", "+oNF/oNgpNglOhlOilOjlO" , "ABCplB", "jur_NonCapJointSet", "wgCF4+GkBg8IysIj2JopJ" , "ARqlB", "jl_Iterable", "ueve" , "yHzH0H1H2H2N", "iudfo_AbstractObjectCollection",
-        "t2Br2B9kCF" , "IOPrlB", "nms_IChunkLoader", "n7Lo7Lt7Lu7L9wMjzI+wM/wMgxMhxM" , "IOPslB", "nms_BlockRedstoneWire", "4nBFj2Cj4B2wDg9C+9G9jGpgH8oGr/HlzH4+J5+J9vK9lK4zLt7Ks2LglLrrMmkMsrMtrMlzMmzMo1Mp1Ms7M6iMk9N8wN2tO0gOtuOpiOivOjkMmxOolO63O73O" , "IJKLqBtlB", "nleit_TeaVMClientConfigAdapterHooks$callHookSafe$lambda$_5_0", "/iEF6qEx3BxuEm+B" , "IOPulB", "nms_Packet12PlayerLook", "5gLFgsLimKhsLkmKp6NtmKx9OF" , "IOPvlB", "nms_GuiContainerCreative", "tkFFsuF4BkxFlxF/4F1+Eg5Fw7Dh5F/6Di5Fr+Et8GruGu8GxuGu9GliGw9GqiG"
-        , "jBqBrBsBnIwlB", "otciu_CharMapping", "7xCF" , "ABCxlB", "jur_AbstractCharClass$LazyCharClass", "8mCyhBjxCFqzDrzD" , "ARylB", "jl_NoClassDefFoundError", "MF" , "ABCzlB", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierStart", "pwCFl5ErzD" , "EFU0lB", "cjj_Util", "iqJjqJrjKsjKzjK0jK" , "jBqBrBsB1lB", "otci_CharFlow", "rsCF" , "IOP2lB", "nms_BlockCloth", "qnBFplDqlD0wDg9CkpFlpF9xOqlO" , "ABC3lB", "jur_RangeSet", "3nCFs3CukC+9C/9Ck+Cl+Cl/GkB" , "IJK4lB", "nle_EaglerOutputStream", "uxEFvzEFj1Ek1El1EyrDm1E2hBmrF63B62FyrD+/JvhB"
-        , "jBqBwI3J5lB", "otjt_Float32Array", "5rB4e+sB5I" , "IOP6lB", "nms_TextureFlamesFX", "35DF84FliF" , "E1L2L7lB", "cch_IntObjectMap", "oa5DpapN" , "A6F8lB", "jt_DateFormatElement$AmPmText", "hiEFq8EvH08EH+8EJ" , "IOP9lB", "nms_ModelSilverfish", "wyEF/zE4Bg+Kh+K30LshGwoMsiH" , "IOP+lB", "nms_EntityAnimal", "gwJF94LnoJ82MnlLp2N5yNt9NqxN89N1wN/oOzmMi3O9nOs8O42O" , "AlE/lB", "ji_Closeable", "0hE2hB" , "IOPgmB", "nms_Packet107CreativeSetSlot", "miLFvtLimK7uLkmKuwL7/JqgOF0tOtmK" , "IOPhmB", "nms_ItemLog", "jpBFl7EzmEm5NnkN"
-        , "IJKLiTimB", "nleiv_VFSListFilesIteratorImpl", "9iGFm7I5J" , "IOPjmB", "nms_ModelBed", "gjE4B" , "IOPkmB", "nms_GuiRenameWorld", "wmIFr/I1+Ex/IliG3/I9+E7/Ih/E//I/6DjgJm9DngJr+E" , "AhCiClmB", "jnc_MalformedInputException", "2iIFtgJT" , "IOPmmB", "nms_ItemBlock", "rpBF2xB3xBkyDy9Co0JqhJ73M55L" , "EFGnmB", "cjj_StaticTree", "1vJ4B7wJF" , "IOPomB", "nms_WorldGenForest", "70FFy3N/iN" , "IOPpmB", "nms_KeyBinding", "l7Dm7Dn7Do7D27D37D6kEFynE4BolFplFvoFwoF9uF+uF" , "IOPqmB", "nms_IStatStringFormat", "qgK0yG"
-        , "pFqFKicrmB", "dceg_GuiScreenInfo", "30IFs/I1+Ey/IliGogJr+E" , "AXsmB", "jm_BigInteger", "hrFFirFOqwFrwFswFtwFuwF4BkyFFlyFvJgzFF/xGn8ClzGOnzGmLozGpzG+vHFyvIzvIm1In1I11I21I31Ir0H81I91I+1I/1Il2Ir2Bm2In2Ir4IlsGs4It4Iu4IptC8hJJ+hJ/hJgiJhiJunJvnJisJx1GiuJFsxJ2qJn4Jo4Jp4Jq4J79J89JupK46BmqKFqrKrrKwrKF1rK2rK0yKH7yKn8C" , "ABCtmB", "jur_AbstractCharClass$LazyNonDigit", "twCFp5ErzD" , "IOPumB", "nms_EntityCritFX", "gtMF1zMF81M9kFtgN7mH" , "IJKLqBvmB", "nleit_TeaVMDataURLManager$checkDataURLSupport0$lambda$_1_0",
+        , "jBqBrBsBtBjlB", "otcit_DateTimeZoneBuilder$OfYear", "vyC2tB/yCFlhFv0DroF5JqjGrjGsjGtjGnoGooGtoGuoGjvGkvG" , "IOPklB", "nms_WorldGenLiquids", "35OF45O/iN" , "ABllB", "ju_AbstractSet", "10BF11FJ41FH1jIt5F" , "IJKmlB", "nle_BaseNCodec$Context", "l+DF" , "IOPnlB", "nms_J_JsonFieldNodeSelector", "1qLFr4NOh6N95Nm6N4lNqkOrkOzkO0kOxzO3qL" , "IOPolB", "nms_Teleporter", "+oNF/oNgpNglOhlOilOjlO" , "ABCplB", "jur_NonCapJointSet", "wgCF4+GkBg8IysIj2JopJ" , "ARqlB", "jl_Iterable", "ueve" , "yHzH0H1H2H2N", "iudfo_AbstractObjectCollection",
+        "t2Br2B9kCF" , "IOPrlB", "nms_IChunkLoader", "n7Lo7Lt7Lu7L9wMjzI+wM/wMgxMhxM" , "IOPslB", "nms_BlockRedstoneWire", "4nBFi2Cj4B2wDg9C+9G9jGpgH8oGr/HlzH4+J5+J9vK9lK4zLt7Ks2LglLrrMmkMsrMtrMlzMmzMo1Mp1Ms7M6iMk9N8wN2tO0gOtuOpiOivOjkMmxOolO63O73O" , "IJKLqBtlB", "nleit_TeaVMClientConfigAdapterHooks$callHookSafe$lambda$_5_0", "/iEF6qEx3BxuEm+B" , "IOPulB", "nms_Packet12PlayerLook", "5gLFgsLimKhsLkmKp6NtmKx9OF" , "IOPvlB", "nms_GuiContainerCreative", "tkFFsuF4BkxFlxF/4F1+Eg5Fw7Dh5F/6Di5Fr+Et8GruGu8GxuGu9GliGw9GqiG"
+        , "jBqBrBsBnIwlB", "otciu_CharMapping", "7xCF" , "ABCxlB", "jur_AbstractCharClass$LazyCharClass", "8mCyhBjxCFqzDrzD" , "ARylB", "jl_NoClassDefFoundError", "MF" , "ABCzlB", "jur_AbstractCharClass$LazyJavaUnicodeIdentifierStart", "pwCFl5ErzD" , "EFU0lB", "cjj_Util", "iqJjqJrjKsjKzjK0jK" , "jBqBrBsB1lB", "otci_CharFlow", "rsCF" , "IOP2lB", "nms_BlockCloth", "qnBFplDqlD0wDg9CkpFlpF9xOqlO" , "ABC3lB", "jur_RangeSet", "3nCFq3CukC49C59Ck+Cl+Cl/GkB" , "IJK4lB", "nle_EaglerOutputStream", "uxEFvzEFj1Ek1El1EyrDm1E2hBmrF63B62FyrD+/JvhB"
+        , "jBqBwI3J5lB", "otjt_Float32Array", "5rB4e+sB5I" , "IOP6lB", "nms_TextureFlamesFX", "35DF84FliF" , "E1L2L7lB", "cch_IntObjectMap", "oa5DpapN" , "A6F8lB", "jt_DateFormatElement$AmPmText", "hiEFp8EvHz8EH98EJ" , "IOP9lB", "nms_ModelSilverfish", "wyEF/zE4Bg+Kh+K30LshGwoMsiH" , "IOP+lB", "nms_EntityAnimal", "gwJF/4LnoJ82MnlLp2N5yNt9NqxN89N1wN/oOzmMi3O9nOs8O42O" , "AlE/lB", "ji_Closeable", "0hE2hB" , "IOPgmB", "nms_Packet107CreativeSetSlot", "miLFjtLimKvuLkmKtwL7/JqgOF0tOtmK" , "IOPhmB", "nms_ItemLog", "jpBFl7EzmEm5NnkN"
+        , "IJKLiTimB", "nleiv_VFSListFilesIteratorImpl", "9iGFm7I5J" , "IOPjmB", "nms_ModelBed", "gjE4B" , "IOPkmB", "nms_GuiRenameWorld", "wmIFq/I1+Ew/IliG2/I9+E6/Ih/E+/I/6DigJm9DmgJr+E" , "AhCiClmB", "jnc_MalformedInputException", "2iIFtgJT" , "IOPmmB", "nms_ItemBlock", "rpBF2xB3xBkyDy9Co0JqhJ73M55L" , "EFGnmB", "cjj_StaticTree", "1vJ4B7wJF" , "IOPomB", "nms_WorldGenForest", "70FFy3N/iN" , "IOPpmB", "nms_KeyBinding", "l7Dm7Dn7Do7D27D37D6kEFynE4BolFplFvoFwoF9uF+uF" , "IOPqmB", "nms_IStatStringFormat", "qgK0yG"
+        , "pFqFKicrmB", "dceg_GuiScreenInfo", "30IFu/I1+E0/IliGqgJr+E" , "AXsmB", "jm_BigInteger", "hrFFirFOqwFrwFswFtwFuwF4BkyFFlyFvJgzFF/xGn8ClzGOnzGmLozGpzG+vHFyvIzvIm1In1I11I21I31Ir0H81I91I+1I/1Il2Ir2Bm2In2Ir4IlsGs4It4Iu4IptC8hJJ+hJ/hJgiJhiJunJvnJisJx1GiuJFsxJ2qJn4Jo4Jp4Jq4J79J89JupK46BmqKFqrKrrKwrKF1rK2rK0yKH8yKn8C" , "ABCtmB", "jur_AbstractCharClass$LazyNonDigit", "twCFp5ErzD" , "IOPumB", "nms_EntityCritFX", "gtMF1zMF81M9kFsgN7mH" , "IJKLqBvmB", "nleit_TeaVMDataURLManager$checkDataURLSupport0$lambda$_1_0",
         "+rBFz0B00Bw8Bx8B" , "ABCwmB", "jur_CIBackReferenceSet", "0pCFh3C7jC9/GkBw9IysI5pJu1E72JopJ" , "ABCxmB", "jur_AbstractCharClass$1", "3lDFvyDqZ" , "ABCymB", "jur_AbstractCharClass$2", "4lDFwyDqZ" , "ABCzmB", "jur_PossessiveCompositeQuantifierSet", "3oCF98IysI" , "A6F0mB", "jt_DecimalFormat$CurrencyField", "hmFFz6FJ06FHuyKshG" , "AB1mB", "ju_GregorianCalendar", "h4BFw+BFx+B4BiiCFslCtlC7yCF+4CvqC/4CzqC16EghE26EihEnmFomFpmFqmFrmFsmFtmFumFvmFwmFymFzmF1mF2mF3mF4mFivFjvFvxFsmFojGr2B" , "IOP2mB", "nms_RenderPlayer",
-        "rwEF0yE4BluHmuH70JhqIwhKxhKuvKlhKg0Lr9Kk0Lv9Kq0Lx9K80L39Kl1L79Kn1L/9KgnMhnMqnMrnM2nM3nM+oM/oMwpMxpM2pM3pM" , "IOP3mB", "nms_MaterialLiquid", "t4BFu7IlxH/9ItwImrLpxH" , "jBqBrBsB4mB5mB", "otcic_CurrencyHelper", "vmCwmC/qCgrC+tC/tCpvCqvC" , "IOP6mB", "nms_RenderMinecart", "5wEFl1JhqIkiKliK" , "IOP7mB", "nms_ItemLeaves", "mpBFo7EzmEt+GhkGp5NnkN" , "EFU8mB", "cjj_Time0", "tzIF95IqiIk3JouIwvKsqJ" , "IOP9mB", "nms_EntitySnowball", "mtJF9yJ/yFk4L9kF14L4mK74Lq2K+xMF/xMgyMilNFk3NxnNi4Nu1Nu+NzmMktO9nO" , "jBqBwI+mB/mB",
-        "otjw_AudioContext", "kYlY" , "ABCgnB", "jur_UCISequenceSet", "9pCF//GkBx1J/9C" , "IOPhnB", "nms_GuiAchievements", "zoHF6yH4Bs9H1+Et9H1/Cu9HliGv9Hh/Ew9H/6Dx9Hr+EynIznI0nI1nI" , "IJKLqBinB", "nleit_TeaVMBlobURLManager$checkSameOriginSupport$lambda$_3_0", "trBFn0BhGk8BzI" , "ABCjnB", "jur_AbstractCharClass$LazyJavaDefined$1", "3gFF91FqZ" , "IJKLqBknB", "nleit_ImmediateContinue", "mpEnpEopEppE" , "jBqBwIlnB", "otj_JSExceptions", "6Q7Q" , "ABCmnB", "jur_AbstractCharClass$LazyAlnum", "zvCFv4ErzD" , "A6FnnB",
-        "jt_DecimalFormat$FormatField", "orKshG" , "IOPonB", "nms_ComponentVillageTorch", "onPpnPwnPFvoP+gP9oPg/O" , "IOPpnB", "nms_Item", "hpBipBxxB4ByxBzxB0xB1xB+xBFhyBiyB94B+4Bm5Bn5B05B15B/5Bg6Bn6Bo6Bp6Bq6Bx9Cy9CymEzmE7jG/hFgkGhkGtuHuuHphJqhJthJgvHymJroIujLvjLwjLxjL45L55L65L75L85L95L+5L/5Lg6Lh6Li6Lj6L8oM9oMmkNnkN1oN7+B2oNh0K3oN4oN5oN6oNulO43KvlOgiM+1O/1Og2Oh2Ou6O9kF" , "IOPqnB", "nms_ChunkProviderHell", "iqMF02Mh6K12Mj7K6iN7iN8iN9iNnjOojOzvOvlN" , "IOPrnB", "nms_Packet33RelEntityMoveLook", "uhLFitLimKuuLkmK"
-        , "IJKLsnB", "nlei_PlatformApplication$downloadFileWithName$lambda$_30_0", "3wIFx0IhGh4IzI" , "IOPtnB", "nms_Packet14BlockDig", "7gLFksLimKlsLkmK5vL7/JigOFwtOtmK" , "ABCunB", "jur_EmptySet", "tgCF3+GkB8+Hu2Dr1J/9C11J3oJi2JopJ" , "IOPvnB", "nms_StepSound", "8lBF5rI6rI7rI8rI9rI+rI+pN/pN" , "IOPwnB", "nms_MouseHelper", "j5DF69E79ErkFskFqlFrlF" , "IOPxnB", "nms_EnumMovingObjectType", "2tE4BwxEFxxErd17Ete" , "jBqBrBsBtBynB", "otcit_DateTimeZoneBuilder$Transition", "8nF9nF+nFt0DooFpoFqoF0sCsvFtvFjoGFkoGFmoGF"
-        , "IJKLqBznB", "nleit_BooleanResult", "lsJmsJ8vJ4BvxJF" , "pFqFK4d0nB", "dcev_VFilenameFilter", "03Ovd" , "IOP1nB", "nms_SoundManager$_init_$lambda$_0_0", "7PF++H0yH" , "IOP2nB", "nms_J_ArrayNodeContainer", "7sIFssK0yIxsKguI" , "IOP3nB", "nms_EntitySilverfish", "ssJFy4L9kFo5LnoJ4+MxvMq/MzvMx8NnvN09NmiN3+NzmM7sO9nOqyO2rIzyO2mO6yOsoEkzO0nO48O5yN" , "AR4nB", "jl_NoSuchMethodError", "QF" , "IOP5nB", "nms_BlockLeavesBase", "kxBF23JquJ" , "IOP6nB", "nms_ItemReed", "75BFk4M55L" , "AlE7nB", "ji_IOException",
-        "8gBFj2BF8sFF9mJF" , "IOP8nB", "nms_BlockMobSpawner", "1nBF31Cj4B/tO8hOkwOmlOkxOolO" , "AR9nB", "jl_ArrayIndexOutOfBoundsException", "yhDF+/EF" , "IOP+nB", "nms_BiomeGenTaiga$_init_$lambda$_0_0", "o0FF+2L/uI" , "AlE/nB", "ji_InputStreamReader", "puDF9uDFlvDF90EF81E91E66E2hBw7E2tBjqF0iEjwFkwF" , "IOPgoB", "nms_EntityArrow", "4sJF4yJ/yFx4L9kF64L4mKzoMF5xM6xMj3NxnNh4Nu1Nt+NzmMjtO9nOm6OF" , "IOPhoB", "nms_EntityXPOrb", "xsJF2yJ/yFm+Kn+Kw4L9kFn5LnoJr+M2rIs+MssIooNFyxNzxNl4Nu1N/4N5jNs+NzmMntO9nO" , "IOPioB",
-        "nms_Pathfinder", "jlLFolLplL/rMplLszMtzMvzMwzMy1Mz1M01M11Mh2Mi2Mj2Mk2Mw+OplL" , "IOPjoB", "nms_ServerNBTStorage", "mnIFpnIFixIjxIxnKynK" , "ABkoB", "ju_AbstractMap$SimpleEntry", "3kJyhBjnJknJ0uJtzEvwJFnrOJorOOrsOH" , "EFGloB", "cjj_InfBlocks", "rgEFugE9zChqEvhBiqE4BrhFshFwjGxjG" , "IJKLmoB", "nlei_OpenGLObjects$UniformGL", "4fF5sB4B" , "ABnoB", "ju_TemplateCollections$AbstractImmutableMap", "lsBF" , "IOPooB", "nms_RenderSheep", "8vEFg1L79KmpMnpM" , "IOPpoB", "nms_MathHelper", "v6Dw6Dy8Dz8D9jE+jE/jEgkEonE4BisEjsEnqFoqFyhGmLq0Ir0I9kJ+kJ2uN3uN/vNgwNq4Or4Ou/Ov/O"
-        , "IOPqoB", "nms_ChunkBlockMap", "khOlhO0pO4B" , "IOProB", "nms_GuiDownloadTerrain", "kmNFr/Nr+E4/N1+E5/N/6D8/NliG9/Nh/E" , "ABsoB", "ju_ListIterator", "tmGr2B" , "ABtoB", "ju_Date", "tHFwP4B51D61DulFvlF6xGF" , "IOPuoB", "nms_ChunkProviderFlat", "mqMF42Mh6K52Mj7KnjNojN1vOvlN" , "IOPvoB", "nms_ComponentStrongholdCorridor", "1kP2kP9kPF+lP+gPrmPg/O" , "ABue", "ju_Random", "6P5P4lBF7lB6lB5hD5PvmEumEptEotE0nHznH3tJ2tJ" , "IOPwoB", "nms_PathEntity", "qlLrlLg2MF7mOqjF9mO+mO/mOgnO" , "AhCiCsBxoB", "jnci_UTF8Decoder",
-        "q2DFq6I7iIkkJlkJ" , "jBqBrBsBtByoB", "otcit_DateTimeZoneProvider$detectTimezone$lambda$_4_0", "stCF2yDikDshEikD" , "IOPzoB", "nms_BlockLadder", "/nBFx1Cj4Bi+G9jGw8HlnHv/HlzHw2LglLw7M6iMr8MmkMt5NpkNnwOmlO" , "ABC0oB", "jur_AbstractCharClass$LazyJavaLetter$1", "9gFFj2FqZ" , "AB1C1oB", "juz_ZipEntry", "54G64Gi5GFj5GkB47G57GxrHyrHs0IFi6IOtrJurJ0rJ1rJ2rJvlF3rJ61D9rJ+rJ" , "IOP2oB", "nms_EnumAction", "p0H4Bx2HFy2HrdkgIte" , "IOP3oB", "nms_J_JsonNodeBuilders", "3sI4sIgtIhtIttIutIxtIytI0tI1tI2tI3tI4tI5tI" ,
-        "IOP4oB", "nms_BlockVine", "+oBF91Cj4Br+G9jGrgH8oGs8HjnH79H/pH/9HhqHn+HnqH8/HlzH3kI4kIqyL+3KxzLo6D82LglL9rM+rM87M6iMx5NpkN68N+vN0wOmlO4xOolO" , "AB5oB", "ju_IANATimeZone", "nqCFt1CLt9CLw5FwrF05FitC7+HzxH" , "IOP6oB", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException", "rqLsqL5lN6lN7lN8lN9lN+lNuzNFx4NO" , "IOP7oB", "nms_Packet52MultiBlockChange", "4hLFhtLimKtuLkmK1wL7/J" , "EFtQ7G", "cjj_Buffer", "t6HFu6Hv6H96H4BiiIjiIkiI2tBniIoiIkuI2tBhhMsqJihMjhMkhMlhM" , "IOP8oB", "nms_ItemDye", "+5BF/+B4Bp7EzmEr0JqhJl4M55Ls7N4oN"
-        , "AR7Z9oB", "jlr_Reference", "9oL5DiqLF" , "ABC+oB", "jur_SpecialToken", "prCF" , "IOP/oB", "nms_BlockRail", "jnBFx0Cj4BvwDg9C19G9jG87HjnHi/HlzH6+J7+Jk2LglL7qM8qMgrMhrM6uM7uM8uM9uM0yM1yM2yM3yMm7M6iMl8MmkM38MkmM8/Mn1M6uOjkM9vOmlO" , "IOPgpB", "nms_TileEntityFurnace", "lkNxuMpoNF+xNyuH/xNgyNhyNiyN96N9wH+6NjtH/6NqqGg7NnoI1rOw8K/zOyzMh1Or6Kt2OyqKu2Ov2O66O76O86O96O" , "ABChpB", "jur_AbstractCharClass$LazyUpper", "wvCFs4ErzD" , "ABipB", "ju_HashMap$KeyIterator", "j/EFy1F5J" , "IJKLjpB", "nlei_VFSFilenameIterator",
-        "voI5J" , "IOPkpB", "nms_J_SajParser", "tpGFupGvpGwsHxsHysHzsH1sH2sH1zH2zH7zH8zH01H11H41H51H23H33H43H53H65H75H85H95H+5H/5Hg6Hh6Hi6Hj6H26H36H46H56H" , "jBqBwIsBlpB", "otji_JSWrapper", "vEwExEyEiG4BjGkGlGmGnGoGsItI+I/IxQyQsdtdxqBkGyqBzqB0qBX+yBF/yBgzBlzBmzBnzBozBpzBqzBrzBszBtzBuzBvzBwzBxzByzBzzB0zB+gD/gDghDhhD2tD3tD" , "ABmpB", "ju_Stack", "szGF8sI9sI+sI/sI+tIkgC" , "IJKpDnpB", "nleo_InstancedFontRenderer", "jPoKgb4B" , "IOPopB", "nms_BlockPressurePlate", "hoBF+1Cj4Bk8HjnHh+HnqHx/HlzH17IqsIkoJloJxvJtvJ/vK9lKlzLo6Dy2LglLy7M6iMs8MmkM+/Mn1Mm9N8wN4tO0gOwuOpiOkvOjkM"
-        , "IOPppB", "nms_BlockMelon", "8oBF02CgyBgxDg9CywOmlO2xOolO" , "IlD/JOqpB", "npem_Resource", "luBmuBp2BF" , "ABCrpB", "jur_MultiLineSOLSet", "qpCF1/GkBo9IysI12JopJ" , "IOPspB", "nms_World", "9+C++Ct6Du6Dm8Dn8Ds8Dt8Du8Dv8Dw8Dx8D08D18D/oEgpE3jF4jF2kF3kFmpFnpFlsFmsFvuFwuFxuFyuFzuF0uF7uF8uF8gG9gGmkGnkGokGpkGxkGykGtlGulGxlGylGimGjmGkmGlmGmmGnmGmsGnsGosGpsGqsGrsGwsGxsGysGzsGsvGtvGn0Go0G1lH2lH3lH4lHqmHrmHymHzmHwnHxnH/nHgoHhoHioH6oH7oHnrHorHprHqrH1uH2uHixHjxHtpIupIvpIwpI0pI1mI6pI7pIprIqrI3rI4rI/rIgsInsIosIqvIrvIwvIxvIlwImwI6nJ7nJ+nJ/nJkvJlvJmvJnvJovJpvJqvJrvJvvJwvJywJzwJ0wJ1wJi5Jj5JpgKF0mKF7mK8mK2oK3oK4oK5oK6oK7oK8oK9oK/uK8jIgvKvkKhvKj/JivKn/J+2K/2Ks3Kt3K13K23K64K74K84K94Kl5Km5Kn5Ko5Ku5Kv5K45K55K65K75K+5K/5Ko6Kp6Kq6Kr6Kx6Ky6K36K46K56K66K+6K/6Kk7Kl7Km7Kn7Ko7Kp7Kq7Kr7Ku7Kv7K67K77K+7K/7Kp8Kq8Kr8Ks8Ky/Kz/K6kL7kL6lL7lLomLpmLsmLtmL3gM4gM5gM6gM7gMhxHwhMxhM6hM7hM4iM3iM9iM+iMqjMrjM4jM5jMglMhlMylMzlM5lM6lM9lMkrK/lMgmMoqMpqM5qM6qM9tM+tMkuMluMivMjvMqvMrvMuxMvxMjyMkyMnyMoyMizMjzM9zM+zMvjNwjNxjNyjN+kN/kNglNhlN6nN7nNuoNvoN9oNF2pN3pNurNvrNuuNvuNxzNFyzNzzN6zN5zNtgOugOvgOwgOxgO3mBghOhhOihOjhO3hO4hO5hO6hO9hO+hOqiOriOwiOxyNxiOyiO8kO9kO3mO4mOknOlnO1pO2pO43O53Oi6Oj6Ox7Oy7Oj9Ok9O"
-        , "IOPtpB", "nms_McRegionChunkLoader", "r6LFm2Mo7Ln2Mu7Lo2MjzIp2M/wMq2MhxM" , "IOPupB", "nms_BiomeGenSwamp", "5zFF08Ow5O" , "IOPvpB", "nms_ModelRenderer", "hcFicjckclcvyEjcuiHshGl6Hm6HijIjjIqoMroM2oM3oMttNutN" , "ABCwpB", "jur_AbstractCharClass$LazyLower", "vvCFr4ErzD" , "IJKLqBxpB", "nleit_ClientMain", "mCnCiD4BjDkDpDqDsEtE5E6EgFhFiFjFsG6EoHpHwHxHkJlJmJnJoJpJqJrJsJtJwJxJyJzJhRiRjRkRoRpRqRrR6b7bylBzlB" , "IOPypB", "nms_Packet5PlayerInventory", "ygLFyrLimKzrLkmKkwL7/J" , "IOPzpB", "nms_ItemTool", "0+BFj9M9oMm7N7+Bo7Nh0Kt7N6oNkyOgiM"
-        , "IOP0pB", "nms_Packet29DestroyEntity", "qhLFgtLimKsuLkmK9wL7/J" , "IOP1pB", "nms_TileEntitySignRenderer", "32HFuyLzhIsiMtiM" , "AB2pB", "ju_Comparator", "20B30B" , "IJKL3pB", "nlei_VFSFilenameIteratorNonRecursive", "soItoIuoIFl7I5J" , "IJKL4pB", "nlei_PlatformInput$5", "6YF2jBlS0vB+e+hD+e" , "IJKL5pB", "nlei_IClientConfigAdapter$DefaultServer", "66CF" , "IJKL6pB", "nlei_EnumPlatformAgent", "5N6N/Z4BpkBFqkBrdt4Cteh7EO" , "IJKL7pB", "nlei_PlatformInput$6", "7YF3jBlS1vB+e/hD+e" , "IJKL8pB", "nlei_PlatformInput$7",
-        "8YF4jBlS2vB+egiD+e" , "jBqB4B5B9pB", "otrf_VirtualFile", "q4Gr4Gs4Gt4Gu4Gv4Gw4Gx4G5oIjnC" , "IJKL+pB", "nlei_PlatformInput$8", "9YF5jBlS3vB+ehiD+e" , "ABC/pB", "jur_UCISupplCharSet", "0rCFhgHkBz1J/9C" , "IJKLgqB", "nlei_PlatformInput$9", "+YF6jBlS4vB+eiiD+e" , "ABhqB", "ju_AbstractQueue", "9sCr2BmtCntC7uCF" , "ABCiqB", "jur_AbstractCharClass$LazyRange", "uwCFq5ErzD" , "IOPjqB", "nms_GuiConnectFailed", "jlIF36I1+E46IliG56Ih/E66I/6D76Ir+E" , "IOPkqB", "nms_ModelBase", "gcFthGshGtiHsiH09K19K0oM1oM" , "ABClqB",
-        "jur_AltQuantifierSet", "8oCF82C7jCh9IysI" , "EFG9E", "cjj_GZIPInputStream", "phBF7tBFl2BF" , "IOPmqB", "nms_GuiSavingLevelString", "toNF" , "AlEnqB", "ji_DataOutputStream", "jzFFj6F00Fk6F20FzqG0qG1qG2qG3qG4qG5qGyrDw+Hv0Fx+HrtHy+Hy0Fz+HutH0+HwtHqmKyrD7mL8mLn3Oo3O" , "IOPoqB", "nms_NoiseGeneratorPerlin", "/0MFs4Ot4O29O39O49O59O69O79Ou+Ov+O/gPghP" , "jBqBrBsBtBpqB", "otcit_FixedDateTimeZone", "mqCFwxCvxCh5C0sCwxDktC2xDitC" , "EFtQqU", "cjj_Packet", "p6HF" , "IJKLqqB", "nlei_PlatformInput$1", "2YFyjBlSwvB+e6hD+e"
+        "rwEF0yE4BluHmuH70JhqIwhKxhKuvKlhKg0Lr9Kk0Lv9Kq0Lx9K80L39Kl1L79Kn1L/9KgnMhnMqnMrnM2nM3nM+oM/oMwpMxpM2pM3pM" , "IOP3mB", "nms_MaterialLiquid", "t4BFu7IlxH/9ItwInrLpxH" , "jBqBrBsB4mB5mB", "otcic_CurrencyHelper", "vmCwmC/qCgrC+tC/tCpvCqvC" , "IOP6mB", "nms_RenderMinecart", "5wEFl1JhqIkiKliK" , "IOP7mB", "nms_ItemLeaves", "mpBFo7EzmEt+GhkGp5NnkN" , "EFU8mB", "cjj_Time0", "tzIF95IqiIk3JouIwvKsqJ" , "IOP9mB", "nms_EntitySnowball", "ktJF9yJ/yFl4L9kF14L4mK74Lq2K+xMF/xMgyMilNFr3N8nNi4Nu1Nu+NzmMktO9nO" , "jBqBwI+mB/mB",
+        "otjw_AudioContext", "kYlY" , "ABCgnB", "jur_UCISequenceSet", "9pCF//GkBx1J59C" , "IOPhnB", "nms_GuiAchievements", "zoHF6yH4Bs9H1+Et9H1/Cu9HliGv9Hh/Ew9H/6Dx9Hr+EynIznI0nI1nI" , "IJKLqBinB", "nleit_TeaVMBlobURLManager$checkSameOriginSupport$lambda$_3_0", "trBFn0BhGk8BzI" , "ABCjnB", "jur_AbstractCharClass$LazyJavaDefined$1", "3gFF91FqZ" , "IJKLqBknB", "nleit_ImmediateContinue", "mpEnpEopEppE" , "jBqBwIlnB", "otj_JSExceptions", "6Q7Q" , "ABCmnB", "jur_AbstractCharClass$LazyAlnum", "zvCFv4ErzD" , "A6FnnB",
+        "jt_DecimalFormat$FormatField", "orKshG" , "IOPonB", "nms_ComponentVillageTorch", "onPpnPwnPF1oP+gPhpPg/O" , "IOPpnB", "nms_Item", "hpBipBxxB4ByxBzxB0xB1xB+xBFhyBiyB94B+4Bm5Bn5B05B15B/5Bg6Bn6Bo6Bp6Bq6Bx9Cy9CymEzmE7jG/hFgkGhkGtuHuuHphJqhJthJgvHymJroIujLvjLwjLxjL45L55L65L75L85L95L+5L/5Lg6Lh6Li6Lj6L8oM9oMmkNnkN1oN7+B2oNh0K3oN4oN5oN6oNulO43KvlOgiM+1O/1Og2Oh2Ou6O9kF" , "IOPqnB", "nms_ChunkProviderHell", "iqMF02Mh6K12Mj7K6iN7iN8iN9iNnjOojOzvOvlN" , "IOPrnB", "nms_Packet33RelEntityMoveLook", "uhLF+sLimKquLkmK"
+        , "IJKLsnB", "nlei_PlatformApplication$downloadFileWithName$lambda$_30_0", "3wIFx0IhGh4IzI" , "IOPtnB", "nms_Packet14BlockDig", "7gLFksLimKlsLkmK/vL7/JigOFwtOtmK" , "ABCunB", "jur_EmptySet", "tgCF3+GkB8+Hu2Dr1J59C11J3oJi2JopJ" , "IOPvnB", "nms_StepSound", "8lBF5rI6rI7rI8rI9rI+rI+pN/pN" , "IOPwnB", "nms_MouseHelper", "j5DF69E79ErkFskFqlFrlF" , "IOPxnB", "nms_EnumMovingObjectType", "2tE4BwxEFxxErd17Ete" , "jBqBrBsBtBynB", "otcit_DateTimeZoneBuilder$Transition", "8nF9nF+nFt0DooFpoFqoF0sCsvFtvFjoGFkoGFmoGF"
+        , "IJKLqBznB", "nleit_BooleanResult", "lsJmsJ8vJ4BvxJF" , "pFqFK4d0nB", "dcev_VFilenameFilter", "03Ovd" , "IOP1nB", "nms_SoundManager$_init_$lambda$_0_0", "7PF++H0yH" , "IOP2nB", "nms_J_ArrayNodeContainer", "7sIFusK0yIvsKguI" , "IOP3nB", "nms_EntitySilverfish", "+sJFh4L9kF84LnoJ4+MxvMq/MzvMx8NnvN09NmiN3+NzmM7sO9nOqyO2rIzyO2mO6yOsoEkzO0nO48O5yN" , "AR4nB", "jl_NoSuchMethodError", "QF" , "IOP5nB", "nms_BlockLeavesBase", "kxBF23JquJ" , "IOP6nB", "nms_ItemReed", "75BFk4M55L" , "AlE7nB", "ji_IOException",
+        "8gBFj2BF8sFF9mJF" , "IOP8nB", "nms_BlockMobSpawner", "1nBF21Cj4B/tO8hOkwOmlOkxOolO" , "AR9nB", "jl_ArrayIndexOutOfBoundsException", "yhDF+/EF" , "IOP+nB", "nms_BiomeGenTaiga$_init_$lambda$_0_0", "o0FF+2L/uI" , "AlE/nB", "ji_InputStreamReader", "puDF9uDFlvDF90EF81E91E66E2hBw7E2tBjqF0iEjwFkwF" , "IOPgoB", "nms_EntityArrow", "htJF7yJ/yFn4L9kF24L4mKzoMF5xM6xMq3N8nNh4Nu1Nt+NzmMjtO9nOm6OF" , "IOPhoB", "nms_EntityXPOrb", "jtJF8yJ/yFm+Kn+Ky4L9kFo5LnoJr+M2rIs+MssIhoNFyxNzxNl4Nu1N/4N5jNs+NzmMntO9nO" , "IOPioB",
+        "nms_Pathfinder", "jlLFolLplL/rMplLszMtzMvzMwzMy1Mz1M01M11Mh2Mi2Mj2Mk2Mw+OplL" , "IOPjoB", "nms_ServerNBTStorage", "mnIFpnIFixIjxIxnKynK" , "ABkoB", "ju_AbstractMap$SimpleEntry", "3kJyhBjnJknJ0uJtzEvwJFnrOJorOOrsOH" , "EFGloB", "cjj_InfBlocks", "rgEFugE9zChqEvhBiqE4BrhFshFwjGxjG" , "IJKLmoB", "nlei_OpenGLObjects$UniformGL", "4fF5sB4B" , "ABnoB", "ju_TemplateCollections$AbstractImmutableMap", "lsBF" , "IOPooB", "nms_RenderSheep", "8vEFg1L79KmpMnpM" , "IOPpoB", "nms_MathHelper", "v6Dw6Dy8Dz8D9jE+jE/jEgkEonE4BisEjsEnqFoqFyhGmLq0Ir0I9kJ+kJ2uN3uNhwNiwNq4Or4Ou/Ov/O"
+        , "IOPqoB", "nms_ChunkBlockMap", "khOlhO0pO4B" , "IOProB", "nms_GuiDownloadTerrain", "jmNFr/Nr+E4/N1+E5/N/6D8/NliG9/Nh/E" , "ABsoB", "ju_ListIterator", "tmGr2B" , "ABtoB", "ju_Date", "tHFwP4B51D61DulFvlF6xGF" , "IOPuoB", "nms_ChunkProviderFlat", "mqMF42Mh6K52Mj7KnjNojN1vOvlN" , "IOPvoB", "nms_ComponentStrongholdCorridor", "1kP2kP9kPFimP+gPsmPg/O" , "ABue", "ju_Random", "6P5P4lBF7lB6lB5hD5PvmEumEptEotE0nHznH3tJ2tJ" , "IOPwoB", "nms_PathEntity", "qlLrlLg2MF7mOqjF9mO+mO/mOgnO" , "AhCiCsBxoB", "jnci_UTF8Decoder",
+        "q2DFq6I7iIkkJlkJ" , "jBqBrBsBtByoB", "otcit_DateTimeZoneProvider$detectTimezone$lambda$_4_0", "stCF2yDikDshEikD" , "IOPzoB", "nms_BlockLadder", "/nBFl2Cj4Bi+G9jGw8HlnHv/HlzHw2LglLw7M6iMr8MmkMt5NpkNnwOmlO" , "ABC0oB", "jur_AbstractCharClass$LazyJavaLetter$1", "9gFFj2FqZ" , "AB1C1oB", "juz_ZipEntry", "54G64Gi5GFj5GkB47G57GxrHyrHs0IFi6IOtrJurJ0rJ1rJ2rJvlF3rJ61D9rJ+rJ" , "IOP2oB", "nms_EnumAction", "p0H4Bx2HFy2HrdkgIte" , "IOP3oB", "nms_J_JsonNodeBuilders", "3sI4sIgtIhtIttIutIxtIytI0tI1tI2tI3tI4tI5tI" ,
+        "IOP4oB", "nms_BlockVine", "+oBF81Cj4Br+G9jGrgH8oGs8HjnH79H/pH/9HhqHn+HnqH8/HlzH3kI4kIqyL+3KxzLo6D82LglL9rM+rM87M6iMx5NpkN68NkwN0wOmlO4xOolO" , "AB5oB", "ju_IANATimeZone", "nqCFt1CLt9CLw5FwrF05FitC7+HzxH" , "IOP6oB", "nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException", "rqLsqL5lN6lN7lN8lN9lN+lNuzNFx4NO" , "IOP7oB", "nms_Packet52MultiBlockChange", "4hLF2tLimKivLkmK4wL7/J" , "EFtQ7G", "cjj_Buffer", "t6HFu6Hv6H96H4BiiIjiIkiI2tBniIoiIkuI2tBhhMsqJihMjhMkhMlhM" , "IOP8oB", "nms_ItemDye", "+5BF/+B4Bp7EzmEr0JqhJl4M55Ls7N4oN"
+        , "AR7Z9oB", "jlr_Reference", "9oL5DiqLF" , "ABC+oB", "jur_SpecialToken", "prCF" , "IOP/oB", "nms_BlockRail", "jnBFx0Cj4BvwDg9C19G9jG87HjnHi/HlzH6+J7+Jk2LglL7qM8qMgrMhrMsuMtuMuuMvuM0yM1yM2yM3yMm7M6iMl8MmkM38MkmM8/Mn1M6uOjkM9vOmlO" , "IOPgpB", "nms_TileEntityFurnace", "lkN5tM9nNF+xNyuH/xNgyNhyNiyN76N9wH86NjtH96NqqG+6NnoI1rOw8Kg0OyzMh1Or6Kt2OyqKu2Ov2O66O76O86O96O" , "ABChpB", "jur_AbstractCharClass$LazyUpper", "wvCFs4ErzD" , "ABipB", "ju_HashMap$KeyIterator", "j/EFy1F5J" , "IJKLjpB", "nlei_VFSFilenameIterator",
+        "voI5J" , "IOPkpB", "nms_J_SajParser", "tpGFupGvpGwsHxsHysHzsH1sH2sH1zH2zH7zH8zH01H11H41H51H23H33H43H53H65H75H85H95H+5H/5Hg6Hh6Hi6Hj6H26H36H46H56H" , "jBqBwIsBlpB", "otji_JSWrapper", "vEwExEyEiG4BjGkGlGmGnGoGsItI+I/IxQyQsdtdxqBkGyqBzqB0qBX+yBF/yBgzBlzBmzBnzBozBpzBqzBrzBszBtzBuzBvzBwzBxzByzBzzB0zB+gD/gDghDhhD2tD3tD" , "ABmpB", "ju_Stack", "szGF8sI9sI+sI/sI+tIkgC" , "IJKpDnpB", "nleo_InstancedFontRenderer", "jPoKgb4B" , "IOPopB", "nms_BlockPressurePlate", "hoBF91Cj4Bk8HjnHh+HnqHx/HlzH17IqsIkoJloJxvJtvJ/vK9lKlzLo6Dy2LglLy7M6iMs8MmkM+/Mn1Mm9N8wN4tO0gOwuOpiOkvOjkM"
+        , "IOPppB", "nms_BlockMelon", "8oBF02CgyBgxDg9CywOmlO2xOolO" , "IlD/JOqpB", "npem_Resource", "luBmuBp2BF" , "ABCrpB", "jur_MultiLineSOLSet", "qpCF1/GkBo9IysI12JopJ" , "IOPspB", "nms_World", "9+C++Ct6Du6Dm8Dn8Ds8Dt8Du8Dv8Dw8Dx8D08D18D/oEgpE3jF4jF2kF3kFmpFnpFlsFmsFvuFwuFxuFyuFzuF0uF7uF8uF8gG9gGmkGnkGokGpkGxkGykGtlGulGxlGylGimGjmGkmGlmGmmGnmGmsGnsGosGpsGqsGrsGwsGxsGysGzsGsvGtvGn0Go0G1lH2lH3lH4lHqmHrmHymHzmHwnHxnH/nHgoHhoHioH6oH7oHnrHorHprHqrH1uH2uHixHjxHtpIupIvpIwpI0pI1mI6pI7pIprIqrI3rI4rI/rIgsInsIosIqvIrvIwvIxvIlwImwI6nJ7nJ+nJ/nJkvJlvJmvJnvJovJpvJqvJrvJvvJwvJywJzwJ0wJ1wJi5Jj5JpgKF0mKF7mK8mK2oK3oK4oK5oK6oK7oK8oK9oK/uK8jIgvKvkKhvKj/JivKn/J+2K/2Ks3Kt3K13K23K64K74K84K94Kl5Km5Kn5Ko5Ku5Kv5K45K55K65K75K+5K/5Ko6Kp6Kq6Kr6Kx6Ky6K36K46K56K66K+6K/6Kk7Kl7Km7Kn7Ko7Kp7Kq7Kr7Ku7Kv7K67K77K+7K/7Kp8Kq8Kr8Ks8Ky/Kz/K6kL7kL6lL7lLomLpmLsmLtmL3gM4gM5gM6gM7gMhxHwhMxhM6hM7hM4iM3iM9iM+iMqjMrjM4jM5jMglMhlMylMzlM5lM6lM9lMkrK/lMgmMoqMpqM5qM6qM4uM5uM+uM/uMkvMlvMqvMrvMuxMvxMjyMkyMnyMoyMizMjzM9zM+zMvjNwjNxjNyjN+kN/kNglNhlN5nN6nN/nNgoN9oNF2pN3pNurNvrNuuNvuNxzNFyzNzzN6zN5zNtgOugOvgOwgOxgO3mBghOhhOihOjhO3hO4hO5hO6hO9hO+hOqiOriOwiOxyNxiOyiO5kO6kO3mO4mOknOlnO1pO2pO43O53Oi6Oj6Ox7Oy7Oj9Ok9O"
+        , "IOPtpB", "nms_McRegionChunkLoader", "r6LFm2Mo7Ln2Mu7Lo2MjzIp2M/wMq2MhxM" , "IOPupB", "nms_BiomeGenSwamp", "5zFF08Ow5O" , "IOPvpB", "nms_ModelRenderer", "hcFicjckclcvyEjcuiHshGl6Hm6HijIjjIqoMroM2oM3oMttNutN" , "ABCwpB", "jur_AbstractCharClass$LazyLower", "vvCFr4ErzD" , "IJKLqBxpB", "nleit_ClientMain", "mCnCiD4BjDkDpDqDsEtE5E6EgFhFiFjFsG6EoHpHwHxHkJlJmJnJoJpJqJrJsJtJwJxJyJzJhRiRjRkRoRpRqRrR6b7bylBzlB" , "IOPypB", "nms_Packet5PlayerInventory", "ygLFyrLimKzrLkmKowL7/J" , "IOPzpB", "nms_ItemTool", "0+BFj9M9oMm7N7+Bo7Nh0Kt7N6oNkyOgiM"
+        , "IOP0pB", "nms_Packet29DestroyEntity", "qhLFrtLimK3uLkmKwxL7/J" , "IOP1pB", "nms_TileEntitySignRenderer", "32HFuyLzhIsiMtiM" , "AB2pB", "ju_Comparator", "20B30B" , "IJKL3pB", "nlei_VFSFilenameIteratorNonRecursive", "soItoIuoIFl7I5J" , "IJKL4pB", "nlei_PlatformInput$5", "6YF2jBlS0vB+e+hD+e" , "IJKL5pB", "nlei_IClientConfigAdapter$DefaultServer", "66CF" , "IJKL6pB", "nlei_EnumPlatformAgent", "5N6N/Z4BpkBFqkBrdt4Cteh7EO" , "IJKL7pB", "nlei_PlatformInput$6", "7YF3jBlS1vB+e/hD+e" , "IJKL8pB", "nlei_PlatformInput$7",
+        "8YF4jBlS2vB+egiD+e" , "jBqB4B5B9pB", "otrf_VirtualFile", "q4Gr4Gs4Gt4Gu4Gv4Gw4Gx4G5oIjnC" , "IJKL+pB", "nlei_PlatformInput$8", "9YF5jBlS3vB+ehiD+e" , "ABC/pB", "jur_UCISupplCharSet", "0rCFhgHkBz1J59C" , "IJKLgqB", "nlei_PlatformInput$9", "+YF6jBlS4vB+eiiD+e" , "ABhqB", "ju_AbstractQueue", "9sCr2BmtCntC7uCF" , "ABCiqB", "jur_AbstractCharClass$LazyRange", "uwCFq5ErzD" , "IOPjqB", "nms_GuiConnectFailed", "jlIF36I1+E46IliG56Ih/E66I/6D76Ir+E" , "IOPkqB", "nms_ModelBase", "gcFthGshGtiHsiH09K19K0oM1oM" , "ABClqB",
+        "jur_AltQuantifierSet", "8oCF92C7jCh9IysI" , "EFG9E", "cjj_GZIPInputStream", "phBF7tBFl2BF" , "IOPmqB", "nms_GuiSavingLevelString", "qoNF" , "AlEnqB", "ji_DataOutputStream", "jzFFj6F00Fk6F20FzqG0qG1qG2qG3qG4qG5qGyrDw+Hv0Fx+HrtHy+Hy0Fz+HutH0+HwtHqmKyrD7mL8mLn3Oo3O" , "IOPoqB", "nms_NoiseGeneratorPerlin", "/0MFs4Ot4O29O39O49O59O69O79Ou+Ov+O/gPghP" , "jBqBrBsBtBpqB", "otcit_FixedDateTimeZone", "mqCFwxCvxCh5C0sCuxDktC0xDitC" , "EFtQqU", "cjj_Packet", "p6HF" , "IJKLqqB", "nlei_PlatformInput$1", "2YFyjBlSwvB+e6hD+e"
         , "IOPrqB", "nms_J_JsonNodeDoesNotMatchPathElementsException", "wkLxkLioL4BjoLFvpLwpLtqLuqL" , "IJKLsqB", "nlei_PlatformInput$2", "3YFzjBlSxvB+e7hD+e" , "ABCtqB", "jur_UCISupplRangeSet", "znCFjwDqZi/GkB" , "IJKLuqB", "nlei_PlatformInput$3", "4YF0jBlSyvB+e8hD+e" , "IJKLvqB", "nlei_PlatformInput$4", "5YF1jBlSzvB+e9hD+e" , "IOPwqB", "nms_PositionTextureVertex", "6gDFnqDFpqDqqD2hEF" , "IOPxqB", "nms_MapGenVillage", "xyMFh1M4Bi8O71Ol8O91O" , "IOPyqB", "nms_MouseFilter", "zlEF+9E/9E" , "IOPzqB", "nms_BlockFence",
-        "soBF41Cj4Bm+G9jG2/HlzH8+J9+J37M6iMv8MmkM" , "jBqBrBsBtB0qB", "otcit_CachedDateTimeZone$Info", "n0D0sCw0DitC7qEF" , "IOP1qB", "nms_BiomeGenDesert", "xzFF" , "IOP2qB", "nms_ComponentStrongholdStraight", "+kP/kPwlPFimP+gPomPg/O" , "IOP3qB", "nms_Packet103SetSlot", "iiLFluLimKxvLkmK5wL7/J" , "IOP4qB", "nms_Packet100OpenWindow", "/hLFmtLimKyuLkmKpxL7/J" , "IJKpD5qB", "nleo_TextureFormatHelper", "9zG+zG" , "AB6qB", "ju_HashMap$1", "6/DFm3Eve" , "AB7qB", "ju_HashMap$2", "ozDF92Eve" , "IOP8qB", "nms_Packet70Bed",
-        "9hLFynL4B8sLimKouLkmKvxL7/J" , "A6F9qB", "jt_SimpleDateFormat", "sHFvPFzbFulBvlBrhDshDlyDvH4yHFq1Hr1H" , "IlD/JO+qB/qB", "npems_PacketSupplier", "roKsoK" , "jBqBrBsBtBgrB", "otcit_DateTimeZoneProvider", "oqCqlC1sC4B3sC4sC5sC6sC/sCgtC1uC2uChvCivC8wC9wC+wC/wCmqEnqE" , "ARhrB", "jl_NegativeArraySizeException", "luCF" , "IOPirB", "nms_EntityBoat", "9sJF6yJ/yF83L5yFp4L9kF34L4mKh5LnoJu5Lt0K05L6jF+9Mh5K/9M2rIi+MruMjlNFm3NxnNx/NzmMrtO9nOnyO0lOu0OrmN10OknN/5O11O" , "ABjrB", "ju_Map$Entry", "p0EtzEt0EyhB" , "E1L2LkrB",
+        "soBF31Cj4Bm+G9jG2/HlzH8+J9+J37M6iMv8MmkM" , "jBqBrBsBtB0qB", "otcit_CachedDateTimeZone$Info", "r0D0sCy0DitC7qEF" , "IOP1qB", "nms_BiomeGenDesert", "xzFF" , "IOP2qB", "nms_ComponentStrongholdStraight", "+kP/kPwlPF9lP+gPqmPg/O" , "IOP3qB", "nms_Packet103SetSlot", "iiLFttLimK5uLkmK0wL7/J" , "IOP4qB", "nms_Packet100OpenWindow", "/hLF/sLimKruLkmKlxL7/J" , "IJKpD5qB", "nleo_TextureFormatHelper", "9zG+zG" , "AB6qB", "ju_HashMap$1", "6/DFm3Eve" , "AB7qB", "ju_HashMap$2", "ozDF92Eve" , "IOP8qB", "nms_Packet70Bed",
+        "9hLFynL4BptLimK1uLkmKmxL7/J" , "A6F9qB", "jt_SimpleDateFormat", "sHFvPFzbFulBvlBrhDshDlyDvH4yHFq1Hr1H" , "IlD/JO+qB/qB", "npems_PacketSupplier", "roKsoK" , "jBqBrBsBtBgrB", "otcit_DateTimeZoneProvider", "oqCqlC1sC4B3sC4sC5sC6sC/sCgtC1uC2uChvCivC8wC9wC+wC/wCmqEnqE" , "ARhrB", "jl_NegativeArraySizeException", "luCF" , "IOPirB", "nms_EntityBoat", "ysJF2yJ/yF93L5yFw4L9kF54L4mKn5LnoJw5Lt0K25L6jFl+MxuMo+Mh5Kp+M2rIjlNFt3N8nNy/NzmMrtO9nOnyO0lOu0OsmN20OrnN/5O11O" , "ABjrB", "ju_Map$Entry", "p0EtzEt0EyhB" , "E1L2LkrB",
         "cch_HashContainers", "33B43Bo+B4BhjDijDjjDkjDi+Dj+D2/D3/D4/D5/D" , "IJKLqBlrB", "nleit_EnumES6Shims", "jekeprB4Bk0BFl0Brdm0Bte" , "IOPmrB", "nms_GuiTexturePacks", "yoHFm9H1+En9HliGo9H7+Ep9H9+Eq9H/6Dr9Hr+ErxIsxIp6Jq6Jl7Jm7Jn7Jo7Jr7Js7Jt7Ju7Jv7Jw7Jq8Jr8Js8Jt8Jw8Jx8Jy8Jz8J08J18Jk9Jl9Jm9Jn9J" , "AlEnrB", "ji_FileOutputStream", "2yGF5yG2hBv2GFw2G4Bv+HyrDppIpwH" , "AlEorB", "ji_File", "1yGFs2Gt2Gu2G4Bz2GnsE+3G/3Gi4Gj4Gk4GkBl4Gm4Go4Gp4G1rHjnCiwHjwHkwHlwHy0Hz0H7qI8qIntIotI0nJ1nJ" , "EFUprB", "cjj_Floor0$LookFloor0",
-        "3+KF" , "IOPqrB", "nms_GuiTexturePackSlot", "unIFpzJljItzJyrHxzJ0gJ2zJ2gJ8zJ8gJi0J+gJ" , "IOPrrB", "nms_EntityExplodeFX", "jtMFygN7mHhhN9kF" , "IOPsrB", "nms_TileEntityMobSpawner", "uqNvqNipOF6rOw8Kh0OyzMi1Or6Kg7Oh7Oi7Oj7Op+Oq+O" , "EFUtrB", "cjj_InfoMode", "zqJF" , "ABCurB", "jur_GroupQuantifierSet", "xoCFr/GkB48IysI" , "ARvrB", "jl_OutOfMemoryError", "r1GF" , "ARwrB", "jl_IllegalStateException", "xaF9kBF" , "IOPxrB", "nms_ItemMap", "i6BF/tHguH24Mj6LioNjoN88O9kF1+O2+O" , "pFqFKrFyrB", "dcec_GiveCommand",
+        "3+KF" , "IOPqrB", "nms_GuiTexturePackSlot", "unIFpzJljItzJyrHxzJ0gJ2zJ2gJ8zJ8gJi0J+gJ" , "IOPrrB", "nms_EntityExplodeFX", "jtMFqgN7mH5gN9kF" , "IOPsrB", "nms_TileEntityMobSpawner", "uqNvqNipOF6rOw8K/zOyzMi1Or6Kg7Oh7Oi7Oj7Op+Oq+O" , "EFUtrB", "cjj_InfoMode", "zqJF" , "ABCurB", "jur_GroupQuantifierSet", "xoCFr/GkB48IysI" , "ARvrB", "jl_OutOfMemoryError", "r1GF" , "ARwrB", "jl_IllegalStateException", "xaF9kBF" , "IOPxrB", "nms_ItemMap", "i6BF/tHguH24Mj6L/mNgnN88O9kF1+O2+O" , "pFqFKrFyrB", "dcec_GiveCommand",
         "u1HFygImF" , "IJKLqBzrB", "nleit_IndexedDBFilesystem$AsyncHandlers$9", "80IFi4IlSi5I+e" , "IJKLqB0rB", "nleit_IndexedDBFilesystem$AsyncHandlers$8", "4zIF73IlS94I+e" , "IOP1rB", "nms_EnumOptionsMappingHelper", "umK4B" , "IOP2rB", "nms_BlockJukeBox", "roBFz2CgyBiuK64Jv3Kw3K4kN5kN27N5pNjuO8hOzuOpiO" , "IJKLqB3rB", "nleit_IndexedDBFilesystem$AsyncHandlers$1", "69BF3hClShlC+e" , "IJKLqB4rB", "nleit_IndexedDBFilesystem$AsyncHandlers$3", "89BF5hClSjlC+e" , "IJKLqB5rB", "nleit_IndexedDBFilesystem$AsyncHandlers$2",
         "79BF4hClSilC+e" , "IOP6rB", "nms_BiomeGenHills", "0zFF" , "IOP7rB", "nms_GuiIngame", "5pD6pDluD4B85DFn6Do6Dn9Do9Do+Ep+Eq/Fr/Fu/Fv/Fy/Fz/FkgGlgG0hM1hMslOtlO" , "IJKLqB8rB", "nleit_IndexedDBFilesystem$AsyncHandlers$5", "i1IFm4IlSm5I+e" , "IJKLqB9rB", "nleit_IndexedDBFilesystem$AsyncHandlers$4", "99BF6hClSklC+ellD+e" , "E1L2L+rB", "cch_BufferAllocationException", "6qDFwtDFsuDtuDgvDF" , "IJKLqB/rB", "nleit_IndexedDBFilesystem$AsyncHandlers$7", "3zIF63IlS84I+e" , "IJKLqBgsB", "nleit_IndexedDBFilesystem$AsyncHandlers$6",
-        "j1IFn4IlSn5I+e" , "IOPhsB", "nms_RenderFallingSand", "4wEFk1JhqIiiKjiK" , "A6FisB", "jt_DateFormatElement$Numeric", "+hEFl8EvHv8EH58EJyrFzrF" , "ABjsB", "ju_HashMap$HashMapEntrySet", "omGFw8Gve" , "ABCksB", "jur_AbstractCharClass", "njCojCgnC4BmnCFonCpnCqnCrnCsnCtnCvnCwnCxnCynCsrC9wB6wC7wCh+Ci+Cj+Ci+C1lD2lD5lD6lD+lD9lD+nDqZ" , "ARlsB", "jl_Byte", "7yFvJg0F4Bh0FFtxGuxGkyGptCt1LJ/0OOp1O46Bs1OHt1On8C56OOp7OHq7On8C4+O30B" , "IOPmsB", "nms_ChunkProviderClient", "4kO5kO6kOjzImpOFssOh6KtsOj7KusO37KvsO57KwsOh8KxsO74K"
-        , "IOPnsB", "nms_ComponentVillageHouse4_Garden", "xnPynPjoPF3oP+gP7oPg/O" , "IJKLosB", "nlei_PlatformInput$VMouseEvent", "g/DF" , "AlEpsB", "ji_EOFException", "4tBFn2DF" , "IOPqsB", "nms_WorldSettings", "5tJFzmKF5qK6qK7qK8qK9qK+qK/qKgrK" , "IOPrsB", "nms_J_ThingWithPosition", "/zHg0Hh0Hi0H" , "IOPssB", "nms_Packet6SpawnPosition", "zgLF0rLimK1rLkmKowL7/J" , "IJKLtsB", "nlei_PlatformAudio$initialize$lambda$_1_1", "/XF6iBlSovB+e" , "IJKLusB", "nlei_PlatformAudio$initialize$lambda$_1_0", "+XF5iBlSnvB+e"
-        , "IOPvsB", "nms_TileEntityRecordPlayer", "gpOF3rOw8K7zOyzM" , "IOPwsB", "nms_TileEntityChest", "03HForMprMorNprN2rOw8K8zOyzMj0OyqKk0O9wHl0OjtHm0OqqGn0OnoIo0O60Mp0OjkNq0OxuMr0O/nOs0OphDg1OkyNj1Or6K" , "IOPxsB", "nms_GenLayerZoomFuzzy", "k0MFovO1iNi4Oj4Ok4Ol4O" , "AR5CysB", "jlr_Modifier", "vsNwsN+zN4Bs2OOs7Ot7O" , "IOPzsB", "nms_AchievementMap", "vhDwhDzqD4BptDF" , "IOP0sB", "nms_Packet39AttachEntity", "xhLFxtLimK9uLkmKsxL7/J" , "jBqBrBsB3N1sB", "otcic_ConsoleOutputStream", "+pBFi6FyrD" , "ABC2sB", "jur_AbstractCharClass$LazyJavaIdentifierIgnorable",
+        "j1IFn4IlSn5I+e" , "IOPhsB", "nms_RenderFallingSand", "4wEFk1JhqIiiKjiK" , "A6FisB", "jt_DateFormatElement$Numeric", "+hEFk8EvHu8EH48EJyrFzrF" , "ABjsB", "ju_HashMap$HashMapEntrySet", "omGFw8Gve" , "ABCksB", "jur_AbstractCharClass", "njCojCgnC4BmnCFonCpnCqnCrnCsnCtnCvnCwnCxnCynCsrC9wB6wC7wCh+Ci+Cj+Ci+C1lD2lD5lD6lD+lD9lD+nDqZ" , "ARlsB", "jl_Byte", "7yFvJg0F4Bh0FFtxGuxGkyGptCt1LJ/0OOp1O46Bs1OHt1On8C56OOp7OHq7On8C4+O30B" , "IOPmsB", "nms_ChunkProviderClient", "7kO8kO9kOjzImpOFssOh6KtsOj7KusO37KvsO57KwsOh8KxsO74K"
+        , "IOPnsB", "nms_ComponentVillageHouse4_Garden", "xnPynPjoPF4oP+gP7oPg/O" , "IJKLosB", "nlei_PlatformInput$VMouseEvent", "g/DF" , "AlEpsB", "ji_EOFException", "4tBFn2DF" , "IOPqsB", "nms_WorldSettings", "5tJFzmKF5qK6qK7qK8qK9qK+qK/qKgrK" , "IOPrsB", "nms_J_ThingWithPosition", "/zHg0Hh0Hi0H" , "IOPssB", "nms_Packet6SpawnPosition", "zgLF0rLimK1rLkmK8vL7/J" , "IJKLtsB", "nlei_PlatformAudio$initialize$lambda$_1_1", "/XF6iBlSovB+e" , "IJKLusB", "nlei_PlatformAudio$initialize$lambda$_1_0", "+XF5iBlSnvB+e"
+        , "IOPvsB", "nms_TileEntityRecordPlayer", "gpOF3rOw8K+zOyzM" , "IOPwsB", "nms_TileEntityChest", "03HForMprMorNprN2rOw8K7zOyzMj0OyqKk0O9wHl0OjtHm0OqqGn0OnoIo0O60Mp0OjkNq0O5tMr0O/nOs0OphDg1OkyNk1Or6K" , "IOPxsB", "nms_GenLayerZoomFuzzy", "k0MFovO1iNi4Oj4Ok4Ol4O" , "AR5CysB", "jlr_Modifier", "vsNwsN+zN4Bs2OOs7Ot7O" , "IOPzsB", "nms_AchievementMap", "vhDwhDzqD4BptDF" , "IOP0sB", "nms_Packet39AttachEntity", "xhLFguLimKsvLkmK8wL7/J" , "jBqBrBsB3N1sB", "otcic_ConsoleOutputStream", "+pBFi6FyrD" , "ABC2sB", "jur_AbstractCharClass$LazyJavaIdentifierIgnorable",
         "gwCF84ErzD" , "AB3sB", "ju_HashMap", "xIF1QFodFqqBrqBsqBtqBuqBvqBi0C5Dj0CpN73CnM83CrM93C7Uj5CntCk5CgvC57C67C77C87CrjDsjDimDjmDrnDsnDtnDunDvnDwnDxnDpjDiwDtenyD0gD99D+9DqhErhEyhEpjDm5Fo0E2hGFhrI5iH" , "AhCiC4sB", "jnc_CoderResult", "vrDwrDvuD4BivDFnwFowFxhHyhHzhH0hH2hH3hH4hH5hH7hH8hH9hHfukJvkJ" , "IOP5sB", "nms_J_PositionTrackingPushbackReader", "qsHFrsH2tBssHtsH81H91H+1H/1HigIg0HjgIi0HhpIipI" , "IOP6sB", "nms_GenLayerSmoothZoom", "w0Mx0M20MF74N1iN" , "IJKpD7sB", "nleo_VSHInputLayoutParser", "4a5albmb"
-        , "IOP8sB", "nms_ModelSpider", "ryEF20LshGvoMsiH" , "IOP9sB", "nms_EntityCow", "ltJFx5Lt0K1+MxvMh/M5tMn/MzvM+8N1wNx9NmiN1/NzmM4sO9nOhzO0nO" , "IOP+sB", "nms_EntityPig", "htJFjzJ/yFv5Lt0K3wM4wMz+MxvMl/MzvM93N5nJv9NmiN4+NzmM+kO/kO2sO9nO/yO0nOyzOspO" , "IOP/sB", "nms_RenderTNTPrimed", "3wEFj1JhqIgiKhiK" , "jBqBwI3JgtB", "otjt_Int32Array", "3rB1Io7Cp7C" , "jBqBrBsBtBhtB", "otcit_DateTimeZoneProvider$Score", "ltCF" , "ARitB", "jl_IllegalArgumentException", "gSFztBF" , "IOPjtB", "nms_StatTypeTime", "oyBFsyLvH"
-        , "IJKuHktB", "nlev_Matrix", "zwBF2wB1wBy/Ex/E" , "EFUltB", "cjj_Drft", "7oLF1pL4B17LhP1lN2lNszNtzN" , "ABmtB", "ju_HashMap$EntryIterator", "3iHFs7H5J2gI5J" , "ABntB", "ju_Collections", "6L7LpS4BsS7Ls3Bt3B" , "A6FotB", "jt_Format", "7wBFuqIvHsnJvH" , "IOPptB", "nms_Packet106Transaction", "liLFjtLimKvuLkmKtwL7/J7mNF26NtmK" , "IlD/JOqtB", "npem_TextureLocation", "ttEFrxE4BohGmkEplKqlK" , "IOPrtB", "nms_EntityGiantZombie", "7sJF58O5yN" , "ABCstB", "jur_SingleSet", "4gCFm1C+gCr3CukCkwDm9C9+Hu2Dm8IysI21J3oJ"
+        , "IOP8sB", "nms_ModelSpider", "ryEF20LshGvoMsiH" , "IOP9sB", "nms_EntityCow", "2sJFu5Lt0K1+MxvMh/MnuMn/MzvM+8N1wNx9NmiN3/NzmM4sO9nOhzO0nO" , "IOP+sB", "nms_EntityPig", "1sJFhzJ/yFx5Lt0K3wM4wMz+MxvMl/MzvM93N5nJv9NmiN4+NzmM+kO/kO2sO9nO/yO0nOyzOspO" , "IOP/sB", "nms_RenderTNTPrimed", "3wEFj1JhqIgiKhiK" , "jBqBwI3JgtB", "otjt_Int32Array", "3rB1Io7Cp7C" , "jBqBrBsBtBhtB", "otcit_DateTimeZoneProvider$Score", "ltCF" , "ARitB", "jl_IllegalArgumentException", "gSFztBF" , "IOPjtB", "nms_StatTypeTime", "oyBFsyLvH"
+        , "IJKuHktB", "nlev_Matrix", "zwBF2wB1wBy/Ex/E" , "EFUltB", "cjj_Drft", "7oLF1pL4B17LhP1lN2lNszNtzN" , "ABmtB", "ju_HashMap$EntryIterator", "3iHFs7H5J2gI5J" , "ABntB", "ju_Collections", "6L7LpS4BsS7Ls3Bt3B" , "A6FotB", "jt_Format", "7wBFuqIvHsnJvH" , "IOPptB", "nms_Packet106Transaction", "liLFytLimK+uLkmKuxL7/JtoNFk7NtmK" , "IlD/JOqtB", "npem_TextureLocation", "ttEFrxE4BohGmkEplKqlK" , "IOPrtB", "nms_EntityGiantZombie", "usJF58O5yN" , "ABCstB", "jur_SingleSet", "4gCFm1C+gCs3CukCkwDm9C9+Hu2Dm8IysI21J3oJ"
         , "IJKLttB", "nlei_PlatformRuntime$downloadRemoteURIXHR$lambda$_35_0", "n1BF58B00BihCx8B" , "IOPutB", "nms_TexturePackList", "w4DF/kEglEvnIwnIr6Js6Jp7Jq7J" , "IJKLvtB", "nlei_PlatformRuntime$downloadRemoteURIXHR$lambda$_35_1", "o1BF68B00BjhCx8B" , "ARwtB", "jl_Thread", "+c/cgdhdjqB4B6yBF17BF" , "IJKLqBxtB", "nleit_ClientMain$EPKFileEntry", "lEF" , "IJKLqBytB", "nleit_TeaVMBlobURLManager$HandleFakeBlobURL", "7iBFl0CjY7yDjrD" , "IOPztB", "nms_RegionFileCache", "j/Kk/K4mL4B5mL6mLmnLnnL0hN1hN8hN9hNgiNhiN"
         , "AhCiCiI", "jnc_BufferOverflowException", "1iIF" , "jBqBrBsBnI0tB", "otciu_CLDRHelper", "llBmlB4wB5wB/6Bg7Bk/Bl/Bm/Bn/B1iC2iC3iC4iC8iC9iCqmCrmCtmCumC3qC4qC7qC8qCytCztC0tC1tC8tC9tCjvCkvClvCmvCnvCovC2pF3pF4pF5pF6pF7pF8pF9pF+pF/pFgqFhqFyvFzvF0vF1vF2vF3vF4vF5vF6vF7vF8vF9vF+vF/vF2xF3xF4xF5xF6xF7xF8xF9xF+xF/xFgyFhyF7sH8sHj0Hk0Hr2Hs2Hv3Hw3H25H35H45Hw3Hx6Hy6HtjNujNhzNizNh1Ni1N" , "IOP1tB", "nms_GuiContainer", "9nEF1tE4Bl6E1/Cn6Em9Dx3F7+E03F9+E53Fh/EzhGr+EniGoiGpiGqiGquGruGsuGtuGuuGvuGwuGxuGthN1+EuhN/6D" ,
-        "AR2tB", "jl_String$_clinit_$lambda$_93_0", "pCF" , "IOP3tB", "nms_Gui", "0PFw3Dx3DogGpgG6gGz3DkhGlhGwhGxhGmmJnmJomJpmJ" , "AR4tB", "jl_StringIndexOutOfBoundsException", "n+CF" , "AhCiC5tB", "jnc_CharsetDecoder", "q8Cr8Cs8Ct8Cu8C8fmrEFm9En9EiwF8fmwFurD+6F/6FwhHvhB1hH2jF+hH/hHhiHiiHyiIziI" , "IJKL6tB", "nlei_IAudioCacheLoader", "zyH0yH" , "ABC7tB", "jur_UCIBackReferenceSet", "zpCF8/GkBv9IysI" , "IOP8tB", "nms_Packet53BlockChange", "5hLFqtLimK2uLkmKhxL7/J" , "jBqBrBsB3N9tB", "otcic_StdoutOutputStream",
-        "kQ4B3cF46EyrD" , "ABC+tB", "jur_DotAllQuantifierSet", "yoCFt/GkB58IysI19Iu2D" , "IOP/tB", "nms_ItemEgg", "85BFu4M75L" , "IJKpDguB", "nleo_EaglercraftGPU$1", "iaF57EphD87E9E1qFphD7qF9E" , "IOPhuB", "nms_Packet$_clinit_$lambda$_12_0", "05GFrwKsoK" , "IJKpDiuB", "nleo_EaglercraftGPU$2", "jaF" , "IJKpDjuB", "nleo_EaglercraftGPU$3", "kaFk4C9EnhD9EoyDphDp+DphD" , "E1L2LkuB", "cch_BitMixer", "/9Dg+D" , "AhCiCluB", "jnc_CoderMalfunctionError", "giHF" , "IOPmuB", "nms_EntityList$_clinit_$lambda$_8_9", "82IF5+I/uI"
-        , "IOPnuB", "nms_Packet$_clinit_$lambda$_12_9", "/5GF0wKsoK" , "IOPouB", "nms_MinecraftError", "krHF" , "IOPpuB", "nms_EntityList$_clinit_$lambda$_8_6", "52IF2+I/uI" , "IOPquB", "nms_EntityList$_clinit_$lambda$_8_5", "42IFq+I/uI" , "IOPruB", "nms_EntityList$_clinit_$lambda$_8_8", "72IFx+I/uI" , "IOPsuB", "nms_EntityList$_clinit_$lambda$_8_7", "62IF9+I/uI" , "IJKtuB", "nle_BaseNCodec$CodecPolicy", "2kC4B/pCFgqCrd34Cte" , "IOPuuB", "nms_Packet$_clinit_$lambda$_12_3", "55GFuwKsoK" , "IOPvuB", "nms_EntityList$_clinit_$lambda$_8_2",
-        "12IF1+I/uI" , "IOPwuB", "nms_Packet$_clinit_$lambda$_12_4", "65GFvwKsoK" , "IOPxuB", "nms_EntityList$_clinit_$lambda$_8_1", "02IFu+I/uI" , "IOPyuB", "nms_Packet$_clinit_$lambda$_12_1", "35GFswKsoK" , "IOPzuB", "nms_EntityList$_clinit_$lambda$_8_4", "32IFv+I/uI" , "IJKL0uB", "nlei_PlatformIncompatibleException", "nLF" , "IOP1uB", "nms_Packet$_clinit_$lambda$_12_2", "45GFtwKsoK" , "IOP2uB", "nms_EntityList$_clinit_$lambda$_8_3", "22IFj/I/uI" , "IOP3uB", "nms_Packet$_clinit_$lambda$_12_7", "95GFywKsoK"
-        , "EFU4uB", "cjj_Floor0", "uzIF/5IqiIl3JouIzsKxhJ1sK0hJxvKsqJ5+K6+K" , "IOP5uB", "nms_Packet$_clinit_$lambda$_12_8", "+5GFzwKsoK" , "EFU6uB", "cjj_Floor1", "vzIF13I4B+5IqiIm3JouIysKxhJ0sK0hJyvKsqJt1Ku1Kx1Ky1K" , "IOP7uB", "nms_Packet$_clinit_$lambda$_12_5", "75GFwwKsoK" , "IOP8uB", "nms_EntityList$_clinit_$lambda$_8_0", "y2IFs+I/uI" , "ABC9uB", "jur_CIDecomposedCharSet", "loCF" , "IOP+uB", "nms_Packet$_clinit_$lambda$_12_6", "85GFxwKsoK" , "IOP/uB", "nms_EnumDoorHelper", "7mP4B" , "IOPgvB", "nms_Packet13PlayerLookMove",
-        "6gLFisLimKjsLkmKq6NtmKu9OF" , "IJKLhvB", "nlei_PlatformInput$13$1", "niDF0qDx3BqtDm+B" , "jB8BivB", "oj_JSONTokener", "3vJF8wJF+wJ/wJgxJhxJixJjxJmxJnxJpxJ37CqxJsgCzkK5J0kKO1kK2kK+kK/kKt/Ku/Kw/K5Jx/KhxJ" , "IOPjvB", "nms_StringTranslate", "vpBwpBjyB9wBsyBtyB66B4Bj/BFqnErnE3uG4uG" , "IOPkvB", "nms_Packet2Handshake", "tlIFjwKtmKvgLFsrLimKtrLkmKmwL7/J" , "IOPlvB", "nms_Entity", "h/Cg/C/rD4B89E99E5jF6jF7jF8jF+kF9kFtxFuxFzxFF0xF1xF+yF/yF2+F3+Fo/Fp/F6lG5lGytGztGphHHqhHJsmHtmH8tH7tHxuHyuH+wH/wHgxHhxHnrIorIzrI0rI1rI2rIjsIksIrsIssIkvIlvIkzIlzI2nJ3nJ4nJ5nJioJjoJmoJnoJooJpoJ/9Jg+J3mK4mKyzKzzK4zK5zK6zK7zK8zK9zKo0Kp0Ks0Kt0K20K30Kp2Kq2K/4K5yFg5Kh5Kv8Kw8Ko9Kp9K9/L+/L7lM8lMwmMxmMymMzmMhuMiuMouMpuMquMruMsuMtuM4uM5uMlwMmwMlxMiwG6zM7zM4jN5jN6jN7jN8jN9jN+jN/jNhmNimNqmNrmNtmNumNjnNknNwnNxnN2nN3nNwoNxoN0pN1pNwqNxqN3rN4rN0sN1sN4tN5tN0vN1vNwwNxwNywNzwN6wNyzM0yN1yNt1Nu1NzlO0lOqmOrmOsmOtmO2nO3nO4nO5nO8nO9nOwoOnvIrpOspO01O11O21O31Ov6Ow6O06O16O"
-        , "IJKmvB", "nle_HFormatter$DuplicateFormatFlagsException", "0vHF" , "IJKLMnvB", "nleib_EaglerArrayBufferAllocator", "hSiL2e4Bsftfxfyf+ftf/fggBjiBtWysBzsBwwB0ak3Gl3GtjIujI" , "IOPovB", "nms_WorldGenerator", "s1FFxrN/iNx5Oy5O" , "IOPpvB", "nms_Packet31RelEntityMove", "shLFguLimKsvLkmK" , "jBqBrBsB6FqvB", "otcit_DoubleAnalyzer$Result", "l5GF" , "IOPrvB", "nms_EntityFlying", "+vJF/3N5nJr8NjvNuyOxzK" , "IOPsvB", "nms_NBTTagLong", "j2EF23E61Eo4FqkCp6FO1gH40FvoOF" , "jB8BtvB", "oj_JSONObject", "jrJFkrJlrJmrJnrJprJokF4vJF5vJ4B9wJFkxJlxJoxJpN3jK5D4jK5jK3kK4kK7kKntC8kK9kKmnK0/B0nK1nK3nK4nKgqK0/BjqKkqKhzKOzjLOvqMyrDnuNfouNo0EpuNquNruNsuNl0Nm0Nn0NFp1NFz1NX41NXl2NXm2NX"
+        "AR2tB", "jl_String$_clinit_$lambda$_93_0", "pCF" , "IOP3tB", "nms_Gui", "0PFw3Dx3DogGpgG6gGz3DkhGlhGwhGxhGmmJnmJomJpmJ" , "AR4tB", "jl_StringIndexOutOfBoundsException", "n+CF" , "AhCiC5tB", "jnc_CharsetDecoder", "q8Cr8Cs8Ct8Cu8C8fmrEFm9En9EiwF8fmwFurD+6F/6FwhHvhB1hH2jF+hH/hHhiHiiHyiIziI" , "IJKL6tB", "nlei_IAudioCacheLoader", "zyH0yH" , "ABC7tB", "jur_UCIBackReferenceSet", "zpCF8/GkBv9IysI" , "IOP8tB", "nms_Packet53BlockChange", "5hLFqtLimK2uLkmKywL7/J" , "jBqBrBsB3N9tB", "otcic_StdoutOutputStream",
+        "kQ4B3cF46EyrD" , "ABC+tB", "jur_DotAllQuantifierSet", "yoCFt/GkB58IysI19Iu2D" , "IOP/tB", "nms_ItemEgg", "85BFu4M75L" , "IJKpDguB", "nleo_EaglercraftGPU$1", "iaF57EphD87E9E1qFphD7qF9E" , "IOPhuB", "nms_Packet$_clinit_$lambda$_12_0", "05GFrwKsoK" , "IJKpDiuB", "nleo_EaglercraftGPU$2", "jaF" , "IJKpDjuB", "nleo_EaglercraftGPU$3", "kaFk4C9EnhD9EoyDphDp+DphD" , "E1L2LkuB", "cch_BitMixer", "/9Dg+D" , "AhCiCluB", "jnc_CoderMalfunctionError", "giHF" , "IOPmuB", "nms_EntityList$_clinit_$lambda$_8_9", "82IFi/I/uI"
+        , "IOPnuB", "nms_Packet$_clinit_$lambda$_12_9", "/5GF0wKsoK" , "IOPouB", "nms_MinecraftError", "krHF" , "IOPpuB", "nms_EntityList$_clinit_$lambda$_8_6", "52IF0+I/uI" , "IOPquB", "nms_EntityList$_clinit_$lambda$_8_5", "42IFp+I/uI" , "IOPruB", "nms_EntityList$_clinit_$lambda$_8_8", "72IF2+I/uI" , "IOPsuB", "nms_EntityList$_clinit_$lambda$_8_7", "62IF/+I/uI" , "IJKtuB", "nle_BaseNCodec$CodecPolicy", "2kC4B/pCFgqCrd34Cte" , "IOPuuB", "nms_Packet$_clinit_$lambda$_12_3", "55GFuwKsoK" , "IOPvuB", "nms_EntityList$_clinit_$lambda$_8_2",
+        "12IF++I/uI" , "IOPwuB", "nms_Packet$_clinit_$lambda$_12_4", "65GFvwKsoK" , "IOPxuB", "nms_EntityList$_clinit_$lambda$_8_1", "02IFg/I/uI" , "IOPyuB", "nms_Packet$_clinit_$lambda$_12_1", "35GFswKsoK" , "IOPzuB", "nms_EntityList$_clinit_$lambda$_8_4", "32IFk/I/uI" , "IJKL0uB", "nlei_PlatformIncompatibleException", "nLF" , "IOP1uB", "nms_Packet$_clinit_$lambda$_12_2", "45GFtwKsoK" , "IOP2uB", "nms_EntityList$_clinit_$lambda$_8_3", "22IFh/I/uI" , "IOP3uB", "nms_Packet$_clinit_$lambda$_12_7", "95GFywKsoK"
+        , "EFU4uB", "cjj_Floor0", "uzIF/5IqiIl3JouIzsKxhJ0sK0hJxvKsqJ5+K6+K" , "IOP5uB", "nms_Packet$_clinit_$lambda$_12_8", "+5GFzwKsoK" , "EFU6uB", "cjj_Floor1", "vzIF13I4B+5IqiIm3JouIysKxhJ1sK0hJyvKsqJt1Ku1Kz1K01K" , "IOP7uB", "nms_Packet$_clinit_$lambda$_12_5", "75GFwwKsoK" , "IOP8uB", "nms_EntityList$_clinit_$lambda$_8_0", "y2IFw+I/uI" , "ABC9uB", "jur_CIDecomposedCharSet", "loCF" , "IOP+uB", "nms_Packet$_clinit_$lambda$_12_6", "85GFxwKsoK" , "IOP/uB", "nms_EnumDoorHelper", "7mP4B" , "IOPgvB", "nms_Packet13PlayerLookMove",
+        "6gLFisLimKjsLkmKq6NtmKu9OF" , "IJKLhvB", "nlei_PlatformInput$13$1", "niDF0qDx3BqtDm+B" , "jB8BivB", "oj_JSONTokener", "3vJF8wJF+wJ/wJgxJhxJixJjxJmxJnxJpxJ37CqxJsgCzkK5J0kKO1kK2kK+kK/kKt/Ku/Kw/K5Jx/KhxJ" , "IOPjvB", "nms_StringTranslate", "vpBwpBjyB9wBsyBtyB66B4Bj/BFqnErnE3uG4uG" , "IOPkvB", "nms_Packet2Handshake", "tlIFjwKtmKvgLFsrLimKtrLkmKhwL7/J" , "IOPlvB", "nms_Entity", "h/Cg/C/rD4B89E99E5jF6jF7jF8jF+kF9kFtxFuxFzxFF0xF1xF+yF/yF2+F3+Fo/Fp/F6lG5lGytGztGphHHqhHJsmHtmH8tH7tHxuHyuH+wH/wHgxHhxHnrIorIzrI0rI1rI2rIjsIksIrsIssIkvIlvIkzIlzI2nJ3nJ4nJ5nJioJjoJmoJnoJooJpoJ/9Jg+J3mK4mKyzKzzK4zK5zK6zK7zK8zK9zKo0Kp0Ks0Kt0K20K30Kp2Kq2K/4K5yFg5Kh5Kv8Kw8Ko9Kp9K9/L+/L7lM8lMwmMxmMymMzmMytMztMwuMxuMyuMzuM8uM9uMivMjvMlwMmwMlxMiwG6zM7zM4jN5jN6jN7jN8jN9jN+jN/jN/lNgmNrmNsmNzmN0mN2mN3mNqnNrnN1nN2nN7nN8nN0pN1pNwqNxqN3rN4rN0sN1sN4tN5tN0vN1vNwwNxwNywNzwN6wNyzM0yN1yNt1Nu1NzlO0lOqmOrmOsmOtmO2nO3nO4nO5nO8nO9nOwoOnvIrpOspO01O11O21O31Ov6Ow6O06O16O"
+        , "IJKmvB", "nle_HFormatter$DuplicateFormatFlagsException", "0vHF" , "IJKLMnvB", "nleib_EaglerArrayBufferAllocator", "hSiL2e4Bsftfxfyf+ftf/fggBjiBtWysBzsBwwB0ak3Gl3GtjIujI" , "IOPovB", "nms_WorldGenerator", "s1FFxrN/iNx5Oy5O" , "IOPpvB", "nms_Packet31RelEntityMove", "shLF+tLimKqvLkmK" , "jBqBrBsB6FqvB", "otcit_DoubleAnalyzer$Result", "l5GF" , "IOPrvB", "nms_EntityFlying", "+vJF/3N5nJr8NjvNuyOxzK" , "IOPsvB", "nms_NBTTagLong", "j2EF23E61Eo4FqkCv6FO1gH40FvoOF" , "jB8BtvB", "oj_JSONObject", "jrJFkrJlrJmrJnrJprJokF4vJF5vJ4B9wJFkxJlxJoxJpN3jK5D4jK5jK3kK4kK7kKntC8kK9kKmnK0/B0nK1nK3nK4nKgqK0/BjqKkqKhzKOzjLOvqMyrDnuNfouNo0EpuNquNruNsuNl0Nm0Nn0NFp1NFz1NX41NXl2NXm2NX"
         , "ABCuvB", "jur_PossessiveAltQuantifierSet", "2oCF88IysI" , "IJKvvB", "nle_EagRuntime$getStackTrace0$lambda$_29_0", "qPF0zCvd96Cvd" , "EFUwvB", "cjj_Block", "r4Hs4H+4H7Uj5HFv5HhP" , "IJKLqBxvB", "nleit_IndexedDBFilesystem", "viBwiBhvBFy9Bz9B19B29Bw1CpX17HjpF37H5qF29H/iGq+HipGs7IqvHlvK8mJw1LllK" , "jBqBwIxIyvB", "otjc_JSObjects", "8yB9yBhzBizBjzBkzB" , "IOPzvB", "nms_ClippingHelper", "q3GFhlJikI" , "IOP0vB", "nms_BlockSign", "9nBFk1Cj4Bg+G9jGh8HjnHu8HlnHt/HlzHu2LglLu7M6iMiuO8hOqxOolO" , "IOP1vB", "nms_EntityLightningBolt",
-        "+lMF63M/yFn/NtmHq/N9kFttO9nO" , "IOP2vB", "nms_GuiWorldSlot", "jmIFnzJljIszJyrHvzJ0gJ0zJ2gJ6zJ8gJg0J+gJ" , "IOP3vB", "nms_J_JsonObject", "5lKF0vLH2vLJrwLOqrOqkCtrOyqDwrOm0EzrOr0E" , "IJKL4vB", "nlei_OpenGLObjects$TextureGL", "ofFssB4B18GtvE28GvvE38G/H48GhI58G6zG68Gn3Gl9GH" , "IOP5vB", "nms_StatsSyncher", "9lEFxsEysEzsE0sE1sE2sE/wEgxEv+Ew+E/iFgjFhjFijFjjFkjF3hG4hG" , "AB6vB", "ju_Objects", "+J/JtR/J7/DJxgFH3rF4rF" , "IOPwvB", "nms_Block", "pc4BgmBhmBimBjmBkmBlmBmmBnmBqmBFrmBsmBumBvmBwmBxmBzmB0mB2mB3mB1oB2oBspBtpB2pB3pB4pB5pB+wBFgxBhxB/xBgyBi4Bj4B98C+8Ch9Cg9C8jG9jG7oG8oGinHjnHknHlnH+pH/pHgqHhqHmqHnqHkzHlzH5jI6jIhsIisIpsIqsIluJmuJnuJouJpuJquJruJsuJuvJtvJ54J64Jk5Jl5Jm5Jn5J8lK9lKqoKpoK93K+3Kz4K04K+4KqrIz5Ko6Ds7Kt7K0/K1/K/kLglLhiMiiMjiMkiM5iM6iMhkM/jMkkMjkMnkMmkMhmMimMjmMkmMm1Mn1M+1M/1MokNpkNqkNrkNypNzpN4pN5pN6pN7pNksNlsNmsNnsNosNpsNqsNrsN9vN+vN7wN8wNnxNoxNzgO0gOoiOpiOllOmlOnlOolOplOqlO13O23O"
-        , "IOP7vB", "nms_ChatAllowedCharacters", "vxE4BwzExzE" , "ABC8vB", "jur_AltGroupQuantifierSet", "voCF92C7jC28IysI" , "IJKL9vB", "nlei_IWebSocketClient", "glIi0DolI2hB8qJ9qJ+qJ/qJu4JnlIv/Jw/JhgK/qJ" , "IOP+vB", "nms_Packet28EntityVelocity", "phLF/tLimKrvLkmKrxL7/J" , "IOP/vB", "nms_GuiParticle", "96DzMs+E0pDz+EF" , "IOPgwB", "nms_StructureStrongholdPieceWeight", "0/OF3kP4kP7kP8kP" , "jBnQoQpQhwB", "oacl_ArrayUtils", "gqDnMltD4BmtDsC" , "IOPiwB", "nms_FurnaceRecipes", "u6Bv6Bw6Bx6Bi/B4BtiCFmmCnmCz7O07O"
-        , "IOPjwB", "nms_Slot", "mxFFyuGzuG0uG1uGk1Gl1G+nI/nIgoIhoIioIjoIkoIloImoInoIooIpoI" , "IOPkwB", "nms_Render", "+bF9wE+wEvvHwvHgqIhqIiqIjqI0hK1hK6hK7hKuiKviKwiKxiK1mK2mK9mK+mKy9Kz9K6tN7tN" , "IOPlwB", "nms_BlockOre", "6mBF5vOmlO5wOolO6xOqlO" , "jBqBwIxImwB", "otjc_JSMap", "4I5I" , "IOPnwB", "nms_Packet201PlayerInfo", "qiLF6tLimKmvLkmKtxL7/J" , "IOPowB", "nms_BlockDirt", "pmBF" , "IOPpwB", "nms_WorldProviderSky", "nrKFptKvsGqtK6lHrtK4nH8xLv2KzzLl6K/zL97K41L3oK61L6iL" , "jBqBrLqwB", "otp_Platform", "abzB0BoFpFnqBoqBzrB0rB1rB2rBp0BLq0Br0Bz7B07Bg8Bh8Bi8Bj8Bx/By/Bo+CkBp+C0Cq+C2C3iD80BgoDhoDioDjoD0/D0iDzuNvgF"
-        , "AhCiCrwB", "jnc_CodingErrorAction", "ynD4B4rDF" , "IOPswB", "nms_EntitySuspendFX", "+sMF6gN9kF" , "IJKLMtwB", "nleib_FloatBuffer", "+U7U/UpNgVmT1apNy0BFs0G21Bt0G5Dt3G01Bu3G5Dv3G01B" , "A6FuwB", "jt_DecimalFormat$Constants", "vnL4B" , "ABCvwB", "jur_DotQuantifierSet", "0oCFu/GkB68IysI29Iu2DtpJupJ6pJ7pJ" , "jBqBwIxIwwB", "otjc_JSFinalizationRegistry", "7I8I" , "A6FxwB", "jt_DecimalFormat", "nyBFi7BFp7Bq7Bs7B4Bt/BvlBggEhgEogEpgE41GkxGo2Gp2Gp1JvH0iKvH2iKvH/mKgnKhnKinKopKppKspKtpKvpK6CypKzpK0pK1pK2pK3pK9pK+pKowKvHpwKvHngLinKogLgnKpgLgnKqgLinKwnL+pKxnL3pK"
-        , "IJKLywB", "nlei_IVertexArrayGL", "miBniB/yEgzE6lF9lD" , "jBqBrBsB6FzwB", "otcit_FloatAnalyzer", "yyFzyF9zF4B/yGgzG72G82G92G+2G" , "IOP0wB", "nms_ItemVine", "npBFu+GhkGk6IzmEq5NnkN" , "AB1wB", "ju_HashMap$ValueIterator", "l9EFw1F5J" , "ABC2wB", "jur_AbstractCharClass$LazyJavaJavaIdentifierStart$1", "8gFFi2FqZ" , "IOP3wB", "nms_SaveHandlerMP", "wzNFs4NuiLt4NvmLu4NtmLv4NlzE" , "ABC4wB", "jur_CharClass$3", "vmDFv5EqZ" , "ABC5wB", "jur_CharClass$4", "ymDFy5EqZ" , "IOP6wB", "nms_NBTTagInt", "i2EF13E61En4FqkCn6FOvqGF0gH40F"
-        , "ABC7wB", "jur_CharClass$1", "umDFu5EqZ" , "ABC8wB", "jur_CharClass$2", "wmDFw5EqZ" , "IOP9wB", "nms_StatList", "8H9H9P4Bzc0cppBqpB0pB1pB4xB5xB6xB7xB8xB9xBqyBryBl6Bm6Bu0Ev0E" , "ABC+wB", "jur_CharClass$7", "zmDFz5EqZ" , "ABC/wB", "jur_CharClass$8", "2mDF25EqZ" , "ABCgxB", "jur_CharClass$5", "xmDFx5EqZ" , "ABChxB", "jur_CharClass$6", "0mDF05EqZ" , "AXixB", "jm_BigDecimal", "0qIF1qIx1G2qIptC3qI4qInyIFoyIpyIqyI4Bl1IpzGq1Ir1It1Iu1Iv1Iw1Iz1I01I41I51I61I71Ii2Ij2Ik2IFo2IFw4Ix4I24IF34IpzGtnJr0HwnJxnJynJznJ7uJ8uJ9uJ+uJ/uJvJwwJvJxwJFipKjpKkpKt4IlpKjuG4pKn8ClqKFvrKF+sKOzyKH2yKJ6yKn8Cp9M46B"
+        "+lMF63M/yFn/NtmHq/N9kFttO9nO" , "IOP2vB", "nms_GuiWorldSlot", "jmIFnzJljIszJyrHvzJ0gJ0zJ2gJ6zJ8gJg0J+gJ" , "IOP3vB", "nms_J_JsonObject", "5lKFzvLH1vLJrwLOqrOqkCtrOyqDwrOm0EzrOr0E" , "IJKL4vB", "nlei_OpenGLObjects$TextureGL", "ofFssB4B18GtvE28GvvE38G/H48GhI58G6zG68Gn3Gl9GH" , "IOP5vB", "nms_StatsSyncher", "9lEFxsEysEzsE0sE1sE2sE/wEgxEv+Ew+E/iFgjFhjFijFjjFkjF3hG4hG" , "AB6vB", "ju_Objects", "+J/JtR/J7/DJxgFH3rF4rF" , "IOPwvB", "nms_Block", "pc4BgmBhmBimBjmBkmBlmBmmBnmBqmBFrmBsmBumBvmBwmBxmBzmB0mB2mB3mB1oB2oBspBtpB2pB3pB4pB5pB+wBFgxBhxB/xBgyBi4Bj4B98C+8Ch9Cg9C8jG9jG7oG8oGinHjnHknHlnH+pH/pHgqHhqHmqHnqHkzHlzH5jI6jIhsIisIpsIqsIluJmuJnuJouJpuJquJruJsuJuvJtvJ54J64Jk5Jl5Jm5Jn5J8lK9lKqoKpoK93K+3Kz4K04K+4KqrIz5Ko6Ds7Kt7K0/K1/K/kLglLhiMiiMjiMkiM5iM6iMhkM/jMkkMjkMnkMmkMhmMimMjmMkmMm1Mn1M+1M/1MokNpkNqkNrkNypNzpN4pN5pN6pN7pNksNlsNmsNnsNosNpsNqsNrsNjwNkwN7wN8wNnxNoxNzgO0gOoiOpiOllOmlOnlOolOplOqlO13O23O"
+        , "IOP7vB", "nms_ChatAllowedCharacters", "vxE4BwzExzE" , "ABC8vB", "jur_AltGroupQuantifierSet", "voCF+2C7jC28IysI" , "IJKL9vB", "nlei_IWebSocketClient", "glIi0DolI2hB8qJ9qJ+qJ/qJu4JnlIv/Jw/JhgK/qJ" , "IOP+vB", "nms_Packet28EntityVelocity", "phLFktLimKwuLkmKkxL7/J" , "IOP/vB", "nms_GuiParticle", "96DzMs+E0pDz+EF" , "IOPgwB", "nms_StructureStrongholdPieceWeight", "0/OF3kP4kP7kP8kP" , "jBnQoQpQhwB", "oacl_ArrayUtils", "gqDnMltD4BmtDsC" , "IOPiwB", "nms_FurnaceRecipes", "u6Bv6Bw6Bx6Bi/B4BtiCFmmCnmCz7O07O"
+        , "IOPjwB", "nms_Slot", "mxFFyuGzuG0uG1uGk1Gl1G+nI/nIgoIhoIioIjoIkoIloImoInoIooIpoI" , "IOPkwB", "nms_Render", "+bF9wE+wEvvHwvHgqIhqIiqIjqI0hK1hK6hK7hKuiKviKwiKxiK1mK2mK9mK+mKy9Kz9K6tN7tN" , "IOPlwB", "nms_BlockOre", "6mBF5vOmlO5wOolO6xOqlO" , "jBqBwIxImwB", "otjc_JSMap", "4I5I" , "IOPnwB", "nms_Packet201PlayerInfo", "qiLF4tLimKkvLkmKsxL7/J" , "IOPowB", "nms_BlockDirt", "pmBF" , "IOPpwB", "nms_WorldProviderSky", "nrKFptKvsGqtK6lHrtK4nH8xLv2KzzLl6K/zL97K41L3oK61L6iL" , "jBqBrLqwB", "otp_Platform", "abzB0BoFpFnqBoqBzrB0rB1rB2rBp0BLq0Br0Bz7B07Bg8Bh8Bi8Bj8Bx/By/Bo+CkBp+C0Cq+C2C3iD80BgoDhoDioDjoD0/D0iDzuNvgF"
+        , "AhCiCrwB", "jnc_CodingErrorAction", "ynD4B4rDF" , "IOPswB", "nms_EntitySuspendFX", "+sMF9gN9kF" , "IJKLMtwB", "nleib_FloatBuffer", "+U7U/UpNgVmT1apNy0BFs0G21Bt0G5Dt3G01Bu3G5Dv3G01B" , "A6FuwB", "jt_DecimalFormat$Constants", "vnL4B" , "ABCvwB", "jur_DotQuantifierSet", "0oCFu/GkB68IysI29Iu2DtpJupJ6pJ7pJ" , "jBqBwIxIwwB", "otjc_JSFinalizationRegistry", "7I8I" , "A6FxwB", "jt_DecimalFormat", "nyBFi7BFp7Bq7Bs7B4Bt/BvlBggEhgEogEpgE41GkxGo2Gp2Gp1JvH0iKvH2iKvH/mKgnKhnKinKopKppKspKtpKvpK6CypKzpK0pK1pK2pK3pK9pK+pKowKvHpwKvHngLinKogLgnKpgLgnKqgLinKwnL+pKxnL3pK"
+        , "IJKLywB", "nlei_IVertexArrayGL", "miBniB/yEgzE6lF9lD" , "jBqBrBsB6FzwB", "otcit_FloatAnalyzer", "yyFzyF9zF4B/yGgzG72G82G92G+2G" , "IOP0wB", "nms_ItemVine", "npBFu+GhkGk6IzmEq5NnkN" , "AB1wB", "ju_HashMap$ValueIterator", "l9EFw1F5J" , "ABC2wB", "jur_AbstractCharClass$LazyJavaJavaIdentifierStart$1", "8gFFi2FqZ" , "IOP3wB", "nms_SaveHandlerMP", "wzNFs4NuiLt4NvmLu4NtmLv4NlzE" , "ABC4wB", "jur_CharClass$3", "vmDFv5EqZ" , "ABC5wB", "jur_CharClass$4", "ymDFy5EqZ" , "IOP6wB", "nms_NBTTagInt", "i2EF13E61En4FqkCp6FOvqGF0gH40F"
+        , "ABC7wB", "jur_CharClass$1", "umDFu5EqZ" , "ABC8wB", "jur_CharClass$2", "wmDFw5EqZ" , "IOP9wB", "nms_StatList", "8H9H9P4Bzc0cppBqpB0pB1pB4xB5xB6xB7xB8xB9xBqyBryBl6Bm6Bu0Ev0E" , "ABC+wB", "jur_CharClass$7", "zmDFz5EqZ" , "ABC/wB", "jur_CharClass$8", "2mDF25EqZ" , "ABCgxB", "jur_CharClass$5", "xmDFx5EqZ" , "ABChxB", "jur_CharClass$6", "0mDF05EqZ" , "AXixB", "jm_BigDecimal", "0qIF1qIx1G2qIptC3qI4qInyIFoyIpyIqyI4Bl1IpzGq1Ir1It1Iu1Iv1Iw1Iz1I01I41I51I61I71Ii2Ij2Ik2IFo2IFw4Ix4I24IF34IpzGtnJr0HwnJxnJynJznJ7uJ8uJ9uJ+uJ/uJvJwwJvJxwJFipKjpKkpKt4IlpKjuG4pKn8ClqKFvrKF+sKOzyKH1yKJ4yKn8Cp9M46B"
         , "ABCjxB", "jur_CharClass$9", "1mDF15EqZ" , "ARkxB", "jl_Character", "5C6CqF4Bs+Bt+BgiCt+BllCmlCgmCvJymClkCzmCzkC0mC1mC4mC5mCppCO2pC3pC5pC6pCiqCjqC0qCFjrCkrCnrC5mCurC/1BvrCoZ+rC/rCgsChsCpsCqsCjuCkrCmuC/1BnuCoZrvCsvC0wC1wC2wC3wC4wC5wCixCqkCkxClxCqxCrxCsxCtxCzxC0xC1xC2xC3xC4xC5xC6xC+xC/xCwyCxyCgzChzCtyDHkhEHo3EJr2FOu7Fv7Fw7Fx7Fy7Fz7F07F17F27F37F47F57F67F77F87F97F+7FigC/7Fg8Fh8Fi8Fj8Fk8Fl8Fm8Fi9FqkC3nGx7F7vG17FwxGxxGh2Gi2Gl/In8C7oJ8oJotJn8C0vJg8F5iKgpJjkK30BlnKgpJ" , "IOPlxB", "nms_EnumOptions", "jpE4B3tEF4tErdq7EteulIvlIwlIxlI7lI8lIqlJrlJslJtlJ"
-        , "IlD/JOmxB", "npem_ResourceLoader", "zhB0hB+tB4BqyHryH" , "IOPnxB", "nms_Packet0KeepAlive", "tgLForLimKprLkmKjwL7/JsmNF06NtmK" , "jBqBwIxIoxB", "otjc_JSNumber", "wsBxsB" , "ARpxB", "jl_StrictMath", "8kI/6C9kIktE" , "IOPqxB", "nms_BlockGravel", "5mBF4wOolO" , "IJKLqBrxB", "nleit_IndexedDBFilesystem$DatabaseOpen", "39BF" , "IOPsxB", "nms_TileEntityRendererPiston", "52HFt0JzjJwyLzhIwiMxiM" , "AhCiCsBtxB", "jnci_Iso8859Encoder", "xlFFt6IgjI" , "E1L2LuxB", "cch_ArraySizingStrategy", "3jJ+iD" , "ARvxB",
-        "jl_Exception", "vBFkIFvjBF3wFF" , "jBqBrBsBtBwxB", "otcit_DateTimeZoneBuilder$DSTZone", "xxCvxCqyCFoxD0sCtxDktCzxDitCx0Dy0DkqF9qE" , "IOPxxB", "nms_PlayerList", "znLFz6L06L36L46Ll7Lm7Lv7Lw7Lx7Ly7LolNplNqlNrlNslNtlNxlNylNzlN0lNnzNozNqzNrzNj1Nk1N" , "IJKLyxB", "nlei_PlatformRuntime", "vF4BxG9EyGzG0G1G2G3G4G5G6G7G8G9GgHhHyHzHoIpIgJhJyKzK1K2KhLiLjLkLyLzLkNlNrNsNyNzN8N9N8Q9Q+Q/E/R8K3V4V/VgWsWtWuWvWqYrYsYtYuYvYxdydze0e1e8KtgBugBvgBwgB3hB4hB9hB+hB/hBgiBhiBiiBpjBqjBzkB0a0kB3ahtBitBjtBugBktBltBmtBwgB4uB5uB6uB7uB1zB2zBj1Bk1Bv2BjuB82B92B+2B5uBskDtkDukDvkD/kDglDhlDilD1qD2qDu+Dv+D8jEi3DkpElpE9iF+iF8lF9lF+lF/lF8tG1gG9tG3gG+tG5gGojIpjIhlKilK"
-        , "IJKzxB", "nle_EagUtils", "7K8K+R4BsV8K3kB4kB" , "AB0xB", "ju_AbstractMap$KeySet", "2mJFyyJve" , "IOP1xB", "nms_EnumCreatureType", "0lLte2lL3lL4lL5lL8lL9lLmmLnmLxoL4BzpLF0pLrd" , "IOP2xB", "nms_ItemSaddle", "35BFq7Nh0Kr7N4oN" , "IOP3xB", "nms_MCHash", "jlEFznE0nEosEpsEp/Eq/Er/Es/Et/E9CysF+iDuvFvvFzwF0wFzkG0kGg8Gh8GztH0tH2wH3wHrpI5iH" , "IOP4xB", "nms_SorterStatsBlock", "4xIF+qL30Bl6Lm6L" , "IOP5xB", "nms_MapGenStructure", "g1MFmjN/iNirOsjO61O71O81O91Oh5Oi5O" , "ABC6xB", "jur_RelCompositeGroupQuantifierSet",
-        "uoCF18IysI" , "AB7xB", "ju_ArrayList", "0QFndFpgCr2B2gCrM3gC5D+sCFr4CntC64CrHi7Cj7Cn9CntCp9Cr2Bw9C63BgyD7U02D12D31FHu2FO" , "AR8xB", "jl_IllegalMonitorStateException", "ldF" , "IOP9xB", "nms_RecipesArmor", "7lCF8lCylC" , "ABC+xB", "jur_RelAltGroupQuantifierSet", "toCF08IysI" , "yHzH0H1H2H/xB", "iudfo_ObjectArrays", "3qD+iDrtD4BstDttD" , "IOPgyB", "nms_IntCache", "9iO+iO4pO4B02O12O" , "AhCiChyB", "jnc_Charset$Charsets", "j9B4B" , "IJKLiyB", "nlei_OpenGLObjects$FramebufferGL", "9LFtS4B" , "IOPjyB", "nms_EntityBubbleFX",
-        "9sMF/gN9kF" , "ABkyB", "ju_AbstractMap$KeySet$1", "65JFisK5JjsK7JksKntC" , "IOPlyB", "nms_EntityItem", "vsJF1yJ/yFs4L9kFk5LnoJ6/LFm+M2rIn+MssIk4Nu1N+4N5jNr+NzmMmtO9nO" , "IOPmyB", "nms_ItemMapBase", "g/BF" , "IJKLnyB", "nlei_PlatformInput$iterateKeyboardLayout$lambda$_7_0", "nwBFy3BhGn+BzI" , "IOPoyB", "nms_RenderManager", "5lE4BwsEFpmHomHumHvmHlrHrHjuHkuHnvHovH8pI9pIsiKtiKkmOtqN" , "pFqFKhLpyB", "dceu_StringPrintStream", "7iFF8iFO" , "IOPqyB", "nms_FoodStats", "4/F5/F6/F7/FigGjgG+nKF4kL5kLhgMigMxqMyqMyuMzuMymNzmN0mN1mNh0Ni0N36O46Os9Ot9O"
-        , "IOPryB", "nms_EntityAuraFX", "/sMF9gN9kF" , "IOPsyB", "nms_ShapelessRecipes", "jhEFg9E06Bh9E32Dr9MysIt9MsqM" , "ARtyB", "jl_NoSuchMethodException", "ssNF" , "ABuyB", "ju_IllegalFormatPrecisionException", "5wGF" , "IJKLvyB", "nlei_PlatformFilesystem", "mXnXuiB4B" , "IJKLqBwyB", "nleit_TeaVMClientConfigAdapterHooks$callHookSafeSync$lambda$_7_0", "4qEFvuEx3B2xEm+B" , "A6FxyB", "jt_DateFormat", "uHvHslBFlrBmrBpgDvH" , "IOPyyB", "nms_ModelSquid", "uwEF10LshGuoMsiH" , "ABCzyB", "jur_PatternSyntaxException",
-        "v8BFh6ET" , "IOP0yB", "nms_ItemFood", "i5BFt5Bu5Bv5Bw5B8+BFixDipBvwMwwMzwM0wMo4M75Lw4M95Lz4M/5Lo8Oh2O3gP4gP" , "IOP1yB", "nms_RailLogic", "9qMF+qM/qM4yM5yM6yM7yM8yM9yMi1Mj1M9wN+wN/wNgxNhxNixNjxNkxNlxNmxN40N50N60N70N" , "IOP2yB", "nms_BlockFluid", "ixBF01Cj4Bp2CgyBz9G9jGmgH8oGmxHnxH49H/pHg/HlzHx6I6jIu3JmuJ13JquJ/3JsuJt+Ju+J6lK7lKmoKnoKooKpoK0zLt7K+1LglLhjMijMnjMtvJzqM0qMyxMzxMl7M6iM18MimM1uOjkM4vOmlO3wOolOw8O23O" , "IOP3yB", "nms_BlockButton", "koBF61Cj4Bl8HjnHi+HnqHy/HlzHhuK64JtuKl5JhwK9lKu3KtvJozLo6D02LglLzrM0rMozMmkMz7M6iMv5NpkN48N+vNo9N8wN7jO8zD6tO0gOyuOpiO"
-        , "ABC4yB", "jur_Pattern", "xeyexrByexwB3Jt0BFu0Bv0Bn8Bo8Bq8Br8Bz/B0/BngCogC6gC7gC1jC2jC4jC5jCmkCnkCokCwjCwkCxkC0kC1kChoCioCrpCspCwrCxrC8rC9rCquCruCi9C3Jr2Ds2DqtFrtFstFttFutFvtF" , "AlE5yB", "ji_UnsupportedEncodingException", "r2EF" , "IOP6yB", "nms_BlockSoulSand", "voBF37IqsI47M6iM" , "IOP7yB", "nms_BlockOreStorage", "unBFh1CgyB" , "IJK8yB", "nle_HFormatter$Transformer", "+mFFqnFhsEmnGnnGpnGqnGrnGsnGtnGunGvnGwnGxnGynGznG0nG1nG2nG4nG5nG6nG7nG1wG2wG7wG8wG9wG+wGjxGkxGoxGpxG" , "IOP9yB", "nms_WorldGenReed",
-        "3rGFz5O/iN" , "jB8B+yB", "oj_ParserConfiguration", "w1NFx1Ny1N" , "EFG/yB", "cjj_Inflate$Return", "ltFF" , "IOPgzB", "nms_Packet254ServerPing", "riLF1tLimKhvLkmKwxL7/J" , "IJKLhzB", "nlei_IClientConfigAdapter", "8J9J4M5MjXkXhgBigB6wI7wI" , "IOPizB", "nms_EntityCloudFX", "otMF0gN7mHkhN9kF" , "IOPjzB", "nms_BlockBreakable", "lxBFy1Cj4B33JquJ" , "IOPkzB", "nms_PistonBlockTextures", "hjE4B" , "IOPlzB", "nms_ScreenShotHelper", "3pD4pDjtDktD" , "ABCmzB", "jur_UnicodeCategoryScope", "khFF82FqZ" , "IOPnzB",
-        "nms_EntityTNTPrimed", "/sJF8yJ/yFu4L9kF54L4mK25L6jF7pMF+uM/uMq+M2rIy/NzmMotO9nO" , "IOPozB", "nms_PotionEffect", "3jL4jLrnNF+uN/uNt/NHnhOohOrhOshOmoOnoOp6Oq6Or6Os6O" , "EFGpzB", "cjj_Checksum", "1hFyhB3hFvhB1pFvhBmtFzM" , "EFGqzB", "cjj_InfTree", "/pEFsuE4ByjGzjG1jG2jG3jG4jG0pH1pH2pH3pH" , "EFUrzB", "cjj_Residue0$InfoResidue0", "yjKF" , "jBqBrBsB6FszB", "otcit_FloatAnalyzer$Result", "m5GF" , "IOPtzB", "nms_ModelQuadruped", "uyEFw0LshGooMsiH" , "IJKuzB", "nle_BaseNCodec", "7f8f/0B4BohCphCqhCrhC3kCF4kC5kCmhD8fwkDrhC9kD+kDm+D8fn+Do+DqgErhCzlF0lF5lFi1EgvFhvFpmGqmGrmGsmGvvGy+DwvGxvG"
-        , "IJKvzB", "nle_HFormatter", "3nDF4nDvH5nDO6nD2hB8rDFzhEvH6mF7mFtnFunF" , "IJKwzB", "nle_HString", "k9CvH" , "IJKpDxzB", "nleo_VSHInputLayoutParser$ShaderLayoutParseException", "2kBF" , "AlEyzB", "ji_InputStream", "1hB2hBwtBF1tB2tB3tB2tB5tB6tBkqE2tBh1Ei1E" , "IJKjMzzB", "nles_AddressResolver", "lnEmnEoxImnE" , "IOP0zB", "nms_ComponentMineshaftCorridor", "qiPriPviPFyiPg/O7iP+gP" , "EFG1zB", "cjj_Deflate", "6qGF7qG8qGyzG4BytH8qGl0Hm0HjtIktIltImtInnJyrGgqJhqJtgKugKygKzgK0gK1gK2gK3gK4gK5gK6gK7gK8gK9gK+gK/gK28K38K48K58K68K78K88K98K+8K/8Kg9Kh9Ki9Kj9Kk9Kl9K++K/+Kt6Lu6Lv6L/gK6mM7mM+mM/mM5sN6sN7sN8sN9sN+sN/sNgtN6lO7lOgmOhmOimOjmOg6Oh6O"
+        , "IlD/JOmxB", "npem_ResourceLoader", "zhB0hB+tB4BqyHryH" , "IOPnxB", "nms_Packet0KeepAlive", "tgLForLimKprLkmK6vL7/JhmNFr6NtmK" , "jBqBwIxIoxB", "otjc_JSNumber", "wsBxsB" , "ARpxB", "jl_StrictMath", "8kI/6C9kIktE" , "IOPqxB", "nms_BlockGravel", "5mBF4wOolO" , "IJKLqBrxB", "nleit_IndexedDBFilesystem$DatabaseOpen", "39BF" , "IOPsxB", "nms_TileEntityRendererPiston", "52HFt0JzjJwyLzhIwiMxiM" , "AhCiCsBtxB", "jnci_Iso8859Encoder", "xlFFt6IgjI" , "E1L2LuxB", "cch_ArraySizingStrategy", "3jJ+iD" , "ARvxB",
+        "jl_Exception", "vBFkIFvjBF3wFF" , "jBqBrBsBtBwxB", "otcit_DateTimeZoneBuilder$DSTZone", "xxCvxCqyCFmxD0sCrxDktCxxDitCw0Dx0DkqF9qE" , "IOPxxB", "nms_PlayerList", "znLFz6L06L36L46Ll7Lm7Lv7Lw7Lx7Ly7LolNplNqlNrlNslNtlNxlNylNzlN0lNnzNozNqzNrzNj1Nk1N" , "IJKLyxB", "nlei_PlatformRuntime", "vF4BxG9EyGzG0G1G2G3G4G5G6G7G8G9GgHhHyHzHoIpIgJhJyKzK1K2KhLiLjLkLyLzLkNlNrNsNyNzN8N9N8Q9Q+Q/E/R8K3V4V/VgWsWtWuWvWqYrYsYtYuYvYxdydze0e1e8KtgBugBvgBwgB3hB4hB9hB+hB/hBgiBhiBiiBpjBqjBzkB0a0kB3ahtBitBjtBugBktBltBmtBwgB4uB5uB6uB7uB1zB2zBj1Bk1Bv2BjuB82B92B+2B5uBskDtkDukDvkD/kDglDhlDilD1qD2qDu+Dv+D8jEi3DkpElpE9iF+iF8lF9lF+lF/lF8tG1gG9tG3gG+tG5gGojIpjIhlKilK"
+        , "IJKzxB", "nle_EagUtils", "7K8K+R4BsV8K3kB4kB" , "AB0xB", "ju_AbstractMap$KeySet", "2mJFyyJve" , "IOP1xB", "nms_EnumCreatureType", "0lLte2lL3lL4lL5lL8lL9lLmmLnmLxoL4BzpLF0pLrd" , "IOP2xB", "nms_ItemSaddle", "35BFq7Nh0Kr7N4oN" , "IOP3xB", "nms_MCHash", "jlEFznE0nEosEpsEp/Eq/Er/Es/Et/E9CysF+iDuvFvvFzwF0wFzkG0kGg8Gh8GztH0tH2wH3wHrpI5iH" , "IOP4xB", "nms_SorterStatsBlock", "4xIF/qL30Bn6Lo6L" , "IOP5xB", "nms_MapGenStructure", "g1MFmjN/iNirOsjO61O71O81O91Oh5Oi5O" , "ABC6xB", "jur_RelCompositeGroupQuantifierSet",
+        "uoCF18IysI" , "AB7xB", "ju_ArrayList", "0QFndFpgCr2B2gCrM3gC5D+sCFr4CntC64CrHi7Cj7Cn9CntCp9Cr2Bw9C63BgyD7U02D12D31FHu2FO" , "AR8xB", "jl_IllegalMonitorStateException", "ldF" , "IOP9xB", "nms_RecipesArmor", "7lCF8lCylC" , "ABC+xB", "jur_RelAltGroupQuantifierSet", "toCF08IysI" , "yHzH0H1H2H/xB", "iudfo_ObjectArrays", "3qD+iDrtD4BstDttD" , "IOPgyB", "nms_IntCache", "9iO+iO4pO4B12O22O" , "AhCiChyB", "jnc_Charset$Charsets", "j9B4B" , "IJKLiyB", "nlei_OpenGLObjects$FramebufferGL", "9LFtS4B" , "IOPjyB", "nms_EntityBubbleFX",
+        "9sMF/gN9kF" , "ABkyB", "ju_AbstractMap$KeySet$1", "65JFisK5JjsK7JksKntC" , "IOPlyB", "nms_EntityItem", "zsJF3yJ/yFk4L9kFg5LnoJ6/LF89M2rI99MssIk4Nu1N+4N5jNr+NzmMmtO9nO" , "IOPmyB", "nms_ItemMapBase", "g/BF" , "IJKLnyB", "nlei_PlatformInput$iterateKeyboardLayout$lambda$_7_0", "nwBFy3BhGn+BzI" , "IOPoyB", "nms_RenderManager", "5lE4BwsEFpmHomHumHvmHlrHrHjuHkuHnvHovH8pI9pIsiKtiKkmOtqN" , "pFqFKhLpyB", "dceu_StringPrintStream", "7iFF8iFO" , "IOPqyB", "nms_FoodStats", "4/F5/F6/F7/FigGjgG+nKF4kL5kLhgMigMxqMyqM6tM7tMvmNwmNxmNymNh0Ni0N36O46Os9Ot9O"
+        , "IOPryB", "nms_EntityAuraFX", "/sMF7gN9kF" , "IOPsyB", "nms_ShapelessRecipes", "jhEFg9E06Bh9E32Dr9MysIt9MsqM" , "ARtyB", "jl_NoSuchMethodException", "ssNF" , "ABuyB", "ju_IllegalFormatPrecisionException", "5wGF" , "IJKLvyB", "nlei_PlatformFilesystem", "mXnXuiB4B" , "IJKLqBwyB", "nleit_TeaVMClientConfigAdapterHooks$callHookSafeSync$lambda$_7_0", "4qEFvuEx3B2xEm+B" , "A6FxyB", "jt_DateFormat", "uHvHslBFlrBmrBpgDvH" , "IOPyyB", "nms_ModelSquid", "uwEF10LshGuoMsiH" , "ABCzyB", "jur_PatternSyntaxException",
+        "v8BFh6ET" , "IOP0yB", "nms_ItemFood", "i5BFt5Bu5Bv5Bw5B8+BFixDipBvwMwwMzwM0wMo4M75Lw4M95Lz4M/5Lo8Oh2O3gP4gP" , "IOP1yB", "nms_RailLogic", "9qMF+qM/qM4yM5yM6yM7yM8yM9yMi1Mj1M9wN+wN/wNgxNhxNixNjxNkxNlxNmxN40N50N60N70N" , "IOP2yB", "nms_BlockFluid", "ixBFz1Cj4Bp2CgyBz9G9jGmgH8oGmxHnxH49H/pHg/HlzHx6I6jIu3JmuJ13JquJ/3JsuJt+Ju+J6lK7lKmoKnoKooKpoK0zLt7K+1LglLhjMijMnjMtvJzqM0qMyxMzxMl7M6iM18MimM1uOjkM4vOmlO3wOolOw8O23O" , "IOP3yB", "nms_BlockButton", "koBF51Cj4Bl8HjnHi+HnqHy/HlzHhuK64JtuKl5JhwK9lKu3KtvJozLo6D02LglLzrM0rMozMmkMz7M6iMv5NpkN48NkwNo9N8wN7jO8zD6tO0gOyuOpiO"
+        , "ABC4yB", "jur_Pattern", "xeyexrByexwB3Jt0BFu0Bv0Bn8Bo8Bq8Br8Bz/B0/BngCogC6gC7gC1jC2jC4jC5jCmkCnkCokCwjCwkCxkC0kC1kChoCioCrpCspCwrCxrC8rC9rCquCruCi9C3Jr2Ds2DqtFrtFstFttFutFvtF" , "AlE5yB", "ji_UnsupportedEncodingException", "r2EF" , "IOP6yB", "nms_BlockSoulSand", "voBF37IqsI47M6iM" , "IOP7yB", "nms_BlockOreStorage", "unBF/0CgyB" , "IJK8yB", "nle_HFormatter$Transformer", "+mFFqnFhsEmnGnnGpnGqnGrnGsnGtnGunGvnGwnGxnGynGznG0nG1nG2nG4nG5nG6nG7nG1wG2wG7wG8wG9wG+wGjxGkxGoxGpxG" , "IOP9yB", "nms_WorldGenReed",
+        "3rGFz5O/iN" , "jB8B+yB", "oj_ParserConfiguration", "w1NFx1Ny1N" , "EFG/yB", "cjj_Inflate$Return", "ltFF" , "IOPgzB", "nms_Packet254ServerPing", "riLFmuLimKyvLkmK+wL7/J" , "IJKLhzB", "nlei_IClientConfigAdapter", "8J9J4M5MjXkXhgBigB6wI7wI" , "IOPizB", "nms_EntityCloudFX", "otMFygN7mHjhN9kF" , "IOPjzB", "nms_BlockBreakable", "lxBFx1Cj4B33JquJ" , "IOPkzB", "nms_PistonBlockTextures", "hjE4B" , "IOPlzB", "nms_ScreenShotHelper", "3pD4pDjtDktD" , "ABCmzB", "jur_UnicodeCategoryScope", "khFF72FqZ" , "IOPnzB",
+        "nms_EntityTNTPrimed", "tsJF1yJ/yFu4L9kF44L4mK05L6jF7pMF0uM1uMn+M2rI0/NzmMotO9nO" , "IOPozB", "nms_PotionEffect", "3jL4jLwnNF+uN/uNt/NHohOphOshOthOmoOnoOp6Oq6Or6Os6O" , "EFGpzB", "cjj_Checksum", "1hFyhB3hFvhB1pFvhBmtFzM" , "EFGqzB", "cjj_InfTree", "/pEFsuE4ByjGzjG1jG2jG3jG4jG0pH1pH2pH3pH" , "EFUrzB", "cjj_Residue0$InfoResidue0", "yjKF" , "jBqBrBsB6FszB", "otcit_FloatAnalyzer$Result", "m5GF" , "IOPtzB", "nms_ModelQuadruped", "uyEFw0LshGooMsiH" , "IJKuzB", "nle_BaseNCodec", "7f8f/0B4BohCphCqhCrhC3kCF4kC5kCmhD8fwkDrhC9kD+kDm+D8fn+Do+DqgErhCzlF0lF5lFi1EgvFhvFpmGqmGrmGsmGvvGy+DwvGxvG"
+        , "IJKvzB", "nle_HFormatter", "3nDF4nDvH5nDO6nD2hB8rDFzhEvH6mF7mFtnFunF" , "IJKwzB", "nle_HString", "k9CvH" , "IJKpDxzB", "nleo_VSHInputLayoutParser$ShaderLayoutParseException", "2kBF" , "AlEyzB", "ji_InputStream", "1hB2hBwtBF1tB2tB3tB2tB5tB6tBkqE2tBh1Ei1E" , "IJKjMzzB", "nles_AddressResolver", "lnEmnEoxImnE" , "IOP0zB", "nms_ComponentMineshaftCorridor", "liPmiPqiPFyiPg/O5iP+gP" , "EFG1zB", "cjj_Deflate", "6qGF7qG8qGyzG4BytH8qGl0Hm0HjtIktIltImtInnJyrGgqJhqJtgKugKygKzgK0gK1gK2gK3gK4gK5gK6gK7gK8gK9gK+gK/gK28K38K48K58K68K78K88K98K+8K/8Kg9Kh9Ki9Kj9Kk9Kl9K++K/+Kt6Lu6Lv6L/gK6mM7mM+mM/mM5sN6sN7sN8sN9sN+sN/sNgtN6lO7lOgmOhmOimOjmOg6Oh6O"
         , "ABC2zB", "jur_AbstractCharClass$LazyJavaWhitespace$1", "1gFF71FqZ" , "ABC3zB", "jur_AbstractCharClass$LazyJavaJavaIdentifierStart", "jwCF/4ErzD" , "IOP4zB", "nms_TextureLavaFlowFX", "25DF74FliF" , "jBkB5zB7d", "oli_Keyboard", "gtD4B" , "IJK6zB", "nle_HFormatter$ParserStateMachine", "9mFF/mFvhBgnFhnFxmGymGzmG0mG2mG3mG4mG5mG6mG7mG8mG9mG+mG/mGgnGhnGinGjnGknGlnG8vG7kB" , "IlD/JO+qB7zB", "npems_TileEntitySupplier", "80N90N" , "jBqBwI3J8zB", "otjt_Uint8Array", "9gB5IxtBytB" , "IOP9zB", "nms_BlockLever",
-        "goBFi2Cj4Bj+G9jGj8HjnHw/HlzH/tK64JruKl5J+vK9lKx2LglLwrMxrMnzMmkMx7M6iMu5NpkN38N+vNl9N8wN3tO0gOvuOpiO" , "IJKLqB+zB", "nleit_EPKLoader", "nWoW6gB7gB+gB7gBhhBihBlhBmhBnhBohB" , "IOP/zB", "nms_GuiScreen", "0/C1/C8pDF76D86D+6D/6Dv7Dw7D68D78Dl9Dm9Dw9Dx9Dq+Er+E0+E1+E6+E7+E8+E9+Eg/Eh/EihGjhGkiGliG4iG5iGxiHyiHupHvpHkjIljIxtJytJ" , "ABg0B", "ju_Map", "mMnMqMrMwQ5D2V7UsXpNy6BtertCntCttCutC/uCgvCzgD0gDn0Eo0EpqFsjD" , "IOPh0B", "nms_MD5String", "g0EFh0Ei0E+0E4B" , "IJKLi0B", "nlei_PlatformApplication$2", "7wFFoyFx3BhzFm+B"
+        "goBFh2Cj4Bj+G9jGj8HjnHw/HlzH/tK64JruKl5J+vK9lKx2LglLwrMxrMnzMmkMx7M6iMu5NpkN38NkwNl9N8wN3tO0gOvuOpiO" , "IJKLqB+zB", "nleit_EPKLoader", "nWoW6gB7gB+gB7gBhhBihBlhBmhBnhBohB" , "IOP/zB", "nms_GuiScreen", "0/C1/C8pDF76D86D+6D/6Dv7Dw7D68D78Dl9Dm9Dw9Dx9Dq+Er+E0+E1+E6+E7+E8+E9+Eg/Eh/EihGjhGkiGliG4iG5iGxiHyiHupHvpHkjIljIztJ0tJ" , "ABg0B", "ju_Map", "mMnMqMrMwQ5D2V7UsXpNy6BtertCntCttCutC/uCgvCzgD0gDn0Eo0EpqFsjD" , "IOPh0B", "nms_MD5String", "g0EFh0Ei0E+0E4B" , "IJKLi0B", "nlei_PlatformApplication$2", "7wFFoyFx3BhzFm+B"
         , "IJKLj0B", "nlei_PlatformApplication$1", "97GFk8Gl8Gn8Go8G" , "jBnQpPmTk0B", "oall_ILogRedirector", "41D/6C" , "IJKLl0B", "nlei_PlatformApplication$4", "n1HFs3HlSz5H+e" , "IJKLm0B", "nlei_PlatformApplication$3", "m1HFr3HlSy5H+e" , "IJKLn0B", "nlei_PlatformApplication$6", "p1HFu3Hx3B15Hm+B" , "IJKLo0B", "nlei_PlatformApplication$5", "o1HFt3HlS05H+e" , "EFUp0B", "cjj_CodeBook$DecodeAux", "0+KF" , "ABCq0B", "jur_AbstractCharClass$LazyJavaLowerCase", "6vCF24ErzD" , "IOPr0B", "nms_BiomeDecorator", "h9FF89O99O5gP6gP0hP1hPzjP0jP1jP2jP"
-        , "IOPs0B", "nms_GenLayer", "oxMpxM10M00M91MF0iN1iNjjOkjOljOmjO" , "IJKLqBt0B", "nleit_TeaVMClientConfigAdapterHooks", "zQFmd4B76C86CmwDiKnwDkgBowD2gBuzDvzDxzDyzD0zD1zD5iE6iE7iEvzD8iE9iE+iEyzDsqFtqFxqFyqFzqF0qFiqGjqGkqGlqGmqGnqGzwH0wH" , "A6Fu0B", "jt_DateFormatElement$ConstantText", "liEFo8EvHy8EH88EJ" , "IOPv0B", "nms_ContainerPlayer", "goKF0qK1qK8sKvkF9sK9wHl+MxuM" , "IOPw0B", "nms_ComponentVillageField2", "9nP+nProPFxoP+gP/oPg/O" , "IOPx0B", "nms_StructurePieceBlockSelector", "7/OFtmPumPvmPwmPxmPymP"
-        , "IOPy0B", "nms_MaterialTransparent", "n4BF6xDm4B+9ItwInrLpxH" , "IOPz0B", "nms_PotionHealth", "riCF78Oo6O" , "AB00B", "ju_GenericEnumSet", "orBFi0Bj0Bs0Cr2Bl8Cr2B6vDrM7vDve" , "IJKpD10B", "nleo_VertexFormat", "qvD4B1vDF2vDrd4vD5vDizDte50D60Dp1DvhBujGpzF5oG6oGyoIjqH" , "IOP20B", "nms_SlotFurnace", "80MFigNhoIjgNpoI" , "IOP30B", "nms_WorldGenTrees", "50FFx3N/iN" , "IOP40B", "nms_EnumSkyBlock", "8kL4BooLFpoLrd81Lte" , "AR50B", "jl_ClassLoader", "opOppOsqO4B2qOF3qOF" , "AB60B", "ju_ConcurrentModificationException",
+        , "IOPs0B", "nms_GenLayer", "oxMpxM10M00M91MF0iN1iNjjOkjOljOmjO" , "IJKLqBt0B", "nleit_TeaVMClientConfigAdapterHooks", "zQFmd4B76C86CmwDiKnwDkgBowD2gBuzDvzDxzDyzD0zD1zD5iE6iE7iEvzD8iE9iE+iEyzDsqFtqFxqFyqFzqF0qFiqGjqGkqGlqGmqGnqGzwH0wH" , "A6Fu0B", "jt_DateFormatElement$ConstantText", "liEFn8EvHx8EH78EJ" , "IOPv0B", "nms_ContainerPlayer", "goKF0qK1qK8sKvkF9sK9wHg+M5tM" , "IOPw0B", "nms_ComponentVillageField2", "9nP+nProPFvoP+gPipPg/O" , "IOPx0B", "nms_StructurePieceBlockSelector", "7/OFtmPumPvmPwmPxmPymP"
+        , "IOPy0B", "nms_MaterialTransparent", "n4BF6xDm4B+9ItwImrLpxH" , "IOPz0B", "nms_PotionHealth", "riCF78Oo6O" , "AB00B", "ju_GenericEnumSet", "orBFi0Bj0Bs0Cr2Bl8Cr2B6vDrM7vDve" , "IJKpD10B", "nleo_VertexFormat", "qvD4B1vDF2vDrd4vD5vDizDte50D60Dp1DvhBujGpzF5oG6oGyoIjqH" , "IOP20B", "nms_SlotFurnace", "80MFigNhoIjgNpoI" , "IOP30B", "nms_WorldGenTrees", "50FFx3N/iN" , "IOP40B", "nms_EnumSkyBlock", "8kL4BooLFpoLrd81Lte" , "AR50B", "jl_ClassLoader", "opOppOsqO4B2qOF3qOF" , "AB60B", "ju_ConcurrentModificationException",
         "3iEF" , "AB1C70B", "juz_ZipOutputStream", "i0IFn0IotHp0I2hBt0Iu0Iv0Iw0Im+IyrDrrJy0FsrJv0FwrJxrJ4rJ5rJ" , "AB80B", "ju_Hashtable$1", "6tCF" , "IOP90B", "nms_J_LeafFunctor", "4nLFk5M37L3lN4lN" , "AB+0B", "ju_Hashtable$2", "7tCF" , "IJKLqB/0B", "nleit_LegacyKeycodeTranslator", "xYF0Y1YjZkZxjB4BuvBvvBliDmiDx/Dy/D1pE2pE" , "IOPg1B", "nms_StatTypeSimple", "myBFryLvH" , "IOPh1B", "nms_EntityHeartFX", "stMF5zMFxhN7mHzhN9kF" , "IOPi1B", "nms_BlockNote", "hnBFn2CgyB1tK64JnuKl5Ji2LglLr9NoxN9tO8hO" , "IOPj1B",
-        "nms_ChatLine", "x+EF" , "IOPk1B", "nms_J_NodeContainer", "/tIguIzyI0yI" , "IOPl1B", "nms_EntityCreeper", "gtJFkzJ/yFh4L9kFwtMxtMytMztMw+MvvM5+MxvMr/MzvMrtNstN0tN1tNx+NzmM8sO9nO3yOinO7yOsoElzO0nOzzOspO" , "IOPm1B", "nms_ComponentMineshaftRoom", "q/OFr/Og/O1iP+gP" , "EFUn1B", "cjj_Mapping0$LookMapping0", "njKF" , "IJKLo1B", "nlei_EnumPlatformType", "w2B4Bp9BFq9Brdy4Ctet3EO" , "IOPp1B", "nms_SlotArmor", "zqKF+yKhoI/yKjoI" , "EFUq1B", "cjj_Floor1$LookFloor1", "7+KF" , "IlD/JO+qBr1B", "npems_EntitySupplier",
-        "nzI/uI" , "A6Fs1B", "jt_DateFormatElement$NumericWeekday", "jiEFy5FzrF" , "IJKLqBt1B", "nleit_JOrbisAudioBufferDecoder", "90H+0H/2H4Bg3HuhFp3HhPg4HFz4H04H" , "IOPu1B", "nms_J_JsonNodeSelectors", "51K61K91K+1KrkLskL5nL6nL7nL8nL9nL+nLlpLmpLqpLrpLspLtpLpqLqqL" , "IOPv1B", "nms_Packet105UpdateProgressbar", "kiLF9sLimKpuLkmKqxL7/J" , "IOPw1B", "nms_ChunkProviderGenerate", "lqMF22Mh6K32Mj7KgjNhjNijNjjNvjOwjO0vOvlN" , "ABCx1B", "jur_AbstractCharClass$LazyJavaUpperCase$1", "0gFF61FqZ" , "jBqBrL1dy1B", "otpp_ResourceAccessor",
-        "nlBolBplBqlB5iC6iC7iC5D+iC/iCguC5DiuCrM3uC4uC5uC6uC" , "pFqFKrFz1B", "dcec_HelpCommand", "s1HFwgImF" , "ABC01B", "jur_AbstractCharClass$LazyJavaIdentifierIgnorable$1", "5gFF/1FqZ" , "IOP11B", "nms_ISaveFormat", "0mI1mIywIzwIztJ0tJkgKlgKogKzmIokKpkKqkKrkKwmKxmKymKngK" , "IOP21B", "nms_GuiSelectWorld", "woHF88H1+E98HliG+8Hr+EhmIimImmInmIomIpmIrmIsmIumIvmIt3JytJm6JyrHt6Ju6Jv6Jw6Jx6Jy6Jz6J06J16J26J36J46J07J17J27J37J+7J/7Jg8Jh8J" , "IOP31B", "nms_IInvBasic", "lpImpI" , "jBqBwIxI41B", "otjc_JSWeakMap", "0I1I"
-        , "AhCiCsB51B", "jnci_BufferedDecoder", "1jEFy7H/hH6iI7iI" , "IOP61B", "nms_ModelCreeper", "xyEFyyEF40LshGxoMsiH" , "IOP71B", "nms_ComponentVillageWoodHut", "3nP4nPooPF4oP+gP8oPg/O" , "IOP81B", "nms_BlockRedstoneOre", "ioBFy7IisI8nJ9nJivJjvJguK64JsuKl5JmzLo6D6zLt7KowOmlOsxOolO" , "gHhH91B", "cm_MD5", "+1EFs2EvhBt2E4B+qFzM/qFgrFjpGkpGhsH8fisHjsHksHlsHmsHnsHosHpsHozHpzHszHtzHuzHvzHwzHxzH" , "IOP+1B", "nms_Packet40EntityMetadata", "yhLFjuLimKvvLkmK6wL7/J0nN1nN" , "IJKLqBpO/1B", "nleito_JSEaglercraftXOptsRoot",
+        "nms_ChatLine", "x+EF" , "IOPk1B", "nms_J_NodeContainer", "/tIguIzyI0yI" , "IOPl1B", "nms_EntityCreeper", "itJFjzJ/yFo4L9kFiuMjuMkuMluMw+MvvM5+MxvMr/MzvMrtNstN0tN1tNx+NzmM8sO9nO3yOinO7yOsoElzO0nOzzOspO" , "IOPm1B", "nms_ComponentMineshaftRoom", "q/OFr/Og/O1iP+gP" , "EFUn1B", "cjj_Mapping0$LookMapping0", "njKF" , "IJKLo1B", "nlei_EnumPlatformType", "w2B4Bp9BFq9Brdy4Ctet3EO" , "IOPp1B", "nms_SlotArmor", "zqKF+yKhoI/yKjoI" , "EFUq1B", "cjj_Floor1$LookFloor1", "7+KF" , "IlD/JO+qBr1B", "npems_EntitySupplier",
+        "nzI/uI" , "A6Fs1B", "jt_DateFormatElement$NumericWeekday", "jiEFy5FzrF" , "IJKLqBt1B", "nleit_JOrbisAudioBufferDecoder", "90H+0H/2H4Bg3HuhFp3HhPg4HFz4H04H" , "IOPu1B", "nms_J_JsonNodeSelectors", "51K61K91K+1KrkLskL5nL6nL7nL8nL9nL+nLlpLmpLqpLrpLspLtpLpqLqqL" , "IOPv1B", "nms_Packet105UpdateProgressbar", "kiLF0tLimKgvLkmKpxL7/J" , "IOPw1B", "nms_ChunkProviderGenerate", "lqMF22Mh6K32Mj7KgjNhjNijNjjNvjOwjO0vOvlN" , "ABCx1B", "jur_AbstractCharClass$LazyJavaUpperCase$1", "0gFF61FqZ" , "jBqBrL1dy1B", "otpp_ResourceAccessor",
+        "nlBolBplBqlB5iC6iC7iC5D+iC/iCguC5DiuCrM3uC4uC5uC6uC" , "pFqFKrFz1B", "dcec_HelpCommand", "s1HFwgImF" , "ABC01B", "jur_AbstractCharClass$LazyJavaIdentifierIgnorable$1", "5gFF/1FqZ" , "IOP11B", "nms_ISaveFormat", "0mI1mIywIzwIxtJytJkgKlgKogKzmImkKnkKokKpkKwmKxmKymKngK" , "IOP21B", "nms_GuiSelectWorld", "woHF88H1+E98HliG+8Hr+EhmIimImmInmIomIpmIrmIsmIumIvmIs3J0tJm6JyrHt6Ju6Jv6Jw6Jx6Jy6Jz6J06J16J26J36J46J07J17J27J37J+7J/7Jg8Jh8J" , "IOP31B", "nms_IInvBasic", "lpImpI" , "jBqBwIxI41B", "otjc_JSWeakMap", "0I1I"
+        , "AhCiCsB51B", "jnci_BufferedDecoder", "1jEFy7H/hH6iI7iI" , "IOP61B", "nms_ModelCreeper", "xyEFyyEF40LshGxoMsiH" , "IOP71B", "nms_ComponentVillageWoodHut", "3nP4nPooPF3oP+gP/oPg/O" , "IOP81B", "nms_BlockRedstoneOre", "ioBFy7IisI8nJ9nJivJjvJguK64JsuKl5JmzLo6D6zLt7KowOmlOsxOolO" , "gHhH91B", "cm_MD5", "+1EFs2EvhBt2E4B+qFzM/qFgrFjpGkpGhsH8fisHjsHksHlsHmsHnsHosHpsHozHpzHszHtzHuzHvzHwzHxzH" , "IOP+1B", "nms_Packet40EntityMetadata", "yhLF7tLimKnvLkmKvxL7/JwoNxoN" , "IJKLqBpO/1B", "nleito_JSEaglercraftXOptsRoot",
         "sDtDuDvDwDxD9D+DhEiEq5Cr5Cs5Ct5Cu5Cv5Cw5Cx5Cy5Cz5C05C15C25C35C45C55C65C75C85C95C+5C/5Cg6Ch6Ci6Cj6Ck6Cl6Cm6Cn6Co6Cp6Cq6Cr6Cs6Ct6Cu6Cv6Cw6Cx6Cy6Cz6C" , "IJKpDg2B", "nleo_GlStateManager", "suBtuBuuBvuBwuBxuByuBzuB2uB3uB8uB4B02B12B22B32B42B52B62B72B/2Bg3Bh3Bg3Bi3Bg3BroDsoDtoDuoDvoDwoDxoDyoDzoD0oD1oD2oD3oD4oD5oD6oD7oD8oDjsD7UksDlsDmsDnsDosDpsDqsDrsDtsDusDvsDwsDxsDysDzsD0sD1sD2sD3sD4sD5sD6sD7sD8sD9sD+sD8tD9tDhkEikEjkEkkElkEmkEnkEokEpkEqkEskE6oDtkEukEvkEwkEjmEkmElmEmmEnmEomEpmEqmErmEsmEyrEzrE2rE3rE4rE5rE6rE7rE8rE9rEssEtsElvEmvEqvErvEjyEkyEmyEnyEwwFxwFisGjsG0tG1tGiuGjuG7zG8zGj0G5sGx0Gy0Gz0G00G10G20G30G40G50G60Gr3Gs3G6xHkkEnyHoyH"
-        , "AB1Ch2B", "juz_ZipException", "24GFvrJF" , "IOPi2B", "nms_RenderXPOrb", "2wEFi1JhqI+hK/hK" , "ABj2B", "ju_TimeZone", "hiCuPnlC4BolCLplCqlCysCFnzCgtCtzCuzCvzCwzCsrFxsCtrFurFvrFwrF2rFitCzpGurFyxHzxH" , "ABk2B", "ju_Collection", "i+Bt3B+uCrM4oGqZ" , "IOPl2B", "nms_GuiScreenAddServer", "onIFu/I1+E0/IliG5/I9+E9/Ih/EhgJ/6DlgJm9DqgJr+E" , "AB1CoL", "juz_Deflater", "s0FFvrG2sFwrGj2DktHyrGltHl2DmtH37C1tHyrGspIyrGiyIotHyrJzrJ6rJitF7rJ8rJ/rJvhBixMF" , "IOPm2B", "nms_J_JsonEscapedString", "v0NFw0NO" , "ABn2B",
-        "ju_TreeMap$TreeNode", "1uJ2uJ3uJ4uJ5uJF95J+5J/5J3gEg6Jh6JzoO0oO1oO2oO" , "IOPo2B", "nms_TileEntitySign", "hpOF5rOw8K+zOyzM" , "IOPp2B", "nms_BlockTNT", "wnBFg1CgyB5tK64JouKl5Jx1L1/Ko2LglL47N7pN+uOjkMgwOmlO" , "jBqBwIq2Br2B", "otjb_Performance", "8b9b" , "AhCs2B", "jn_ByteBufferImpl", "98BFh6FhwFsxHFv0J8pG" , "IJKLqBt2B", "nleit_IndexedDBFilesystem$AsyncHandlers$openDB$lambda$_2_0", "09BF2hChGglCzI" , "A6Fu2B", "jt_DateFormatElement$GeneralTimezone", "kiEFj8EvH" , "A6Fv2B", "jt_DateFormatElement$BaseTimezone",
-        "rqEFt8EH38EJ" , "IOPw2B", "nms_J_JsonListener", "usHvsH3sH4sHzzH0zH3zH4zH5zH6zH9zH+zH21H31H61H71Hh2Hi2Hj2Hk2Hl2Hm2Hn2Ho2Hp2Hq2H" , "IOPx2B", "nms_ItemSign", "x5BFg4M55L" , "IOPy2B", "nms_WorldGenSwamp", "80FFggP/iNlgPmgP" , "IOPz2B", "nms_ComponentVillagePathGen", "6hP7hP8hPF3iP+gP8iPg/O" , "IOP02B", "nms_EntityOtherPlayerMP", "yoNF9rO30K2zO6sM3zOnoJ4zO1tM5zO9kFt0O9gMw0OumNx0O4mKz0OknN" , "IOP12B", "nms_ItemPainting", "s5BF/3M55L" , "AB1C22B", "juz_DataFormatException", "0pGF1pGF" , "AB32B", "ju_LinkedList",
+        , "AB1Ch2B", "juz_ZipException", "24GFvrJF" , "IOPi2B", "nms_RenderXPOrb", "2wEFi1JhqI+hK/hK" , "ABj2B", "ju_TimeZone", "hiCuPnlC4BolCLplCqlCysCFnzCgtCtzCuzCvzCwzCrrFxsCsrFtrFvrFwrF2rFitCzpGtrFyxHzxH" , "ABk2B", "ju_Collection", "i+Bt3B+uCrM4oGqZ" , "IOPl2B", "nms_GuiScreenAddServer", "onIFt/I1+Ez/IliG4/I9+E8/Ih/EggJ/6DkgJm9DpgJr+E" , "AB1CoL", "juz_Deflater", "s0FFvrG2sFwrGj2DktHyrGltHl2DmtH37C1tHyrGspIyrGiyIotHyrJzrJ6rJitF7rJ8rJ/rJvhBixMF" , "IOPm2B", "nms_J_JsonEscapedString", "v0NFw0NO" , "ABn2B",
+        "ju_TreeMap$TreeNode", "1uJ2uJ3uJ4uJ5uJF95J+5J/5J3gEg6Jh6JzoO0oO1oO2oO" , "IOPo2B", "nms_TileEntitySign", "hpOF5rOw8K8zOyzM" , "IOPp2B", "nms_BlockTNT", "wnBF+0CgyB5tK64JouKl5Jx1L1/Ko2LglL47N7pN+uOjkMgwOmlO" , "jBqBwIq2Br2B", "otjb_Performance", "8b9b" , "AhCs2B", "jn_ByteBufferImpl", "98BFh6FhwFsxHFv0J8pG" , "IJKLqBt2B", "nleit_IndexedDBFilesystem$AsyncHandlers$openDB$lambda$_2_0", "09BF2hChGglCzI" , "A6Fu2B", "jt_DateFormatElement$GeneralTimezone", "kiEFi8EvH" , "A6Fv2B", "jt_DateFormatElement$BaseTimezone",
+        "rqEFs8EH28EJ" , "IOPw2B", "nms_J_JsonListener", "usHvsH3sH4sHzzH0zH3zH4zH5zH6zH9zH+zH21H31H61H71Hh2Hi2Hj2Hk2Hl2Hm2Hn2Ho2Hp2Hq2H" , "IOPx2B", "nms_ItemSign", "x5BFg4M55L" , "IOPy2B", "nms_WorldGenSwamp", "80FFggP/iNlgPmgP" , "IOPz2B", "nms_ComponentVillagePathGen", "9hP+hP/hPF7iP+gP8iPg/O" , "IOP02B", "nms_EntityOtherPlayerMP", "yoNF9rO30K2zO6sM3zOnoJ4zOxtM5zO9kFt0O9gMw0O0mNy0O4mK10OrnN" , "IOP12B", "nms_ItemPainting", "s5BF/3M55L" , "AB1C22B", "juz_DataFormatException", "0pGF1pGF" , "AB32B", "ju_LinkedList",
         "0JF43CrMl4C7UmyDwgDp5FwgD4iH5iHvzNF" , "IOP42B", "nms_EnumToolMaterial", "z+B4B4+B5+B6+B7+BkiCFliCrdmiCniCz4Cte95O+5O" , "jBqBwIxI52B", "otjc_JSString", "qIrI5zB6zB27B37B" , "jBqBrBsBtB62B", "otcit_DateTimeZoneBuilder$RuleSet", "tyCF8yC4B4nF5nF/nFFgoFhoFioF9qEjoFkoF" , "IJKL72B", "nlei_PlatformInput$14", "mZFgkBlS+vB+e" , "IJKL82B", "nlei_PlatformInput$15", "xZFhkBlS/vB+e" , "IOP92B", "nms_ItemCoal", "k5BFq0JqhJ" , "EFU+2B", "cjj_Mapping0$InfoMapping0", "1jKF2jK9zC" , "IJKL/2B", "nlei_PlatformInput$16",
-        "7tEF0xEx3ByzEm+B" , "IJKLg3B", "nlei_PlatformInput$17", "yiBFjvBlSn3B+e" , "jBqBh3Bi3B", "oti_AsyncCallback", "qrBperrBvK" , "IJKLj3B", "nlei_PlatformInput$10", "/YF7jBlS5vB+e" , "jBqBrBsBtBk3B", "otcit_AliasDateTimeZone", "hxCFnxD0sCsxDktCyxDitC" , "IJKLl3B", "nlei_PlatformInput$11", "gZF8jBlS6vB+e" , "IJKLm3B", "nlei_PlatformInput$12", "hZF9jBlS7vB+e" , "IJKLiTn3B", "nleiv_VFileOutputStream", "+qHFn7I2hB" , "IJKLo3B", "nlei_PlatformInput$13", "lZF/jBlS9vB+e" , "A6Fp3B", "jt_DecimalFormat$PercentField",
-        "imFF16FJ26FHvyKshG" , "ABq3B", "ju_AbstractMap", "pqBFqjDpNtjDsjDslDgvCtlD5DhmDntCwiHrM55Jo0E47L7Us2MOo5MHp5MJwlNnMh3Ote" , "IOPr3B", "nms_Packet51MapChunk", "3hLFptLimK1uLkmK8wL7/J" , "jBqBrBsBtBs3B", "otcit_DateTimeZoneBuilder", "ryCF5yC6yCljEmjE6nF7nFloFmoF" , "IJKt3B", "nle_Filesystem$FilesystemHandleWrapper", "lXFy8GjpFz8G5qFx9G/iGtgHipG1+HqvHz0J8mJ7vKllK" , "IOPu3B", "nms_ModelSlime", "pwEF00LshGtoMsiH" , "ARv3B", "jl_System", "5B6B7B8BtCuCrFsFtFuF6H7HyPzPlgDmgD9xG+xG" , "IOPw3B", "nms_StatTypeDistance",
-        "pyBFtyLvH" , "AXx3B", "jm_Conversion", "qpGrpGjzG4B8vH9vHu0Hv0H+jK/jKr2K9vH" , "IOPy3B", "nms_EntityLargeExplodeFX", "8sMFw9M+oGlgNztGpgN7mH4gN9kF" , "IOPz3B", "nms_ICamera", "wmHxmH" , "IJKLqB03B", "nleit_ArrayBufferInputStream", "3gBFm4C2tBn4C2tBo4C6tB4+Hi1E" , "IOP13B", "nms_BlockMushroom", "tnBF/yLo6D+jM/jM2kN3kNyrNzrN" , "IOP23B", "nms_J_JsonElementNodeSelector", "lqLFp4NO/5N95Nk6N4lNnkOmkOvkOwkOvzO3qL" , "ABC33B", "jur_AbstractCharClass$LazyXDigit", "5vCF14ErzD" , "IOP43B", "nms_BiomeGenTaiga",
-        "4zFFz8Ow5O" , "IOP53B", "nms_InventoryCraftResult", "vqKFttK9wHutKhtHvtKjtHwtKqqGxtKnoI" , "ABC63B", "jur_Matcher", "t2Du2Dv2Dw2Dx2D37C5hFFr7Fy1En8Fo8Fp8Fu2Du8Fw2Dv8F37C/kHvhBglHhlHilHjlHmlHnlHwjIxjIhwIiwIu5IysIiiJjiJjuJkuJ" , "ABC73B", "jur_DotAllSet", "tpCFj3C7jCl3CqkC2/GkBp9IysI22JopJ" , "A6F83B", "jt_FieldPosition", "ogDF" , "IOP93B", "nms_IProgressUpdate", "j0Ik0Il0IslGm0IrvG" , "IOP+3B", "nms_Packet1Login", "ugLFqrLimKrrLkmK9vL7/JvmNF16NtmK" , "ABC/3B", "jur_AbstractCharClass$LazyJavaUpperCase",
+        "7tEF0xEx3ByzEm+B" , "IJKLg3B", "nlei_PlatformInput$17", "yiBFjvBlSn3B+e" , "jBqBh3Bi3B", "oti_AsyncCallback", "qrBperrBvK" , "IJKLj3B", "nlei_PlatformInput$10", "/YF7jBlS5vB+e" , "jBqBrBsBtBk3B", "otcit_AliasDateTimeZone", "hxCFqxD0sCwxDktC2xDitC" , "IJKLl3B", "nlei_PlatformInput$11", "gZF8jBlS6vB+e" , "IJKLm3B", "nlei_PlatformInput$12", "hZF9jBlS7vB+e" , "IJKLiTn3B", "nleiv_VFileOutputStream", "+qHFn7I2hB" , "IJKLo3B", "nlei_PlatformInput$13", "lZF/jBlS9vB+e" , "A6Fp3B", "jt_DecimalFormat$PercentField",
+        "imFF16FJ26FHvyKshG" , "ABq3B", "ju_AbstractMap", "pqBFqjDpNtjDsjDslDgvCtlD5DhmDntCwiHrM55Jo0E47L7Us2MOo5MHp5MJwlNnMh3Ote" , "IOPr3B", "nms_Packet51MapChunk", "3hLFkuLimKwvLkmK9wL7/J" , "jBqBrBsBtBs3B", "otcit_DateTimeZoneBuilder", "ryCF5yC6yCjjEkjE6nF7nFloFmoF" , "IJKt3B", "nle_Filesystem$FilesystemHandleWrapper", "lXFy8GjpFz8G5qFx9G/iGtgHipG1+HqvHz0J8mJ7vKllK" , "IOPu3B", "nms_ModelSlime", "pwEF00LshGtoMsiH" , "ARv3B", "jl_System", "5B6B7B8BtCuCrFsFtFuF6H7HyPzPlgDmgD9xG+xG" , "IOPw3B", "nms_StatTypeDistance",
+        "pyBFtyLvH" , "AXx3B", "jm_Conversion", "qpGrpGjzG4B8vH9vHu0Hv0H+jK/jKr2K9vH" , "IOPy3B", "nms_EntityLargeExplodeFX", "8sMFw9M+oGlgNztGtgN7mH8gN9kF" , "IOPz3B", "nms_ICamera", "wmHxmH" , "IJKLqB03B", "nleit_ArrayBufferInputStream", "3gBFm4C2tBn4C2tBo4C6tB4+Hi1E" , "IOP13B", "nms_BlockMushroom", "tnBF/yLo6D+jM/jM2kN3kNyrNzrN" , "IOP23B", "nms_J_JsonElementNodeSelector", "lqLFn4NO/5N95Nk6N4lNnkOmkOvkOwkOvzO3qL" , "ABC33B", "jur_AbstractCharClass$LazyXDigit", "5vCF14ErzD" , "IOP43B", "nms_BiomeGenTaiga",
+        "4zFFz8Ow5O" , "IOP53B", "nms_InventoryCraftResult", "vqKFttK9wHutKhtHvtKjtHwtKqqGxtKnoI" , "ABC63B", "jur_Matcher", "t2Du2Dv2Dw2Dx2D37C5hFFr7Fy1En8Fo8Fp8Fu2Du8Fw2Dv8F37C/kHvhBglHhlHilHjlHmlHnlHwjIxjIhwIiwIu5IysIiiJjiJjuJkuJ" , "ABC73B", "jur_DotAllSet", "tpCFi3C7jCk3CqkC2/GkBp9IysI22JopJ" , "A6F83B", "jt_FieldPosition", "ogDF" , "IOP93B", "nms_IProgressUpdate", "j0Ik0Il0IslGm0IrvG" , "IOP+3B", "nms_Packet1Login", "ugLFqrLimKrrLkmKpwL7/JomNF16NtmK" , "ABC/3B", "jur_AbstractCharClass$LazyJavaUpperCase",
         "7vCF34ErzD" , "IOPg4B", "nms_ColorizerFoliage", "74D84DylE4B4pH5pH6pH7pH8pH9pH+rH/rH" , "IOPh4B", "nms_GenLayerRiverInit", "p0MFrvO1iN" , "ABi4B", "ju_DuplicateFormatFlagsException", "51GF" , "IOPj4B", "nms_RenderList", "2mEFqnHrnH+xH/xHgyHhyHiyHjyHkyHlyH" , "IOPk4B", "nms_ModelZombie", "owEFnvKsiH" , "IOPl4B", "nms_BiomeGenForest", "1zFFy8Ow5O" , "ABm4B", "ju_MissingFormatWidthException", "vwGF" , "EFGjI", "cjj_InflaterInputStream", "qhBF8tBFn2BFm9BFn9BF+zC2tB/zC2tBg0C6tBh0C2hB07C9xC" , "AlEn4B", "ji_FilterOutputStream",
-        "lQFmzF2hBo0IurDrmKyrD" , "AlEo4B", "ji_Reader", "mvDFzvDF3qE2tBgpI2tBztI2tByxJzxJ" , "IJKLp4B", "nlei_PlatformFilesystem$FilesystemDatabaseInitializationException", "gvBF" , "IJKq4B", "nle_EaglerInputStream", "pmCF3xD2hB8yE9yE00E10E/0Eg1Eg6E2tB+7Ei1Eh8E2tB" , "IOPr4B", "nms_RenderCreeper", "kwEFo0Lx9K90L59Ki1L79Km1L99KynMznMgpMhpMqpMrpMypMzpM" , "IOPs4B", "nms_BlockLeaves", "8mBFg2Cj4BtwDg9C3kG4kGngH8oG59H/pH99HhqHv7IisIlyL+3K7yLo6D2jM3jMluOpiO7vOmlO7wOolO8xOqlO" , "IOPt4B", "nms_J_InvalidSyntaxException",
-        "0sHF16HF" , "ABCu4B", "jur_WordBoundary", "hpCFx/GkBk9IysIxpJypJx2JopJ" , "ARv4B", "jl_SystemClassLoader", "0qOF" , "AhCiCw4B", "jnc_CharacterCodingException", "4vIF" , "ARx4B", "jl_Double", "5qDvJutD4BvtDFkjGljGy1Gz1G01G11G+8GOmhH46BnhHH7kHOgwHHw0Hx0H12H22HsqIx1GtqIoBnqKoqKpqKvJqqKrqKxrKyrKnwKptC3yKJ8yKn8CnjLJrjLn8C1nL2nLuqM30B" , "IJKLqBy4B", "nleit_TeaVMClientConfigAdapter", "mEnE+F4BwIF5K6K9K+KtLuLwLxLiNjN3N4N1R2RnSoS4X5X1Z2ZhjBijB2zC5Mk0CkX63C9Jj4CigBk+I7wI" , "IJKLiTz4B", "nleiv_EaglerFileSystemException",
-        "m3BF" , "IOP04B", "nms_Packet30Entity", "rhLFwtLimK8uLkmKzwL7/J" , "IOP14B", "nms_ClippingHelperImpl", "79F9wBitG4BjtGhPp0GFu0G6/B" , "IOP24B", "nms_BlockStoneBrick", "5oBF+wDg9C/xOqlO" , "IOP34B", "nms_RenderBiped", "nwEF70L39K" , "jBqBwIq2B44B", "otjb_Window", "0D1D2D3DwFxFyFzF0F1F2F3F4F5F6F7F8F9F4b5bogBpgBiwBjwBlwBmwB18B28Bu3C5Dv3Cw3Cx3Cy3Cz3Cy3C03C13C23CsC33Cw3Cz3G03Gv5Gw5G" , "jBqBrBsBtB54B", "otcit_CachedDateTimeZone", "nyCoyC2yC4B3yCFmxD0sCrxDktCxxDitCl0Dm0DijEjjE" , "IJKLqB64B", "nleit_EPKDownloadHelper",
-        "oMpMyV4B5V6V" , "IJKLqB74B", "nleit_WebGLBackBuffer", "+L/LuS4Bqara5hB6hB0uB1uB" , "IOP84B", "nms_NextTickListEntry", "y5KF15K25KhlL4Bx3LHy3LJ63Ln8C1sM2sM" , "AR94B", "jl_Number", "7dF56B46BqtCptCvxGuxG1xG0xGw1Gx1GoqInqI" , "IOP+4B", "nms_Chunk", "5kJ6kJ7kJ8kJk+JnpFq5Kr5Ks5Kt5Km6Kn6Kv6Kw6Kz6K06Kw7Kx7Kn8Ko8KkpLFjqLF56L66L76L86L96L+6L/6Lg7Lr7Ls7L9hM23K2iM3iM7iM8iM9kM75K+kM8mK3lM4lM4hN5hN6hN7hNkjNljNzjN0jNnnNonN5rN6rN+rN/rNqyNryNwyNxyN4zN5zN7zN8zNm1Nn1NsiOtiOuiOviOhkOikO7kO7nNx2Oy2Op3O3mB55O65O" , "ABC/4B",
+        "lQFmzF2hBo0IurDrmKyrD" , "AlEo4B", "ji_Reader", "mvDFzvDF3qE2tBgpI2tBztI2tByxJzxJ" , "IJKLp4B", "nlei_PlatformFilesystem$FilesystemDatabaseInitializationException", "gvBF" , "IJKq4B", "nle_EaglerInputStream", "pmCF3xD2hB8yE9yE00E10E/0Eg1Eg6E2tB+7Ei1Eh8E2tB" , "IOPr4B", "nms_RenderCreeper", "kwEFo0Lx9K90L59Ki1L79Km1L99KynMznMgpMhpMqpMrpMypMzpM" , "IOPs4B", "nms_BlockLeaves", "8mBF/1Cj4BtwDg9C3kG4kGngH8oG59H/pH99HhqHv7IisIlyL+3K7yLo6D2jM3jMluOpiO7vOmlO7wOolO8xOqlO" , "IOPt4B", "nms_J_InvalidSyntaxException",
+        "0sHF16HF" , "ABCu4B", "jur_WordBoundary", "hpCFx/GkBk9IysIxpJypJx2JopJ" , "ARv4B", "jl_SystemClassLoader", "0qOF" , "AhCiCw4B", "jnc_CharacterCodingException", "4vIF" , "ARx4B", "jl_Double", "5qDvJutD4BvtDFkjGljGy1Gz1G01G11G+8GOmhH46BnhHH7kHOgwHHw0Hx0H12H22HsqIx1GtqIoBnqKoqKpqKvJqqKrqKxrKyrKnwKptC2yKJ5yKn8CnjLJojLn8C1nL2nLtqM30B" , "IJKLqBy4B", "nleit_TeaVMClientConfigAdapter", "mEnE+F4BwIF5K6K9K+KtLuLwLxLiNjN3N4N1R2RnSoS4X5X1Z2ZhjBijB2zC5Mk0CkX63C9Jj4CigBk+I7wI" , "IJKLiTz4B", "nleiv_EaglerFileSystemException",
+        "m3BF" , "IOP04B", "nms_Packet30Entity", "rhLF1tLimKhvLkmKgxL7/J" , "IOP14B", "nms_ClippingHelperImpl", "79F9wBitG4BjtGhPp0GFu0G6/B" , "IOP24B", "nms_BlockStoneBrick", "5oBF+wDg9C/xOqlO" , "IOP34B", "nms_RenderBiped", "nwEF70L39K" , "jBqBwIq2B44B", "otjb_Window", "0D1D2D3DwFxFyFzF0F1F2F3F4F5F6F7F8F9F4b5bogBpgBiwBjwBlwBmwB18B28Bu3C5Dv3Cw3Cx3Cy3Cz3Cy3C03C13C23CsC33Cw3Cz3G03Gv5Gw5G" , "jBqBrBsBtB54B", "otcit_CachedDateTimeZone", "nyCoyC2yC4B3yCFpxD0sCvxDktC1xDitCp0Dq0DljEmjE" , "IJKLqB64B", "nleit_EPKDownloadHelper",
+        "oMpMyV4B5V6V" , "IJKLqB74B", "nleit_WebGLBackBuffer", "+L/LuS4Bqara5hB6hB0uB1uB" , "IOP84B", "nms_NextTickListEntry", "y5KF15K25KhlL4Bx3LHy3LJ63Ln8C1sM2sM" , "AR94B", "jl_Number", "7dF56B46BqtCptCvxGuxG1xG0xGw1Gx1GoqInqI" , "IOP+4B", "nms_Chunk", "5kJ6kJ7kJ8kJk+JnpFq5Kr5Ks5Kt5Km6Kn6Kv6Kw6Kz6K06Kw7Kx7Kn8Ko8KkpLFjqLF56L66L76L86L96L+6L/6Lg7Lr7Ls7L9hM23K2iM3iM7iM8iM9kM75K+kM8mK3lM4lM4hN5hN6hN7hNkjNljNzjN0jNsnNtnN5rN6rN+rN/rNqyNryNwyNxyN4zN5zN7zN8zNm1Nn1NsiOtiOuiOviOhkOikO4kO6nNx2Oy2Op3O3mB55O65O" , "ABC/4B",
         "jur_AbstractCharClass$LazyJavaWhitespace", "8vCF44ErzD" , "IOPg5B", "nms_J_JsonNodeList", "3qKF" , "AlEh5B", "ji_DataOutput", "z0F00F10F20FptHv0FqtHrtHstHy0FttHutHvtHwtHxtHyrD" , "IOPi5B", "nms_WorldGenFlowers", "2rGFg5O/iN" , "IOPj5B", "nms_ItemShears", "j6BFv7N6oNjyO43KmyOgiM" , "ABCllB", "jur_AbstractSet", "l8B4B9gC+gCzjCF6jC7jCpkCqkCtkCukC4nCF5nC6nC+oC/oCl9Cm9C+6EOtoFuoFvoGkB5xHu2DxsIysI2oJ3oJnpJopJ" , "EFUk5B", "cjj_StaticCodeBook", "uiI7UtqJFuqJouIijKjjKtjKujKy+Kz+K1mL2mL" , "AhCl5B", "jn_CharBufferImpl",
-        "uuDF85FhwF7pG8pGihH5DjhHv+B+sH/sHyvHzvH" , "IOPm5B", "nms_MapDataBase", "5pI9kGjyIFonJpnJqmMw8KjsMksMxzMyzM" , "IOPn5B", "nms_EnumJsonNodeTypeMappingHelper", "s1N4B" , "ABCo5B", "jur_AbstractCharClass$LazyJavaMirrored", "9vCF54ErzD" , "IOPp5B", "nms_WorldGenLakes", "j5OFk5O/iN" , "ABCq5B", "jur_AbstractCharClass$LazyJavaISOControl", "hwCF94ErzD" , "IOPr5B", "nms_ItemSword", "l5BFq4M75Ly4M95L14M/5Lk9M9oMn7N7+Bp7Nh0Ku7N6oNiyO43KlyOgiM" , "ABCs5B", "jur_HighSurrogateCharSet", "3rCFv1C7jC22CukCjgHkBy9IysI69Iu2D71J3oJ92JopJ"
-        , "ABt5B", "ju_Formatter$FormatWriter", "1nFF2nFyrD9nG+nG/nGgoGhoGioGlyGmyGnyG17FoyGlgFpyGqyGryGsyGtyGuyGvyGwyGxyGyyGzyG0yG61G71G91G+1G/1Gg2Gj2Gk2G63G73G83G93G" , "IOPu5B", "nms_WorldChunkManager", "1uF2uFsnHtnH3rH4rH5rH6rH16K26KxiLyiLziL0iL+lL/lLphMFnxMFpiNoiN7iO8iOtjOujOvqOwqOxqOyqOl9Om9O" , "IJKLv5B", "nlei_OpenGLObjects$VertexArrayGL", "1fF3sB4Bo0CniB77EgzEn5F9lD" , "IOPw5B", "nms_WeightedRandom", "imLjmL2oL3oL4oL5oL8mP9mPgnPhnPinPjnP" , "IJKLx5B", "nlei_PlatformNetworking", "hlIilIvwI4B" , "IOPy5B",
-        "nms_BiomeCacheBlock", "1iO2iO3iO4iO5iO6iO3pOF" , "IOPz5B", "nms_SpawnerAnimals", "76K86Kg7Kh7KilL4BklLllLulLvlLkmLlmLn5Oo5O" , "IOP05B", "nms_Packet41EntityEffect", "zhLF8tLimKovLkmK3wL7/J" , "AX15B", "jm_RoundingMode", "smC4B5qCF6qCrd74Cte" , "IOP25B", "nms_Packet54PlayNoteBlock", "6hLFytLimK+uLkmKvwL7/J" , "AR35B", "jl_IllegalAccessException", "k2OF" , "IJKL45B", "nlei_PlatformAudio$BrowserAudioHandle", "1yHF/0HlSq3H+eiuI+e7qL03Kr1L37Cs1Li/K" , "IOP55B", "nms_BlockDeadBush", "onBFywDg9C/7NzrNgxOolO"
+        "uuDF85FhwF7pG8pGihH5DjhHv+B+sH/sHyvHzvH" , "IOPm5B", "nms_MapDataBase", "5pI9kGjyIFonJpnJqmMw8KjsMksMxzMyzM" , "IOPn5B", "nms_EnumJsonNodeTypeMappingHelper", "s1N4B" , "ABCo5B", "jur_AbstractCharClass$LazyJavaMirrored", "9vCF54ErzD" , "IOPp5B", "nms_WorldGenLakes", "j5OFk5O/iN" , "ABCq5B", "jur_AbstractCharClass$LazyJavaISOControl", "hwCF94ErzD" , "IOPr5B", "nms_ItemSword", "l5BFq4M75Ly4M95L14M/5Lk9M9oMn7N7+Bp7Nh0Ku7N6oNiyO43KlyOgiM" , "ABCs5B", "jur_HighSurrogateCharSet", "3rCFv1C7jC62CukCjgHkBy9IysI69Iu2D71J3oJ92JopJ"
+        , "ABt5B", "ju_Formatter$FormatWriter", "1nFF2nFyrD9nG+nG/nGgoGhoGioGlyGmyGnyG17FoyGlgFpyGqyGryGsyGtyGuyGvyGwyGxyGyyGzyG0yG61G71G91G+1G/1Gg2Gj2Gk2G63G73G83G93G" , "IOPu5B", "nms_WorldChunkManager", "1uF2uFsnHtnH3rH4rH5rH6rH16K26KxiLyiLziL0iL+lL/lLphMFnxMFpiNoiN7iO8iOtjOujOvqOwqOxqOyqOl9Om9O" , "IJKLv5B", "nlei_OpenGLObjects$VertexArrayGL", "1fF3sB4Bn0CniB77EgzEn5F9lD" , "IOPw5B", "nms_WeightedRandom", "imLjmL2oL3oL4oL5oL8mP9mPgnPhnPinPjnP" , "IJKLx5B", "nlei_PlatformNetworking", "hlIilIvwI4B" , "IOPy5B",
+        "nms_BiomeCacheBlock", "1iO2iO3iO4iO5iO6iO3pOF" , "IOPz5B", "nms_SpawnerAnimals", "76K86Kg7Kh7KilL4BklLllLulLvlLkmLlmLn5Oo5O" , "IOP05B", "nms_Packet41EntityEffect", "zhLF6tLimKmvLkmK5wL7/J" , "AX15B", "jm_RoundingMode", "smC4B5qCF6qCrd74Cte" , "IOP25B", "nms_Packet54PlayNoteBlock", "6hLF8sLimKouLkmK/wL7/J" , "AR35B", "jl_IllegalAccessException", "k2OF" , "IJKL45B", "nlei_PlatformAudio$BrowserAudioHandle", "1yHF/0HlSq3H+eiuI+e7qL03Kr1L37Cs1Li/K" , "IOP55B", "nms_BlockDeadBush", "onBFywDg9C/7NzrNgxOolO"
         , "jBqB4B5B65B", "otrf_VirtualFileAccessor", "7vH2hBqwHrMrwH44GswHtwH1wH2tBqpIyrD" , "IOP75B", "nms_ChunkProviderLoadOrGenerate", "x6Dy6D" , "IJKpD85B", "nleo_EaglercraftGPU", "+G/GgO4BhOiO7O8OpTqTwWxWyWzW0W1W2W3W4W5W6W7W8W9W+W/WvakOnbobpbqbquBruBy2Bz2B+7CoOj8Ck8C9rDooD+rDqoDssDqpDyjEzjE/qEgrEsrE7jEitE6mEqtE+mEovEpvEixEhtEjxEkxEoxEpxEoyEpyEquFmkFl7Fm7Fn7Fo7Fp7Fq7FjrGkrGlrGmrGnrGorGtrGurG5rGo9F6rGq9Fv0GntGw0GptGy3Gj1G7xH0lH" , "ABC95B", "jur_CompositeGroupQuantifierSet", "woCFs/GkB38IysI" , "IOP+5B",
-        "nms_EntityRainFX", "6uFFshH9kF67H7mH" , "IOP/5B", "nms_BlockContainer", "mxBFnxBFq9NoxN7hO8hOouOpiO5uOjkM" , "IOPg6B", "nms_BlockSand", "4mBFjxB4B6yLo6Dg2LglL0jM1jM3qMtvJ/tMguM2uOjkM" , "IOPh6B", "nms_SpawnerAnimals$_clinit_$lambda$_7_1", "uoLF6sL/uI" , "IOPi6B", "nms_SpawnerAnimals$_clinit_$lambda$_7_0", "toLF4sL/uI" , "IOPj6B", "nms_SpawnerAnimals$_clinit_$lambda$_7_2", "voLF5sL/uI" , "IOPk6B", "nms_EntityDamageSourceIndirect", "8zMF89MnvM" , "IOPl6B", "nms_BiomeGenSky", "8zFFo2Nj6K" , "IJKpDm6B",
-        "nleo_DrawUtils", "iPhPya4B" , "IOPn6B", "nms_WorldClient", "jmNF3mN4mN/mNgnNhnNinNpnNqnN+nN/nN0zN1zNo3Nm5Kp3NvxMq3N23Kr3NwvJs3Nq8Kt3NnmGs6Np6Kt6N46Ku6Nn7Kv6Np7Kw6Nx8Dx6N7oHy6N4gMz6NhxHh/N3oK" , "IJKLqBo6B", "nleit_TeaVMBlobURLManager", "nKoK0R4B3R4RgYhYlemene4R+iB/iBurBvrBvjDwjDjkDkkDriEsiE" , "IOp6Bq6B", "nmc_Minecraft", "kFFlFmFjI4Bs+Ct+Cz+C0+C3+C4+Co/Cp/Cq/Cr/Cu/Cv/Cw/Cx/Cy/Cz/C2/C3/C5/C6/C7/C8/C9/C+/CggDhgDigDjgDn4Do4Dr4Ds4Dy4Dz4Dj6Dk6Dr6Ds6Dt7Du7Di8Dj8Dk8Dl8D48D58D88D98D+8D/8Dj9Dk9Dp9Dq9D0kE1kEtlEulEmlFnlF9tF+tFk/Fl/FsgGtgGugGvgGwgGxgGygGzgGyiGziGzlG0lGymIzmI9lJ+lJl+Jm+JmgKngK80K90KxgMygM0pM1pM2tN3tNm7On7O"
-        , "IOPr6B", "nms_RenderFireball", "1wEFh1JhqI8hK9hK" , "IOPs6B", "nms_GuiChest", "2hMFmhNruGqhNxuG" , "IOPt6B", "nms_EntityFX", "8kF9kFrpFspFtpFupFxvFF32F/yF9oG+oG6mH7mHt7I2rIutO9nO" , "ABCu6B", "jur_AbstractCharClass$LazySpecialsBlock", "vwCFr5ErzD" , "A6Fv6B", "jt_DateFormatElement", "79DvHoqEF" , "ABw6B", "ju_Iterator", "4J5J6J7JqoGntC" , "IJKLx6B", "nlei_IClientConfigAdapterHooks", "hKiKjgBkgB1gB2gB" , "IOPy6B", "nms_InventoryBasic", "rxFFpqGqqGgtHhtHitHjtH6+H9wHx0JnoI46NjkN56NxuM66NkyN76NyqK86N60M"
-        , "IOPz6B", "nms_MCHashEntry", "xsFF" , "IOP06B", "nms_EnumJsonNodeType", "21Nte31N4B81NF91Nrd" , "IOP16B", "nms_ComponentVillageField", "7nP8nPqoPF2oP+gP6oPg/O" , "jBqBwI26B36B46B", "otjdx_Node", "/DgE" , "A6F56B", "jt_DateFormatElement$EraText", "/hEFr8EvH18EH/8EJ" , "IJKlM66B", "nlep_EaglerProfile", "rtEstEqxE4BhzEizEjzE2tB40E2tB1iF2iFiuFkBjuFkuFluF4iF8wFyrD" , "ABC76B", "jur_UnicodeCategory", "jhFF72FqZ" , "AB86B", "ju_Arrays$ArrayAsList", "6qBFp0CrMq0C5Dr0CrH"  ];
+        "nms_EntityRainFX", "6uFFthH9kF67H7mH" , "IOP/5B", "nms_BlockContainer", "mxBFnxBFq9NoxN7hO8hOouOpiO5uOjkM" , "IOPg6B", "nms_BlockSand", "4mBFjxB4B6yLo6Dg2LglL0jM1jM3qMtvJgvMhvM2uOjkM" , "IOPh6B", "nms_SpawnerAnimals$_clinit_$lambda$_7_1", "uoLF6sL/uI" , "IOPi6B", "nms_SpawnerAnimals$_clinit_$lambda$_7_0", "toLF5sL/uI" , "IOPj6B", "nms_SpawnerAnimals$_clinit_$lambda$_7_2", "voLF4sL/uI" , "IOPk6B", "nms_EntityDamageSourceIndirect", "8zMF+9MnvM" , "IOPl6B", "nms_BiomeGenSky", "8zFFo2Nj6K" , "IJKpDm6B",
+        "nleo_DrawUtils", "iPhPya4B" , "IOPn6B", "nms_WorldClient", "imNF7mN8mN9mN+mNonNpnNunNvnNioNjoN0zN1zNj3Nm5Kk3NvxMl3N23Km3NwvJn3Nq8Ko3NnmGt6Np6Ku6N46Kv6Nn7Kw6Np7Kx6Nx8Dy6N7oHz6N4gM06NhxHh/N3oK" , "IJKLqBo6B", "nleit_TeaVMBlobURLManager", "nKoK0R4B3R4RgYhYlemene4R+iB/iBurBvrBvjDwjDjkDkkDriEsiE" , "IOp6Bq6B", "nmc_Minecraft", "kFFlFmFjI4Bs+Ct+Cz+C0+C3+C4+Co/Cp/Cq/Cr/Cu/Cv/Cw/Cx/Cy/Cz/C2/C3/C5/C6/C7/C8/C9/C+/CggDhgDigDjgDn4Do4Dr4Ds4Dy4Dz4Dj6Dk6Dr6Ds6Dt7Du7Di8Dj8Dk8Dl8D48D58D88D98D+8D/8Dj9Dk9Dp9Dq9D0kE1kEtlEulEmlFnlF9tF+tFk/Fl/FsgGtgGugGvgGwgGxgGygGzgGyiGziGzlG0lGymIzmI9lJ+lJl+Jm+JmgKngK80K90KxgMygM0pM1pM2tN3tNm7On7O"
+        , "IOPr6B", "nms_RenderFireball", "1wEFh1JhqI8hK9hK" , "IOPs6B", "nms_GuiChest", "2hMFmhNruGqhNxuG" , "IOPt6B", "nms_EntityFX", "8kF9kFrpFspFtpFupFxvFF32F/yF9oG+oG6mH7mHt7I2rIutO9nO" , "ABCu6B", "jur_AbstractCharClass$LazySpecialsBlock", "vwCFr5ErzD" , "A6Fv6B", "jt_DateFormatElement", "79DvHoqEF" , "ABw6B", "ju_Iterator", "4J5J6J7JqoGntC" , "IJKLx6B", "nlei_IClientConfigAdapterHooks", "hKiKjgBkgB1gB2gB" , "IOPy6B", "nms_InventoryBasic", "rxFFpqGqqGgtHhtHitHjtH6+H9wHx0JnoI26NjkN36N5tM46NkyN56NyqK66N60M"
+        , "IOPz6B", "nms_MCHashEntry", "xsFF" , "IOP06B", "nms_EnumJsonNodeType", "21Nte31N4B81NF91Nrd" , "IOP16B", "nms_ComponentVillageField", "7nP8nPqoPFwoP+gP+oPg/O" , "jBqBwI26B36B46B", "otjdx_Node", "/DgE" , "A6F56B", "jt_DateFormatElement$EraText", "/hEFq8EvH08EH+8EJ" , "IJKlM66B", "nlep_EaglerProfile", "rtEstEqxE4BhzEizEjzE2tB40E2tB1iF2iFiuFkBjuFkuFluF4iF8wFyrD" , "ABC76B", "jur_UnicodeCategory", "jhFF82FqZ" , "AB86B", "ju_Arrays$ArrayAsList", "6qBFp0CrMq0C5Dr0CrH"  ];
     }
     function nleit_TeaVMRuntimeDeobfuscator_initialize0() {
         var $time, $classes, $stringReaderA, $stringReaderB, $javaStringPoolA, $i, $m, $javaStringPoolB, $i_0, $l, $lookupTblClsName, $classNameBuilder, $b, $j, $lookupTbl, $className, $classObfName, $obfName, $deobfName, $$je;
@@ -124431,24 +124431,6 @@
         jn_Buffer_position0($in, $in.$position - ($inSize - $inPos | 0) | 0);
         return $result;
     }
-    var jnci_Iso8859Decoder = $rt_classWithoutFields(jnci_BufferedDecoder);
-    function jnci_Iso8859Decoder_arrayDecode($this, $inArray, $inPos, $inSize, $outArray, $outPos, $outSize, $controller) {
-        var $result, var$9, var$10, var$11, $b, var$13;
-        $result = null;
-        while ($inPos < $inSize && $outPos < $outSize) {
-            var$9 = $inArray.data;
-            var$10 = $outArray.data;
-            var$11 = $inPos + 1 | 0;
-            $b = var$9[$inPos] & 255;
-            var$13 = $outPos + 1 | 0;
-            var$10[$outPos] = $b & 65535;
-            $inPos = var$11;
-            $outPos = var$13;
-        }
-        $controller.$inPosition = $inPos;
-        $controller.$outPosition = $outPos;
-        return $result;
-    }
     function jnci_UTF16Decoder() {
         var a = this; jnci_BufferedDecoder.call(a);
         a.$bom0 = 0;
@@ -124600,6 +124582,24 @@
                     var$9[$b2] = $next;
                 }
             }
+        }
+        $controller.$inPosition = $inPos;
+        $controller.$outPosition = $outPos;
+        return $result;
+    }
+    var jnci_Iso8859Decoder = $rt_classWithoutFields(jnci_BufferedDecoder);
+    function jnci_Iso8859Decoder_arrayDecode($this, $inArray, $inPos, $inSize, $outArray, $outPos, $outSize, $controller) {
+        var $result, var$9, var$10, var$11, $b, var$13;
+        $result = null;
+        while ($inPos < $inSize && $outPos < $outSize) {
+            var$9 = $inArray.data;
+            var$10 = $outArray.data;
+            var$11 = $inPos + 1 | 0;
+            $b = var$9[$inPos] & 255;
+            var$13 = $outPos + 1 | 0;
+            var$10[$outPos] = $b & 65535;
+            $inPos = var$11;
+            $outPos = var$13;
         }
         $controller.$inPosition = $inPos;
         $controller.$outPosition = $outPos;
@@ -134079,7 +134079,7 @@
             var$4 = $this.$controlList;
             var$5 = new nms_GuiButton;
             var$6 = ($this.$width2 / 2 | 0) - 100 | 0;
-            $var4 = ($var4 + 72 | 0) + 12 | 0;
+            $var4 = $var4 + 72 | 0;
             nms_GuiButton__init_0(var$5, 0, var$6, $var4, 98, 20, nms_StringTranslate_translateKey($var2, $rt_s(2041)));
             ju_ArrayList_add(var$4, var$5);
             ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(4, ($this.$width2 / 2 | 0) + 2 | 0, $var4, 98, 20, dceu_I18n_format($rt_s(2042))));
@@ -189753,7 +189753,14 @@
         $extraOpts = ju_ArrayList__init_();
         ju_ArrayList_add($extraOpts, nms_GuiButton__init_1(101, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 6 | 0) + 96 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2494))));
         ju_ArrayList_add($extraOpts, nms_GuiButton__init_1(100, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 6 | 0) + 120 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2495))));
-        ju_ArrayList_add($extraOpts, nms_GuiButton__init_1(102, 0, 0, nms_StringTranslate_translateKey($var1, $rt_s(2040))));
+        $extraOpt = new nms_GuiButton;
+        $opt = nms_StringTranslate_translateKey($var1, $rt_s(2040));
+        $var6 = dceu_I18n_format($rt_s(2496));
+        $b = new jl_StringBuilder;
+        jl_AbstractStringBuilder__init_($b);
+        jl_StringBuilder_append(jl_StringBuilder_append($b, $opt), $var6);
+        nms_GuiButton__init_($extraOpt, 102, 0, 0, jl_AbstractStringBuilder_toString($b));
+        ju_ArrayList_add($extraOpts, $extraOpt);
         ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(200, ($this.$width2 / 2 | 0) - 100 | 0, ($this.$height4 / 6 | 0) + 168 | 0, nms_StringTranslate_translateKey($var1, $rt_s(1975))));
         $var1 = ju_AbstractList_iterator($extraOpts);
         while (ju_AbstractList$1_hasNext($var1)) {
@@ -189815,7 +189822,7 @@
             var$5 = $this.$options2;
             nms_GuiVideoSettings_$callClinit();
             nms_GuiScreen__init_(var$3);
-            var$3.$field_22107_a = $rt_s(2496);
+            var$3.$field_22107_a = $rt_s(2497);
             var$3.$parentGuiScreen0 = $this;
             var$3.$guiGameSettings = var$5;
             $ptr = 2;
@@ -189880,7 +189887,7 @@
             var$3 = new nms_GuiControls;
             var$5 = $this.$options2;
             nms_GuiScreen__init_(var$3);
-            var$3.$screenTitle3 = $rt_s(2497);
+            var$3.$screenTitle3 = $rt_s(2498);
             var$3.$buttonId = (-1);
             var$3.$parentScreen1 = $this;
             var$3.$options3 = var$5;
@@ -190021,11 +190028,11 @@
         main: while (true) { switch ($ptr) {
         case 0:
             $var1 = nms_StringTranslate_getInstance();
-            $this.$screenTitle0 = nms_StringTranslate_translateKey($var1, $rt_s(2498));
-            $this.$field_22098_o = nms_StringTranslate_translateKey($var1, $rt_s(2499));
-            $this.$field_22097_p = nms_StringTranslate_translateKey($var1, $rt_s(2500));
-            $this.$field_35316_k.data[0] = nms_StringTranslate_translateKey($var1, $rt_s(2501));
-            $this.$field_35316_k.data[1] = nms_StringTranslate_translateKey($var1, $rt_s(2502));
+            $this.$screenTitle0 = nms_StringTranslate_translateKey($var1, $rt_s(2499));
+            $this.$field_22098_o = nms_StringTranslate_translateKey($var1, $rt_s(2500));
+            $this.$field_22097_p = nms_StringTranslate_translateKey($var1, $rt_s(2501));
+            $this.$field_35316_k.data[0] = nms_StringTranslate_translateKey($var1, $rt_s(2502));
+            $this.$field_35316_k.data[1] = nms_StringTranslate_translateKey($var1, $rt_s(2503));
             $ptr = 1;
         case 1:
             nms_GuiSelectWorld_loadSaves($this);
@@ -190139,7 +190146,7 @@
         var $var2, $var3;
         $var2 = (ju_ArrayList_get($this.$saveList, $var1)).$displayName;
         if (!($var2 !== null && !nms_MathHelper_stringNullOrLengthZero($var2))) {
-            $var3 = nms_StringTranslate_translateKey(nms_StringTranslate_getInstance(), $rt_s(2499));
+            $var3 = nms_StringTranslate_translateKey(nms_StringTranslate_getInstance(), $rt_s(2500));
             $var1 = $var1 + 1 | 0;
             $var2 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($var2);
@@ -190154,22 +190161,22 @@
         var $var1, var$2, var$3, var$4;
         $var1 = nms_StringTranslate_getInstance();
         var$2 = $this.$controlList;
-        var$3 = nms_GuiButton__init_2(1, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 52 | 0, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2503)));
+        var$3 = nms_GuiButton__init_2(1, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 52 | 0, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2504)));
         $this.$buttonSelect = var$3;
         ju_ArrayList_add(var$2, var$3);
         var$3 = $this.$controlList;
-        var$4 = nms_GuiButton__init_2(6, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2504)));
+        var$4 = nms_GuiButton__init_2(6, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2505)));
         $this.$buttonRename = var$4;
         ju_ArrayList_add(var$3, var$4);
         var$3 = $this.$controlList;
-        var$4 = nms_GuiButton__init_2(2, ($this.$width2 / 2 | 0) - 74 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2505)));
+        var$4 = nms_GuiButton__init_2(2, ($this.$width2 / 2 | 0) - 74 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2506)));
         $this.$buttonDelete = var$4;
         ju_ArrayList_add(var$3, var$4);
         var$3 = $this.$controlList;
-        var$4 = nms_GuiButton__init_2(4, ($this.$width2 / 2 | 0) + 4 | 0, $this.$height4 - 28 | 0, 70, 20, dceu_I18n_format($rt_s(2506)));
+        var$4 = nms_GuiButton__init_2(4, ($this.$width2 / 2 | 0) + 4 | 0, $this.$height4 - 28 | 0, 70, 20, dceu_I18n_format($rt_s(2507)));
         $this.$buttonExport = var$4;
         ju_ArrayList_add(var$3, var$4);
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(3, ($this.$width2 / 2 | 0) + 4 | 0, $this.$height4 - 52 | 0, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2507))));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(3, ($this.$width2 / 2 | 0) + 4 | 0, $this.$height4 - 52 | 0, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2508))));
         ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(0, ($this.$width2 / 2 | 0) + 84 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2056))));
         $this.$buttonSelect.$enabled1 = 0;
         $this.$buttonRename.$enabled1 = 0;
@@ -190194,13 +190201,13 @@
                             break a;
                         $this.$deleting = 1;
                         $var3 = nms_StringTranslate_getInstance();
-                        $var4 = nms_StringTranslate_translateKey($var3, $rt_s(2508));
-                        $var1 = nms_StringTranslate_translateKey($var3, $rt_s(2509));
+                        $var4 = nms_StringTranslate_translateKey($var3, $rt_s(2509));
+                        $var1 = nms_StringTranslate_translateKey($var3, $rt_s(2510));
                         $fileName = new jl_StringBuilder;
                         jl_AbstractStringBuilder__init_($fileName);
                         jl_AbstractStringBuilder_append($fileName, 39);
-                        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($fileName, $var2), $rt_s(2510)), $var1);
-                        $var8 = nms_GuiYesNo__init_0($this, $var4, jl_AbstractStringBuilder_toString($fileName), nms_StringTranslate_translateKey($var3, $rt_s(2511)), nms_StringTranslate_translateKey($var3, $rt_s(2056)), $this.$selectedWorld);
+                        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($fileName, $var2), $rt_s(2511)), $var1);
+                        $var8 = nms_GuiYesNo__init_0($this, $var4, jl_AbstractStringBuilder_toString($fileName), nms_StringTranslate_translateKey($var3, $rt_s(2512)), nms_StringTranslate_translateKey($var3, $rt_s(2056)), $this.$selectedWorld);
                         $var1 = $this.$mc3;
                         $ptr = 2;
                         continue main;
@@ -190214,7 +190221,7 @@
                         $var1 = $this.$mc3;
                         $fileName = new nms_GuiCreateWorld;
                         nms_GuiScreen__init_($fileName);
-                        $fileName.$field_35364_f = $rt_s(2512);
+                        $fileName.$field_35364_f = $rt_s(2513);
                         $fileName.$field_35365_g = 1;
                         $fileName.$worldType1 = 0;
                         $fileName.$parentGuiScreen1 = $this;
@@ -190293,9 +190300,9 @@
             try {
                 $var3 = dceu_SaveUtils_progress;
                 if ($var3 !== null) {
-                    nms_LoadingScreenRenderer_func_594_b($var3, $rt_s(2513));
+                    nms_LoadingScreenRenderer_func_594_b($var3, $rt_s(2514));
                     $var1 = dceu_SaveUtils_progress;
-                    $var3 = $rt_s(2514);
+                    $var3 = $rt_s(2515);
                     $ptr = 8;
                     continue main;
                 }
@@ -190314,7 +190321,7 @@
             if ($var1 === null) {
                 var$12 = $rt_createByteArray(0);
                 nlei_PlatformApplication_$callClinit();
-                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
                 $fileName = $var1.$toExternalForm();
                 ju_Objects_requireNonNull($var1);
                 $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190324,7 +190331,7 @@
                 nlei_PlatformApplication_downloadBytesImpl$js_body$_29($rt_ustr($var4), $rt_ustr($fileName), otji_JS_function($var2, "call"), $var1);
                 return;
             }
-            $fileName = $rt_s(2516);
+            $fileName = $rt_s(2517);
             $ptr = 10;
             continue main;
         case 7:
@@ -190358,7 +190365,7 @@
                             $worldInfo = dceu_SaveUtils_progress;
                             if ($worldInfo !== null) {
                                 $var6 = jl_StringBuilder__init_();
-                                jl_StringBuilder_append(jl_StringBuilder_append($var6, $rt_s(2517)), $var7);
+                                jl_StringBuilder_append(jl_StringBuilder_append($var6, $rt_s(2518)), $var7);
                                 $var6 = jl_StringBuilder_toString($var6);
                                 $ptr = 16;
                                 continue main;
@@ -190391,7 +190398,7 @@
             if ($var1 === null) {
                 var$12 = $rt_createByteArray(0);
                 nlei_PlatformApplication_$callClinit();
-                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
                 $fileName = $var1.$toExternalForm();
                 ju_Objects_requireNonNull($var1);
                 $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190401,7 +190408,7 @@
                 nlei_PlatformApplication_downloadBytesImpl$js_body$_29($rt_ustr($var4), $rt_ustr($fileName), otji_JS_function($var2, "call"), $var1);
                 return;
             }
-            $fileName = $rt_s(2516);
+            $fileName = $rt_s(2517);
             $ptr = 10;
             continue main;
         case 8:
@@ -190425,7 +190432,7 @@
             if ($var1 === null) {
                 var$12 = $rt_createByteArray(0);
                 nlei_PlatformApplication_$callClinit();
-                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
                 $fileName = $var1.$toExternalForm();
                 ju_Objects_requireNonNull($var1);
                 $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190435,7 +190442,7 @@
                 nlei_PlatformApplication_downloadBytesImpl$js_body$_29($rt_ustr($var4), $rt_ustr($fileName), otji_JS_function($var2, "call"), $var1);
                 return;
             }
-            $fileName = $rt_s(2516);
+            $fileName = $rt_s(2517);
             $ptr = 10;
             continue main;
         case 9:
@@ -190459,7 +190466,7 @@
             if ($var1 === null) {
                 var$12 = $rt_createByteArray(0);
                 nlei_PlatformApplication_$callClinit();
-                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
                 $fileName = $var1.$toExternalForm();
                 ju_Objects_requireNonNull($var1);
                 $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190469,7 +190476,7 @@
                 nlei_PlatformApplication_downloadBytesImpl$js_body$_29($rt_ustr($var4), $rt_ustr($fileName), otji_JS_function($var2, "call"), $var1);
                 return;
             }
-            $fileName = $rt_s(2516);
+            $fileName = $rt_s(2517);
             $ptr = 10;
         case 10:
             nms_LoadingScreenRenderer_displayLoadingString($var1, $fileName);
@@ -190486,7 +190493,7 @@
             }
             var$12 = $rt_createByteArray(0);
             nlei_PlatformApplication_$callClinit();
-            $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+            $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
             $fileName = $var1.$toExternalForm();
             ju_Objects_requireNonNull($var1);
             $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190507,7 +190514,7 @@
                         var$12 = ji_ByteArrayOutputStream_toByteArray($fileName);
                         break a;
                     }
-                    $var2 = $rt_s(2518);
+                    $var2 = $rt_s(2519);
                     $ptr = 13;
                     continue main;
                 } catch ($$e) {
@@ -190519,14 +190526,14 @@
                 }
                 $var1 = dceu_SaveUtils_progress;
                 if ($var1 !== null) {
-                    $fileName = $rt_s(2516);
+                    $fileName = $rt_s(2517);
                     $ptr = 10;
                     continue main;
                 }
                 var$12 = $rt_createByteArray(0);
             }
             nlei_PlatformApplication_$callClinit();
-            $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+            $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
             $fileName = $var1.$toExternalForm();
             ju_Objects_requireNonNull($var1);
             $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190556,7 +190563,7 @@
             if ($var1 === null) {
                 var$12 = $rt_createByteArray(0);
                 nlei_PlatformApplication_$callClinit();
-                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
                 $fileName = $var1.$toExternalForm();
                 ju_Objects_requireNonNull($var1);
                 $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190566,7 +190573,7 @@
                 nlei_PlatformApplication_downloadBytesImpl$js_body$_29($rt_ustr($var4), $rt_ustr($fileName), otji_JS_function($var2, "call"), $var1);
                 return;
             }
-            $fileName = $rt_s(2516);
+            $fileName = $rt_s(2517);
             $ptr = 10;
             continue main;
         case 14:
@@ -190587,14 +190594,14 @@
                 }
                 $var1 = dceu_SaveUtils_progress;
                 if ($var1 !== null) {
-                    $fileName = $rt_s(2516);
+                    $fileName = $rt_s(2517);
                     $ptr = 10;
                     continue main;
                 }
                 var$12 = $rt_createByteArray(0);
             }
             nlei_PlatformApplication_$callClinit();
-            $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+            $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
             $fileName = $var1.$toExternalForm();
             ju_Objects_requireNonNull($var1);
             $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190630,7 +190637,7 @@
                         $worldInfo = dceu_SaveUtils_progress;
                         if ($worldInfo !== null) {
                             $var6 = jl_StringBuilder__init_();
-                            jl_StringBuilder_append(jl_StringBuilder_append($var6, $rt_s(2517)), $var7);
+                            jl_StringBuilder_append(jl_StringBuilder_append($var6, $rt_s(2518)), $var7);
                             $var6 = jl_StringBuilder_toString($var6);
                             $ptr = 16;
                             continue main;
@@ -190682,7 +190689,7 @@
             if ($var1 === null) {
                 var$12 = $rt_createByteArray(0);
                 nlei_PlatformApplication_$callClinit();
-                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
                 $fileName = $var1.$toExternalForm();
                 ju_Objects_requireNonNull($var1);
                 $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190692,7 +190699,7 @@
                 nlei_PlatformApplication_downloadBytesImpl$js_body$_29($rt_ustr($var4), $rt_ustr($fileName), otji_JS_function($var2, "call"), $var1);
                 return;
             }
-            $fileName = $rt_s(2516);
+            $fileName = $rt_s(2517);
             $ptr = 10;
             continue main;
         case 16:
@@ -190744,7 +190751,7 @@
                         continue;
                     else {
                         $var6 = jl_StringBuilder__init_();
-                        jl_StringBuilder_append(jl_StringBuilder_append($var6, $rt_s(2517)), $var7);
+                        jl_StringBuilder_append(jl_StringBuilder_append($var6, $rt_s(2518)), $var7);
                         $var6 = jl_StringBuilder_toString($var6);
                         continue main;
                     }
@@ -190764,7 +190771,7 @@
             if ($var1 === null) {
                 var$12 = $rt_createByteArray(0);
                 nlei_PlatformApplication_$callClinit();
-                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
                 $fileName = $var1.$toExternalForm();
                 ju_Objects_requireNonNull($var1);
                 $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190774,7 +190781,7 @@
                 nlei_PlatformApplication_downloadBytesImpl$js_body$_29($rt_ustr($var4), $rt_ustr($fileName), otji_JS_function($var2, "call"), $var1);
                 return;
             }
-            $fileName = $rt_s(2516);
+            $fileName = $rt_s(2517);
             $ptr = 10;
             continue main;
         case 17:
@@ -190808,7 +190815,7 @@
                         $worldInfo = dceu_SaveUtils_progress;
                         if ($worldInfo !== null) {
                             $var6 = jl_StringBuilder__init_();
-                            jl_StringBuilder_append(jl_StringBuilder_append($var6, $rt_s(2517)), $var7);
+                            jl_StringBuilder_append(jl_StringBuilder_append($var6, $rt_s(2518)), $var7);
                             $var6 = jl_StringBuilder_toString($var6);
                             $ptr = 16;
                             continue main;
@@ -190840,7 +190847,7 @@
             if ($var1 === null) {
                 var$12 = $rt_createByteArray(0);
                 nlei_PlatformApplication_$callClinit();
-                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2515));
+                $var1 = nleit_TeaVMBlobURLManager_registerNewURLByte(var$12, $rt_s(2516));
                 $fileName = $var1.$toExternalForm();
                 ju_Objects_requireNonNull($var1);
                 $var2 = new nlei_PlatformApplication$downloadFileWithName$lambda$_30_0;
@@ -190850,7 +190857,7 @@
                 nlei_PlatformApplication_downloadBytesImpl$js_body$_29($rt_ustr($var4), $rt_ustr($fileName), otji_JS_function($var2, "call"), $var1);
                 return;
             }
-            $fileName = $rt_s(2516);
+            $fileName = $rt_s(2517);
             $ptr = 10;
             continue main;
         default: $rt_invalidPointer();
@@ -190888,7 +190895,7 @@
             if ($var3 === null) {
                 $var3 = new jl_StringBuilder;
                 jl_AbstractStringBuilder__init_($var3);
-                jl_AbstractStringBuilder_append0(jl_StringBuilder_append($var3, $rt_s(2519)), $var1);
+                jl_AbstractStringBuilder_append0(jl_StringBuilder_append($var3, $rt_s(2520)), $var1);
                 $var3 = jl_AbstractStringBuilder_toString($var3);
             }
             var$2 = $this.$mc3;
@@ -191146,15 +191153,15 @@
                                                         var$10 = jl_System_currentTimeMillis();
                                                         var$5 = var$3.$server;
                                                         var$9.$field_35792_e = Long_sub(var$10, var$5.$pingSentTime);
-                                                        var$9 = oj_JSONArray_getString(oj_JSONObject_getJSONArray(var$4, $rt_s(2520)), 0);
+                                                        var$9 = oj_JSONArray_getString(oj_JSONObject_getJSONArray(var$4, $rt_s(2521)), 0);
                                                         var$6 = jl_StringBuilder__init_();
-                                                        jl_StringBuilder_append(jl_StringBuilder_append(var$6, $rt_s(2521)), var$9);
+                                                        jl_StringBuilder_append(jl_StringBuilder_append(var$6, $rt_s(2522)), var$9);
                                                         var$5.$field_35791_d = jl_StringBuilder_toString(var$6);
                                                         var$9 = var$3.$server;
-                                                        var$8 = oj_JSONObject_getInt(var$4, $rt_s(2522));
-                                                        var$11 = oj_JSONObject_getInt(var$4, $rt_s(2523));
+                                                        var$8 = oj_JSONObject_getInt(var$4, $rt_s(2523));
+                                                        var$11 = oj_JSONObject_getInt(var$4, $rt_s(2524));
                                                         var$4 = jl_StringBuilder__init_();
-                                                        jl_StringBuilder_append2(jl_StringBuilder_append(jl_StringBuilder_append2(jl_StringBuilder_append(var$4, $rt_s(2521)), var$8), $rt_s(2524)), var$11);
+                                                        jl_StringBuilder_append2(jl_StringBuilder_append(jl_StringBuilder_append2(jl_StringBuilder_append(var$4, $rt_s(2522)), var$8), $rt_s(2525)), var$11);
                                                         var$9.$field_35794_c = jl_StringBuilder_toString(var$4);
                                                         dces_ServerMOTDDispatcher_finish(var$3);
                                                         break d;
@@ -191178,10 +191185,10 @@
                         }
                         var$5 = var$3.$server;
                         var$5.$field_35792_e = Long_fromInt(-1);
-                        var$6 = dceu_I18n_format($rt_s(2525));
+                        var$6 = dceu_I18n_format($rt_s(2526));
                         var$4 = new jl_StringBuilder;
                         jl_AbstractStringBuilder__init_(var$4);
-                        jl_StringBuilder_append(jl_StringBuilder_append(var$4, $rt_s(2526)), var$6);
+                        jl_StringBuilder_append(jl_StringBuilder_append(var$4, $rt_s(2527)), var$6);
                         var$5.$field_35791_d = jl_AbstractStringBuilder_toString(var$4);
                         dces_ServerMOTDDispatcher_finish(var$3);
                     }
@@ -191209,7 +191216,7 @@
                     var$3.$isDefault = 1;
                     ju_ArrayList_add($this.$field_35340_f, var$3);
                 }
-                var$1 = nleiv_VFile2__init_($rt_createArrayFromData(jl_Object, [$this.$mc3.$mcDataDir, $rt_s(2527)]));
+                var$1 = nleiv_VFile2__init_($rt_createArrayFromData(jl_Object, [$this.$mc3.$mcDataDir, $rt_s(2528)]));
                 $ptr = 1;
                 continue main;
             } catch ($$e) {
@@ -191242,7 +191249,7 @@
                         }
                         var$1 = $tmp;
                         if (var$1 !== null) {
-                            var$1 = nms_NBTTagCompound_getTagList(var$1, $rt_s(2528));
+                            var$1 = nms_NBTTagCompound_getTagList(var$1, $rt_s(2529));
                             var$6 = 0;
                             while (true) {
                                 if (var$6 >= nms_NBTTagList_tagCount(var$1))
@@ -191297,8 +191304,8 @@
                     $var2 = $var2 + 1 | 0;
                 }
                 $var4 = nms_NBTTagCompound__init_();
-                nms_NBTTagCompound_setTag($var4, $rt_s(2528), $var1);
-                $var1 = nleiv_VFile2__init_($rt_createArrayFromData(jl_Object, [$this.$mc3.$mcDataDir, $rt_s(2527)]));
+                nms_NBTTagCompound_setTag($var4, $rt_s(2529), $var1);
+                $var1 = nleiv_VFile2__init_($rt_createArrayFromData(jl_Object, [$this.$mc3.$mcDataDir, $rt_s(2528)]));
                 $ptr = 1;
                 continue main;
             } catch ($$e) {
@@ -191338,20 +191345,20 @@
         var $var1, var$2, var$3, var$4, $var2;
         $var1 = nms_StringTranslate_getInstance();
         var$2 = $this.$controlList;
-        var$3 = nms_GuiButton__init_2(7, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2529)));
+        var$3 = nms_GuiButton__init_2(7, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2530)));
         $this.$field_35347_h = var$3;
         ju_ArrayList_add(var$2, var$3);
         var$3 = $this.$controlList;
-        var$4 = nms_GuiButton__init_2(2, ($this.$width2 / 2 | 0) - 74 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2530)));
+        var$4 = nms_GuiButton__init_2(2, ($this.$width2 / 2 | 0) - 74 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2531)));
         $this.$field_35345_j = var$4;
         ju_ArrayList_add(var$3, var$4);
         var$3 = $this.$controlList;
-        var$4 = nms_GuiButton__init_2(1, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey($var1, $rt_s(2531)));
+        var$4 = nms_GuiButton__init_2(1, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey($var1, $rt_s(2532)));
         $this.$field_35348_i = var$4;
         ju_ArrayList_add(var$3, var$4);
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(4, ($this.$width2 / 2 | 0) - 50 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey($var1, $rt_s(2532))));
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(3, (($this.$width2 / 2 | 0) + 4 | 0) + 50 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey($var1, $rt_s(2533))));
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(8, ($this.$width2 / 2 | 0) + 4 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2534))));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(4, ($this.$width2 / 2 | 0) - 50 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey($var1, $rt_s(2533))));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(3, (($this.$width2 / 2 | 0) + 4 | 0) + 50 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey($var1, $rt_s(2534))));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(8, ($this.$width2 / 2 | 0) + 4 | 0, $this.$height4 - 28 | 0, 70, 20, nms_StringTranslate_translateKey($var1, $rt_s(2535))));
         ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(0, (($this.$width2 / 2 | 0) + 4 | 0) + 76 | 0, $this.$height4 - 28 | 0, 75, 20, nms_StringTranslate_translateKey($var1, $rt_s(2056))));
         $var2 = $this.$field_35341_g;
         $var2 = $var2 >= 0 && $var2 < nms_GuiSlotServer_getSize($this.$field_35342_d) ? 1 : 0;
@@ -191380,13 +191387,13 @@
                             break a;
                         $this.$field_35346_k = 1;
                         $var3 = nms_StringTranslate_getInstance();
-                        $var4 = nms_StringTranslate_translateKey($var3, $rt_s(2535));
-                        $var1 = nms_StringTranslate_translateKey($var3, $rt_s(2536));
+                        $var4 = nms_StringTranslate_translateKey($var3, $rt_s(2536));
+                        $var1 = nms_StringTranslate_translateKey($var3, $rt_s(2537));
                         $var9 = new jl_StringBuilder;
                         jl_AbstractStringBuilder__init_($var9);
                         jl_AbstractStringBuilder_append($var9, 39);
-                        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($var9, $var2), $rt_s(2510)), $var1);
-                        $var8 = nms_GuiYesNo__init_0($this, $var4, jl_AbstractStringBuilder_toString($var9), nms_StringTranslate_translateKey($var3, $rt_s(2537)), nms_StringTranslate_translateKey($var3, $rt_s(2056)), $this.$field_35341_g);
+                        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($var9, $var2), $rt_s(2511)), $var1);
+                        $var8 = nms_GuiYesNo__init_0($this, $var4, jl_AbstractStringBuilder_toString($var9), nms_StringTranslate_translateKey($var3, $rt_s(2538)), nms_StringTranslate_translateKey($var3, $rt_s(2056)), $this.$field_35341_g);
                         $var1 = $this.$mc3;
                         $ptr = 2;
                         continue main;
@@ -191400,7 +191407,7 @@
                         $this.$field_35351_u = 1;
                         $var1 = $this.$mc3;
                         $var9 = new nms_GuiScreenServerList;
-                        $var2 = nms_ServerNBTStorage__init_2(nms_StatCollector_translateToLocal($rt_s(2538)), $rt_s(3));
+                        $var2 = nms_ServerNBTStorage__init_2(nms_StatCollector_translateToLocal($rt_s(2539)), $rt_s(3));
                         $this.$field_35349_w = $var2;
                         nms_GuiScreen__init_($var9);
                         $var9.$field_35319_a = $this;
@@ -191412,7 +191419,7 @@
                         $this.$field_35353_s = 1;
                         $var1 = $this.$mc3;
                         $var9 = new nms_GuiScreenAddServer;
-                        $var2 = nms_ServerNBTStorage__init_2(nms_StatCollector_translateToLocal($rt_s(2538)), $rt_s(3));
+                        $var2 = nms_ServerNBTStorage__init_2(nms_StatCollector_translateToLocal($rt_s(2539)), $rt_s(3));
                         $this.$field_35349_w = $var2;
                         nms_GuiScreenAddServer__init_($var9, $this, $var2);
                         $ptr = 4;
@@ -191674,7 +191681,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            $var4 = nms_StringTranslate_translateKey($var4, $rt_s(2539));
+            $var4 = nms_StringTranslate_translateKey($var4, $rt_s(2540));
             var$6 = $this.$width2 / 2 | 0;
             var$7 = 20;
             var$8 = 16777215;
@@ -191749,10 +191756,10 @@
             var$5 = new dceg_GuiScreenInfo$TextLine;
             var$6 = $rt_createArray(jl_Object, 1);
             var$6.data[0] = $rt_s(2039);
-            dceg_GuiScreenInfo$TextLine__init_(var$5, $rt_s(2540), 16764108, var$6);
+            dceg_GuiScreenInfo$TextLine__init_(var$5, $rt_s(2541), 16764108, var$6);
             var$4[0] = var$5;
             var$4[1] = dceg_GuiScreenInfo$TextLine__init_2($rt_s(3), 16777215);
-            var$4[2] = dceg_GuiScreenInfo$TextLine__init_2($rt_s(2541), 8947848);
+            var$4[2] = dceg_GuiScreenInfo$TextLine__init_2($rt_s(2542), 8947848);
             nms_GuiScreen__init_($var1);
             $var1.$parent4 = $this;
             $var1.$lines = var$3;
@@ -191812,7 +191819,7 @@
         main: while (true) { switch ($ptr) {
         case 0:
             $var1 = nms_StringTranslate_getInstance();
-            ju_ArrayList_add($this.$controlList, nms_GuiSmallButton__init_3(5, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 48 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2542))));
+            ju_ArrayList_add($this.$controlList, nms_GuiSmallButton__init_3(5, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 48 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2543))));
             ju_ArrayList_add($this.$controlList, nms_GuiSmallButton__init_3(6, ($this.$width2 / 2 | 0) + 4 | 0, $this.$height4 - 48 | 0, nms_StringTranslate_translateKey($var1, $rt_s(1975))));
             $var1 = $this.$mc3.$texturePackList;
             $ptr = 1;
@@ -191847,7 +191854,7 @@
             if ($var1.$enabled1) {
                 var$2 = $var1.$id2;
                 if (var$2 == 5)
-                    nle_EagRuntime_displayFileChooser($rt_s(2543), $rt_s(1923));
+                    nle_EagRuntime_displayFileChooser($rt_s(2544), $rt_s(1923));
                 else {
                     if (var$2 == 6) {
                         $var1 = $this.$mc3.$renderEngine;
@@ -191922,7 +191929,7 @@
             }
             $var4 = nms_StringTranslate_getInstance();
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2544));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2545));
             var$7 = $this.$width2 / 2 | 0;
             var$8 = 16;
             var$9 = 16777215;
@@ -191933,7 +191940,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            $var4 = nms_StringTranslate_translateKey($var4, $rt_s(2545));
+            $var4 = nms_StringTranslate_translateKey($var4, $rt_s(2546));
             var$7 = ($this.$width2 / 2 | 0) - 77 | 0;
             var$8 = $this.$height4 - 26 | 0;
             var$9 = 8421504;
@@ -191958,7 +191965,7 @@
             $this.$field_6454_o = $this.$field_6454_o + 20 | 0;
             $var4 = nms_StringTranslate_getInstance();
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2544));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2545));
             var$7 = $this.$width2 / 2 | 0;
             var$8 = 16;
             var$9 = 16777215;
@@ -192027,7 +192034,7 @@
                     }
                     var$2 = jl_System_out();
                     var$4 = jl_StringBuilder__init_();
-                    jl_StringBuilder_append5(jl_StringBuilder_append(jl_StringBuilder_append(var$4, $rt_s(2546)), $result), 34);
+                    jl_StringBuilder_append5(jl_StringBuilder_append(jl_StringBuilder_append(var$4, $rt_s(2547)), $result), 34);
                     ji_PrintStream_println1(var$2, jl_StringBuilder_toString(var$4));
                     break a;
                 } catch ($$e) {
@@ -192244,7 +192251,7 @@
             $var2 = ($this.$width2 - $this.$achievementsPaneWidth | 0) / 2 | 0;
             $var4 = ($this.$height4 - $this.$achievementsPaneHeight | 0) / 2 | 0;
             var$10 = $this.$fontRenderer1;
-            var$11 = $rt_s(2547);
+            var$11 = $rt_s(2548);
             $var2 = $var2 + 15 | 0;
             $var1 = $var4 + 5 | 0;
             $var4 = 4210752;
@@ -192490,7 +192497,7 @@
                 $var34 = jl_Math_max(npem_FontRenderer_getStringWidth($this.$fontRenderer1, $var31), 120);
                 var$43 = $rt_createArray(jl_Object, 1);
                 var$43.data[0] = $var27.$parentAchievement.$statName;
-                $var39 = nms_StatCollector_translateToLocalFormatted($rt_s(2548), var$43);
+                $var39 = nms_StatCollector_translateToLocalFormatted($rt_s(2549), var$43);
                 nms_Gui_drawGradientRect($this, $var17 - 3 | 0, $var33 - 3 | 0, ($var17 + $var34 | 0) + 3 | 0, (($var33 + npem_FontRenderer_splitStringWidth($this.$fontRenderer1, $var39, $var34) | 0) + 12 | 0) + 3 | 0, (-1073741824), (-1073741824));
                 $var32 = $this.$fontRenderer1;
                 $var1 = $var33 + 12 | 0;
@@ -192530,7 +192537,7 @@
             }
             if (nms_StatFileWriter_hasAchievementUnlocked($this.$statFileWriter1, $var27)) {
                 $var32 = $this.$fontRenderer1;
-                $var30 = nms_StatCollector_translateToLocal($rt_s(2549));
+                $var30 = nms_StatCollector_translateToLocal($rt_s(2550));
                 $var3 = $var17;
                 $var35 = $var24 + 4 | 0;
                 $var1 = (-7302913);
@@ -192753,12 +192760,12 @@
         $this.$selectedSlot0 = $this.$slotGeneral;
         var$1 = nms_StringTranslate_getInstance();
         ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(0, ($this.$width2 / 2 | 0) + 4 | 0, $this.$height4 - 28 | 0, 150, 20, nms_StringTranslate_translateKey(var$1, $rt_s(1975))));
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(1, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey(var$1, $rt_s(2550))));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(1, ($this.$width2 / 2 | 0) - 154 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey(var$1, $rt_s(2551))));
         var$2 = $this.$controlList;
-        var$5 = nms_GuiButton__init_2(2, ($this.$width2 / 2 | 0) - 46 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey(var$1, $rt_s(2551)));
+        var$5 = nms_GuiButton__init_2(2, ($this.$width2 / 2 | 0) - 46 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey(var$1, $rt_s(2552)));
         ju_ArrayList_add(var$2, var$5);
         var$2 = $this.$controlList;
-        var$7 = nms_GuiButton__init_2(3, ($this.$width2 / 2 | 0) + 62 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey(var$1, $rt_s(2552)));
+        var$7 = nms_GuiButton__init_2(3, ($this.$width2 / 2 | 0) + 62 | 0, $this.$height4 - 52 | 0, 100, 20, nms_StringTranslate_translateKey(var$1, $rt_s(2553)));
         ju_ArrayList_add(var$2, var$7);
         if (!nms_GuiSlotStats_getSize($this.$slotBlock))
             var$5.$enabled1 = 0;
@@ -192850,7 +192857,7 @@
         main: while (true) { switch ($ptr) {
         case 0:
             var$5 = $this.$mc3.$renderEngine;
-            $var10 = $rt_s(2553);
+            $var10 = $rt_s(2554);
             $ptr = 1;
         case 1:
             $tmp = nms_RenderEngine_getTexture(var$5, $var10);
@@ -192974,40 +192981,40 @@
         dce_SingleplayerCommands_commands = var$1;
         var$2 = new dcec_HelpCommand;
         var$3 = $rt_createArray(jl_String, 1);
-        var$3.data[0] = $rt_s(2554);
-        dcec_Command__init_(var$2, $rt_s(2555), var$3, $rt_s(2556));
+        var$3.data[0] = $rt_s(2555);
+        dcec_Command__init_(var$2, $rt_s(2556), var$3, $rt_s(2557));
         ju_ArrayList_add(var$1, var$2);
         var$1 = dce_SingleplayerCommands_commands;
         var$2 = new dcec_TeleportCommand;
         var$3 = $rt_createArray(jl_String, 1);
-        var$3.data[0] = $rt_s(2557);
-        dcec_Command__init_(var$2, $rt_s(2558), var$3, $rt_s(2559));
+        var$3.data[0] = $rt_s(2558);
+        dcec_Command__init_(var$2, $rt_s(2559), var$3, $rt_s(2560));
         ju_ArrayList_add(var$1, var$2);
         var$1 = dce_SingleplayerCommands_commands;
         var$2 = new dcec_GiveCommand;
         var$3 = $rt_createArray(jl_String, 1);
         var$3.data[0] = $rt_s(3);
-        dcec_Command__init_(var$2, $rt_s(2560), var$3, $rt_s(2561));
+        dcec_Command__init_(var$2, $rt_s(2561), var$3, $rt_s(2562));
         ju_ArrayList_add(var$1, var$2);
         var$1 = dce_SingleplayerCommands_commands;
         var$2 = new dcec_SummonCommand;
         dcec_SummonCommand_$callClinit();
         var$3 = $rt_createArray(jl_String, 1);
         var$3.data[0] = $rt_s(3);
-        dcec_Command__init_(var$2, $rt_s(2562), var$3, $rt_s(2563));
+        dcec_Command__init_(var$2, $rt_s(2563), var$3, $rt_s(2564));
         ju_ArrayList_add(var$1, var$2);
         var$1 = dce_SingleplayerCommands_commands;
         var$2 = new dcec_TimeCommand;
         dcec_TimeCommand_$callClinit();
         var$3 = $rt_createArray(jl_String, 1);
         var$3.data[0] = $rt_s(3);
-        dcec_Command__init_(var$2, $rt_s(2564), var$3, $rt_s(2565));
+        dcec_Command__init_(var$2, $rt_s(2565), var$3, $rt_s(2566));
         ju_ArrayList_add(var$1, var$2);
         var$1 = dce_SingleplayerCommands_commands;
         var$2 = new dcec_FlyCommand;
         var$3 = $rt_createArray(jl_String, 1);
         var$3.data[0] = $rt_s(3);
-        dcec_Command__init_(var$2, $rt_s(2566), var$3, $rt_s(3));
+        dcec_Command__init_(var$2, $rt_s(2567), var$3, $rt_s(3));
         ju_ArrayList_add(var$1, var$2);
     }
     function nms_ChestItemRenderHelper() {
@@ -193087,7 +193094,7 @@
                         throw $$e;
                     }
                 }
-                $rt_throw(ji_IOException__init_4($rt_s(2567), $t));
+                $rt_throw(ji_IOException__init_4($rt_s(2568), $t));
             } catch ($$e) {
                 $$je = $rt_wrapException($$e);
                 $copyBuffer = $$je;
@@ -193115,7 +193122,7 @@
                     return;
                 }
                 try {
-                    $rt_throw(ji_IOException__init_4($rt_s(2567), $t));
+                    $rt_throw(ji_IOException__init_4($rt_s(2568), $t));
                 } catch ($$e) {
                     $$je = $rt_wrapException($$e);
                     $copyBuffer = $$je;
@@ -193164,7 +193171,7 @@
                 npji_PushbackReader_ensureOpen(var$3);
                 var$5 = var$3.$pos3;
                 if (!var$5)
-                    $rt_throw(ji_IOException__init_($rt_s(2568)));
+                    $rt_throw(ji_IOException__init_($rt_s(2569)));
                 var$6 = var$3.$buf3.data;
                 var$2 = var$5 - 1 | 0;
                 var$3.$pos3 = var$2;
@@ -193398,9 +193405,9 @@
     }
     function nms_EnumAction__clinit_() {
         var var$1;
-        nms_EnumAction_none = nms_EnumAction__init_0($rt_s(2569), 0);
-        nms_EnumAction_eat = nms_EnumAction__init_0($rt_s(2570), 1);
-        nms_EnumAction_block = nms_EnumAction__init_0($rt_s(2571), 2);
+        nms_EnumAction_none = nms_EnumAction__init_0($rt_s(2570), 0);
+        nms_EnumAction_eat = nms_EnumAction__init_0($rt_s(2571), 1);
+        nms_EnumAction_block = nms_EnumAction__init_0($rt_s(2572), 2);
         var$1 = nms_EnumAction__init_0($rt_s(1018), 3);
         nms_EnumAction_bow = var$1;
         nms_EnumAction_$VALUES = $rt_createArrayFromData(nms_EnumAction, [nms_EnumAction_none, nms_EnumAction_eat, nms_EnumAction_block, var$1]);
@@ -193487,16 +193494,16 @@
         return 0;
     }
     function dcec_Command_showUsage($this, $cmd) {
-        dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2572), $rt_createArrayFromData(jl_Object, [$cmd, $this.$usage])));
+        dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2573), $rt_createArrayFromData(jl_Object, [$cmd, $this.$usage])));
     }
     function dcec_Command_showCommandError($this, $t) {
         var var$2, var$3;
         var$2 = $rt_createArray(jl_Object, 1);
         var$2.data[0] = $t.$getMessage();
-        $t = dceu_I18n_format0($rt_s(2573), var$2);
+        $t = dceu_I18n_format0($rt_s(2574), var$2);
         var$3 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$3);
-        jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2526)), $t);
+        jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2527)), $t);
         dce_SingleplayerCommands_showChat(jl_AbstractStringBuilder_toString(var$3));
     }
     function dcec_Command_getRelativeCoord($this, $offset, $coord) {
@@ -193504,9 +193511,9 @@
         if (!($offset instanceof jl_String))
             return $coord;
         $s = jl_String_trim($offset);
-        if (jl_String_equals($s, $rt_s(2574)))
+        if (jl_String_equals($s, $rt_s(2575)))
             return $coord;
-        if (!jl_String_startsWith0($s, $rt_s(2574))) {
+        if (!jl_String_startsWith0($s, $rt_s(2575))) {
             a: {
                 try {
                     var$4 = jl_Integer_parseInt0($s);
@@ -193641,7 +193648,7 @@
                         $ctx = nleit_JOrbisAudioBufferDecoder_logger;
                         $data = $rt_createArray(jl_Object, 1);
                         $data.data[0] = $errorString;
-                        oall_Logger_error($ctx, $rt_s(2575), $data);
+                        oall_Logger_error($ctx, $rt_s(2576), $data);
                         $ctx = null;
                         jl_Object_monitorExit($dec);
                     } catch ($$e) {
@@ -193669,7 +193676,7 @@
                         $buf = nleit_JOrbisAudioBufferDecoder_logger;
                         $data = $rt_createArray(jl_Object, 1);
                         $data.data[0] = $errorString;
-                        oall_Logger_warn($buf, $rt_s(2576), $data);
+                        oall_Logger_warn($buf, $rt_s(2577), $data);
                     }
                 } catch ($$e) {
                     $$je = $rt_wrapException($$e);
@@ -193684,7 +193691,7 @@
                         $ctx = nleit_JOrbisAudioBufferDecoder_logger;
                         $data = $rt_createArray(jl_Object, 1);
                         $data.data[0] = $errorString;
-                        oall_Logger_error($ctx, $rt_s(2577), $data);
+                        oall_Logger_error($ctx, $rt_s(2578), $data);
                         $ctx = null;
                         jl_Object_monitorExit($dec);
                     } catch ($$e) {
@@ -193741,7 +193748,7 @@
                             $ctx = nleit_JOrbisAudioBufferDecoder_logger;
                             $data = $rt_createArray(jl_Object, 1);
                             $data.data[0] = $errorString;
-                            oall_Logger_error($ctx, $rt_s(2578), $data);
+                            oall_Logger_error($ctx, $rt_s(2579), $data);
                             $ctx = null;
                             jl_Object_monitorExit($dec);
                         } catch ($$e) {
@@ -193759,7 +193766,7 @@
                             nleib_EaglerArrayByteBuffer_flip($buf);
                             $buf_0 = (nleib_EaglerArrayBufferAllocator_getDataView8($buf)).buffer;
                             $ctx = jl_StringBuilder__init_();
-                            jl_StringBuilder_append(jl_StringBuilder_append($ctx, $errorString), $rt_s(2579));
+                            jl_StringBuilder_append(jl_StringBuilder_append($ctx, $errorString), $rt_s(2580));
                             $ctx = jl_StringBuilder_toString($ctx);
                             $ptr = 2;
                             continue main;
@@ -193785,7 +193792,7 @@
                         $ctx = nleit_JOrbisAudioBufferDecoder_logger;
                         $data = $rt_createArray(jl_Object, 1);
                         $data.data[0] = $errorString;
-                        oall_Logger_error($ctx, $rt_s(2578), $data);
+                        oall_Logger_error($ctx, $rt_s(2579), $data);
                         $ctx = null;
                         jl_Object_monitorExit($dec);
                     } catch ($$e) {
@@ -193803,7 +193810,7 @@
                         nleib_EaglerArrayByteBuffer_flip($buf_0);
                         $lst = (nleib_EaglerArrayBufferAllocator_getDataView8($buf_0)).buffer;
                         $ctx = jl_StringBuilder__init_();
-                        jl_StringBuilder_append(jl_StringBuilder_append($ctx, $errorString), $rt_s(2579));
+                        jl_StringBuilder_append(jl_StringBuilder_append($ctx, $errorString), $rt_s(2580));
                         $ctx = jl_StringBuilder_toString($ctx);
                         $ptr = 3;
                         continue main;
@@ -193951,7 +193958,7 @@
                     var$3 = nleit_JOrbisAudioBufferDecoder_logger;
                     $data = $rt_createArray(jl_Object, 1);
                     $data.data[0] = $errorString;
-                    oall_Logger_error(var$3, $rt_s(2580), $data);
+                    oall_Logger_error(var$3, $rt_s(2581), $data);
                     return 0;
                 }
                 if (cjj_StreamState_packetout($this.$joggStreamState, $this.$joggPacket) != 1) {
@@ -193959,7 +193966,7 @@
                     var$3 = nleit_JOrbisAudioBufferDecoder_logger;
                     $data = $rt_createArray(jl_Object, 1);
                     $data.data[0] = $errorString;
-                    oall_Logger_error(var$3, $rt_s(2581), $data);
+                    oall_Logger_error(var$3, $rt_s(2582), $data);
                     return 0;
                 }
                 if (cjj_Info_synthesis_headerin($this.$jorbisInfo, $this.$jorbisComment, $this.$joggPacket) < 0) {
@@ -193967,7 +193974,7 @@
                     var$3 = nleit_JOrbisAudioBufferDecoder_logger;
                     $data = $rt_createArray(jl_Object, 1);
                     $data.data[0] = $errorString;
-                    oall_Logger_error(var$3, $rt_s(2582), $data);
+                    oall_Logger_error(var$3, $rt_s(2583), $data);
                     return 0;
                 }
                 $i = 0;
@@ -194000,7 +194007,7 @@
                                         var$3 = nleit_JOrbisAudioBufferDecoder_logger;
                                         $data = $rt_createArray(jl_Object, 1);
                                         $data.data[0] = $errorString;
-                                        oall_Logger_error(var$3, $rt_s(2583), $data);
+                                        oall_Logger_error(var$3, $rt_s(2584), $data);
                                         return 0;
                                     }
                                     cjj_Info_synthesis_headerin($this.$jorbisInfo, $this.$jorbisComment, $this.$joggPacket);
@@ -194022,14 +194029,14 @@
                 var$3 = nleit_JOrbisAudioBufferDecoder_logger;
                 $data = $rt_createArray(jl_Object, 1);
                 $data.data[0] = $errorString;
-                oall_Logger_error(var$3, $rt_s(2584), $data);
+                oall_Logger_error(var$3, $rt_s(2585), $data);
                 return 0;
             } else if ($bytes >= $this.$bufferSize) {
                 nleit_JOrbisAudioBufferDecoder_$callClinit();
                 var$3 = nleit_JOrbisAudioBufferDecoder_logger;
                 $data = $rt_createArray(jl_Object, 1);
                 $data.data[0] = $errorString;
-                oall_Logger_error(var$3, $rt_s(2585), $data);
+                oall_Logger_error(var$3, $rt_s(2586), $data);
                 return 0;
             }
         }
@@ -194212,7 +194219,7 @@
     }
     function nleit_JOrbisAudioBufferDecoder__clinit_() {
         var var$1, var$2;
-        nleit_JOrbisAudioBufferDecoder_logger = oall_LogManager_getLogger($rt_s(2586));
+        nleit_JOrbisAudioBufferDecoder_logger = oall_LogManager_getLogger($rt_s(2587));
         var$1 = new nleit_JOrbisAudioBufferDecoder;
         nleit_JOrbisAudioBufferDecoder_$callClinit();
         var$1.$endOfStream = 0;
@@ -194334,11 +194341,11 @@
             $commands = ju_ArrayList__init_3(dce_SingleplayerCommands_commands);
             var$3 = $args.length;
             if (var$3 == 1) {
-                dce_SingleplayerCommands_showChat(dceu_I18n_format($rt_s(2587)));
+                dce_SingleplayerCommands_showChat(dceu_I18n_format($rt_s(2588)));
                 $commands = ju_AbstractList_iterator($commands);
                 while (ju_AbstractList$1_hasNext($commands)) {
                     $command = ju_AbstractList$1_next($commands);
-                    dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2588), $rt_createArrayFromData(jl_Object, [$command.$cmd, $command.$usage])));
+                    dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2589), $rt_createArrayFromData(jl_Object, [$command.$cmd, $command.$usage])));
                 }
             } else if (var$3 != 2)
                 dcec_Command_showUsage($this, $args[0]);
@@ -194409,7 +194416,7 @@
             $player.$field_20063_u = $args[0];
             $player.$field_20062_v = $args[1];
             $player.$field_20061_w = $args[2];
-            dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2589), $rt_createArrayFromData(jl_Object, [jl_Double_valueOf($args[0]), jl_Double_valueOf($args[1]), jl_Double_valueOf($args[2])])));
+            dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2590), $rt_createArrayFromData(jl_Object, [jl_Double_valueOf($args[0]), jl_Double_valueOf($args[1]), jl_Double_valueOf($args[2])])));
             return;
         default: $rt_invalidPointer();
         }}
@@ -194433,7 +194440,7 @@
                         if (!($id >= 256 ? ($item === null ? 0 : 1) : $block === null ? 0 : 1)) {
                             $args = $rt_createArray(jl_Object, 1);
                             $args.data[0] = jl_Integer_valueOf($id);
-                            $stack = dceu_I18n_format0($rt_s(2590), $args);
+                            $stack = dceu_I18n_format0($rt_s(2591), $args);
                             $block = jl_StringBuilder__init_();
                             jl_StringBuilder_append(jl_StringBuilder_append($block, $rt_s(260)), $stack);
                             dce_SingleplayerCommands_showChat(jl_StringBuilder_toString($block));
@@ -194441,7 +194448,7 @@
                             $num = $num < 3 ? 1 : jl_Integer_parseInt0($args[2]);
                             $stack = nms_ItemStack__init_($id, $num, var$3 ? 0 : jl_Integer_parseInt0($args[3]));
                             nms_InventoryPlayer_addItemStackToInventory($this.$mc14.$thePlayer.$inventory, $stack);
-                            dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2591), $rt_createArrayFromData(jl_Object, [jl_Integer_valueOf($num), jl_String_trim(dceu_I18n_formatNamed($item.$getItemName()))])));
+                            dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2592), $rt_createArrayFromData(jl_Object, [jl_Integer_valueOf($num), jl_String_trim(dceu_I18n_formatNamed($item.$getItemName()))])));
                         }
                         break a;
                     } catch ($$e) {
@@ -194515,7 +194522,7 @@
                             }
                             var$9 = $rt_createArray(jl_Object, 1);
                             var$9.data[0] = $args[1];
-                            $e = dceu_I18n_format0($rt_s(2590), var$9);
+                            $e = dceu_I18n_format0($rt_s(2591), var$9);
                             $t = jl_StringBuilder__init_();
                             jl_StringBuilder_append(jl_StringBuilder_append($t, $rt_s(260)), $e);
                             dce_SingleplayerCommands_showChat(jl_StringBuilder_toString($t));
@@ -194542,7 +194549,7 @@
                     if ($rt_suspending()) {
                         break main;
                     }
-                    dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2592), $rt_createArrayFromData(jl_Object, [jl_String_trim(nms_EntityList_getEntityString($e)), jl_Double_valueOf($x), jl_Double_valueOf($y), jl_Double_valueOf($z)])));
+                    dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2593), $rt_createArrayFromData(jl_Object, [jl_String_trim(nms_EntityList_getEntityString($e)), jl_Double_valueOf($x), jl_Double_valueOf($y), jl_Double_valueOf($z)])));
                     break a;
                 } catch ($$e) {
                     $$je = $rt_wrapException($$e);
@@ -194602,7 +194609,7 @@
                 $o = Long_rem(Long_add(Long_rem(Long_add(Long_rem(var$3, Long_fromInt(24000)), Long_fromInt(24000)), Long_fromInt(24000)), Long_fromInt(6000)), Long_fromInt(24000));
                 $t = Long_div($o, Long_fromInt(1000));
                 var$6 = Long_div(Long_mul(Long_rem($o, Long_fromInt(1000)), Long_fromInt(60)), Long_fromInt(1000));
-                dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2593), $rt_createArrayFromData(jl_Object, [jl_Long_valueOf(Long_div(var$3, Long_fromInt(24000))), nle_HString_format($rt_s(2594), $rt_createArrayFromData(jl_Object, [jl_Long_valueOf($t), jl_Long_valueOf(var$6)]))])));
+                dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2594), $rt_createArrayFromData(jl_Object, [jl_Long_valueOf(Long_div(var$3, Long_fromInt(24000))), nle_HString_format($rt_s(2595), $rt_createArrayFromData(jl_Object, [jl_Long_valueOf($t), jl_Long_valueOf(var$6)]))])));
             } else if (var$2 != 2)
                 dcec_Command_showUsage($this, $args[0]);
             else {
@@ -194626,7 +194633,7 @@
                     nms_World_setWorldTime($this.$mc14.$theWorld, var$3);
                     $args = $rt_createArray(jl_Object, 1);
                     $args.data[0] = jl_Long_valueOf($o);
-                    dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2595), $args));
+                    dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2596), $args));
                     break a;
                 } catch ($$e) {
                     $$je = $rt_wrapException($$e);
@@ -194644,12 +194651,12 @@
         var var$1;
         var$1 = ju_HashMap__init_();
         dcec_TimeCommand_stringValues = var$1;
-        ju_HashMap_putImpl(var$1, $rt_s(2596), $rt_s(2597));
-        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2598), $rt_s(2599));
-        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2600), $rt_s(2601));
-        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2602), $rt_s(2603));
-        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2604), $rt_s(2605));
-        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2606), $rt_s(2601));
+        ju_HashMap_putImpl(var$1, $rt_s(2597), $rt_s(2598));
+        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2599), $rt_s(2600));
+        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2601), $rt_s(2602));
+        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2603), $rt_s(2604));
+        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2605), $rt_s(2606));
+        ju_HashMap_putImpl(dcec_TimeCommand_stringValues, $rt_s(2607), $rt_s(2602));
     }
     var dcec_FlyCommand = $rt_classWithoutFields(dcec_Command);
     function dcec_FlyCommand_run($this, $args) {
@@ -194663,8 +194670,8 @@
             var$2.$field_35758_c = var$3;
             var$2.$field_35757_b = var$3;
             $args = $rt_createArray(jl_Object, 1);
-            $args.data[0] = !var$3 ? dceu_I18n_format($rt_s(2607)) : dceu_I18n_format($rt_s(2608));
-            dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2609), $args));
+            $args.data[0] = !var$3 ? dceu_I18n_format($rt_s(2608)) : dceu_I18n_format($rt_s(2609));
+            dce_SingleplayerCommands_showChat(dceu_I18n_format0($rt_s(2610), $args));
         }
     }
     function nleo_Tessellator() {
@@ -194763,7 +194770,7 @@
             olo_GL11_glRotatef( -$var12, 0.0, 1.0, 0.0);
             olo_GL11_glTranslatef(0.0, (-0.3125), (-0.4375));
             $this.$signModel.$signStick.$showModel = 0;
-            $var15 = $rt_s(2610);
+            $var15 = $rt_s(2611);
             $ptr = 4;
             continue main;
         case 3:
@@ -194774,7 +194781,7 @@
             $var16 = $tmp;
             olo_GL11_glRotatef( -(($var16 * 360 | 0) / 16.0), 0.0, 1.0, 0.0);
             $this.$signModel.$signStick.$showModel = 1;
-            $var15 = $rt_s(2610);
+            $var15 = $rt_s(2611);
             $ptr = 4;
         case 4:
             nms_TileEntitySpecialRenderer_bindTextureByName($this, $var15);
@@ -194810,7 +194817,7 @@
             }
             var$15 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$15);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$15, $rt_s(2064)), $var15), $rt_s(2611));
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$15, $rt_s(2064)), $var15), $rt_s(2612));
             $var15 = jl_AbstractStringBuilder_toString(var$15);
             $var16 = ( -npem_FontRenderer_getStringWidth($var9, $var15) | 0) / 2 | 0;
             var$14 = ($var14 * 10 | 0) - ($var1.$signText.data.length * 5 | 0) | 0;
@@ -194837,7 +194844,7 @@
             }
             var$15 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$15);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$15, $rt_s(2064)), $var15), $rt_s(2611));
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$15, $rt_s(2064)), $var15), $rt_s(2612));
             $var15 = jl_AbstractStringBuilder_toString(var$15);
             $var16 = ( -npem_FontRenderer_getStringWidth($var9, $var15) | 0) / 2 | 0;
             var$14 = ($var14 * 10 | 0) - ($var1.$signText.data.length * 5 | 0) | 0;
@@ -194864,7 +194871,7 @@
             }
             var$15 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$15);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$15, $rt_s(2064)), $var15), $rt_s(2611));
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$15, $rt_s(2064)), $var15), $rt_s(2612));
             $var15 = jl_AbstractStringBuilder_toString(var$15);
             $var16 = ( -npem_FontRenderer_getStringWidth($var9, $var15) | 0) / 2 | 0;
             var$14 = ($var14 * 10 | 0) - ($var1.$signText.data.length * 5 | 0) | 0;
@@ -195108,13 +195115,13 @@
     }
     function nms_TileEntityMobSpawner_readFromNBT($this, $var1) {
         nms_TileEntity_readFromNBT($this, $var1);
-        $this.$mobID = nms_NBTTagCompound_getString($var1, $rt_s(2612));
-        $this.$delay = nms_NBTTagCompound_getShort($var1, $rt_s(2613));
+        $this.$mobID = nms_NBTTagCompound_getString($var1, $rt_s(2613));
+        $this.$delay = nms_NBTTagCompound_getShort($var1, $rt_s(2614));
     }
     function nms_TileEntityMobSpawner_writeToNBT($this, $var1) {
         nms_TileEntity_writeToNBT($this, $var1);
-        nms_NBTTagCompound_setString($var1, $rt_s(2612), $this.$mobID);
-        nms_NBTTagCompound_setShort($var1, $rt_s(2613), $this.$delay << 16 >> 16);
+        nms_NBTTagCompound_setString($var1, $rt_s(2613), $this.$mobID);
+        nms_NBTTagCompound_setShort($var1, $rt_s(2614), $this.$delay << 16 >> 16);
     }
     function nms_TileEntityMobSpawnerRenderer() {
         nms_TileEntitySpecialRenderer.call(this);
@@ -195405,21 +195412,21 @@
     function nms_TileEntityPiston_readFromNBT($this, $var1) {
         var var$2;
         nms_TileEntity_readFromNBT($this, $var1);
-        $this.$storedBlockID = nms_NBTTagCompound_getInteger($var1, $rt_s(2614));
-        $this.$storedMetadata = nms_NBTTagCompound_getInteger($var1, $rt_s(2615));
-        $this.$storedOrientation = nms_NBTTagCompound_getInteger($var1, $rt_s(2616));
-        var$2 = nms_NBTTagCompound_getFloat($var1, $rt_s(2617));
+        $this.$storedBlockID = nms_NBTTagCompound_getInteger($var1, $rt_s(2615));
+        $this.$storedMetadata = nms_NBTTagCompound_getInteger($var1, $rt_s(2616));
+        $this.$storedOrientation = nms_NBTTagCompound_getInteger($var1, $rt_s(2617));
+        var$2 = nms_NBTTagCompound_getFloat($var1, $rt_s(2618));
         $this.$progress = var$2;
         $this.$lastProgress = var$2;
-        $this.$extending = nms_NBTTagCompound_getBoolean($var1, $rt_s(2618));
+        $this.$extending = nms_NBTTagCompound_getBoolean($var1, $rt_s(2619));
     }
     function nms_TileEntityPiston_writeToNBT($this, $var1) {
         nms_TileEntity_writeToNBT($this, $var1);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2614), $this.$storedBlockID);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2615), $this.$storedMetadata);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2616), $this.$storedOrientation);
-        nms_NBTTagCompound_setFloat($var1, $rt_s(2617), $this.$lastProgress);
-        nms_NBTTagCompound_setBoolean($var1, $rt_s(2618), $this.$extending);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2615), $this.$storedBlockID);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2616), $this.$storedMetadata);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2617), $this.$storedOrientation);
+        nms_NBTTagCompound_setFloat($var1, $rt_s(2618), $this.$lastProgress);
+        nms_NBTTagCompound_setBoolean($var1, $rt_s(2619), $this.$extending);
     }
     function nms_TileEntityPiston__clinit_() {
         nms_TileEntityPiston_field_31018_m = ju_ArrayList__init_();
@@ -196192,12 +196199,12 @@
             if ($var1.$field_35152_b === null && $var1.$field_35150_d === null) {
                 if ($var1.$field_35153_c === null && $var1.$field_35151_e === null) {
                     $var14 = $this.$field_35377_b;
-                    $var10 = $rt_s(2619);
+                    $var10 = $rt_s(2620);
                     $ptr = 7;
                     continue main;
                 }
                 $var14 = $this.$field_35378_c;
-                $var10 = $rt_s(2620);
+                $var10 = $rt_s(2621);
                 $ptr = 6;
                 continue main;
             }
@@ -196233,12 +196240,12 @@
             if ($var1.$field_35152_b === null && $var1.$field_35150_d === null) {
                 if ($var1.$field_35153_c === null && $var1.$field_35151_e === null) {
                     $var14 = $this.$field_35377_b;
-                    $var10 = $rt_s(2619);
+                    $var10 = $rt_s(2620);
                     $ptr = 7;
                     continue main;
                 }
                 $var14 = $this.$field_35378_c;
-                $var10 = $rt_s(2620);
+                $var10 = $rt_s(2621);
                 $ptr = 6;
                 continue main;
             }
@@ -196774,7 +196781,7 @@
         return (-1);
     }
     function cjj_Info__clinit_() {
-        cjj_Info__vorbis = jl_String_getBytes($rt_s(2621));
+        cjj_Info__vorbis = jl_String_getBytes($rt_s(2622));
     }
     var nleit_PCMToWAVLoader = $rt_classWithoutFields();
     function nleit_PCMToWAVLoader_getWAVLen($data, $floating) {
@@ -196835,9 +196842,9 @@
             $chCount = nleib_EaglerArrayByteBuffer_remaining($bufferOut);
             $bufferOut = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($bufferOut);
-            var$11 = jl_StringBuilder_append($bufferOut, $rt_s(2622));
+            var$11 = jl_StringBuilder_append($bufferOut, $rt_s(2623));
             jl_AbstractStringBuilder_append0(var$11, $chCount);
-            jl_StringBuilder_append(var$11, $rt_s(2623));
+            jl_StringBuilder_append(var$11, $rt_s(2624));
             jl_Throwable__init_($data, jl_AbstractStringBuilder_toString($bufferOut));
             $rt_throw($data);
         }
@@ -196879,11 +196886,11 @@
             $chCount = nleib_EaglerArrayByteBuffer_remaining($bufferOut);
             $bufferOut = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($bufferOut);
-            var$10 = jl_StringBuilder_append($bufferOut, $rt_s(2622));
+            var$10 = jl_StringBuilder_append($bufferOut, $rt_s(2623));
             jl_AbstractStringBuilder_append0(var$10, $finalSize);
             jl_AbstractStringBuilder_append(var$10, 32);
             jl_AbstractStringBuilder_append0(var$10, $chCount);
-            jl_StringBuilder_append(var$10, $rt_s(2623));
+            jl_StringBuilder_append(var$10, $rt_s(2624));
             jl_Throwable__init_($data, jl_AbstractStringBuilder_toString($bufferOut));
             $rt_throw($data);
         }
@@ -197946,8 +197953,8 @@
         $this.$vendor = null;
     }
     function cjj_Comment__clinit_() {
-        cjj_Comment__vorbis = jl_String_getBytes($rt_s(2621));
-        cjj_Comment__vendor = jl_String_getBytes($rt_s(2624));
+        cjj_Comment__vorbis = jl_String_getBytes($rt_s(2622));
+        cjj_Comment__vendor = jl_String_getBytes($rt_s(2625));
     }
     function cjj_Buffer() {
         var a = this; jl_Object.call(a);
@@ -198120,15 +198127,15 @@
             }
             $var3 = $var3 + 1 | 0;
         }
-        $this.$furnaceBurnTime = nms_NBTTagCompound_getShort($var1, $rt_s(2625));
-        $this.$furnaceCookTime = nms_NBTTagCompound_getShort($var1, $rt_s(2626));
+        $this.$furnaceBurnTime = nms_NBTTagCompound_getShort($var1, $rt_s(2626));
+        $this.$furnaceCookTime = nms_NBTTagCompound_getShort($var1, $rt_s(2627));
         $this.$currentItemBurnTime = nms_TileEntityFurnace_getItemBurnTime($this, $this.$furnaceItemStacks.data[1]);
     }
     function nms_TileEntityFurnace_writeToNBT($this, $var1) {
         var $var2, $var3, var$4, $var4;
         nms_TileEntity_writeToNBT($this, $var1);
-        nms_NBTTagCompound_setShort($var1, $rt_s(2625), $this.$furnaceBurnTime << 16 >> 16);
-        nms_NBTTagCompound_setShort($var1, $rt_s(2626), $this.$furnaceCookTime << 16 >> 16);
+        nms_NBTTagCompound_setShort($var1, $rt_s(2626), $this.$furnaceBurnTime << 16 >> 16);
+        nms_NBTTagCompound_setShort($var1, $rt_s(2627), $this.$furnaceCookTime << 16 >> 16);
         $var2 = nms_NBTTagList__init_0();
         $var3 = 0;
         while (true) {
@@ -198357,14 +198364,14 @@
     }
     function nms_TileEntityRecordPlayer_readFromNBT($this, $var1) {
         nms_TileEntity_readFromNBT($this, $var1);
-        $this.$record = nms_NBTTagCompound_getInteger($var1, $rt_s(2627));
+        $this.$record = nms_NBTTagCompound_getInteger($var1, $rt_s(2628));
     }
     function nms_TileEntityRecordPlayer_writeToNBT($this, $var1) {
         var var$2;
         nms_TileEntity_writeToNBT($this, $var1);
         var$2 = $this.$record;
         if (var$2 > 0)
-            nms_NBTTagCompound_setInteger($var1, $rt_s(2627), var$2);
+            nms_NBTTagCompound_setInteger($var1, $rt_s(2628), var$2);
     }
     var nms_TileEntity$_clinit_$lambda$_15_2 = $rt_classWithoutFields();
     function nms_TileEntity$_clinit_$lambda$_15_2_createTileEntity(var$0) {
@@ -198836,7 +198843,7 @@
         var$1 = $this.$length3;
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$2, $rt_s(2628)), var$1);
+        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$2, $rt_s(2629)), var$1);
         return jl_AbstractStringBuilder_toString(var$2);
     }
     function jnc_UnmappableCharacterException() {
@@ -198848,7 +198855,7 @@
         var$1 = $this.$length4;
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$2, $rt_s(2629)), var$1);
+        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$2, $rt_s(2630)), var$1);
         return jl_AbstractStringBuilder_toString(var$2);
     }
     function jnci_BufferedDecoder$Controller() {
@@ -199845,11 +199852,11 @@
             var$5 = jl_String_valueOf($var1);
             var$6 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$6);
-            jl_StringBuilder_append(jl_StringBuilder_append(var$6, $rt_s(2630)), var$5);
+            jl_StringBuilder_append(jl_StringBuilder_append(var$6, $rt_s(2631)), var$5);
             ji_PrintStream_println1(var$4, jl_AbstractStringBuilder_toString(var$6));
             nle_EagRuntime_$callClinit();
             try {
-                $rt_throw(jl_Exception__init_($rt_s(2631)));
+                $rt_throw(jl_Exception__init_($rt_s(2632)));
             } catch ($$e) {
                 $$je = $rt_wrapException($$e);
                 if ($$je instanceof jl_Exception) {
@@ -199947,7 +199954,7 @@
                     break a;
                 }
             }
-            ji_PrintStream_println1(jl_System_out(), $rt_s(2632));
+            ji_PrintStream_println1(jl_System_out(), $rt_s(2633));
         }
     }
     function nms_Chunk_removeChunkBlockTileEntity($this, $var1, $var2, $var3) {
@@ -200756,10 +200763,10 @@
     }
     function nlei_EnumEaglerConnectionState__clinit_() {
         var var$1;
-        nlei_EnumEaglerConnectionState_CLOSED = nlei_EnumEaglerConnectionState__init_0($rt_s(2633), 0, 1, 0);
-        nlei_EnumEaglerConnectionState_CONNECTING = nlei_EnumEaglerConnectionState__init_0($rt_s(2634), 1, 0, 0);
-        nlei_EnumEaglerConnectionState_CONNECTED = nlei_EnumEaglerConnectionState__init_0($rt_s(2635), 2, 0, 1);
-        var$1 = nlei_EnumEaglerConnectionState__init_0($rt_s(2636), 3, 1, 0);
+        nlei_EnumEaglerConnectionState_CLOSED = nlei_EnumEaglerConnectionState__init_0($rt_s(2634), 0, 1, 0);
+        nlei_EnumEaglerConnectionState_CONNECTING = nlei_EnumEaglerConnectionState__init_0($rt_s(2635), 1, 0, 0);
+        nlei_EnumEaglerConnectionState_CONNECTED = nlei_EnumEaglerConnectionState__init_0($rt_s(2636), 2, 0, 1);
+        var$1 = nlei_EnumEaglerConnectionState__init_0($rt_s(2637), 3, 1, 0);
         nlei_EnumEaglerConnectionState_FAILED = var$1;
         nlei_EnumEaglerConnectionState_$VALUES = $rt_createArrayFromData(nlei_EnumEaglerConnectionState, [nlei_EnumEaglerConnectionState_CLOSED, nlei_EnumEaglerConnectionState_CONNECTING, nlei_EnumEaglerConnectionState_CONNECTED, var$1]);
     }
@@ -200789,12 +200796,12 @@
         var$3 = nlei_PlatformNetworking_logger;
         var$4 = $rt_createArray(jl_Object, 1);
         var$4.data[0] = $socketURI;
-        oall_Logger_error(var$3, $rt_s(2637), var$4);
+        oall_Logger_error(var$3, $rt_s(2638), var$4);
         oall_Logger_error1(nlei_PlatformNetworking_logger, $t);
         return null;
     }
     function nlei_PlatformNetworking__clinit_() {
-        nlei_PlatformNetworking_logger = oall_LogManager_getLogger($rt_s(2638));
+        nlei_PlatformNetworking_logger = oall_LogManager_getLogger($rt_s(2639));
     }
     function nms_GuiConnectFailed() {
         var a = this; nms_GuiScreen.call(a);
@@ -200822,7 +200829,7 @@
     function nms_GuiConnectFailed_keyTyped($this, $var1, $var2) {}
     function nms_GuiConnectFailed_initGui($this) {
         ju_ArrayList_clear($this.$controlList);
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 120 | 0) + 12 | 0, dceu_I18n_format($rt_s(2639))));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 120 | 0) + 12 | 0, dceu_I18n_format($rt_s(2640))));
     }
     function nms_GuiConnectFailed_actionPerformed($this, $var1) {
         var var$2, $ptr, $tmp;
@@ -200996,9 +201003,9 @@
         nms_GuiVideoSettings__clinit_();
     }
     function nms_GuiVideoSettings_initGui($this) {
-        var $var1, $var2, $var3, $var4, $var5, $var6, $b, var$8;
+        var $var1, $var2, $var3, $var4, $var5, $var6, $b;
         $var1 = nms_StringTranslate_getInstance();
-        $this.$field_22107_a = nms_StringTranslate_translateKey($var1, $rt_s(2640));
+        $this.$field_22107_a = nms_StringTranslate_translateKey($var1, $rt_s(2641));
         $var2 = 0;
         nms_GuiVideoSettings_$callClinit();
         $var3 = nms_GuiVideoSettings_videoOptions.data;
@@ -201009,12 +201016,6 @@
             $b = !$var6.$enumFloat ? nms_GuiSmallButton__init_2($var6.$ordinal0, (($this.$width2 / 2 | 0) - 155 | 0) + (($var2 % 2 | 0) * 160 | 0) | 0, ($this.$height4 / 6 | 0) + (24 * ($var2 >> 1) | 0) | 0, $var6, nms_GameSettings_getKeyBinding($this.$guiGameSettings, $var6)) : nms_GuiSlider__init_0($var6.$ordinal0, (($this.$width2 / 2 | 0) - 155 | 0) + (($var2 % 2 | 0) * 160 | 0) | 0, ($this.$height4 / 6 | 0) + (24 * ($var2 >> 1) | 0) | 0, $var6, nms_GameSettings_getKeyBinding($this.$guiGameSettings, $var6),
             nms_GameSettings_getOptionFloatValue($this.$guiGameSettings, $var6));
             ju_ArrayList_add($this.$controlList, $b);
-            if ($var5 == 5) {
-                var$8 = nle_EagRuntime_getPlatformType();
-                nlei_EnumPlatformType_$callClinit();
-                if (var$8 === nlei_EnumPlatformType_WASM_GC)
-                    $b.$enabled1 = 0;
-            }
             $var2 = $var2 + 1 | 0;
             $var5 = $var5 + 1 | 0;
         }
@@ -201184,7 +201185,7 @@
             $var3 = $var3 + 1 | 0;
         }
         ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(200, ($this.$width2 / 2 | 0) - 100 | 0, ($this.$height4 / 6 | 0) + 168 | 0, nms_StringTranslate_translateKey($var1, $rt_s(1975))));
-        $this.$screenTitle3 = nms_StringTranslate_translateKey($var1, $rt_s(2641));
+        $this.$screenTitle3 = nms_StringTranslate_translateKey($var1, $rt_s(2642));
     }
     function nms_GuiControls_actionPerformed($this, $var1) {
         var $var2, var$3, var$4, var$5, $ptr, $tmp;
@@ -201209,7 +201210,7 @@
                 var$3 = nms_GameSettings_getOptionDisplayString(var$3, var$4);
                 var$5 = new jl_StringBuilder;
                 jl_AbstractStringBuilder__init_(var$5);
-                jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$5, $rt_s(2064)), var$3), $rt_s(2611));
+                jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$5, $rt_s(2064)), var$3), $rt_s(2612));
                 $var1.$displayString = jl_AbstractStringBuilder_toString(var$5);
                 return;
             }
@@ -201341,7 +201342,7 @@
                 $var7 = $var7 + 1 | 0;
             }
             if ($this.$buttonId == $var5)
-                (ju_ArrayList_get($this.$controlList, $var5)).$displayString = $rt_s(2642);
+                (ju_ArrayList_get($this.$controlList, $var5)).$displayString = $rt_s(2643);
             else if (!$var6)
                 (ju_ArrayList_get($this.$controlList, $var5)).$displayString = nms_GameSettings_getOptionDisplayString($this.$options3, $var5);
             else {
@@ -201386,7 +201387,7 @@
                 $var7 = $var7 + 1 | 0;
             }
             if ($this.$buttonId == $var5)
-                (ju_ArrayList_get($this.$controlList, $var5)).$displayString = $rt_s(2642);
+                (ju_ArrayList_get($this.$controlList, $var5)).$displayString = $rt_s(2643);
             else if (!$var6)
                 (ju_ArrayList_get($this.$controlList, $var5)).$displayString = nms_GameSettings_getOptionDisplayString($this.$options3, $var5);
             else {
@@ -202089,12 +202090,12 @@
             $var5 = jt_DateFormat_format($this.$parentWorldGui.$dateFormatter, ju_Date__init_1($var6.$field_22169_c));
             $var11 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($var11);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($var11, $var8), $rt_s(2643)), $var5);
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($var11, $var8), $rt_s(2644)), $var5);
             $var11 = jl_AbstractStringBuilder_toString($var11);
             var$10 = Long_toNumber(Long_div(Long_mul(Long_div($var6.$field_22168_d, Long_fromInt(1024)), Long_fromInt(100)), Long_fromInt(1024))) / 100.0;
             $var5 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($var5);
-            jl_StringBuilder_append(jl_StringBuilder_append3(jl_StringBuilder_append(jl_StringBuilder_append($var5, $var11), $rt_s(109)), var$10), $rt_s(2644));
+            jl_StringBuilder_append(jl_StringBuilder_append3(jl_StringBuilder_append(jl_StringBuilder_append($var5, $var11), $rt_s(109)), var$10), $rt_s(2645));
             $var8 = jl_AbstractStringBuilder_toString($var5);
             if (!$var6.$field_22167_e)
                 $var5 = $this.$parentWorldGui.$field_35316_k.data[$var6.$field_35720_f];
@@ -202275,27 +202276,27 @@
             $var1 = nms_StringTranslate_getInstance();
             nlei_PlatformInput_enableRepeatEvents = 1;
             ju_ArrayList_clear($this.$controlList);
-            ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(0, ($this.$width2 / 2 | 0) - 155 | 0, $this.$height4 - 28 | 0, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2507))));
+            ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(0, ($this.$width2 / 2 | 0) - 155 | 0, $this.$height4 - 28 | 0, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2508))));
             ju_ArrayList_add($this.$controlList, nms_GuiButton__init_2(1, ($this.$width2 / 2 | 0) + 5 | 0, $this.$height4 - 28 | 0, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2056))));
             var$2 = $this.$controlList;
-            var$3 = nms_GuiButton__init_2(2, ($this.$width2 / 2 | 0) - 75 | 0, 100, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2645)));
+            var$3 = nms_GuiButton__init_2(2, ($this.$width2 / 2 | 0) - 75 | 0, 100, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2646)));
             $this.$field_35366_j = var$3;
             ju_ArrayList_add(var$2, var$3);
             var$4 = $this.$controlList;
-            var$2 = nms_GuiButton__init_2(3, ($this.$width2 / 2 | 0) - 75 | 0, 172, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2646)));
+            var$2 = nms_GuiButton__init_2(3, ($this.$width2 / 2 | 0) - 75 | 0, 172, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2647)));
             $this.$field_35367_k = var$2;
             ju_ArrayList_add(var$4, var$2);
             var$4 = $this.$controlList;
-            var$2 = nms_GuiButton__init_2(4, ($this.$width2 / 2 | 0) - 155 | 0, 100, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2647)));
+            var$2 = nms_GuiButton__init_2(4, ($this.$width2 / 2 | 0) - 155 | 0, 100, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2648)));
             $this.$field_35372_s = var$2;
             ju_ArrayList_add(var$4, var$2);
             $this.$field_35372_s.$enabled2 = 0;
             var$4 = $this.$controlList;
-            var$2 = nms_GuiButton__init_2(5, ($this.$width2 / 2 | 0) + 5 | 0, 100, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2648)));
+            var$2 = nms_GuiButton__init_2(5, ($this.$width2 / 2 | 0) + 5 | 0, 100, 150, 20, nms_StringTranslate_translateKey($var1, $rt_s(2649)));
             $this.$field_35371_t = var$2;
             ju_ArrayList_add(var$4, var$2);
             $this.$field_35371_t.$enabled2 = 0;
-            var$4 = nms_GuiTextField__init_0($this, $this.$fontRenderer1, ($this.$width2 / 2 | 0) - 100 | 0, 60, 200, 20, nms_StringTranslate_translateKey($var1, $rt_s(2649)));
+            var$4 = nms_GuiTextField__init_0($this, $this.$fontRenderer1, ($this.$width2 / 2 | 0) - 100 | 0, 60, 200, 20, nms_StringTranslate_translateKey($var1, $rt_s(2650)));
             $this.$textboxWorldName = var$4;
             var$4.$isFocused = 1;
             var$4.$maxStringLength = 32;
@@ -202332,7 +202333,7 @@
                 $var3 = $var3 + 1 | 0;
             }
             if (nms_MathHelper_stringNullOrLengthZero($this.$folderName))
-                $this.$folderName = $rt_s(2519);
+                $this.$folderName = $rt_s(2520);
             var$5 = $this.$mc3.$saveLoader;
             var$6 = $this.$folderName;
             var$7 = 45;
@@ -202360,11 +202361,11 @@
         var $var1, var$2, var$3, var$4, var$5;
         $var1 = nms_StringTranslate_getInstance();
         var$2 = $this.$field_35366_j;
-        var$3 = nms_StringTranslate_translateKey($var1, $rt_s(2645));
+        var$3 = nms_StringTranslate_translateKey($var1, $rt_s(2646));
         var$4 = $this.$field_35364_f;
         var$5 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$5);
-        jl_StringBuilder_append(jl_StringBuilder_append(var$5, $rt_s(2650)), var$4);
+        jl_StringBuilder_append(jl_StringBuilder_append(var$5, $rt_s(2651)), var$4);
         var$4 = nms_StringTranslate_translateKey($var1, jl_AbstractStringBuilder_toString(var$5));
         var$5 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$5);
@@ -202375,15 +202376,15 @@
         var$3 = $this.$field_35364_f;
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2650)), var$3), $rt_s(2651));
+        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2651)), var$3), $rt_s(2652));
         $this.$field_35370_u = nms_StringTranslate_translateKey($var1, jl_AbstractStringBuilder_toString(var$2));
         var$3 = $this.$field_35364_f;
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2650)), var$3), $rt_s(2652));
+        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2651)), var$3), $rt_s(2653));
         $this.$field_35369_v = nms_StringTranslate_translateKey($var1, jl_AbstractStringBuilder_toString(var$2));
         var$3 = $this.$field_35372_s;
-        var$2 = nms_StringTranslate_translateKey($var1, $rt_s(2647));
+        var$2 = nms_StringTranslate_translateKey($var1, $rt_s(2648));
         var$4 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$4);
         jl_AbstractStringBuilder_append(jl_StringBuilder_append(var$4, var$2), 32);
@@ -202406,11 +202407,11 @@
             var$3.$displayString = jl_AbstractStringBuilder_toString(var$5);
         }
         var$3 = $this.$field_35371_t;
-        var$2 = nms_StringTranslate_translateKey($var1, $rt_s(2648));
+        var$2 = nms_StringTranslate_translateKey($var1, $rt_s(2649));
         var$4 = (nms_EnumWorldType_values()).data[$this.$worldType1].$field_46139_c;
         var$5 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$5);
-        jl_StringBuilder_append(jl_StringBuilder_append(var$5, $rt_s(2653)), var$4);
+        jl_StringBuilder_append(jl_StringBuilder_append(var$5, $rt_s(2654)), var$4);
         $var1 = nms_StringTranslate_translateKey($var1, jl_AbstractStringBuilder_toString(var$5));
         var$4 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$4);
@@ -202447,10 +202448,10 @@
                 }
                 if (var$2 != 3) {
                     if (var$2 == 2) {
-                        if (!jl_String_equals($this.$field_35364_f, $rt_s(2512)))
-                            $this.$field_35364_f = $rt_s(2512);
+                        if (!jl_String_equals($this.$field_35364_f, $rt_s(2513)))
+                            $this.$field_35364_f = $rt_s(2513);
                         else
-                            $this.$field_35364_f = $rt_s(2654);
+                            $this.$field_35364_f = $rt_s(2655);
                         nms_GuiCreateWorld_func_35363_g($this);
                     } else if (var$2 == 4) {
                         $this.$field_35365_g = $this.$field_35365_g ? 0 : 1;
@@ -202469,7 +202470,7 @@
                     $this.$field_35372_s.$enabled2 = $var9;
                     $this.$field_35371_t.$enabled2 = $var9;
                     if (!$var9)
-                        $this.$field_35367_k.$displayString = nms_StringTranslate_translateKey(nms_StringTranslate_getInstance(), $rt_s(2646));
+                        $this.$field_35367_k.$displayString = nms_StringTranslate_translateKey(nms_StringTranslate_getInstance(), $rt_s(2647));
                     else
                         $this.$field_35367_k.$displayString = nms_StringTranslate_translateKey(nms_StringTranslate_getInstance(), $rt_s(1975));
                 }
@@ -202511,7 +202512,7 @@
                 }
             }
             $var9 = 0;
-            if (!jl_String_equals($this.$field_35364_f, $rt_s(2654))) {
+            if (!jl_String_equals($this.$field_35364_f, $rt_s(2655))) {
                 $var1 = $this.$mc3;
                 $var1.$playerController = nms_PlayerControllerSP__init_0($var1);
             } else {
@@ -202653,7 +202654,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2507));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2508));
             var$7 = $this.$width2 / 2 | 0;
             var$8 = 20;
             var$9 = 16777215;
@@ -202665,7 +202666,7 @@
             }
             if ($this.$field_35368_i) {
                 var$5 = $this.$fontRenderer1;
-                var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2655));
+                var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2656));
                 var$7 = ($this.$width2 / 2 | 0) - 100 | 0;
                 var$8 = 47;
                 var$9 = 10526880;
@@ -202673,7 +202674,7 @@
                 continue main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2656));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2657));
             var$7 = ($this.$width2 / 2 | 0) - 100 | 0;
             var$8 = 47;
             var$9 = 10526880;
@@ -202685,7 +202686,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2657));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2658));
             var$7 = ($this.$width2 / 2 | 0) - 100 | 0;
             var$8 = 85;
             var$9 = 10526880;
@@ -202696,7 +202697,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2658));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2659));
             var$7 = ($this.$width2 / 2 | 0) - 150 | 0;
             var$8 = 122;
             var$9 = 10526880;
@@ -202721,7 +202722,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2659));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2660));
             $var4 = $this.$folderName;
             var$10 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$10);
@@ -202810,7 +202811,7 @@
             $var1 = nms_StringTranslate_getInstance();
             nlei_PlatformInput_enableRepeatEvents = 1;
             ju_ArrayList_clear($this.$controlList);
-            ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 96 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2660))));
+            ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 96 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2661))));
             ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(1, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 120 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2056))));
             $var2 = $this.$mc3.$saveLoader;
             $var1 = $this.$worldName;
@@ -202905,7 +202906,7 @@
                 }
                 var$5 = $tmp;
                 var$5 = nms_CompressedStreamTools_loadGzippedCompoundFromOutputStream(var$5);
-                nms_NBTTagCompound_setString(nms_NBTTagCompound_getCompoundTag(var$5, $rt_s(273)), $rt_s(2661), var$3);
+                nms_NBTTagCompound_setString(nms_NBTTagCompound_getCompoundTag(var$5, $rt_s(273)), $rt_s(2662), var$3);
                 $var1 = nleiv_VFile2_getOutputStream($var1);
                 $ptr = 5;
                 continue main;
@@ -203017,7 +203018,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2662));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2663));
             var$7 = $this.$width2 / 2 | 0;
             var$8 = (($this.$height4 / 4 | 0) - 60 | 0) + 20 | 0;
             var$9 = 16777215;
@@ -203028,7 +203029,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2656));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2657));
             var$7 = ($this.$width2 / 2 | 0) - 100 | 0;
             var$8 = 47;
             var$9 = 10526880;
@@ -203201,7 +203202,7 @@
             }
             $addr = $var6.$field_35793_b;
             if ($var6.$hideAddress0)
-                $addr = dceu_I18n_format($rt_s(2663));
+                $addr = dceu_I18n_format($rt_s(2664));
             $var5 = $this.$field_35410_a;
             $var7 = $var5.$fontRenderer1;
             $var4 = $var4 + 11 | 0;
@@ -203229,17 +203230,17 @@
                 $var14 = Long_lo(Long_and(Long_add(Long_div(jl_System_currentTimeMillis(), Long_fromInt(100)), Long_fromInt($var1 * 2 | 0)), Long_fromInt(7)));
                 if ($var14 > 4)
                     $var14 = 8 - $var14 | 0;
-                $var5 = $rt_s(2664);
+                $var5 = $rt_s(2665);
             } else {
                 $var13 = 0;
                 $var1 = Long_compare(var$12, Long_ZERO);
                 $var14 = $var1 < 0 ? 5 : Long_lt(var$12, Long_fromInt(150)) ? 0 : Long_lt(var$12, Long_fromInt(300)) ? 1 : Long_lt(var$12, Long_fromInt(600)) ? 2 : Long_ge(var$12, Long_fromInt(1000)) ? 4 : 3;
                 if ($var1 < 0)
-                    $var5 = dceu_I18n_format($rt_s(2665));
+                    $var5 = dceu_I18n_format($rt_s(2666));
                 else {
                     $var5 = new jl_StringBuilder;
                     jl_AbstractStringBuilder__init_($var5);
-                    jl_StringBuilder_append(jl_StringBuilder_append0($var5, var$12), $rt_s(2666));
+                    jl_StringBuilder_append(jl_StringBuilder_append0($var5, var$12), $rt_s(2667));
                     $var5 = jl_AbstractStringBuilder_toString($var5);
                 }
             }
@@ -203294,13 +203295,13 @@
     function nms_ServerNBTStorage_func_35789_a($this) {
         var $var1;
         $var1 = nms_NBTTagCompound__init_();
-        nms_NBTTagCompound_setString($var1, $rt_s(2667), $this.$field_35795_a);
-        nms_NBTTagCompound_setString($var1, $rt_s(2668), $this.$field_35793_b);
-        nms_NBTTagCompound_setBoolean($var1, $rt_s(2669), $this.$hideAddress0);
+        nms_NBTTagCompound_setString($var1, $rt_s(2668), $this.$field_35795_a);
+        nms_NBTTagCompound_setString($var1, $rt_s(2669), $this.$field_35793_b);
+        nms_NBTTagCompound_setBoolean($var1, $rt_s(2670), $this.$hideAddress0);
         return $var1;
     }
     function nms_ServerNBTStorage_func_35788_a($var0) {
-        return nms_ServerNBTStorage__init_1(nms_NBTTagCompound_getString($var0, $rt_s(2667)), nms_NBTTagCompound_getString($var0, $rt_s(2668)), nms_NBTTagCompound_getBoolean($var0, $rt_s(2669)));
+        return nms_ServerNBTStorage__init_1(nms_NBTTagCompound_getString($var0, $rt_s(2668)), nms_NBTTagCompound_getString($var0, $rt_s(2669)), nms_NBTTagCompound_getBoolean($var0, $rt_s(2670)));
     }
     function nms_GuiScreenServerList() {
         var a = this; nms_GuiScreen.call(a);
@@ -203316,7 +203317,7 @@
         $var1 = nms_StringTranslate_getInstance();
         nlei_PlatformInput_enableRepeatEvents = 1;
         ju_ArrayList_clear($this.$controlList);
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 96 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2531))));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 96 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2532))));
         ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(1, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 120 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2056))));
         $var1 = nms_GuiTextField__init_0($this, $this.$fontRenderer1, ($this.$width2 / 2 | 0) - 100 | 0, 116, 200, 20, $this.$field_35318_c.$field_35793_b);
         $this.$field_35317_b = $var1;
@@ -203441,7 +203442,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2532));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2533));
             var$7 = $this.$width2 / 2 | 0;
             var$8 = (($this.$height4 / 4 | 0) - 60 | 0) + 20 | 0;
             var$9 = 16777215;
@@ -203452,7 +203453,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2670));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2671));
             var$7 = ($this.$width2 / 2 | 0) - 100 | 0;
             var$8 = 100;
             var$9 = 10526880;
@@ -203510,7 +203511,7 @@
         nlei_PlatformInput_enableRepeatEvents = 1;
         ju_ArrayList_clear($this.$controlList);
         var$2 = $this.$controlList;
-        var$3 = nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 96 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2671)));
+        var$3 = nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 96 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2672)));
         ju_ArrayList_add(var$2, var$3);
         var$4 = $this.$controlList;
         var$5 = nms_GuiButton__init_1(1, ($this.$width2 / 2 | 0) - 100 | 0, (($this.$height4 / 4 | 0) + 120 | 0) + 12 | 0, nms_StringTranslate_translateKey($var1, $rt_s(2056)));
@@ -203532,8 +203533,8 @@
         $var1 = $this.$controlList;
         var$3 = new nms_GuiButton;
         var$7 = ($this.$width2 / 2 | 0) - 100 | 0;
-        var$4 = dceu_I18n_format($rt_s(2672));
-        var$2 = nms_StringTranslate_translateKey($this.$translate, !$this.$field_35359_d.$hideAddress0 ? $rt_s(2673) : $rt_s(2674));
+        var$4 = dceu_I18n_format($rt_s(2673));
+        var$2 = nms_StringTranslate_translateKey($this.$translate, !$this.$field_35359_d.$hideAddress0 ? $rt_s(2674) : $rt_s(2675));
         var$5 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$5);
         jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$5, var$4), $rt_s(6)), var$2);
@@ -203577,8 +203578,8 @@
                     $var1 = $this.$field_35359_d;
                     $var1.$hideAddress0 = $var1.$hideAddress0 ? 0 : 1;
                     $var1 = $this.$hideAddress1;
-                    var$4 = dceu_I18n_format($rt_s(2672));
-                    var$5 = nms_StringTranslate_translateKey($this.$translate, !$this.$field_35359_d.$hideAddress0 ? $rt_s(2673) : $rt_s(2674));
+                    var$4 = dceu_I18n_format($rt_s(2673));
+                    var$5 = nms_StringTranslate_translateKey($this.$translate, !$this.$field_35359_d.$hideAddress0 ? $rt_s(2674) : $rt_s(2675));
                     var$6 = new jl_StringBuilder;
                     jl_AbstractStringBuilder__init_(var$6);
                     jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$6, var$4), $rt_s(6)), var$5);
@@ -203691,7 +203692,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2675));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2676));
             var$7 = $this.$width2 / 2 | 0;
             var$8 = (($this.$height4 / 4 | 0) - 60 | 0) + 20 | 0;
             var$9 = 16777215;
@@ -203702,7 +203703,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2676));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2677));
             var$7 = ($this.$width2 / 2 | 0) - 100 | 0;
             var$8 = 63;
             var$9 = 10526880;
@@ -203713,7 +203714,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2670));
+            var$6 = nms_StringTranslate_translateKey($var4, $rt_s(2671));
             var$7 = ($this.$width2 / 2 | 0) - 100 | 0;
             var$8 = 104;
             var$9 = 10526880;
@@ -203729,7 +203730,7 @@
                 continue main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = dceu_I18n_format($rt_s(2677));
+            var$6 = dceu_I18n_format($rt_s(2678));
             var$7 = $this.$width2 / 2 | 0;
             var$8 = 174;
             var$9 = 13421823;
@@ -203760,7 +203761,7 @@
                 break main;
             }
             var$5 = $this.$fontRenderer1;
-            var$6 = dceu_I18n_format($rt_s(2678));
+            var$6 = dceu_I18n_format($rt_s(2679));
             var$7 = $this.$width2 / 2 | 0;
             var$8 = 186;
             var$9 = 13421823;
@@ -204663,7 +204664,7 @@
         $rt_nativeThread().push($this, $var1, $var2, $var3, $var4, $var5, $var6, $var7, var$8, $ptr);
     }
     function nms_GuiSlotStatsItem_func_27263_a($this, $var1) {
-        return $var1 == 1 ? $rt_s(2679) : $var1 != 2 ? $rt_s(2680) : $rt_s(2681);
+        return $var1 == 1 ? $rt_s(2680) : $var1 != 2 ? $rt_s(2681) : $rt_s(2682);
     }
     function nms_GuiSlotStatsBlock() {
         nms_GuiSlotStats.call(this);
@@ -204853,7 +204854,7 @@
         $rt_nativeThread().push($this, $var1, $var2, $var3, $var4, $var5, $var6, $var7, var$8, $ptr);
     }
     function nms_GuiSlotStatsBlock_func_27263_a($this, $var1) {
-        return !$var1 ? $rt_s(2679) : $var1 != 1 ? $rt_s(2682) : $rt_s(2681);
+        return !$var1 ? $rt_s(2680) : $var1 != 1 ? $rt_s(2683) : $rt_s(2682);
     }
     function nlei_VFSFilenameIteratorNonRecursive() {
         var a = this; jl_Object.call(a);
@@ -204922,22 +204923,22 @@
     }
     function nms_MapData_readFromNBT($this, $var1) {
         var $var2, $var3, $var4, var$5, var$6, $var5, $var6, $var7, $var8, $var9, var$12, $var10;
-        $this.$field_28178_d = nms_NBTTagCompound_getByte($var1, $rt_s(2683));
-        $this.$field_28180_b = nms_NBTTagCompound_getInteger($var1, $rt_s(2684));
-        $this.$field_28179_c = nms_NBTTagCompound_getInteger($var1, $rt_s(2685));
-        $var2 = nms_NBTTagCompound_getByte($var1, $rt_s(2686));
+        $this.$field_28178_d = nms_NBTTagCompound_getByte($var1, $rt_s(2684));
+        $this.$field_28180_b = nms_NBTTagCompound_getInteger($var1, $rt_s(2685));
+        $this.$field_28179_c = nms_NBTTagCompound_getInteger($var1, $rt_s(2686));
+        $var2 = nms_NBTTagCompound_getByte($var1, $rt_s(2687));
         $this.$field_28177_e = $var2;
         if ($var2 < 0)
             $this.$field_28177_e = 0;
         if ($this.$field_28177_e > 4)
             $this.$field_28177_e = 4;
         a: {
-            $var2 = nms_NBTTagCompound_getShort($var1, $rt_s(2687));
-            $var3 = nms_NBTTagCompound_getShort($var1, $rt_s(2688));
+            $var2 = nms_NBTTagCompound_getShort($var1, $rt_s(2688));
+            $var3 = nms_NBTTagCompound_getShort($var1, $rt_s(2689));
             if ($var2 == 128 && $var3 == 128)
-                $this.$field_28176_f = nms_NBTTagCompound_getByteArray($var1, $rt_s(2689));
+                $this.$field_28176_f = nms_NBTTagCompound_getByteArray($var1, $rt_s(2690));
             else {
-                $var4 = nms_NBTTagCompound_getByteArray($var1, $rt_s(2689));
+                $var4 = nms_NBTTagCompound_getByteArray($var1, $rt_s(2690));
                 var$5 = $rt_createByteArray(16384);
                 var$6 = var$5.data;
                 $this.$field_28176_f = var$5;
@@ -204968,13 +204969,13 @@
         }
     }
     function nms_MapData_writeToNBT($this, $var1) {
-        nms_NBTTagCompound_setByte($var1, $rt_s(2683), $this.$field_28178_d);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2684), $this.$field_28180_b);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2685), $this.$field_28179_c);
-        nms_NBTTagCompound_setByte($var1, $rt_s(2686), $this.$field_28177_e);
-        nms_NBTTagCompound_setShort($var1, $rt_s(2687), 128);
+        nms_NBTTagCompound_setByte($var1, $rt_s(2684), $this.$field_28178_d);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2685), $this.$field_28180_b);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2686), $this.$field_28179_c);
+        nms_NBTTagCompound_setByte($var1, $rt_s(2687), $this.$field_28177_e);
         nms_NBTTagCompound_setShort($var1, $rt_s(2688), 128);
-        nms_NBTTagCompound_setByteArray($var1, $rt_s(2689), $this.$field_28176_f);
+        nms_NBTTagCompound_setShort($var1, $rt_s(2689), 128);
+        nms_NBTTagCompound_setByteArray($var1, $rt_s(2690), $this.$field_28176_f);
     }
     function nms_MapData_func_28169_a($this, $var1, $var2) {
         var $var3, var$4, var$5, var$6, $var14, $var9, $var4, $var13, $var5, $var6, $var10, $var11, $var12, var$16;
@@ -205126,7 +205127,7 @@
         jm_MathContext_$callClinit();
         if ($precision < 0) {
             $roundingMode = new jl_IllegalArgumentException;
-            jl_Throwable__init_($roundingMode, $rt_s(2690));
+            jl_Throwable__init_($roundingMode, $rt_s(2691));
             $rt_throw($roundingMode);
         }
         if ($roundingMode !== null) {
@@ -205135,7 +205136,7 @@
             return;
         }
         var$3 = new jl_NullPointerException;
-        jl_Throwable__init_(var$3, $rt_s(2691));
+        jl_Throwable__init_(var$3, $rt_s(2692));
         $rt_throw(var$3);
     }
     function jm_MathContext__clinit_() {
@@ -205171,7 +205172,7 @@
         $inMemory = otrfm_VirtualFileImpl_findInMemory($this);
         if ($inMemory === null) {
             $inMemory = new ji_IOException;
-            jl_Throwable__init_($inMemory, $rt_s(2692));
+            jl_Throwable__init_($inMemory, $rt_s(2693));
             $rt_throw($inMemory);
         }
         return $inMemory.$createFile0($fileName) === null ? 0 : 1;
@@ -205213,7 +205214,7 @@
     }
     function nms_J_ArrayNodeContainer_func_27289_a($this, $var1) {
         $var1 = new jl_RuntimeException;
-        jl_Throwable__init_($var1, $rt_s(2693));
+        jl_Throwable__init_($var1, $rt_s(2694));
         $rt_throw($var1);
     }
     function nms_J_ObjectNodeContainer() {
@@ -205223,7 +205224,7 @@
     }
     function nms_J_ObjectNodeContainer_func_27290_a($this, $var1) {
         $var1 = new jl_RuntimeException;
-        jl_Throwable__init_($var1, $rt_s(2694));
+        jl_Throwable__init_($var1, $rt_s(2695));
         $rt_throw($var1);
     }
     function nms_J_ObjectNodeContainer_func_27289_a($this, $var1) {
@@ -205244,7 +205245,7 @@
     }
     function nms_J_FieldNodeContainer_func_27289_a($this, $var1) {
         $var1 = new jl_RuntimeException;
-        jl_Throwable__init_($var1, $rt_s(2695));
+        jl_Throwable__init_($var1, $rt_s(2696));
         $rt_throw($var1);
     }
     var nlei_PlatformApplication$FileChooserCallback = $rt_classWithoutFields(0);
@@ -205342,7 +205343,7 @@
             $var1 = jl_System_out();
             $var3 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($var3);
-            jl_AbstractStringBuilder_append0(jl_StringBuilder_append($var3, $rt_s(2696)), $var0);
+            jl_AbstractStringBuilder_append0(jl_StringBuilder_append($var3, $rt_s(2697)), $var0);
             ji_PrintStream_println1($var1, jl_AbstractStringBuilder_toString($var3));
         }
         return $var2;
@@ -205358,33 +205359,33 @@
         nms_EntityList_classToIDMapping = ju_HashMap__init_();
         nms_EntityList_stringToIDMapping = ju_HashMap__init_();
         nms_EntityList_addMapping($rt_cls(nms_EntityItem), new nms_EntityList$_clinit_$lambda$_8_0, $rt_s(2304), 1);
-        nms_EntityList_addMapping($rt_cls(nms_EntityXPOrb), new nms_EntityList$_clinit_$lambda$_8_1, $rt_s(2697), 2);
-        nms_EntityList_addMapping($rt_cls(nms_EntityArrow), new nms_EntityList$_clinit_$lambda$_8_2, $rt_s(2698), 10);
-        nms_EntityList_addMapping($rt_cls(nms_EntitySnowball), new nms_EntityList$_clinit_$lambda$_8_3, $rt_s(2699), 11);
-        nms_EntityList_addMapping($rt_cls(nms_EntityPainting), new nms_EntityList$_clinit_$lambda$_8_4, $rt_s(2700), 9);
-        nms_EntityList_addMapping($rt_cls(nms_EntityLiving), new nms_EntityList$_clinit_$lambda$_8_5, $rt_s(2701), 48);
-        nms_EntityList_addMapping($rt_cls(nms_EntityMob), new nms_EntityList$_clinit_$lambda$_8_6, $rt_s(2702), 49);
+        nms_EntityList_addMapping($rt_cls(nms_EntityXPOrb), new nms_EntityList$_clinit_$lambda$_8_1, $rt_s(2698), 2);
+        nms_EntityList_addMapping($rt_cls(nms_EntityArrow), new nms_EntityList$_clinit_$lambda$_8_2, $rt_s(2699), 10);
+        nms_EntityList_addMapping($rt_cls(nms_EntitySnowball), new nms_EntityList$_clinit_$lambda$_8_3, $rt_s(2700), 11);
+        nms_EntityList_addMapping($rt_cls(nms_EntityPainting), new nms_EntityList$_clinit_$lambda$_8_4, $rt_s(2701), 9);
+        nms_EntityList_addMapping($rt_cls(nms_EntityLiving), new nms_EntityList$_clinit_$lambda$_8_5, $rt_s(2702), 48);
+        nms_EntityList_addMapping($rt_cls(nms_EntityMob), new nms_EntityList$_clinit_$lambda$_8_6, $rt_s(2703), 49);
         nms_EntityList_addMapping($rt_cls(nms_EntityCreeper), new nms_EntityList$_clinit_$lambda$_8_7, $rt_s(2007), 50);
-        nms_EntityList_addMapping($rt_cls(nms_EntitySkeleton), new nms_EntityList$_clinit_$lambda$_8_8, $rt_s(2703), 51);
-        nms_EntityList_addMapping($rt_cls(nms_EntitySpider), new nms_EntityList$_clinit_$lambda$_8_9, $rt_s(2704), 52);
-        nms_EntityList_addMapping($rt_cls(nms_EntityGiantZombie), new nms_EntityList$_clinit_$lambda$_8_10, $rt_s(2705), 53);
+        nms_EntityList_addMapping($rt_cls(nms_EntitySkeleton), new nms_EntityList$_clinit_$lambda$_8_8, $rt_s(2704), 51);
+        nms_EntityList_addMapping($rt_cls(nms_EntitySpider), new nms_EntityList$_clinit_$lambda$_8_9, $rt_s(2705), 52);
+        nms_EntityList_addMapping($rt_cls(nms_EntityGiantZombie), new nms_EntityList$_clinit_$lambda$_8_10, $rt_s(2706), 53);
         nms_EntityList_addMapping($rt_cls(nms_EntityZombie), new nms_EntityList$_clinit_$lambda$_8_11, $rt_s(2008), 54);
         nms_EntityList_addMapping($rt_cls(nms_EntitySlime), new nms_EntityList$_clinit_$lambda$_8_12, $rt_s(2005), 55);
-        nms_EntityList_addMapping($rt_cls(nms_EntityGhast), new nms_EntityList$_clinit_$lambda$_8_13, $rt_s(2706), 56);
-        nms_EntityList_addMapping($rt_cls(nms_EntityPigZombie), new nms_EntityList$_clinit_$lambda$_8_14, $rt_s(2707), 57);
-        nms_EntityList_addMapping($rt_cls(nms_EntityEnderman), new nms_EntityList$_clinit_$lambda$_8_15, $rt_s(2708), 58);
-        nms_EntityList_addMapping($rt_cls(nms_EntityCaveSpider), new nms_EntityList$_clinit_$lambda$_8_16, $rt_s(2709), 59);
-        nms_EntityList_addMapping($rt_cls(nms_EntitySilverfish), new nms_EntityList$_clinit_$lambda$_8_17, $rt_s(2710), 60);
+        nms_EntityList_addMapping($rt_cls(nms_EntityGhast), new nms_EntityList$_clinit_$lambda$_8_13, $rt_s(2707), 56);
+        nms_EntityList_addMapping($rt_cls(nms_EntityPigZombie), new nms_EntityList$_clinit_$lambda$_8_14, $rt_s(2708), 57);
+        nms_EntityList_addMapping($rt_cls(nms_EntityEnderman), new nms_EntityList$_clinit_$lambda$_8_15, $rt_s(2709), 58);
+        nms_EntityList_addMapping($rt_cls(nms_EntityCaveSpider), new nms_EntityList$_clinit_$lambda$_8_16, $rt_s(2710), 59);
+        nms_EntityList_addMapping($rt_cls(nms_EntitySilverfish), new nms_EntityList$_clinit_$lambda$_8_17, $rt_s(2711), 60);
         nms_EntityList_addMapping($rt_cls(nms_EntityPig), new nms_EntityList$_clinit_$lambda$_8_18, $rt_s(2009), 90);
-        nms_EntityList_addMapping($rt_cls(nms_EntitySheep), new nms_EntityList$_clinit_$lambda$_8_19, $rt_s(2711), 91);
-        nms_EntityList_addMapping($rt_cls(nms_EntityCow), new nms_EntityList$_clinit_$lambda$_8_20, $rt_s(2712), 92);
-        nms_EntityList_addMapping($rt_cls(nms_EntityChicken), new nms_EntityList$_clinit_$lambda$_8_21, $rt_s(2713), 93);
+        nms_EntityList_addMapping($rt_cls(nms_EntitySheep), new nms_EntityList$_clinit_$lambda$_8_19, $rt_s(2712), 91);
+        nms_EntityList_addMapping($rt_cls(nms_EntityCow), new nms_EntityList$_clinit_$lambda$_8_20, $rt_s(2713), 92);
+        nms_EntityList_addMapping($rt_cls(nms_EntityChicken), new nms_EntityList$_clinit_$lambda$_8_21, $rt_s(2714), 93);
         nms_EntityList_addMapping($rt_cls(nms_EntitySquid), new nms_EntityList$_clinit_$lambda$_8_22, $rt_s(2010), 94);
-        nms_EntityList_addMapping($rt_cls(nms_EntityWolf), new nms_EntityList$_clinit_$lambda$_8_23, $rt_s(2714), 95);
-        nms_EntityList_addMapping($rt_cls(nms_EntityTNTPrimed), new nms_EntityList$_clinit_$lambda$_8_24, $rt_s(2715), 20);
-        nms_EntityList_addMapping($rt_cls(nms_EntityFallingSand), new nms_EntityList$_clinit_$lambda$_8_25, $rt_s(2716), 21);
+        nms_EntityList_addMapping($rt_cls(nms_EntityWolf), new nms_EntityList$_clinit_$lambda$_8_23, $rt_s(2715), 95);
+        nms_EntityList_addMapping($rt_cls(nms_EntityTNTPrimed), new nms_EntityList$_clinit_$lambda$_8_24, $rt_s(2716), 20);
+        nms_EntityList_addMapping($rt_cls(nms_EntityFallingSand), new nms_EntityList$_clinit_$lambda$_8_25, $rt_s(2717), 21);
         nms_EntityList_addMapping($rt_cls(nms_EntityMinecart), new nms_EntityList$_clinit_$lambda$_8_26, $rt_s(2315), 40);
-        nms_EntityList_addMapping($rt_cls(nms_EntityBoat), new nms_EntityList$_clinit_$lambda$_8_27, $rt_s(2717), 41);
+        nms_EntityList_addMapping($rt_cls(nms_EntityBoat), new nms_EntityList$_clinit_$lambda$_8_27, $rt_s(2718), 41);
     }
     function cjj_StaticCodeBook() {
         var a = this; jl_Object.call(a);
@@ -205675,9 +205676,9 @@
         var var$2, var$3, var$4, var$5, var$6;
         nms_EnumWorldType_$callClinit();
         $this.$worldType0 = nms_EnumWorldType_NORMAL;
-        $this.$randomSeed = nms_NBTTagCompound_getLong($var1, $rt_s(2718));
-        if (nms_NBTTagCompound_hasKey($var1, $rt_s(2719))) {
-            var$2 = nms_NBTTagCompound_getString($var1, $rt_s(2719));
+        $this.$randomSeed = nms_NBTTagCompound_getLong($var1, $rt_s(2719));
+        if (nms_NBTTagCompound_hasKey($var1, $rt_s(2720))) {
+            var$2 = nms_NBTTagCompound_getString($var1, $rt_s(2720));
             var$3 = (nms_EnumWorldType_values()).data;
             var$4 = var$3.length;
             var$5 = 0;
@@ -205697,23 +205698,23 @@
             if (var$6 === null)
                 $this.$worldType0 = nms_EnumWorldType_NORMAL;
         }
-        $this.$field_35920_p = nms_NBTTagCompound_getInteger($var1, $rt_s(2720));
-        if (!nms_NBTTagCompound_hasKey($var1, $rt_s(2721)))
+        $this.$field_35920_p = nms_NBTTagCompound_getInteger($var1, $rt_s(2721));
+        if (!nms_NBTTagCompound_hasKey($var1, $rt_s(2722)))
             $this.$field_35919_q = 1;
         else
-            $this.$field_35919_q = nms_NBTTagCompound_getBoolean($var1, $rt_s(2721));
+            $this.$field_35919_q = nms_NBTTagCompound_getBoolean($var1, $rt_s(2722));
         $this.$spawnX = nms_NBTTagCompound_getInteger($var1, $rt_s(1724));
         $this.$spawnY = nms_NBTTagCompound_getInteger($var1, $rt_s(1725));
         $this.$spawnZ = nms_NBTTagCompound_getInteger($var1, $rt_s(1726));
-        $this.$worldTime = nms_NBTTagCompound_getLong($var1, $rt_s(2722));
-        $this.$lastTimePlayed = nms_NBTTagCompound_getLong($var1, $rt_s(2723));
-        $this.$sizeOnDisk = nms_NBTTagCompound_getLong($var1, $rt_s(2724));
-        $this.$levelName0 = nms_NBTTagCompound_getString($var1, $rt_s(2661));
-        $this.$saveVersion = nms_NBTTagCompound_getInteger($var1, $rt_s(2725));
-        $this.$rainTime = nms_NBTTagCompound_getInteger($var1, $rt_s(2726));
-        $this.$raining = nms_NBTTagCompound_getBoolean($var1, $rt_s(2727));
-        $this.$thunderTime = nms_NBTTagCompound_getInteger($var1, $rt_s(2728));
-        $this.$thundering = nms_NBTTagCompound_getBoolean($var1, $rt_s(2729));
+        $this.$worldTime = nms_NBTTagCompound_getLong($var1, $rt_s(2723));
+        $this.$lastTimePlayed = nms_NBTTagCompound_getLong($var1, $rt_s(2724));
+        $this.$sizeOnDisk = nms_NBTTagCompound_getLong($var1, $rt_s(2725));
+        $this.$levelName0 = nms_NBTTagCompound_getString($var1, $rt_s(2662));
+        $this.$saveVersion = nms_NBTTagCompound_getInteger($var1, $rt_s(2726));
+        $this.$rainTime = nms_NBTTagCompound_getInteger($var1, $rt_s(2727));
+        $this.$raining = nms_NBTTagCompound_getBoolean($var1, $rt_s(2728));
+        $this.$thunderTime = nms_NBTTagCompound_getInteger($var1, $rt_s(2729));
+        $this.$thundering = nms_NBTTagCompound_getBoolean($var1, $rt_s(2730));
         if (nms_NBTTagCompound_hasKey($var1, $rt_s(222))) {
             $var1 = nms_NBTTagCompound_getCompoundTag($var1, $rt_s(222));
             $this.$playerTag = $var1;
@@ -205730,22 +205731,22 @@
         $this.$worldType0 = $var1.$worldType2;
     }
     function nms_WorldInfo_updateTagCompound($this, $var1, $var2) {
-        nms_NBTTagCompound_setLong($var1, $rt_s(2718), $this.$randomSeed);
-        nms_NBTTagCompound_setString($var1, $rt_s(2719), $this.$worldType0.$name3);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2720), $this.$field_35920_p);
-        nms_NBTTagCompound_setBoolean($var1, $rt_s(2721), $this.$field_35919_q);
+        nms_NBTTagCompound_setLong($var1, $rt_s(2719), $this.$randomSeed);
+        nms_NBTTagCompound_setString($var1, $rt_s(2720), $this.$worldType0.$name3);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2721), $this.$field_35920_p);
+        nms_NBTTagCompound_setBoolean($var1, $rt_s(2722), $this.$field_35919_q);
         nms_NBTTagCompound_setInteger($var1, $rt_s(1724), $this.$spawnX);
         nms_NBTTagCompound_setInteger($var1, $rt_s(1725), $this.$spawnY);
         nms_NBTTagCompound_setInteger($var1, $rt_s(1726), $this.$spawnZ);
-        nms_NBTTagCompound_setLong($var1, $rt_s(2722), $this.$worldTime);
-        nms_NBTTagCompound_setLong($var1, $rt_s(2724), $this.$sizeOnDisk);
-        nms_NBTTagCompound_setLong($var1, $rt_s(2723), jl_System_currentTimeMillis());
-        nms_NBTTagCompound_setString($var1, $rt_s(2661), $this.$levelName0);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2725), $this.$saveVersion);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2726), $this.$rainTime);
-        nms_NBTTagCompound_setBoolean($var1, $rt_s(2727), $this.$raining);
-        nms_NBTTagCompound_setInteger($var1, $rt_s(2728), $this.$thunderTime);
-        nms_NBTTagCompound_setBoolean($var1, $rt_s(2729), $this.$thundering);
+        nms_NBTTagCompound_setLong($var1, $rt_s(2723), $this.$worldTime);
+        nms_NBTTagCompound_setLong($var1, $rt_s(2725), $this.$sizeOnDisk);
+        nms_NBTTagCompound_setLong($var1, $rt_s(2724), jl_System_currentTimeMillis());
+        nms_NBTTagCompound_setString($var1, $rt_s(2662), $this.$levelName0);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2726), $this.$saveVersion);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2727), $this.$rainTime);
+        nms_NBTTagCompound_setBoolean($var1, $rt_s(2728), $this.$raining);
+        nms_NBTTagCompound_setInteger($var1, $rt_s(2729), $this.$thunderTime);
+        nms_NBTTagCompound_setBoolean($var1, $rt_s(2730), $this.$thundering);
         if ($var2 !== null)
             nms_NBTTagCompound_setCompoundTag($var1, $rt_s(222), $var2);
     }
@@ -207646,20 +207647,20 @@
             }
             if (Long_eq($ze.$crc2, Long_fromInt(-1))) {
                 $ze = new juz_ZipException;
-                jl_Throwable__init_($ze, $rt_s(2730));
+                jl_Throwable__init_($ze, $rt_s(2731));
                 $rt_throw($ze);
             }
             var$3 = $ze.$size10;
             var$4 = Long_compare(var$3, Long_fromInt(-1));
             if (!var$4 && Long_eq($ze.$compressedSize, Long_fromInt(-1))) {
                 $ze = new juz_ZipException;
-                jl_Throwable__init_($ze, $rt_s(2731));
+                jl_Throwable__init_($ze, $rt_s(2732));
                 $rt_throw($ze);
             }
             var$5 = $ze.$compressedSize;
             if (Long_ne(var$3, var$5) && Long_ne(var$5, Long_fromInt(-1)) && var$4) {
                 $ze = new juz_ZipException;
-                jl_Throwable__init_($ze, $rt_s(2731));
+                jl_Throwable__init_($ze, $rt_s(2732));
                 $rt_throw($ze);
             }
         }
@@ -207673,7 +207674,7 @@
             $ze = $ze.$name15;
             var$7 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$7);
-            jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2732)), $ze);
+            jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2733)), $ze);
             jl_Throwable__init_(var$6, jl_AbstractStringBuilder_toString(var$7));
             $rt_throw(var$6);
         }
@@ -207693,7 +207694,7 @@
             $ze = $ze.$name15;
             var$7 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$7);
-            jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2733)), $ze);
+            jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2734)), $ze);
             jl_Throwable__init_(var$6, jl_AbstractStringBuilder_toString(var$7));
             $rt_throw(var$6);
         }
@@ -207772,7 +207773,7 @@
                 var$5 = $this.$currentEntry1;
                 if (var$5 === null) {
                     var$5 = new juz_ZipException;
-                    jl_Throwable__init_(var$5, $rt_s(2734));
+                    jl_Throwable__init_(var$5, $rt_s(2735));
                     $rt_throw(var$5);
                 }
                 if (var$5.$compressionMethod)
@@ -207824,7 +207825,7 @@
         a.$mm = 0;
     }
     function dceg_GuiScreenInfo_initGui($this) {
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 - 200 | 0) / 2 | 0, ($this.$height4 / 4 | 0) + 132 | 0, dceu_I18n_format(!$this.$mm ? $rt_s(1975) : $rt_s(2735))));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 - 200 | 0) / 2 | 0, ($this.$height4 / 4 | 0) + 132 | 0, dceu_I18n_format(!$this.$mm ? $rt_s(1975) : $rt_s(2736))));
     }
     function dceg_GuiScreenInfo_drawScreen($this, $mx, $my, $f) {
         var $i, var$5, $line, var$7, var$8, var$9, var$10, var$11, $ptr, $tmp;
@@ -208188,7 +208189,7 @@
             return jm_BigInteger_shiftLeft(jm_BigInteger_pow(jm_Multiplication_bigFivePows.data[1], $intExp), $intExp);
         if (Long_gt(Long_add(Long_fromInt(1), Long_fromNumber(Long_toNumber($exp) / 2.4082399653118496)), Long_fromInt(1000000))) {
             $powerOfFive = new jl_ArithmeticException;
-            jl_Throwable__init_($powerOfFive, $rt_s(2736));
+            jl_Throwable__init_($powerOfFive, $rt_s(2737));
             $rt_throw($powerOfFive);
         }
         if (Long_le($exp, Long_fromInt(2147483647)))
@@ -208245,7 +208246,7 @@
             return var$2;
         }
         var$2 = new jl_NullPointerException;
-        jl_Throwable__init_(var$2, $rt_s(2737));
+        jl_Throwable__init_(var$2, $rt_s(2738));
         $rt_throw(var$2);
     }
     function nms_J_JsonNodeFactories_func_27309_a($var0) {
@@ -208387,7 +208388,7 @@
         nms_EntityZombie__init_($this, $var1);
         $this.$angerLevel = 0;
         $this.$randomSoundDelay = 0;
-        $this.$texture = $rt_s(2738);
+        $this.$texture = $rt_s(2739);
         $this.$moveSpeed = 0.5;
         $this.$attackStrength = 5;
         $this.$isImmuneToFire = 1;
@@ -208408,7 +208409,7 @@
                 $this.$randomSoundDelay = var$2;
                 if (!var$2) {
                     var$3 = $this.$worldObj0;
-                    var$4 = $rt_s(2739);
+                    var$4 = $rt_s(2740);
                     var$5 = 2.0;
                     var$6 = ((nle_Random_nextFloat($this.$rand2) - nle_Random_nextFloat($this.$rand2)) * 0.20000000298023224 + 1.0) * 1.7999999523162842;
                     $ptr = 2;
@@ -208482,11 +208483,11 @@
     }
     function nms_EntityPigZombie_writeEntityToNBT($this, $var1) {
         nms_EntityLiving_writeEntityToNBT($this, $var1);
-        nms_NBTTagCompound_setShort($var1, $rt_s(2740), $this.$angerLevel << 16 >> 16);
+        nms_NBTTagCompound_setShort($var1, $rt_s(2741), $this.$angerLevel << 16 >> 16);
     }
     function nms_EntityPigZombie_readEntityFromNBT($this, $var1) {
         nms_EntityLiving_readEntityFromNBT($this, $var1);
-        $this.$angerLevel = nms_NBTTagCompound_getShort($var1, $rt_s(2740));
+        $this.$angerLevel = nms_NBTTagCompound_getShort($var1, $rt_s(2741));
     }
     function nms_EntityPigZombie_findPlayerToAttack($this) {
         var var$1, $ptr, $tmp;
@@ -208582,13 +208583,13 @@
         $this.$randomSoundDelay = nle_Random_nextInt($this.$rand2, 40);
     }
     function nms_EntityPigZombie_getLivingSound($this) {
-        return $rt_s(2741);
-    }
-    function nms_EntityPigZombie_getHurtSound($this) {
         return $rt_s(2742);
     }
-    function nms_EntityPigZombie_getDeathSound($this) {
+    function nms_EntityPigZombie_getHurtSound($this) {
         return $rt_s(2743);
+    }
+    function nms_EntityPigZombie_getDeathSound($this) {
+        return $rt_s(2744);
     }
     function nms_EntityPigZombie_getDropItemId($this) {
         nms_Item_$callClinit();
@@ -208618,7 +208619,7 @@
         var var$2;
         var$2 = new nms_EntityCaveSpider;
         nms_EntitySpider__init_(var$2, var$1);
-        var$2.$texture = $rt_s(2744);
+        var$2.$texture = $rt_s(2745);
         nms_Entity_setSize(var$2, 0.699999988079071, 0.5);
         return var$2;
     }
@@ -208736,11 +208737,11 @@
         var$1 = $this.$field_27225_b;
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2745)), var$1), 93);
+        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2746)), var$1), 93);
         return jl_AbstractStringBuilder_toString(var$2);
     }
     function nms_J_JsonNumberNode__clinit_() {
-        nms_J_JsonNumberNode_field_27226_a = jur_Pattern_compile($rt_s(2746));
+        nms_J_JsonNumberNode_field_27226_a = jur_Pattern_compile($rt_s(2747));
     }
     function cjj_Mapping0$LookMapping0() {
         var a = this; jl_Object.call(a);
@@ -209618,7 +209619,7 @@
     }
     function nms_DamageSource_func_35525_a($var0) {
         nms_DamageSource_$callClinit();
-        return nms_EntityDamageSource__init_0($rt_s(2747), $var0);
+        return nms_EntityDamageSource__init_0($rt_s(2748), $var0);
     }
     function nms_DamageSource_func_35535_a($var0, $var1) {
         nms_DamageSource_$callClinit();
@@ -209626,11 +209627,11 @@
     }
     function nms_DamageSource_func_35530_a($var0, $var1) {
         nms_DamageSource_$callClinit();
-        return nms_EntityDamageSourceIndirect__init_0($rt_s(2748), $var0, $var1);
+        return nms_EntityDamageSourceIndirect__init_0($rt_s(2749), $var0, $var1);
     }
     function nms_DamageSource_func_35524_a($var0, $var1) {
         nms_DamageSource_$callClinit();
-        return nms_EntityDamageSourceIndirect__init_0($rt_s(2749), $var0, $var1);
+        return nms_EntityDamageSourceIndirect__init_0($rt_s(2750), $var0, $var1);
     }
     function nms_DamageSource_func_35534_b($this) {
         return $this.$field_35543_n;
@@ -209661,20 +209662,20 @@
     }
     function nms_DamageSource__clinit_() {
         var var$1;
-        nms_DamageSource_field_35542_a = nms_DamageSource__init_0($rt_s(2750));
-        nms_DamageSource_field_35540_b = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2751)));
+        nms_DamageSource_field_35542_a = nms_DamageSource__init_0($rt_s(2751));
+        nms_DamageSource_field_35540_b = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2752)));
         nms_DamageSource_field_35541_c = nms_DamageSource__init_0($rt_s(619));
-        nms_DamageSource_field_35538_d = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2752)));
-        nms_DamageSource_field_35539_e = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2753)));
-        nms_DamageSource_field_35536_f = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2754)));
+        nms_DamageSource_field_35538_d = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2753)));
+        nms_DamageSource_field_35539_e = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2754)));
+        nms_DamageSource_field_35536_f = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2755)));
         nms_DamageSource_field_35537_g = nms_DamageSource__init_0($rt_s(676));
-        nms_DamageSource_field_35549_h = nms_DamageSource__init_0($rt_s(2755));
-        var$1 = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2756)));
+        nms_DamageSource_field_35549_h = nms_DamageSource__init_0($rt_s(2756));
+        var$1 = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2757)));
         var$1.$field_35544_o = 1;
         nms_DamageSource_field_35550_i = var$1;
-        nms_DamageSource_field_35547_j = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2757)));
-        nms_DamageSource_field_35548_k = nms_DamageSource__init_0($rt_s(2758));
-        nms_DamageSource_field_35545_l = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2759)));
+        nms_DamageSource_field_35547_j = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2758)));
+        nms_DamageSource_field_35548_k = nms_DamageSource__init_0($rt_s(2759));
+        nms_DamageSource_field_35545_l = nms_DamageSource_func_35528_f(nms_DamageSource__init_0($rt_s(2760)));
     }
     var ju_EmptyStackException = $rt_classWithoutFields(jl_RuntimeException);
     function cjj_StaticTree() {
@@ -210228,24 +210229,24 @@
         oj_JSONObject_$callClinit();
         $this.$map2 = ju_HashMap__init_();
         if (oj_JSONTokener_nextClean($x) != 123)
-            $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2760)));
+            $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2761)));
         a: while (true) {
             $c = oj_JSONTokener_nextClean($x);
             switch ($c) {
                 case 0:
-                    $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2761)));
+                    $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2762)));
                 case 125:
                     break a;
                 default:
             }
             $key = (oj_JSONTokener_nextSimpleValue($x, $c)).$toString();
             if (oj_JSONTokener_nextClean($x) != 58)
-                $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2762)));
+                $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2763)));
             if ($key !== null) {
                 if (oj_JSONObject_opt($this, $key) !== null) {
                     $value = new jl_StringBuilder;
                     jl_AbstractStringBuilder__init_($value);
-                    jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($value, $rt_s(2763)), $key), 34);
+                    jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($value, $rt_s(2764)), $key), 34);
                     $rt_throw(oj_JSONTokener_syntaxError($x, jl_AbstractStringBuilder_toString($value)));
                 }
                 $value = oj_JSONTokener_nextValue($x);
@@ -210261,12 +210262,12 @@
                 case 125:
                     return;
                 default:
-                    $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2764)));
+                    $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2765)));
             }
             if (oj_JSONTokener_nextClean($x) == 125)
                 return;
             if (oj_JSONTokener_end($x))
-                $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2761)));
+                $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2762)));
             oj_JSONTokener_back($x);
         }
     }
@@ -210278,7 +210279,7 @@
             $m = new oj_JSONException;
             $jsonParserConfiguration = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($jsonParserConfiguration);
-            jl_AbstractStringBuilder_append0(jl_StringBuilder_append($jsonParserConfiguration, $rt_s(2765)), var$4);
+            jl_AbstractStringBuilder_append0(jl_StringBuilder_append($jsonParserConfiguration, $rt_s(2766)), var$4);
             jl_Throwable__init_($m, jl_AbstractStringBuilder_toString($jsonParserConfiguration));
             $rt_throw($m);
         }
@@ -210295,7 +210296,7 @@
                     $e = $m.$next();
                     if ($e.$getKey() === null) {
                         $m = new jl_NullPointerException;
-                        jl_Throwable__init_($m, $rt_s(2766));
+                        jl_Throwable__init_($m, $rt_s(2767));
                         $rt_throw($m);
                     }
                     $value = $e.$getValue1();
@@ -210325,7 +210326,7 @@
         var $object, var$3;
         if ($key === null) {
             $key = new oj_JSONException;
-            jl_Throwable__init_($key, $rt_s(2766));
+            jl_Throwable__init_($key, $rt_s(2767));
             $rt_throw($key);
         }
         $object = oj_JSONObject_opt($this, $key);
@@ -210335,7 +210336,7 @@
         $key = oj_JSONObject_quote($key);
         var$3 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$3);
-        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2767)), $key), $rt_s(2768));
+        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2768)), $key), $rt_s(2769));
         jl_Throwable__init_($object, jl_AbstractStringBuilder_toString(var$3));
         $rt_throw($object);
     }
@@ -210358,21 +210359,21 @@
             }
             return var$3;
         }
-        $rt_throw(oj_JSONObject_wrongValueFormatException($key, $rt_s(2769), $object, $e));
+        $rt_throw(oj_JSONObject_wrongValueFormatException($key, $rt_s(2770), $object, $e));
     }
     function oj_JSONObject_getJSONArray($this, $key) {
         var $object;
         $object = oj_JSONObject_get($this, $key);
         if ($object instanceof oj_JSONArray)
             return $object;
-        $rt_throw(oj_JSONObject_wrongValueFormatException($key, $rt_s(2770), $object, null));
+        $rt_throw(oj_JSONObject_wrongValueFormatException($key, $rt_s(2771), $object, null));
     }
     function oj_JSONObject_getJSONObject($this, $key) {
         var $object;
         $object = oj_JSONObject_get($this, $key);
         if ($object instanceof oj_JSONObject)
             return $object;
-        $rt_throw(oj_JSONObject_wrongValueFormatException($key, $rt_s(2771), $object, null));
+        $rt_throw(oj_JSONObject_wrongValueFormatException($key, $rt_s(2772), $object, null));
     }
     function oj_JSONObject_entrySet($this) {
         return ju_HashMap_entrySet($this.$map2);
@@ -210417,16 +210418,16 @@
                         case 8:
                             break;
                         case 9:
-                            ji_StringWriter_write($w, $rt_s(2772));
-                            break a;
-                        case 10:
                             ji_StringWriter_write($w, $rt_s(2773));
                             break a;
-                        case 12:
+                        case 10:
                             ji_StringWriter_write($w, $rt_s(2774));
                             break a;
-                        case 13:
+                        case 12:
                             ji_StringWriter_write($w, $rt_s(2775));
+                            break a;
+                        case 13:
+                            ji_StringWriter_write($w, $rt_s(2776));
                             break a;
                         case 34:
                         case 92:
@@ -210443,14 +210444,14 @@
                                 ji_StringWriter_write0($w, var$6);
                                 break a;
                             }
-                            ji_StringWriter_write($w, $rt_s(2776));
+                            ji_StringWriter_write($w, $rt_s(2777));
                             $hhhh = jl_Integer_toHexString(var$6);
-                            var$8 = jl_String_substring0($rt_s(2777), 0, 0 + (4 - jl_String_length($hhhh) | 0) | 0);
+                            var$8 = jl_String_substring0($rt_s(2778), 0, 0 + (4 - jl_String_length($hhhh) | 0) | 0);
                             jl_AbstractStringBuilder_append2($w.$buf8, var$8);
                             ji_StringWriter_write($w, $hhhh);
                             break a;
                     }
-                    ji_StringWriter_write($w, $rt_s(2778));
+                    ji_StringWriter_write($w, $rt_s(2779));
                 }
                 $i = $i + 1 | 0;
                 $c = var$6;
@@ -210458,7 +210459,7 @@
             ji_StringWriter_write0($w, 34);
             return $w;
         }
-        ji_StringWriter_write($w, $rt_s(2779));
+        ji_StringWriter_write($w, $rt_s(2780));
         return $w;
     }
     function oj_JSONObject_stringToNumber($val) {
@@ -210470,18 +210471,18 @@
             $bi = new jl_NumberFormatException;
             $bd = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($bd);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2780)), $val), $rt_s(2781));
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2781)), $val), $rt_s(2782));
             jl_Throwable__init_($bi, jl_AbstractStringBuilder_toString($bd));
             $rt_throw($bi);
         }
-        if (!(jl_String_indexOf0($val, 46) <= (-1) && jl_String_indexOf0($val, 101) <= (-1) && jl_String_indexOf0($val, 69) <= (-1) && !jl_String_equals($rt_s(2782), $val) ? 0 : 1)) {
+        if (!(jl_String_indexOf0($val, 46) <= (-1) && jl_String_indexOf0($val, 101) <= (-1) && jl_String_indexOf0($val, 69) <= (-1) && !jl_String_equals($rt_s(2783), $val) ? 0 : 1)) {
             if (!$at1 && jl_String_length($val) > 1) {
                 $at1 = jl_String_charAt($val, 1);
                 if ($at1 >= 48 && $at1 <= 57) {
                     $bi = new jl_NumberFormatException;
                     $bd = new jl_StringBuilder;
                     jl_AbstractStringBuilder__init_($bd);
-                    jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2780)), $val), $rt_s(2781));
+                    jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2781)), $val), $rt_s(2782));
                     jl_Throwable__init_($bi, jl_AbstractStringBuilder_toString($bd));
                     $rt_throw($bi);
                 }
@@ -210492,7 +210493,7 @@
                     $bi = new jl_NumberFormatException;
                     $bd = new jl_StringBuilder;
                     jl_AbstractStringBuilder__init_($bd);
-                    jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2780)), $val), $rt_s(2781));
+                    jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2781)), $val), $rt_s(2782));
                     jl_Throwable__init_($bi, jl_AbstractStringBuilder_toString($bd));
                     $rt_throw($bi);
                 }
@@ -210553,7 +210554,7 @@
             try {
                 $bi = new jl_NumberFormatException;
                 $bd = jl_StringBuilder__init_();
-                jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2780)), $val), $rt_s(2781));
+                jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2781)), $val), $rt_s(2782));
                 jl_NumberFormatException__init_($bi, jl_StringBuilder_toString($bd));
                 $rt_throw($bi);
             } catch ($$e) {
@@ -210567,7 +210568,7 @@
         $bi = new jl_NumberFormatException;
         $bd = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_($bd);
-        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2780)), $val), $rt_s(2781));
+        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($bd, $rt_s(2781)), $val), $rt_s(2782));
         jl_Throwable__init_($bi, jl_AbstractStringBuilder_toString($bd));
         $rt_throw($bi);
     }
@@ -210599,7 +210600,7 @@
             }
             if (!var$3) {
                 var$2 = new oj_JSONException;
-                jl_Throwable__init_(var$2, $rt_s(2783));
+                jl_Throwable__init_(var$2, $rt_s(2784));
                 $rt_throw(var$2);
             }
         }
@@ -210809,9 +210810,9 @@
                     try {
                         l: {
                             try {
-                                if (jl_String_startsWith0($objectPackageName, $rt_s(2784)))
-                                    break l;
                                 if (jl_String_startsWith0($objectPackageName, $rt_s(2785)))
+                                    break l;
+                                if (jl_String_startsWith0($objectPackageName, $rt_s(2786)))
                                     break l;
                                 if (jl_Class_getClassLoader(jl_Object_getClass($object)) !== null)
                                     break k;
@@ -210852,7 +210853,7 @@
                     $objectsRecord = new jl_UnsupportedOperationException;
                     $object = jl_Class_getSimpleName(jl_Object_getClass($object));
                     $jsonParserConfiguration = jl_StringBuilder__init_();
-                    jl_StringBuilder_append(jl_StringBuilder_append($jsonParserConfiguration, $rt_s(2786)), $object);
+                    jl_StringBuilder_append(jl_StringBuilder_append($jsonParserConfiguration, $rt_s(2787)), $object);
                     jl_UnsupportedOperationException__init_0($objectsRecord, jl_StringBuilder_toString($jsonParserConfiguration));
                     $rt_throw($objectsRecord);
                 } catch ($$e) {
@@ -210911,7 +210912,7 @@
                 $value = $value;
                 if ($value === null) {
                     $writer = new oj_JSONException;
-                    jl_Throwable__init_($writer, $rt_s(2787));
+                    jl_Throwable__init_($writer, $rt_s(2788));
                     $rt_throw($writer);
                 }
                 oj_JSONObject_testValidity($value);
@@ -210969,7 +210970,7 @@
                         }
                         $writer = new oj_JSONException;
                         $entry = jl_StringBuilder__init_();
-                        jl_StringBuilder_append(jl_StringBuilder_append($entry, $rt_s(2788)), $key);
+                        jl_StringBuilder_append(jl_StringBuilder_append($entry, $rt_s(2789)), $key);
                         oj_JSONException__init_2($writer, jl_StringBuilder_toString($entry), $e);
                         $rt_throw($writer);
                     }
@@ -211009,7 +211010,7 @@
                         }
                         $writer = new oj_JSONException;
                         $entry = jl_StringBuilder__init_();
-                        jl_StringBuilder_append(jl_StringBuilder_append($entry, $rt_s(2788)), $key);
+                        jl_StringBuilder_append(jl_StringBuilder_append($entry, $rt_s(2789)), $key);
                         oj_JSONException__init_2($writer, jl_StringBuilder_toString($entry), $e);
                         $rt_throw($writer);
                     }
@@ -211036,7 +211037,7 @@
             $key = oj_JSONObject_quote($key);
             var$5 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$5);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$5, $rt_s(2767)), $key), $rt_s(2789)), $valueType), $rt_s(2790));
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$5, $rt_s(2768)), $key), $rt_s(2790)), $valueType), $rt_s(2791));
             jl_Throwable__init_4($value, jl_AbstractStringBuilder_toString(var$5), $cause);
             return $value;
         }
@@ -211047,7 +211048,7 @@
             $value = jl_String_valueOf($value);
             var$7 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$7);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2767)), $key), $rt_s(2789)), $valueType), $rt_s(2643)), var$6), $rt_s(2791)), $value), $rt_s(2487));
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2768)), $key), $rt_s(2790)), $valueType), $rt_s(2644)), var$6), $rt_s(2792)), $value), $rt_s(2487));
             jl_Throwable__init_4(var$5, jl_AbstractStringBuilder_toString(var$7), $cause);
             return var$5;
         }
@@ -211056,12 +211057,12 @@
         var$6 = jl_String_valueOf(jl_Object_getClass($value));
         $value = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_($value);
-        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($value, $rt_s(2767)), $key), $rt_s(2789)), $valueType), $rt_s(2643)), var$6), $rt_s(2487));
+        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($value, $rt_s(2768)), $key), $rt_s(2790)), $valueType), $rt_s(2644)), var$6), $rt_s(2487));
         jl_Throwable__init_4(var$5, jl_AbstractStringBuilder_toString($value), $cause);
         return var$5;
     }
     function oj_JSONObject__clinit_() {
-        oj_JSONObject_NUMBER_PATTERN = jur_Pattern_compile($rt_s(2792));
+        oj_JSONObject_NUMBER_PATTERN = jur_Pattern_compile($rt_s(2793));
         oj_JSONObject_NULL = new oj_JSONObject$Null;
     }
     var nleiv_VFSIterator2$BreakLoop = $rt_classWithoutFields(jl_RuntimeException);
@@ -211092,8 +211093,8 @@
     }
     function nms_EnumWorldType__clinit_() {
         var var$1;
-        nms_EnumWorldType_NORMAL = nms_EnumWorldType__init_0($rt_s(2793), 0, $rt_s(2794));
-        var$1 = nms_EnumWorldType__init_0($rt_s(2795), 1, $rt_s(2796));
+        nms_EnumWorldType_NORMAL = nms_EnumWorldType__init_0($rt_s(2794), 0, $rt_s(2795));
+        var$1 = nms_EnumWorldType__init_0($rt_s(2796), 1, $rt_s(2797));
         nms_EnumWorldType_FLAT = var$1;
         nms_EnumWorldType_$VALUES = $rt_createArrayFromData(nms_EnumWorldType, [nms_EnumWorldType_NORMAL, var$1]);
     }
@@ -211236,7 +211237,7 @@
             }
         }
         var$4 = new oj_JSONException;
-        jl_Throwable__init_(var$4, $rt_s(2797));
+        jl_Throwable__init_(var$4, $rt_s(2798));
         $rt_throw(var$4);
     }
     function oj_JSONTokener_end($this) {
@@ -211296,7 +211297,7 @@
         while ($pos < $n) {
             var$3[$pos] = oj_JSONTokener_next($this);
             if (oj_JSONTokener_end($this))
-                $rt_throw(oj_JSONTokener_syntaxError($this, $rt_s(2798)));
+                $rt_throw(oj_JSONTokener_syntaxError($this, $rt_s(2799)));
             $pos = $pos + 1 | 0;
         }
         return jl_String__init_($chars);
@@ -211333,7 +211334,7 @@
                     return $e;
                 }
                 var$3 = new oj_JSONException;
-                jl_Throwable__init_4(var$3, $rt_s(2799), $e);
+                jl_Throwable__init_4(var$3, $rt_s(2800), $e);
                 $rt_throw(var$3);
             case 123:
                 oj_JSONTokener_back($this);
@@ -211352,7 +211353,7 @@
                     return $e;
                 }
                 var$3 = new oj_JSONException;
-                jl_Throwable__init_4(var$3, $rt_s(2799), $e);
+                jl_Throwable__init_4(var$3, $rt_s(2800), $e);
                 $rt_throw(var$3);
             default:
         }
@@ -211367,7 +211368,7 @@
             default:
                 $sb = new jl_StringBuilder;
                 jl_AbstractStringBuilder__init_($sb);
-                while ($c >= 32 && jl_String_indexOf0($rt_s(2800), $c) < 0) {
+                while ($c >= 32 && jl_String_indexOf0($rt_s(2801), $c) < 0) {
                     jl_AbstractStringBuilder_append($sb, $c);
                     $c = oj_JSONTokener_next($this);
                 }
@@ -211375,7 +211376,7 @@
                     oj_JSONTokener_back($this);
                 $string = jl_String_trim(jl_AbstractStringBuilder_toString($sb));
                 if (jl_String_equals($rt_s(3), $string))
-                    $rt_throw(oj_JSONTokener_syntaxError($this, $rt_s(2801)));
+                    $rt_throw(oj_JSONTokener_syntaxError($this, $rt_s(2802)));
                 a: {
                     oj_JSONObject_$callClinit();
                     if (!jl_String_equals($rt_s(3), $string)) {
@@ -211460,7 +211461,7 @@
                             var$6 = oj_JSONTokener_toString($this);
                             var$7 = new jl_StringBuilder;
                             jl_AbstractStringBuilder__init_(var$7);
-                            jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2802)), var$6);
+                            jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2803)), var$6);
                             jl_Throwable__init_4(var$5, jl_AbstractStringBuilder_toString(var$7), $sb);
                             $rt_throw(var$5);
                         } else {
@@ -211468,11 +211469,11 @@
                         }
                     }
                 default:
-                    $rt_throw(oj_JSONTokener_syntaxError($this, $rt_s(2802)));
+                    $rt_throw(oj_JSONTokener_syntaxError($this, $rt_s(2803)));
             }
             jl_AbstractStringBuilder_append($sb, var$4);
         }
-        $rt_throw(oj_JSONTokener_syntaxError($this, $rt_s(2803)));
+        $rt_throw(oj_JSONTokener_syntaxError($this, $rt_s(2804)));
     }
     function oj_JSONTokener_syntaxError($this, $message) {
         var var$2, var$3, var$4;
@@ -211491,7 +211492,7 @@
         var$3 = $this.$line;
         var$4 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$4);
-        jl_AbstractStringBuilder_append(jl_StringBuilder_append0(jl_StringBuilder_append(jl_StringBuilder_append0(jl_StringBuilder_append(jl_StringBuilder_append0(jl_StringBuilder_append(var$4, $rt_s(2804)), var$1), $rt_s(2805)), var$2), $rt_s(2806)), var$3), 93);
+        jl_AbstractStringBuilder_append(jl_StringBuilder_append0(jl_StringBuilder_append(jl_StringBuilder_append0(jl_StringBuilder_append(jl_StringBuilder_append0(jl_StringBuilder_append(var$4, $rt_s(2805)), var$1), $rt_s(2806)), var$2), $rt_s(2807)), var$3), 93);
         return jl_AbstractStringBuilder_toString(var$4);
     }
     function oj_JSONArray() {
@@ -211525,10 +211526,10 @@
         var $nextChar, var$3;
         oj_JSONArray__init_0($this);
         if (oj_JSONTokener_nextClean($x) != 91)
-            $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2807)));
+            $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2808)));
         $nextChar = oj_JSONTokener_nextClean($x);
         if (!$nextChar)
-            $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2808)));
+            $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2809)));
         if ($nextChar == 93)
             return;
         oj_JSONTokener_back($x);
@@ -211544,17 +211545,17 @@
             }
             switch (oj_JSONTokener_nextClean($x)) {
                 case 0:
-                    $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2808)));
+                    $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2809)));
                 case 44:
                     break;
                 case 93:
                     return;
                 default:
-                    $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2808)));
+                    $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2809)));
             }
             $nextChar = oj_JSONTokener_nextClean($x);
             if (!$nextChar)
-                $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2808)));
+                $rt_throw(oj_JSONTokener_syntaxError($x, $rt_s(2809)));
             if ($nextChar == 93)
                 break;
             oj_JSONTokener_back($x);
@@ -211567,7 +211568,7 @@
             $collection = new oj_JSONException;
             $jsonParserConfiguration = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($jsonParserConfiguration);
-            jl_AbstractStringBuilder_append0(jl_StringBuilder_append($jsonParserConfiguration, $rt_s(2809)), var$4);
+            jl_AbstractStringBuilder_append0(jl_StringBuilder_append($jsonParserConfiguration, $rt_s(2810)), var$4);
             jl_Throwable__init_($collection, jl_AbstractStringBuilder_toString($jsonParserConfiguration));
             $rt_throw($collection);
         }
@@ -211591,7 +211592,7 @@
             return;
         }
         $array = new oj_JSONException;
-        jl_Throwable__init_($array, $rt_s(2810));
+        jl_Throwable__init_($array, $rt_s(2811));
         $rt_throw($array);
     }
     function oj_JSONArray_iterator($this) {
@@ -211604,9 +211605,9 @@
             var$3 = new oj_JSONException;
             var$4 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$4);
-            var$5 = jl_StringBuilder_append(var$4, $rt_s(2811));
+            var$5 = jl_StringBuilder_append(var$4, $rt_s(2812));
             jl_AbstractStringBuilder_append0(var$5, $index);
-            jl_StringBuilder_append(var$5, $rt_s(2768));
+            jl_StringBuilder_append(var$5, $rt_s(2769));
             jl_Throwable__init_(var$3, jl_AbstractStringBuilder_toString(var$4));
             $rt_throw(var$3);
         }
@@ -211619,18 +211620,18 @@
             var$7 = jl_String_valueOf(var$2);
             var$8 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$8);
-            var$2 = jl_StringBuilder_append(var$8, $rt_s(2811));
+            var$2 = jl_StringBuilder_append(var$8, $rt_s(2812));
             jl_AbstractStringBuilder_append0(var$2, $index);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2789)), $rt_s(2812)), $rt_s(2643)), var$6), $rt_s(2791)), var$7), $rt_s(2487));
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2790)), $rt_s(2813)), $rt_s(2644)), var$6), $rt_s(2792)), var$7), $rt_s(2487));
             jl_Throwable__init_4(var$5, jl_AbstractStringBuilder_toString(var$8), var$3);
         } else {
             var$5 = new oj_JSONException;
             var$2 = jl_String_valueOf(jl_Object_getClass(var$2));
             var$6 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$6);
-            var$7 = jl_StringBuilder_append(var$6, $rt_s(2811));
+            var$7 = jl_StringBuilder_append(var$6, $rt_s(2812));
             jl_AbstractStringBuilder_append0(var$7, $index);
-            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2789)), $rt_s(2812)), $rt_s(2643)), var$2), $rt_s(2487));
+            jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2790)), $rt_s(2813)), $rt_s(2644)), var$2), $rt_s(2487));
             jl_Throwable__init_4(var$5, jl_AbstractStringBuilder_toString(var$6), var$3);
         }
         $rt_throw(var$5);
@@ -211684,7 +211685,7 @@
                                     throw $$e;
                                 }
                             }
-                            $rt_throw(oj_JSONException__init_1($rt_s(2813), $e));
+                            $rt_throw(oj_JSONException__init_1($rt_s(2814), $e));
                         }
                     else if ($length) {
                         $newIndent = $indent + $indentFactor | 0;
@@ -211717,7 +211718,7 @@
                         }
                         $writer = new oj_JSONException;
                         var$9 = jl_StringBuilder__init_();
-                        jl_StringBuilder_append2(jl_StringBuilder_append(var$9, $rt_s(2814)), $i);
+                        jl_StringBuilder_append2(jl_StringBuilder_append(var$9, $rt_s(2815)), $i);
                         oj_JSONException__init_2($writer, jl_StringBuilder_toString(var$9), $e);
                         $rt_throw($writer);
                     }
@@ -211767,7 +211768,7 @@
         else {
             if (!$rt_isInstance($array, jl_Iterable)) {
                 var$4 = new oj_JSONException;
-                jl_Throwable__init_(var$4, $rt_s(2810));
+                jl_Throwable__init_(var$4, $rt_s(2811));
                 $rt_throw(var$4);
             }
             b: {
@@ -211969,7 +211970,7 @@
     function nms_J_JsonArray_getText($this) {
         var var$1;
         var$1 = new jl_IllegalStateException;
-        jl_Throwable__init_(var$1, $rt_s(2815));
+        jl_Throwable__init_(var$1, $rt_s(2816));
         $rt_throw(var$1);
     }
     function nms_J_JsonArray_getFields($this) {
@@ -211996,7 +211997,7 @@
         var$1 = jl_String_valueOf($this.$elements1);
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2816)), var$1), 93);
+        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2817)), var$1), 93);
         return jl_AbstractStringBuilder_toString(var$2);
     }
     function nms_J_JsonObject() {
@@ -212013,7 +212014,7 @@
     function nms_J_JsonObject_getText($this) {
         var var$1;
         var$1 = new jl_IllegalStateException;
-        jl_Throwable__init_(var$1, $rt_s(2815));
+        jl_Throwable__init_(var$1, $rt_s(2816));
         $rt_throw(var$1);
     }
     function nms_J_JsonObject_getElements($this) {
@@ -212122,7 +212123,7 @@
         var$1 = jl_String_valueOf($this.$field_27222_a);
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2817)), var$1), 93);
+        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2818)), var$1), 93);
         return jl_AbstractStringBuilder_toString(var$2);
     }
     function nms_PacketCounter() {
@@ -213027,7 +213028,7 @@
         var$2 = new ji_IOException;
         var$3 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$3);
-        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2818)), $fileName), $rt_s(2819));
+        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2819)), $fileName), $rt_s(2820));
         jl_Throwable__init_(var$2, jl_AbstractStringBuilder_toString(var$3));
         $rt_throw(var$2);
     }
@@ -213159,7 +213160,7 @@
                     var$8 = jl_Class_getCanonicalName(jl_Object_getClass($var0[$var3]));
                     var$9 = new jl_StringBuilder;
                     jl_AbstractStringBuilder__init_(var$9);
-                    jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$9, $rt_s(2820)), var$7), $rt_s(2821)), $var1), $rt_s(2822)), var$8), $rt_s(2823));
+                    jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$9, $rt_s(2821)), var$7), $rt_s(2822)), $var1), $rt_s(2823)), var$8), $rt_s(2824));
                     jl_Throwable__init_(var$6, jl_AbstractStringBuilder_toString(var$9));
                     $rt_throw(var$6);
                 }
@@ -213205,11 +213206,11 @@
     }
     function nms_EnumStatus__clinit_() {
         var var$1;
-        nms_EnumStatus_OK = nms_EnumStatus__init_0($rt_s(2824), 0);
-        nms_EnumStatus_NOT_POSSIBLE_HERE = nms_EnumStatus__init_0($rt_s(2825), 1);
-        nms_EnumStatus_NOT_POSSIBLE_NOW = nms_EnumStatus__init_0($rt_s(2826), 2);
-        nms_EnumStatus_TOO_FAR_AWAY = nms_EnumStatus__init_0($rt_s(2827), 3);
-        var$1 = nms_EnumStatus__init_0($rt_s(2828), 4);
+        nms_EnumStatus_OK = nms_EnumStatus__init_0($rt_s(2825), 0);
+        nms_EnumStatus_NOT_POSSIBLE_HERE = nms_EnumStatus__init_0($rt_s(2826), 1);
+        nms_EnumStatus_NOT_POSSIBLE_NOW = nms_EnumStatus__init_0($rt_s(2827), 2);
+        nms_EnumStatus_TOO_FAR_AWAY = nms_EnumStatus__init_0($rt_s(2828), 3);
+        var$1 = nms_EnumStatus__init_0($rt_s(2829), 4);
         nms_EnumStatus_OTHER_PROBLEM = var$1;
         nms_EnumStatus_$VALUES = $rt_createArrayFromData(nms_EnumStatus, [nms_EnumStatus_OK, nms_EnumStatus_NOT_POSSIBLE_HERE, nms_EnumStatus_NOT_POSSIBLE_NOW, nms_EnumStatus_TOO_FAR_AWAY, var$1]);
     }
@@ -213459,7 +213460,7 @@
     function nms_EnumSkyBlock__clinit_() {
         var var$1;
         nms_EnumSkyBlock_Sky = nms_EnumSkyBlock__init_0($rt_s(2393), 0, 15);
-        var$1 = nms_EnumSkyBlock__init_0($rt_s(2829), 1, 0);
+        var$1 = nms_EnumSkyBlock__init_0($rt_s(2830), 1, 0);
         nms_EnumSkyBlock_Block = var$1;
         nms_EnumSkyBlock_$VALUES = $rt_createArrayFromData(nms_EnumSkyBlock, [nms_EnumSkyBlock_Sky, var$1]);
     }
@@ -213510,7 +213511,7 @@
                 a: {
                     try {
                         if (Long_ne(ji_DataInputStream_readLong($var2), $this.$now))
-                            $rt_throw(nms_MinecraftException__init_0($rt_s(2830)));
+                            $rt_throw(nms_MinecraftException__init_0($rt_s(2831)));
                     } catch ($$e) {
                         $$je = $rt_wrapException($$e);
                         $var1 = $$je;
@@ -213587,7 +213588,7 @@
         return var$2;
     }
     function nms_SaveHandler__clinit_() {
-        nms_SaveHandler_logger = jul_Logger_getLogger($rt_s(2831));
+        nms_SaveHandler_logger = jul_Logger_getLogger($rt_s(2832));
     }
     var nms_SaveOldDir = $rt_classWithoutFields(nms_SaveHandler);
     function nms_SaveOldDir_getChunkLoader($this, $var1) {
@@ -214908,33 +214909,33 @@
         nms_EnumArt_Skeleton, nms_EnumArt_DonkeyKong]);
     }
     function nms_EnumArt__clinit_() {
-        nms_EnumArt_Kebab = nms_EnumArt__init_0($rt_s(2832), 0, $rt_s(2832), 16, 16, 0, 0);
-        nms_EnumArt_Aztec = nms_EnumArt__init_0($rt_s(2833), 1, $rt_s(2833), 16, 16, 16, 0);
-        nms_EnumArt_Alban = nms_EnumArt__init_0($rt_s(2834), 2, $rt_s(2834), 16, 16, 32, 0);
-        nms_EnumArt_Aztec2 = nms_EnumArt__init_0($rt_s(2835), 3, $rt_s(2835), 16, 16, 48, 0);
-        nms_EnumArt_Bomb = nms_EnumArt__init_0($rt_s(2836), 4, $rt_s(2836), 16, 16, 64, 0);
-        nms_EnumArt_Plant = nms_EnumArt__init_0($rt_s(2837), 5, $rt_s(2837), 16, 16, 80, 0);
-        nms_EnumArt_Wasteland = nms_EnumArt__init_0($rt_s(2838), 6, $rt_s(2838), 16, 16, 96, 0);
-        nms_EnumArt_Pool = nms_EnumArt__init_0($rt_s(2839), 7, $rt_s(2839), 32, 16, 0, 32);
-        nms_EnumArt_Courbet = nms_EnumArt__init_0($rt_s(2840), 8, $rt_s(2840), 32, 16, 32, 32);
-        nms_EnumArt_Sea = nms_EnumArt__init_0($rt_s(2841), 9, $rt_s(2841), 32, 16, 64, 32);
-        nms_EnumArt_Sunset = nms_EnumArt__init_0($rt_s(2842), 10, $rt_s(2842), 32, 16, 96, 32);
-        nms_EnumArt_Creebet = nms_EnumArt__init_0($rt_s(2843), 11, $rt_s(2843), 32, 16, 128, 32);
-        nms_EnumArt_Wanderer = nms_EnumArt__init_0($rt_s(2844), 12, $rt_s(2844), 16, 32, 0, 64);
-        nms_EnumArt_Graham = nms_EnumArt__init_0($rt_s(2845), 13, $rt_s(2845), 16, 32, 16, 64);
-        nms_EnumArt_Match = nms_EnumArt__init_0($rt_s(2846), 14, $rt_s(2846), 32, 32, 0, 128);
-        nms_EnumArt_Bust = nms_EnumArt__init_0($rt_s(2847), 15, $rt_s(2847), 32, 32, 32, 128);
-        nms_EnumArt_Stage = nms_EnumArt__init_0($rt_s(2848), 16, $rt_s(2848), 32, 32, 64, 128);
-        nms_EnumArt_Void = nms_EnumArt__init_0($rt_s(2849), 17, $rt_s(2849), 32, 32, 96, 128);
-        nms_EnumArt_SkullAndRoses = nms_EnumArt__init_0($rt_s(2850), 18, $rt_s(2850), 32, 32, 128, 128);
-        nms_EnumArt_Fighters = nms_EnumArt__init_0($rt_s(2851), 19, $rt_s(2851), 64, 32, 0, 96);
-        nms_EnumArt_Pointer = nms_EnumArt__init_0($rt_s(2852), 20, $rt_s(2852), 64, 64, 0, 192);
-        nms_EnumArt_Pigscene = nms_EnumArt__init_0($rt_s(2853), 21, $rt_s(2853), 64, 64, 64, 192);
-        nms_EnumArt_BurningSkull = nms_EnumArt__init_0($rt_s(2854), 22, $rt_s(2854), 64, 64, 128, 192);
-        nms_EnumArt_Skeleton = nms_EnumArt__init_0($rt_s(2703), 23, $rt_s(2703), 64, 48, 192, 64);
-        nms_EnumArt_DonkeyKong = nms_EnumArt__init_0($rt_s(2855), 24, $rt_s(2855), 64, 48, 192, 112);
+        nms_EnumArt_Kebab = nms_EnumArt__init_0($rt_s(2833), 0, $rt_s(2833), 16, 16, 0, 0);
+        nms_EnumArt_Aztec = nms_EnumArt__init_0($rt_s(2834), 1, $rt_s(2834), 16, 16, 16, 0);
+        nms_EnumArt_Alban = nms_EnumArt__init_0($rt_s(2835), 2, $rt_s(2835), 16, 16, 32, 0);
+        nms_EnumArt_Aztec2 = nms_EnumArt__init_0($rt_s(2836), 3, $rt_s(2836), 16, 16, 48, 0);
+        nms_EnumArt_Bomb = nms_EnumArt__init_0($rt_s(2837), 4, $rt_s(2837), 16, 16, 64, 0);
+        nms_EnumArt_Plant = nms_EnumArt__init_0($rt_s(2838), 5, $rt_s(2838), 16, 16, 80, 0);
+        nms_EnumArt_Wasteland = nms_EnumArt__init_0($rt_s(2839), 6, $rt_s(2839), 16, 16, 96, 0);
+        nms_EnumArt_Pool = nms_EnumArt__init_0($rt_s(2840), 7, $rt_s(2840), 32, 16, 0, 32);
+        nms_EnumArt_Courbet = nms_EnumArt__init_0($rt_s(2841), 8, $rt_s(2841), 32, 16, 32, 32);
+        nms_EnumArt_Sea = nms_EnumArt__init_0($rt_s(2842), 9, $rt_s(2842), 32, 16, 64, 32);
+        nms_EnumArt_Sunset = nms_EnumArt__init_0($rt_s(2843), 10, $rt_s(2843), 32, 16, 96, 32);
+        nms_EnumArt_Creebet = nms_EnumArt__init_0($rt_s(2844), 11, $rt_s(2844), 32, 16, 128, 32);
+        nms_EnumArt_Wanderer = nms_EnumArt__init_0($rt_s(2845), 12, $rt_s(2845), 16, 32, 0, 64);
+        nms_EnumArt_Graham = nms_EnumArt__init_0($rt_s(2846), 13, $rt_s(2846), 16, 32, 16, 64);
+        nms_EnumArt_Match = nms_EnumArt__init_0($rt_s(2847), 14, $rt_s(2847), 32, 32, 0, 128);
+        nms_EnumArt_Bust = nms_EnumArt__init_0($rt_s(2848), 15, $rt_s(2848), 32, 32, 32, 128);
+        nms_EnumArt_Stage = nms_EnumArt__init_0($rt_s(2849), 16, $rt_s(2849), 32, 32, 64, 128);
+        nms_EnumArt_Void = nms_EnumArt__init_0($rt_s(2850), 17, $rt_s(2850), 32, 32, 96, 128);
+        nms_EnumArt_SkullAndRoses = nms_EnumArt__init_0($rt_s(2851), 18, $rt_s(2851), 32, 32, 128, 128);
+        nms_EnumArt_Fighters = nms_EnumArt__init_0($rt_s(2852), 19, $rt_s(2852), 64, 32, 0, 96);
+        nms_EnumArt_Pointer = nms_EnumArt__init_0($rt_s(2853), 20, $rt_s(2853), 64, 64, 0, 192);
+        nms_EnumArt_Pigscene = nms_EnumArt__init_0($rt_s(2854), 21, $rt_s(2854), 64, 64, 64, 192);
+        nms_EnumArt_BurningSkull = nms_EnumArt__init_0($rt_s(2855), 22, $rt_s(2855), 64, 64, 128, 192);
+        nms_EnumArt_Skeleton = nms_EnumArt__init_0($rt_s(2704), 23, $rt_s(2704), 64, 48, 192, 64);
+        nms_EnumArt_DonkeyKong = nms_EnumArt__init_0($rt_s(2856), 24, $rt_s(2856), 64, 48, 192, 112);
         nms_EnumArt_$VALUES = nms_EnumArt_$values();
-        nms_EnumArt_maxArtTitleLength = jl_String_length($rt_s(2850));
+        nms_EnumArt_maxArtTitleLength = jl_String_length($rt_s(2851));
     }
     function cjj_CodeBook$DecodeAux() {
         var a = this; jl_Object.call(a);
@@ -214975,7 +214976,7 @@
                 if ($rt_suspending()) {
                     break main;
                 }
-                $var3 = nleiv_VFile2__init_($rt_createArrayFromData(jl_Object, [$var0, $rt_s(2856)]));
+                $var3 = nleiv_VFile2__init_($rt_createArrayFromData(jl_Object, [$var0, $rt_s(2857)]));
                 $var4 = new nleiv_VFile2;
                 var$6 = $rt_createArray(jl_Object, 2);
                 var$7 = var$6.data;
@@ -214984,11 +214985,11 @@
                 $var2 = $var2 >> 5;
                 $var3 = new jl_StringBuilder;
                 jl_AbstractStringBuilder__init_($var3);
-                $var5 = jl_StringBuilder_append($var3, $rt_s(2857));
+                $var5 = jl_StringBuilder_append($var3, $rt_s(2858));
                 jl_AbstractStringBuilder_append0($var5, var$8);
                 jl_AbstractStringBuilder_append($var5, 46);
                 jl_AbstractStringBuilder_append0($var5, $var2);
-                jl_StringBuilder_append($var5, $rt_s(2858));
+                jl_StringBuilder_append($var5, $rt_s(2859));
                 var$7[1] = jl_AbstractStringBuilder_toString($var3);
                 nleiv_VFile2__init_0($var4, var$6);
                 $var5 = ju_HashMap_get(nms_RegionFileCache_regionsByFilename, $var4);
@@ -215631,9 +215632,9 @@
         var$2 = ju_HashSet_size($this.$droppedChunksSet);
         var$3 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$3);
-        var$4 = jl_StringBuilder_append(var$3, $rt_s(2859));
+        var$4 = jl_StringBuilder_append(var$3, $rt_s(2860));
         jl_AbstractStringBuilder_append0(var$4, var$1);
-        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$4, $rt_s(2860)), var$2);
+        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$4, $rt_s(2861)), var$2);
         return jl_AbstractStringBuilder_toString(var$3);
     }
     function nms_ChunkPosition() {
@@ -215740,10 +215741,10 @@
     }
     var nms_J_JsonStringNodeSelector = $rt_classWithoutFields(nms_J_LeafFunctor);
     function nms_J_JsonStringNodeSelector_shortForm($this) {
-        return $rt_s(2861);
+        return $rt_s(2862);
     }
     function nms_J_JsonStringNodeSelector_toString($this) {
-        return $rt_s(2862);
+        return $rt_s(2863);
     }
     function nms_J_JsonStringNodeSelector_typeSafeApplyTo($this, $var1) {
         return $var1.$getText();
@@ -215769,7 +215770,7 @@
         var$3 = nms_J_JsonNodeDoesNotMatchChainedJsonNodeSelectorException_func_27324_a($var2);
         var$4 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$4);
-        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$4, $rt_s(2863)), var$3), 93);
+        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$4, $rt_s(2864)), var$3), 93);
         jl_Throwable__init_($this, jl_AbstractStringBuilder_toString(var$4));
         $this.$field_27326_a = $var1;
         $this.$field_27325_b = $var2;
@@ -215793,7 +215794,7 @@
         var$2 = jl_String_valueOf($this.$field_27325_b);
         var$3 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$3);
-        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2864)), var$1), $rt_s(2865)), var$2), 125);
+        jl_AbstractStringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2865)), var$1), $rt_s(2866)), var$2), 125);
         return jl_AbstractStringBuilder_toString(var$3);
     }
     var nms_J_JsonNodeDoesNotMatchPathElementsException = $rt_classWithoutFields(nms_J_JsonNodeDoesNotMatchJsonNodeSelectorException);
@@ -215803,10 +215804,10 @@
     }
     var nms_J_JsonArrayNodeSelector = $rt_classWithoutFields(nms_J_LeafFunctor);
     function nms_J_JsonArrayNodeSelector_shortForm($this) {
-        return $rt_s(2866);
+        return $rt_s(2867);
     }
     function nms_J_JsonArrayNodeSelector_toString($this) {
-        return $rt_s(2867);
+        return $rt_s(2868);
     }
     function nms_J_JsonArrayNodeSelector_typeSafeApplyTo($this, $var1) {
         return $var1.$getElements();
@@ -216313,10 +216314,10 @@
         var var$1;
         var$1 = new nms_EnumCreatureType;
         nms_Material_$callClinit();
-        nms_EnumCreatureType__init_(var$1, $rt_s(2868), 0, $rt_cls(nms_IMob), 70, nms_Material_air, 0);
+        nms_EnumCreatureType__init_(var$1, $rt_s(2869), 0, $rt_cls(nms_IMob), 70, nms_Material_air, 0);
         nms_EnumCreatureType_monster = var$1;
-        nms_EnumCreatureType_creature = nms_EnumCreatureType__init_0($rt_s(2869), 1, $rt_cls(nms_EntityAnimal), 15, nms_Material_air, 1);
-        var$1 = nms_EnumCreatureType__init_0($rt_s(2870), 2, $rt_cls(nms_EntityWaterMob), 5, nms_Material_water, 1);
+        nms_EnumCreatureType_creature = nms_EnumCreatureType__init_0($rt_s(2870), 1, $rt_cls(nms_EntityAnimal), 15, nms_Material_air, 1);
+        var$1 = nms_EnumCreatureType__init_0($rt_s(2871), 2, $rt_cls(nms_EntityWaterMob), 5, nms_Material_water, 1);
         nms_EnumCreatureType_waterCreature = var$1;
         nms_EnumCreatureType_$VALUES = $rt_createArrayFromData(nms_EnumCreatureType, [nms_EnumCreatureType_monster, nms_EnumCreatureType_creature, var$1]);
     }
@@ -216466,7 +216467,7 @@
         nms_ChunkFolderPattern__clinit_();
     }
     function nms_ChunkFolderPattern__clinit_() {
-        nms_ChunkFolderPattern_folderRegexPattern = jur_Pattern_compile($rt_s(2871));
+        nms_ChunkFolderPattern_folderRegexPattern = jur_Pattern_compile($rt_s(2872));
     }
     var nms_Empty2 = $rt_classWithoutFields();
     var dcev_VFilenameFilter = $rt_classWithoutFields(0);
@@ -216477,7 +216478,7 @@
         nms_ChunkFilePattern__clinit_();
     }
     function nms_ChunkFilePattern__clinit_() {
-        nms_ChunkFilePattern_dataFilenamePattern = jur_Pattern_compile($rt_s(2872));
+        nms_ChunkFilePattern_dataFilenamePattern = jur_Pattern_compile($rt_s(2873));
     }
     function nms_ChunkFile() {
         var a = this; jl_Object.call(a);
@@ -216750,7 +216751,7 @@
         var var$2, var$3, $var2, var$5;
         if ($var1.$index16 >= 0) {
             $var1 = new jl_IllegalStateException;
-            jl_Throwable__init_($var1, $rt_s(2873));
+            jl_Throwable__init_($var1, $rt_s(2874));
             $rt_throw($var1);
         }
         var$2 = $this.$count11;
@@ -216984,7 +216985,7 @@
             $var6 = jl_String_valueOf($var1);
             var$3 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_(var$3);
-            jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2874)), $var6);
+            jl_StringBuilder_append(jl_StringBuilder_append(var$3, $rt_s(2875)), $var6);
             nms_RegionFile_debugln($this, jl_AbstractStringBuilder_toString(var$3));
             $this.$sizeDelta = 0;
             try {
@@ -217235,16 +217236,16 @@
         var$6 = nleiv_VFile2_getName($this.$fileName2);
         var$7 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$7);
-        $var1 = jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2875)), $var1);
+        $var1 = jl_StringBuilder_append(jl_StringBuilder_append(var$7, $rt_s(2876)), $var1);
         jl_AbstractStringBuilder_append($var1, 32);
         $var1 = jl_StringBuilder_append($var1, var$6);
         jl_AbstractStringBuilder_append($var1, 91);
         jl_AbstractStringBuilder_append0($var1, $var2);
         jl_AbstractStringBuilder_append($var1, 44);
         jl_AbstractStringBuilder_append0($var1, $var3);
-        $var1 = jl_StringBuilder_append($var1, $rt_s(2876));
+        $var1 = jl_StringBuilder_append($var1, $rt_s(2877));
         jl_AbstractStringBuilder_append0($var1, $var4);
-        jl_StringBuilder_append(jl_StringBuilder_append($var1, $rt_s(2877)), $var5);
+        jl_StringBuilder_append(jl_StringBuilder_append($var1, $rt_s(2878)), $var5);
         jl_AbstractStringBuilder_toString(var$7);
     }
     function nms_RegionFile_debugln0($this, $var1, $var2, $var3, $var4) {
@@ -217256,14 +217257,14 @@
         var$5 = nleiv_VFile2_getName($this.$fileName2);
         var$6 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$6);
-        $var1 = jl_StringBuilder_append(jl_StringBuilder_append(var$6, $rt_s(2875)), $var1);
+        $var1 = jl_StringBuilder_append(jl_StringBuilder_append(var$6, $rt_s(2876)), $var1);
         jl_AbstractStringBuilder_append($var1, 32);
         $var1 = jl_StringBuilder_append($var1, var$5);
         jl_AbstractStringBuilder_append($var1, 91);
         jl_AbstractStringBuilder_append0($var1, $var2);
         jl_AbstractStringBuilder_append($var1, 44);
         jl_AbstractStringBuilder_append0($var1, $var3);
-        jl_StringBuilder_append(jl_StringBuilder_append($var1, $rt_s(2878)), $var4);
+        jl_StringBuilder_append(jl_StringBuilder_append($var1, $rt_s(2879)), $var4);
         jl_AbstractStringBuilder_toString(var$6);
     }
     function nms_RegionFile_getChunkDataInputStream($this, $var1, $var2) {
@@ -217271,7 +217272,7 @@
         jl_Object_monitorEnterSync($this);
         try {
             if (nms_RegionFile_outOfBounds($this, $var1, $var2)) {
-                nms_RegionFile_debugln0($this, $rt_s(2879), $var1, $var2, $rt_s(2880));
+                nms_RegionFile_debugln0($this, $rt_s(2880), $var1, $var2, $rt_s(2881));
                 return null;
             }
             a: {
@@ -217297,7 +217298,7 @@
                         $var5 = $var3 & 255;
                         if (($var4 + $var5 | 0) <= ju_ArrayList_size($this.$sectorFree))
                             break c;
-                        nms_RegionFile_debugln0($this, $rt_s(2879), $var1, $var2, $rt_s(2881));
+                        nms_RegionFile_debugln0($this, $rt_s(2880), $var1, $var2, $rt_s(2882));
                         $var9 = null;
                     } catch ($$e) {
                         $$je = $rt_wrapException($$e);
@@ -217317,8 +217318,8 @@
                         if ($var7 <= 0 && $var6 > 0 && $var7 <= 0)
                             break d;
                         var$9 = jl_StringBuilder__init_();
-                        jl_StringBuilder_append2(jl_StringBuilder_append(jl_StringBuilder_append2(jl_StringBuilder_append(var$9, $rt_s(2882)), $var6), $rt_s(2883)), $var5);
-                        nms_RegionFile_debugln0($this, $rt_s(2879), $var1, $var2, jl_StringBuilder_toString(var$9));
+                        jl_StringBuilder_append2(jl_StringBuilder_append(jl_StringBuilder_append2(jl_StringBuilder_append(var$9, $rt_s(2883)), $var6), $rt_s(2884)), $var5);
+                        nms_RegionFile_debugln0($this, $rt_s(2880), $var1, $var2, jl_StringBuilder_toString(var$9));
                         $var9 = null;
                     } catch ($$e) {
                         $$je = $rt_wrapException($$e);
@@ -217367,8 +217368,8 @@
                 }
                 try {
                     var$9 = jl_StringBuilder__init_();
-                    jl_StringBuilder_append2(jl_StringBuilder_append(var$9, $rt_s(2884)), $var7 << 24 >> 24);
-                    nms_RegionFile_debugln0($this, $rt_s(2879), $var1, $var2, jl_StringBuilder_toString(var$9));
+                    jl_StringBuilder_append2(jl_StringBuilder_append(var$9, $rt_s(2885)), $var7 << 24 >> 24);
+                    nms_RegionFile_debugln0($this, $rt_s(2880), $var1, $var2, jl_StringBuilder_toString(var$9));
                     $var9 = null;
                 } catch ($$e) {
                     $$je = $rt_wrapException($$e);
@@ -217380,7 +217381,7 @@
                 }
                 return $var9;
             }
-            nms_RegionFile_debugln0($this, $rt_s(2879), $var1, $var2, $rt_s(2885));
+            nms_RegionFile_debugln0($this, $rt_s(2880), $var1, $var2, $rt_s(2886));
             return null;
         } finally {
             jl_Object_monitorExitSync($this);
@@ -217431,7 +217432,7 @@
                     d: {
                         try {
                             if ($var6 && $var7 == $var8) {
-                                nms_RegionFile_func_22197_a($this, $rt_s(2886), $var1, $var2, $var4, $rt_s(2887));
+                                nms_RegionFile_func_22197_a($this, $rt_s(2887), $var1, $var2, $var4, $rt_s(2888));
                                 nms_RegionFile_write0($this, $var6, $var3, $var4);
                                 break d;
                             }
@@ -217459,7 +217460,7 @@
                                 }
                             }
                             if ($var10 >= $var8) {
-                                nms_RegionFile_func_22197_a($this, $rt_s(2886), $var1, $var2, $var4, $rt_s(2888));
+                                nms_RegionFile_func_22197_a($this, $rt_s(2887), $var1, $var2, $var4, $rt_s(2889));
                                 nms_RegionFile_setOffset($this, $var1, $var2, $var5 << 8 | $var8);
                                 $var11 = 0;
                                 while ($var11 < $var8) {
@@ -217469,7 +217470,7 @@
                                 nms_RegionFile_write0($this, $var5, $var3, $var4);
                                 break d;
                             }
-                            nms_RegionFile_func_22197_a($this, $rt_s(2886), $var1, $var2, $var4, $rt_s(2889));
+                            nms_RegionFile_func_22197_a($this, $rt_s(2887), $var1, $var2, $var4, $rt_s(2890));
                             $var12 = $this.$dataFile0;
                             nlesse_RandomAccessMemoryFile_seek($var12, nlesse_RandomAccessMemoryFile_getLength($var12));
                             $var7 = ju_ArrayList_size($this.$sectorFree);
@@ -217665,7 +217666,7 @@
         var$2 = nms_J_JsonNodeSelector_toString($this.$childJsonNodeSelector);
         var$3 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$3);
-        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$3, var$1), $rt_s(2890)), var$2);
+        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$3, var$1), $rt_s(2891)), var$2);
         return jl_AbstractStringBuilder_toString(var$3);
     }
     var nms_J_JsonFormatter = $rt_classWithoutFields(0);
@@ -217713,7 +217714,7 @@
                     break a;
                 case 3:
                     ji_StringWriter_write0($var2, 34);
-                    ji_StringWriter_write0(ji_StringWriter_append0($var2, jl_String_replace0(jl_String_replace0(jl_String_replace0(jl_String_replace0(jl_String_replace0(jl_String_replace0(jl_String_replace0($var1.$getText(), $rt_s(488), $rt_s(2891)), $rt_s(2329), $rt_s(2892)), $rt_s(2893), $rt_s(2778)), $rt_s(2894), $rt_s(2774)), $rt_s(180), $rt_s(2773)), $rt_s(2895), $rt_s(2775)), $rt_s(2896), $rt_s(2772))), 34);
+                    ji_StringWriter_write0(ji_StringWriter_append0($var2, jl_String_replace0(jl_String_replace0(jl_String_replace0(jl_String_replace0(jl_String_replace0(jl_String_replace0(jl_String_replace0($var1.$getText(), $rt_s(488), $rt_s(2892)), $rt_s(2329), $rt_s(2893)), $rt_s(2894), $rt_s(2779)), $rt_s(2895), $rt_s(2775)), $rt_s(180), $rt_s(2774)), $rt_s(2896), $rt_s(2776)), $rt_s(2897), $rt_s(2773))), 34);
                     break a;
                 case 4:
                     break;
@@ -217731,7 +217732,7 @@
                     $var1 = jl_String_valueOf($var1.$getType2());
                     $var4 = new jl_StringBuilder;
                     jl_AbstractStringBuilder__init_($var4);
-                    jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($var4, $rt_s(2897)), $var1), $rt_s(2898));
+                    jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append($var4, $rt_s(2898)), $var1), $rt_s(2899));
                     jl_Throwable__init_($var2, jl_AbstractStringBuilder_toString($var4));
                     $rt_throw($var2);
             }
@@ -217932,7 +217933,7 @@
         var$1 = $this.$index15;
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        var$3 = jl_StringBuilder_append(var$2, $rt_s(2899));
+        var$3 = jl_StringBuilder_append(var$2, $rt_s(2900));
         jl_AbstractStringBuilder_append0(var$3, var$1);
         jl_AbstractStringBuilder_append(var$3, 93);
         return jl_AbstractStringBuilder_toString(var$2);
@@ -217945,10 +217946,10 @@
     }
     var nms_J_JsonObjectNodeSelector = $rt_classWithoutFields(nms_J_LeafFunctor);
     function nms_J_JsonObjectNodeSelector_shortForm($this) {
-        return $rt_s(2900);
+        return $rt_s(2901);
     }
     function nms_J_JsonObjectNodeSelector_toString($this) {
-        return $rt_s(2901);
+        return $rt_s(2902);
     }
     function nms_J_JsonObjectNodeSelector_typeSafeApplyTo($this, $var1) {
         return $var1.$getFields();
@@ -217976,7 +217977,7 @@
         var$1 = $this.$field_27066_a.$field_27224_a;
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2902)), var$1), $rt_s(2903));
+        jl_StringBuilder_append(jl_StringBuilder_append(jl_StringBuilder_append(var$2, $rt_s(2903)), var$1), $rt_s(2904));
         return jl_AbstractStringBuilder_toString(var$2);
     }
     function nms_J_JsonFieldNodeSelector_typeSafeApplyTo($this, $var1) {
@@ -218019,31 +218020,31 @@
             if ($var4 === null)
                 return null;
             $var5 = nms_CompressedStreamTools_func_1141_a($var4);
-            if (!nms_NBTTagCompound_hasKey($var5, $rt_s(2904))) {
+            if (!nms_NBTTagCompound_hasKey($var5, $rt_s(2905))) {
                 $var1 = jl_System_out();
                 $var5 = new jl_StringBuilder;
                 jl_AbstractStringBuilder__init_($var5);
-                $var6 = jl_StringBuilder_append($var5, $rt_s(2905));
+                $var6 = jl_StringBuilder_append($var5, $rt_s(2906));
                 jl_AbstractStringBuilder_append0($var6, $var2);
                 jl_AbstractStringBuilder_append($var6, 44);
                 jl_AbstractStringBuilder_append0($var6, $var3);
-                jl_StringBuilder_append($var6, $rt_s(2906));
+                jl_StringBuilder_append($var6, $rt_s(2907));
                 ji_PrintStream_println1($var1, jl_AbstractStringBuilder_toString($var5));
                 return null;
             }
-            if (!nms_NBTTagCompound_hasKey(nms_NBTTagCompound_getCompoundTag($var5, $rt_s(2904)), $rt_s(2907))) {
+            if (!nms_NBTTagCompound_hasKey(nms_NBTTagCompound_getCompoundTag($var5, $rt_s(2905)), $rt_s(2908))) {
                 $var1 = jl_System_out();
                 $var5 = new jl_StringBuilder;
                 jl_AbstractStringBuilder__init_($var5);
-                $var6 = jl_StringBuilder_append($var5, $rt_s(2905));
+                $var6 = jl_StringBuilder_append($var5, $rt_s(2906));
                 jl_AbstractStringBuilder_append0($var6, $var2);
                 jl_AbstractStringBuilder_append($var6, 44);
                 jl_AbstractStringBuilder_append0($var6, $var3);
-                jl_StringBuilder_append($var6, $rt_s(2908));
+                jl_StringBuilder_append($var6, $rt_s(2909));
                 ji_PrintStream_println1($var1, jl_AbstractStringBuilder_toString($var5));
                 return null;
             }
-            $var6 = nms_NBTTagCompound_getCompoundTag($var5, $rt_s(2904));
+            $var6 = nms_NBTTagCompound_getCompoundTag($var5, $rt_s(2905));
             $ptr = 2;
         case 2:
             $tmp = nms_ChunkLoader_loadChunkIntoWorldFromCompound($var1, $var6);
@@ -218069,23 +218070,23 @@
             var$11 = $var6.$zPosition16;
             $var6 = new jl_StringBuilder;
             jl_AbstractStringBuilder__init_($var6);
-            $var4 = jl_StringBuilder_append($var6, $rt_s(2905));
+            $var4 = jl_StringBuilder_append($var6, $rt_s(2906));
             jl_AbstractStringBuilder_append0($var4, $var2);
             jl_AbstractStringBuilder_append($var4, 44);
             jl_AbstractStringBuilder_append0($var4, $var3);
-            $var4 = jl_StringBuilder_append($var4, $rt_s(2909));
+            $var4 = jl_StringBuilder_append($var4, $rt_s(2910));
             jl_AbstractStringBuilder_append0($var4, $var2);
             $var4 = jl_StringBuilder_append($var4, $rt_s(109));
             jl_AbstractStringBuilder_append0($var4, $var3);
-            $var4 = jl_StringBuilder_append($var4, $rt_s(2910));
+            $var4 = jl_StringBuilder_append($var4, $rt_s(2911));
             jl_AbstractStringBuilder_append0($var4, var$10);
             $var4 = jl_StringBuilder_append($var4, $rt_s(109));
             jl_AbstractStringBuilder_append0($var4, var$11);
             jl_AbstractStringBuilder_append($var4, 41);
             ji_PrintStream_println1(var$9, jl_AbstractStringBuilder_toString($var6));
-            nms_NBTTagCompound_setInteger($var5, $rt_s(2911), $var2);
-            nms_NBTTagCompound_setInteger($var5, $rt_s(2912), $var3);
-            $var5 = nms_NBTTagCompound_getCompoundTag($var5, $rt_s(2904));
+            nms_NBTTagCompound_setInteger($var5, $rt_s(2912), $var2);
+            nms_NBTTagCompound_setInteger($var5, $rt_s(2913), $var3);
+            $var5 = nms_NBTTagCompound_getCompoundTag($var5, $rt_s(2905));
             $ptr = 3;
         case 3:
             $tmp = nms_ChunkLoader_loadChunkIntoWorldFromCompound($var1, $var5);
@@ -218148,7 +218149,7 @@
                 $var3 = $tmp;
                 $var4 = nms_NBTTagCompound__init_();
                 $var5 = nms_NBTTagCompound__init_();
-                nms_NBTTagCompound_setTag($var4, $rt_s(2904), $var5);
+                nms_NBTTagCompound_setTag($var4, $rt_s(2905), $var5);
                 $ptr = 3;
                 continue main;
             } catch ($$e) {
@@ -218408,7 +218409,7 @@
         main: while (true) { switch ($ptr) {
         case 0:
             var$1 = $this.$fontRenderer1;
-            var$2 = $rt_s(2913);
+            var$2 = $rt_s(2914);
             var$3 = 60;
             var$4 = 6;
             var$5 = 4210752;
@@ -218444,7 +218445,7 @@
         main: while (true) { switch ($ptr) {
         case 0:
             var$2 = $this.$mc3.$renderEngine;
-            var$3 = $rt_s(2914);
+            var$3 = $rt_s(2915);
             $ptr = 1;
         case 1:
             $tmp = nms_RenderEngine_getTexture(var$2, var$3);
@@ -219094,7 +219095,7 @@
         main: while (true) { switch ($ptr) {
         case 0:
             var$2 = $this.$mc3.$renderEngine;
-            var$3 = $rt_s(2915);
+            var$3 = $rt_s(2916);
             $ptr = 1;
         case 1:
             $tmp = nms_RenderEngine_getTexture(var$2, var$3);
@@ -219165,7 +219166,7 @@
         main: while (true) { switch ($ptr) {
         case 0:
             var$2 = $this.$mc3.$renderEngine;
-            var$3 = $rt_s(2916);
+            var$3 = $rt_s(2917);
             $ptr = 1;
         case 1:
             $tmp = nms_RenderEngine_getTexture(var$2, var$3);
@@ -226155,7 +226156,7 @@
             if ($var8 > 15)
                 return;
             var$9 = $this.$field_35128_az;
-            var$10 = $rt_s(2917);
+            var$10 = $rt_s(2918);
             $ptr = 1;
         case 1:
             $tmp = nms_RenderEngine_getTexture(var$9, var$10);
@@ -227165,7 +227166,7 @@
             }
             $var14 = $tmp;
             var$15 = $this.$currentFootSteps;
-            var$20 = $rt_s(2918);
+            var$20 = $rt_s(2919);
             $ptr = 2;
         case 2:
             $tmp = nms_RenderEngine_getTexture(var$15, var$20);
@@ -228529,7 +228530,7 @@
         var$3 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$3);
         if (jlr_Modifier_modifierNames === null)
-            jlr_Modifier_modifierNames = $rt_createArrayFromData(jl_String, [$rt_s(2919), $rt_s(2920), $rt_s(2921), $rt_s(2922), $rt_s(2923), $rt_s(2924), $rt_s(2925), $rt_s(2926), $rt_s(2927), $rt_s(2928), $rt_s(2929), $rt_s(2930)]);
+            jlr_Modifier_modifierNames = $rt_createArrayFromData(jl_String, [$rt_s(2920), $rt_s(2921), $rt_s(2922), $rt_s(2923), $rt_s(2924), $rt_s(2925), $rt_s(2926), $rt_s(2927), $rt_s(2928), $rt_s(2929), $rt_s(2930), $rt_s(2931)]);
         $parameterTypes = jlr_Modifier_modifierNames;
         var$5 = 0;
         var$6 = jlr_Modifier_canonicalOrder.data;
@@ -229234,7 +229235,7 @@
                     $var16 = jl_System_out();
                     $var10 = new jl_StringBuilder;
                     jl_AbstractStringBuilder__init_($var10);
-                    $var17 = jl_StringBuilder_append($var10, $rt_s(2931));
+                    $var17 = jl_StringBuilder_append($var10, $rt_s(2932));
                     jl_AbstractStringBuilder_append0($var17, $var8);
                     $var17 = jl_StringBuilder_append($var17, $rt_s(109));
                     jl_AbstractStringBuilder_append0($var17, $var9);
@@ -230646,15 +230647,15 @@
             if ($rt_suspending()) {
                 break main;
             }
-            nms_NBTTagCompound_setInteger($var2, $rt_s(2911), $var0.$xPosition18);
-            nms_NBTTagCompound_setInteger($var2, $rt_s(2912), $var0.$zPosition16);
-            nms_NBTTagCompound_setLong($var2, $rt_s(2932), nms_World_getWorldTime($var1));
-            nms_NBTTagCompound_setByteArray($var2, $rt_s(2907), $var0.$blocks0);
+            nms_NBTTagCompound_setInteger($var2, $rt_s(2912), $var0.$xPosition18);
+            nms_NBTTagCompound_setInteger($var2, $rt_s(2913), $var0.$zPosition16);
+            nms_NBTTagCompound_setLong($var2, $rt_s(2933), nms_World_getWorldTime($var1));
+            nms_NBTTagCompound_setByteArray($var2, $rt_s(2908), $var0.$blocks0);
             nms_NBTTagCompound_setByteArray($var2, $rt_s(273), $var0.$data6.$data7);
-            nms_NBTTagCompound_setByteArray($var2, $rt_s(2933), $var0.$skylightMap.$data7);
-            nms_NBTTagCompound_setByteArray($var2, $rt_s(2934), $var0.$blocklightMap.$data7);
-            nms_NBTTagCompound_setByteArray($var2, $rt_s(2935), $var0.$heightMap);
-            nms_NBTTagCompound_setBoolean($var2, $rt_s(2936), $var0.$isTerrainPopulated);
+            nms_NBTTagCompound_setByteArray($var2, $rt_s(2934), $var0.$skylightMap.$data7);
+            nms_NBTTagCompound_setByteArray($var2, $rt_s(2935), $var0.$blocklightMap.$data7);
+            nms_NBTTagCompound_setByteArray($var2, $rt_s(2936), $var0.$heightMap);
+            nms_NBTTagCompound_setBoolean($var2, $rt_s(2937), $var0.$isTerrainPopulated);
             $var0.$hasEntities = 0;
             $var3 = nms_NBTTagList__init_0();
             $var4 = 0;
@@ -230672,7 +230673,7 @@
                 }
                 $var4 = $var4 + 1 | 0;
             }
-            nms_NBTTagCompound_setTag($var2, $rt_s(2937), $var3);
+            nms_NBTTagCompound_setTag($var2, $rt_s(2938), $var3);
             $var8 = nms_NBTTagList__init_0();
             $var5 = ju_HashMap$2_iterator(ju_HashMap_values($var0.$chunkTileEntityMap));
             while (ju_HashMap$AbstractMapIterator_hasNext($var5)) {
@@ -230681,7 +230682,7 @@
                 $var9.$writeToNBT($var7);
                 nms_NBTTagList_setTag($var8, $var7);
             }
-            nms_NBTTagCompound_setTag($var2, $rt_s(2938), $var8);
+            nms_NBTTagCompound_setTag($var2, $rt_s(2939), $var8);
             return;
         default: $rt_invalidPointer();
         }}
@@ -230696,19 +230697,19 @@
         }
         main: while (true) { switch ($ptr) {
         case 0:
-            $var4 = nms_Chunk__init_1($var0, nms_NBTTagCompound_getInteger($var1, $rt_s(2911)), nms_NBTTagCompound_getInteger($var1, $rt_s(2912)));
-            $var4.$blocks0 = nms_NBTTagCompound_getByteArray($var1, $rt_s(2907));
+            $var4 = nms_Chunk__init_1($var0, nms_NBTTagCompound_getInteger($var1, $rt_s(2912)), nms_NBTTagCompound_getInteger($var1, $rt_s(2913)));
+            $var4.$blocks0 = nms_NBTTagCompound_getByteArray($var1, $rt_s(2908));
             $var10003 = nms_NBTTagCompound_getByteArray($var1, $rt_s(273));
             jl_Object_getClass($var0);
             $var4.$data6 = nms_NibbleArray__init_2($var10003, 7);
-            $var10003 = nms_NBTTagCompound_getByteArray($var1, $rt_s(2933));
-            jl_Object_getClass($var0);
-            $var4.$skylightMap = nms_NibbleArray__init_2($var10003, 7);
             $var10003 = nms_NBTTagCompound_getByteArray($var1, $rt_s(2934));
             jl_Object_getClass($var0);
+            $var4.$skylightMap = nms_NibbleArray__init_2($var10003, 7);
+            $var10003 = nms_NBTTagCompound_getByteArray($var1, $rt_s(2935));
+            jl_Object_getClass($var0);
             $var4.$blocklightMap = nms_NibbleArray__init_2($var10003, 7);
-            $var4.$heightMap = nms_NBTTagCompound_getByteArray($var1, $rt_s(2935));
-            $var4.$isTerrainPopulated = nms_NBTTagCompound_getBoolean($var1, $rt_s(2936));
+            $var4.$heightMap = nms_NBTTagCompound_getByteArray($var1, $rt_s(2936));
+            $var4.$isTerrainPopulated = nms_NBTTagCompound_getBoolean($var1, $rt_s(2937));
             if (!nms_NibbleArray_isValid($var4.$data6)) {
                 $var13 = $var4.$blocks0.data.length;
                 jl_Object_getClass($var0);
@@ -230727,7 +230728,7 @@
                 $var4.$blocklightMap = nms_NibbleArray__init_1($var13, 7);
             }
             a: {
-                $var5 = nms_NBTTagCompound_getTagList($var1, $rt_s(2937));
+                $var5 = nms_NBTTagCompound_getTagList($var1, $rt_s(2938));
                 if ($var5 !== null) {
                     $var6 = 0;
                     while (true) {
@@ -230765,7 +230766,7 @@
                         $var10 = nms_NBTTagCompound_getString($var7, $rt_s(990));
                         $var8_0 = new jl_StringBuilder;
                         jl_AbstractStringBuilder__init_($var8_0);
-                        jl_StringBuilder_append(jl_StringBuilder_append($var8_0, $rt_s(2696)), $var10);
+                        jl_StringBuilder_append(jl_StringBuilder_append($var8_0, $rt_s(2697)), $var10);
                         ji_PrintStream_println1($var9, jl_AbstractStringBuilder_toString($var8_0));
                         $var4.$hasEntities = 1;
                         if ($var8 !== null)
@@ -230775,7 +230776,7 @@
                 }
             }
             c: {
-                $var10 = nms_NBTTagCompound_getTagList($var1, $rt_s(2938));
+                $var10 = nms_NBTTagCompound_getTagList($var1, $rt_s(2939));
                 if ($var10 !== null) {
                     $var11 = 0;
                     while (true) {
@@ -230812,7 +230813,7 @@
                             $var0 = nms_NBTTagCompound_getString($var12, $rt_s(990));
                             $var1 = new jl_StringBuilder;
                             jl_AbstractStringBuilder__init_($var1);
-                            jl_StringBuilder_append(jl_StringBuilder_append($var1, $rt_s(2939)), $var0);
+                            jl_StringBuilder_append(jl_StringBuilder_append($var1, $rt_s(2940)), $var0);
                             ji_PrintStream_println1($var8, jl_AbstractStringBuilder_toString($var1));
                         }
                         if ($var9_0 !== null) {
@@ -230868,11 +230869,11 @@
                 $var10 = nms_NBTTagCompound_getString($var7, $rt_s(990));
                 $var8_0 = new jl_StringBuilder;
                 jl_AbstractStringBuilder__init_($var8_0);
-                jl_StringBuilder_append(jl_StringBuilder_append($var8_0, $rt_s(2696)), $var10);
+                jl_StringBuilder_append(jl_StringBuilder_append($var8_0, $rt_s(2697)), $var10);
                 ji_PrintStream_println1($var9, jl_AbstractStringBuilder_toString($var8_0));
             }
             f: {
-                $var10 = nms_NBTTagCompound_getTagList($var1, $rt_s(2938));
+                $var10 = nms_NBTTagCompound_getTagList($var1, $rt_s(2939));
                 if ($var10 !== null) {
                     $var11 = 0;
                     while (true) {
@@ -230909,7 +230910,7 @@
                             $var0 = nms_NBTTagCompound_getString($var12, $rt_s(990));
                             $var1 = new jl_StringBuilder;
                             jl_AbstractStringBuilder__init_($var1);
-                            jl_StringBuilder_append(jl_StringBuilder_append($var1, $rt_s(2939)), $var0);
+                            jl_StringBuilder_append(jl_StringBuilder_append($var1, $rt_s(2940)), $var0);
                             ji_PrintStream_println1($var8, jl_AbstractStringBuilder_toString($var1));
                         }
                         if ($var9_0 !== null) {
@@ -230950,7 +230951,7 @@
         main: while (true) { switch ($ptr) {
         case 0:
             var$5 = new nms_SaveHandlerMP;
-            var$6 = $rt_s(2940);
+            var$6 = $rt_s(2941);
             var$7 = nms_WorldProvider_getProviderForDimension($var3);
             $ptr = 1;
         case 1:
@@ -231369,7 +231370,7 @@
             var$1 = $this.$sendQueue0;
             var$2 = new nms_Packet255KickDisconnect;
             nms_Packet__init_(var$2);
-            var$2.$reason = $rt_s(2941);
+            var$2.$reason = $rt_s(2942);
             if (var$1.$disconnected)
                 return;
             var$3 = var$1.$netManager;
@@ -231492,7 +231493,7 @@
             }
             $var4 = nms_StringTranslate_getInstance();
             var$6 = $this.$fontRenderer1;
-            $var4 = nms_StringTranslate_translateKey($var4, $rt_s(2942));
+            $var4 = nms_StringTranslate_translateKey($var4, $rt_s(2943));
             var$4 = $this.$width2 / 2 | 0;
             var$7 = ($this.$height4 / 2 | 0) - 50 | 0;
             var$8 = 16777215;
@@ -234683,7 +234684,7 @@
     function nms_J_JsonConstants_getText($this) {
         var var$1;
         var$1 = new jl_IllegalStateException;
-        jl_Throwable__init_(var$1, $rt_s(2815));
+        jl_Throwable__init_(var$1, $rt_s(2816));
         $rt_throw(var$1);
     }
     function nms_J_JsonConstants_getFields($this) {
@@ -234774,13 +234775,13 @@
     }
     function nms_EnumJsonNodeType__clinit_() {
         var var$1;
-        nms_EnumJsonNodeType_OBJECT = nms_EnumJsonNodeType__init_0($rt_s(2943), 0);
-        nms_EnumJsonNodeType_ARRAY = nms_EnumJsonNodeType__init_0($rt_s(2944), 1);
-        nms_EnumJsonNodeType_STRING = nms_EnumJsonNodeType__init_0($rt_s(2945), 2);
-        nms_EnumJsonNodeType_NUMBER = nms_EnumJsonNodeType__init_0($rt_s(2946), 3);
-        nms_EnumJsonNodeType_TRUE = nms_EnumJsonNodeType__init_0($rt_s(2947), 4);
-        nms_EnumJsonNodeType_FALSE = nms_EnumJsonNodeType__init_0($rt_s(2948), 5);
-        var$1 = nms_EnumJsonNodeType__init_0($rt_s(2949), 6);
+        nms_EnumJsonNodeType_OBJECT = nms_EnumJsonNodeType__init_0($rt_s(2944), 0);
+        nms_EnumJsonNodeType_ARRAY = nms_EnumJsonNodeType__init_0($rt_s(2945), 1);
+        nms_EnumJsonNodeType_STRING = nms_EnumJsonNodeType__init_0($rt_s(2946), 2);
+        nms_EnumJsonNodeType_NUMBER = nms_EnumJsonNodeType__init_0($rt_s(2947), 3);
+        nms_EnumJsonNodeType_TRUE = nms_EnumJsonNodeType__init_0($rt_s(2948), 4);
+        nms_EnumJsonNodeType_FALSE = nms_EnumJsonNodeType__init_0($rt_s(2949), 5);
+        var$1 = nms_EnumJsonNodeType__init_0($rt_s(2950), 6);
         nms_EnumJsonNodeType_NULL = var$1;
         nms_EnumJsonNodeType_$VALUES = $rt_createArrayFromData(nms_EnumJsonNodeType, [nms_EnumJsonNodeType_OBJECT, nms_EnumJsonNodeType_ARRAY, nms_EnumJsonNodeType_STRING, nms_EnumJsonNodeType_NUMBER, nms_EnumJsonNodeType_TRUE, nms_EnumJsonNodeType_FALSE, var$1]);
     }
@@ -234918,7 +234919,7 @@
         var$2 = jl_System_out();
         var$5 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$5);
-        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$5, $rt_s(2950)), $var0);
+        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$5, $rt_s(2951)), $var0);
         ji_PrintStream_println1(var$2, jl_AbstractStringBuilder_toString(var$5));
         nms_IntCache_field_35273_a = $var0;
         ju_ArrayList_clear(nms_IntCache_field_35269_d);
@@ -234964,7 +234965,7 @@
     function nms_GuiEditSign_initGui($this) {
         ju_ArrayList_clear($this.$controlList);
         nlei_PlatformInput_enableRepeatEvents = 1;
-        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, ($this.$height4 / 4 | 0) + 120 | 0, $rt_s(2951)));
+        ju_ArrayList_add($this.$controlList, nms_GuiButton__init_1(0, ($this.$width2 / 2 | 0) - 100 | 0, ($this.$height4 / 4 | 0) + 120 | 0, $rt_s(2952)));
     }
     function nms_GuiEditSign_onGuiClosed($this) {
         var var$1, var$2, var$3, var$4, var$5, var$6, var$7, $ptr, $tmp;
@@ -235667,7 +235668,7 @@
         var$1 = $this.$chunkMapping.$field_35582_b;
         var$2 = new jl_StringBuilder;
         jl_AbstractStringBuilder__init_(var$2);
-        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$2, $rt_s(2952)), var$1);
+        jl_AbstractStringBuilder_append0(jl_StringBuilder_append(var$2, $rt_s(2953)), var$1);
         return jl_AbstractStringBuilder_toString(var$2);
     }
     function jl_ClassLoader() {
@@ -238162,7 +238163,7 @@
             $var1 = $tmp;
             $var19 = $var1;
             $var3 = nle_Random_nextInt($var2, 4);
-            $var19.$mobID = !$var3 ? $rt_s(2703) : $var3 == 1 ? $rt_s(2008) : $var3 == 2 ? $rt_s(2008) : $var3 != 3 ? $rt_s(3) : $rt_s(2704);
+            $var19.$mobID = !$var3 ? $rt_s(2704) : $var3 == 1 ? $rt_s(2008) : $var3 == 2 ? $rt_s(2008) : $var3 != 3 ? $rt_s(3) : $rt_s(2705);
             return 1;
         case 4:
             $tmp = nms_World_isAirBlock($var1, $var12, $var4, $var14);
@@ -239297,7 +239298,7 @@
         jl_AbstractStringBuilder_append0(var$8, var$2);
         var$8 = jl_StringBuilder_append(var$8, $rt_s(109));
         jl_AbstractStringBuilder_append0(var$8, var$3);
-        var$8 = jl_StringBuilder_append(var$8, $rt_s(2953));
+        var$8 = jl_StringBuilder_append(var$8, $rt_s(2954));
         jl_AbstractStringBuilder_append0(var$8, var$4);
         var$8 = jl_StringBuilder_append(var$8, $rt_s(109));
         jl_AbstractStringBuilder_append0(var$8, var$5);
@@ -251559,10 +251560,10 @@
     }
     function nms_EnumDoor__clinit_() {
         var var$1;
-        nms_EnumDoor_OPENING = nms_EnumDoor__init_0($rt_s(2954), 0);
-        nms_EnumDoor_WOOD_DOOR = nms_EnumDoor__init_0($rt_s(2955), 1);
-        nms_EnumDoor_GRATES = nms_EnumDoor__init_0($rt_s(2956), 2);
-        var$1 = nms_EnumDoor__init_0($rt_s(2957), 3);
+        nms_EnumDoor_OPENING = nms_EnumDoor__init_0($rt_s(2955), 0);
+        nms_EnumDoor_WOOD_DOOR = nms_EnumDoor__init_0($rt_s(2956), 1);
+        nms_EnumDoor_GRATES = nms_EnumDoor__init_0($rt_s(2957), 2);
+        var$1 = nms_EnumDoor__init_0($rt_s(2958), 3);
         nms_EnumDoor_IRON_DOOR = var$1;
         nms_EnumDoor_$VALUES = $rt_createArrayFromData(nms_EnumDoor, [nms_EnumDoor_OPENING, nms_EnumDoor_WOOD_DOOR, nms_EnumDoor_GRATES, var$1]);
     }
@@ -251961,6 +251962,25 @@
         }}
         $rt_nativeThread().push($this, $var1, $var2, $var3, $var4, $var5, $var11, $var7, $var8, $var9, $var10, var$11, $ptr);
     }
+    function nms_StructurePieceTreasure() {
+        var a = this; nms_WeightedRandomChoice.call(a);
+        a.$field_35596_a = 0;
+        a.$field_35594_b = 0;
+        a.$field_35595_c = 0;
+        a.$field_35593_e = 0;
+    }
+    function nms_StructurePieceTreasure__init_0(var_0, var_1, var_2, var_3, var_4) {
+        var var_5 = new nms_StructurePieceTreasure();
+        nms_StructurePieceTreasure__init_(var_5, var_0, var_1, var_2, var_3, var_4);
+        return var_5;
+    }
+    function nms_StructurePieceTreasure__init_($this, $var1, $var2, $var3, $var4, $var5) {
+        nms_WeightedRandomChoice__init_($this, $var5);
+        $this.$field_35596_a = $var1;
+        $this.$field_35594_b = $var2;
+        $this.$field_35595_c = $var3;
+        $this.$field_35593_e = $var4;
+    }
     function nms_ComponentVillagePathGen() {
         nms_ComponentVillageRoadPiece.call(this);
         this.$field_35088_a = 0;
@@ -252138,25 +252158,6 @@
         default: $rt_invalidPointer();
         }}
         $rt_nativeThread().push($this, $var1, $var2, $var3, $var4, $var5, $var6, var$7, $ptr);
-    }
-    function nms_StructurePieceTreasure() {
-        var a = this; nms_WeightedRandomChoice.call(a);
-        a.$field_35596_a = 0;
-        a.$field_35594_b = 0;
-        a.$field_35595_c = 0;
-        a.$field_35593_e = 0;
-    }
-    function nms_StructurePieceTreasure__init_0(var_0, var_1, var_2, var_3, var_4) {
-        var var_5 = new nms_StructurePieceTreasure();
-        nms_StructurePieceTreasure__init_(var_5, var_0, var_1, var_2, var_3, var_4);
-        return var_5;
-    }
-    function nms_StructurePieceTreasure__init_($this, $var1, $var2, $var3, $var4, $var5) {
-        nms_WeightedRandomChoice__init_($this, $var5);
-        $this.$field_35596_a = $var1;
-        $this.$field_35594_b = $var2;
-        $this.$field_35595_c = $var3;
-        $this.$field_35593_e = $var4;
     }
     function nms_ComponentMineshaftCross() {
         var a = this; nms_StructureComponent.call(a);
@@ -253027,7 +253028,7 @@
             $var14 = $tmp;
             $var14 = $var14;
             if ($var14 !== null)
-                $var14.$mobID = $rt_s(2709);
+                $var14.$mobID = $rt_s(2710);
             $var9 = $var9 + 1 | 0;
             if ($var9 >= $this.$field_35067_d) {
                 if ($this.$field_35070_a) {
@@ -254538,8 +254539,8 @@
     jl_ArithmeticException, "ArithmeticException", 16, jl_RuntimeException, [], 0, 3, [0,0,0], 0, 0,
     nleo_WorldVertexBufferUploader, 0, jl_Object, [], 0, 3, 0, 0, 0,
     jnci_BufferedDecoder, 0, jnc_CharsetDecoder, [], 1, 3, 0, 0, 0,
-    jnci_Iso8859Decoder, 0, jnci_BufferedDecoder, [], 0, 3, 0, 0, ["$arrayDecode", function(var_1, var_2, var_3, var_4, var_5, var_6, var_7) { return jnci_Iso8859Decoder_arrayDecode(this, var_1, var_2, var_3, var_4, var_5, var_6, var_7); }],
     jnci_UTF16Decoder, 0, jnci_BufferedDecoder, [], 0, 3, 0, 0, ["$arrayDecode", function(var_1, var_2, var_3, var_4, var_5, var_6, var_7) { return jnci_UTF16Decoder_arrayDecode(this, var_1, var_2, var_3, var_4, var_5, var_6, var_7); }],
+    jnci_Iso8859Decoder, 0, jnci_BufferedDecoder, [], 0, 3, 0, 0, ["$arrayDecode", function(var_1, var_2, var_3, var_4, var_5, var_6, var_7) { return jnci_Iso8859Decoder_arrayDecode(this, var_1, var_2, var_3, var_4, var_5, var_6, var_7); }],
     jnci_AsciiDecoder, 0, jnci_BufferedDecoder, [], 0, 3, 0, 0, ["$arrayDecode", function(var_1, var_2, var_3, var_4, var_5, var_6, var_7) { return jnci_AsciiDecoder_arrayDecode(this, var_1, var_2, var_3, var_4, var_5, var_6, var_7); }],
     nleito_JSEaglercraftXOptsHooks, 0, jl_Object, [otj_JSObject], 1, 3, 0, 0, 0,
     jnci_UTF8Decoder, 0, jnci_BufferedDecoder, [], 0, 3, 0, 0, ["$arrayDecode", function(var_1, var_2, var_3, var_4, var_5, var_6, var_7) { return jnci_UTF8Decoder_arrayDecode(this, var_1, var_2, var_3, var_4, var_5, var_6, var_7); }],
@@ -255666,8 +255667,8 @@
     nms_MapInfo, "MapInfo", 38, jl_Object, [], 0, 3, [0,0,0], 0, 0,
     nms_WorldGenTallGrass, 0, nms_WorldGenerator, [], 0, 3, 0, 0, 0,
     nms_WorldGenDeadBush, 0, nms_WorldGenerator, [], 0, 3, 0, 0, 0]);
-    $rt_metadata([nms_ComponentVillagePathGen, "ComponentVillagePathGen", 38, nms_ComponentVillageRoadPiece, [], 0, 3, [0,0,0], 0, ["$func_35004_a", $rt_wrapFunction3(nms_ComponentVillagePathGen_func_35004_a), "$func_35023_a", $rt_wrapFunction3(nms_ComponentVillagePathGen_func_35023_a)],
-    nms_StructurePieceTreasure, 0, nms_WeightedRandomChoice, [], 0, 3, 0, 0, 0,
+    $rt_metadata([nms_StructurePieceTreasure, 0, nms_WeightedRandomChoice, [], 0, 3, 0, 0, 0,
+    nms_ComponentVillagePathGen, "ComponentVillagePathGen", 38, nms_ComponentVillageRoadPiece, [], 0, 3, [0,0,0], 0, ["$func_35004_a", $rt_wrapFunction3(nms_ComponentVillagePathGen_func_35004_a), "$func_35023_a", $rt_wrapFunction3(nms_ComponentVillagePathGen_func_35023_a)],
     nms_ComponentMineshaftCross, "ComponentMineshaftCross", 38, nms_StructureComponent, [], 0, 3, [0,0,0], 0, ["$func_35004_a", $rt_wrapFunction3(nms_ComponentMineshaftCross_func_35004_a), "$func_35023_a", $rt_wrapFunction3(nms_ComponentMineshaftCross_func_35023_a)],
     nms_ComponentMineshaftCorridor, "ComponentMineshaftCorridor", 38, nms_StructureComponent, [], 0, 3, [0,0,0], 0, ["$func_35004_a", $rt_wrapFunction3(nms_ComponentMineshaftCorridor_func_35004_a), "$func_35023_a", $rt_wrapFunction3(nms_ComponentMineshaftCorridor_func_35023_a)],
     nms_ComponentMineshaftStairs, "ComponentMineshaftStairs", 38, nms_StructureComponent, [], 0, 3, [0,0,0], 0, ["$func_35004_a", $rt_wrapFunction3(nms_ComponentMineshaftStairs_func_35004_a), "$func_35023_a", $rt_wrapFunction3(nms_ComponentMineshaftStairs_func_35023_a)],
@@ -255822,9 +255823,9 @@
     "Expected \'n\' to be followed by [[u, l, l]], but got [", "Expected \'t\' to be followed by [[r, u, e]], but got [", "Invalid character at start of value [", "Expected [\"] but got [", "Expected a 4 digit hexidecimal number but got only [", "], namely [", "Unable to parse [", "] as a hexidecimal number.", "Unrecognised escape character [", "stream end", "file error", "stream error", "data error", "insufficient memory", "buffer error", "incompatible version", "   ", "/eagler/demo_bg.png", "/eagler/beacon.png",
     "Duplicate packet id:", "Duplicate packet class:", "Skipping packet with id ", "Bad packet id ", "Reached end of stream", "String too big", "Received string length longer than maximum allowed (", " > ", "Received string length is less than zero! Weird string!", "Missing format with for specifier ", "Illegal format flags ", " for conversion ", "Illegal precision: ", "Illegal format flags: ", "Scale out of range.", "Infinite or NaN", "0.", "Rounding necessary", "Overflow", "Underflow", "Can\'t format argument of ",
     " using ", " conversion", "+00", "e", "Can\'t convert code point ", " to char", "This stream is already closed", "Bad compressed data format", "gameMode.changed", "Unknown itemid: ", "disconnect.kicked", "disconnect.disconnected", "Directory is read-only", "File ", " already exists", ".ogg", "Index ", " out of bounds [0, ", ").", "[0-9]", "Resizer failed to return sensible new size: ", " <= ", "Java array size exceeded (current length: %d, elements: %d, expected additions: %d)", "Options", "options.title",
-    "options.video", "options.controls", "Video Settings", "Controls", "selectWorld.title", "selectWorld.world", "selectWorld.conversion", "gameMode.survival", "gameMode.creative", "selectWorld.select", "selectWorld.rename", "selectWorld.delete", "selectWorld.export", "selectWorld.create", "selectWorld.deleteQuestion", "selectWorld.deleteWarning", "\' ", "selectWorld.deleteButton", "survival", "World Export", "Preparing export", "application/octet-stream", "Export failed", "Exporting: ", "Export complete", "World",
-    "motd", "§7", "online", "max", "§8/§7", "cantReachServer", "§4", "servers.dat", "servers", "selectServer.edit", "selectServer.delete", "selectServer.select", "selectServer.direct", "selectServer.add", "selectServer.refresh", "selectServer.deleteQuestion", "selectServer.deleteWarning", "selectServer.deleteButton", "selectServer.defaultName", "multiplayer.title", "notAdded", "willAdd", "texturePack.openFolder", "application/zip", "texturePack.title", "texturePack.folderInfo", "added texture pack \"", "Achievements",
-    "achievement.requires", "achievement.taken", "stat.generalButton", "stat.blocksButton", "stat.itemsButton", "/gui/slot.png", "/?", "/help", "[command]", "/tp", "/teleport", "<x> <y> <z>", "/give", "<id> [count] [damage]", "/summon", "<id> [x] [y] [z]", "/time", "[ticks]", "/fly", "Could not write stream contents to file!", "Pushback buffer overflow", "none", "eat", "block", "command.usage", "command.error", "~", "[{}]: Invalid header detected", "[{}]: Number of channels in header does not match the stream",
+    "options.video", "options.controls", "more", "Video Settings", "Controls", "selectWorld.title", "selectWorld.world", "selectWorld.conversion", "gameMode.survival", "gameMode.creative", "selectWorld.select", "selectWorld.rename", "selectWorld.delete", "selectWorld.export", "selectWorld.create", "selectWorld.deleteQuestion", "selectWorld.deleteWarning", "\' ", "selectWorld.deleteButton", "survival", "World Export", "Preparing export", "application/octet-stream", "Export failed", "Exporting: ", "Export complete",
+    "World", "motd", "§7", "online", "max", "§8/§7", "cantReachServer", "§4", "servers.dat", "servers", "selectServer.edit", "selectServer.delete", "selectServer.select", "selectServer.direct", "selectServer.add", "selectServer.refresh", "selectServer.deleteQuestion", "selectServer.deleteWarning", "selectServer.deleteButton", "selectServer.defaultName", "multiplayer.title", "notAdded", "willAdd", "texturePack.openFolder", "application/zip", "texturePack.title", "texturePack.folderInfo", "added texture pack \"",
+    "Achievements", "achievement.requires", "achievement.taken", "stat.generalButton", "stat.blocksButton", "stat.itemsButton", "/gui/slot.png", "/?", "/help", "[command]", "/tp", "/teleport", "<x> <y> <z>", "/give", "<id> [count] [damage]", "/summon", "<id> [x] [y] [z]", "/time", "[ticks]", "/fly", "Could not write stream contents to file!", "Pushback buffer overflow", "none", "eat", "block", "command.usage", "command.error", "~", "[{}]: Invalid header detected", "[{}]: Number of channels in header does not match the stream",
     "[{}]: Empty file", "[{}]: Invalid length for WAV calculated", ".wav", "[{}]: Problem with first Ogg header page in method \'readHeader\'.", "[{}]: Problem with first Ogg header packet in method \'readHeader\'.", "[{}]: File does not contain Vorbis header in method \'readHeader\'.", "[{}]: Secondary Ogg header corrupt in method \'readHeader\'.", "[{}]: End of file reached before finished reading Ogg header in method \'readHeader\'", "[{}]: Ogg header not recognized in method \'readHeader\'.", "JOrbisAudioBufferDecoder",
     "command.help", "command.helpLine", "command.teleported", "command.doesntExist", "command.gave", "command.summoned", "command.getTime", "%02d:%02d", "command.setTime", "day", "1000", "noon", "6000", "sunset", "23000", "night", "13000", "midnight", "18000", "sunrise", "disabled", "enabled", "command.fly", "/item/sign.png", " <", "EntityId", "Delay", "blockId", "blockData", "facing", "progress", "extending", "/item/chest.png", "/item/largechest.png", "vorbis", "Buffer was the wrong size! ", " remaining", "Xiphophorus libVorbis I 20000508",
     "BurnTime", "CookTime", "Record", "Malformed input of length ", "Unmappable characters of length ", "Wrong location! ", "Stack Trace", "Attempted to place a tile entity where there was no entity tile!", "CLOSED", "CONNECTING", "CONNECTED", "FAILED", "Could not open WebSocket to \"{}\"!", "PlatformNetworking", "gui.toServerList", "options.videoTitle", "controls.title", "§f> §e??? §f<", " (", " MB)", "selectWorld.gameMode", "selectWorld.moreWorldOptions", "selectWorld.mapFeatures", "selectWorld.mapType", "selectWorld.newWorld",
