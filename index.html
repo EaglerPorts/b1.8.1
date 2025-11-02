@@ -111,23 +111,22 @@
         container: 'game_frame',
         localesURI: 'lang/',
         worldsDB: 'worlds',
-        servers: [
-          {
-            addr: 'wss://play.webmc.fun',
-            name: 'WebMC',
-            hideAddr: true,
-          },
-        ],
+        servers: [],
         relays: [],
       };
     </script>
     <script>
+      const q = new URLSearchParams(window.location.search);
       const wasm =
-        typeof WebAssembly !== 'undefined' &&
-        typeof WebAssembly.Suspending !== 'undefined';
+        (q.has('type') ? (q.get('type') != 'js') : true) &&
+        (typeof WebAssembly !== 'undefined' &&
+        typeof WebAssembly.Suspending !== 'undefined');
+      
+      if (q.has('server') && q.get('server') != '') window.eaglercraftXOpts.joinServer = q.get('server');
+      if (q.has('wgl1')) window.eaglercraftXOpts.forceWebGL1 = true;
 
       window.addEventListener('load', () => {
-        async function startGame() {
+        (async () => {
           const js = await fetchResource(
             `${wasm ? 'bootstrap' : 'classes'}.js`,
             'Downloading',
@@ -149,8 +148,7 @@
             document.body.id = 'game_frame';
             main();
           };
-        }
-        startGame();
+        })();
       });
     </script>
   </head>
